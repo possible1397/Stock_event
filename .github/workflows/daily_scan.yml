@@ -29,12 +29,14 @@ jobs:
 
       - name: Run event scanner
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           DATE=$(date +%Y%m%d)
           python event_scanner.py \
             --hours 24 \
             --top 30 \
+            --llm \
             --output output/signal_${DATE}.csv \
             --report output/ \
             --community output/
