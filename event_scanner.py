@@ -129,12 +129,11 @@ def main() -> None:
     # ② 偵測事件
     if args.llm:
         import os
-        if not os.environ.get("ANTHROPIC_API_KEY"):
-            print("[錯誤] --llm 需要設定環境變數 ANTHROPIC_API_KEY")
+        if not os.environ.get("GEMINI_API_KEY") and not os.environ.get("ANTHROPIC_API_KEY"):
+            print("[錯誤] --llm 需要設定 GEMINI_API_KEY 或 ANTHROPIC_API_KEY 環境變數")
             sys.exit(1)
         from llm_classifier import LLMClassifier
         classifier = LLMClassifier()
-        print("[分類] 使用 Claude LLM 分類器")
     else:
         classifier = EventClassifier()
         print("[分類] 使用關鍵字分類器")
