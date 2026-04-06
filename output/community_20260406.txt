@@ -1,0 +1,76 @@
+📰 財經熱點日報 2026-04-06
+════════════════════════════════
+共掃描 9 則新聞
+
+🔥 熱門話題（依新聞則數）
+────────────────────────────────
+ 1. 🟢 關稅/貿易戰  ██ 2則
+ 2. 🟡 AI熱潮  █ 1則
+ 3. 🟡 升息  █ 1則
+ 4. 🟡 油價上升  █ 1則
+ 5. 🟡 戰爭升溫  █ 1則
+ 6. 🟡 記憶體漲價  █ 1則
+
+📋 精選新聞（附連結）
+────────────────────────────────
+【關稅/貿易戰】
+  ▸ 美國加徵關稅 台灣轉單效應受矚目
+    https://news.cnyes.com/news/id/5800003
+  ▸ 川普關稅升級 供應鏈重組加速 台廠搶單
+    https://money.udn.com/money/story/001
+
+【AI熱潮】
+  ▸ Nvidia GPU需求爆發 輝達市值再創新高
+    https://news.cnyes.com/news/id/5800001
+
+【升息】
+  ▸ Fed宣布升息2碼 市場震盪 成長股承壓
+    https://www.reuters.com/markets/rates-bonds/001
+
+【油價上升】
+  ▸ 中東戰事升溫 布蘭特原油突破90美元
+    https://www.cnbc.com/2026/04/06/oil-prices.html
+
+【戰爭升溫】
+  ▸ 中東戰事升溫 布蘭特原油突破90美元
+    https://www.cnbc.com/2026/04/06/oil-prices.html
+
+【記憶體漲價】
+  ▸ DRAM報價連續上漲 南亞科華邦電獲利看俏
+    https://www.moneydj.com/KLINE/news/002
+
+🏭 熱門股票（被新聞提及次數）
+────────────────────────────────
+ 1. 台積電      (2330.TW)  ▪▪ 2次
+     → 台積電CoWoS產能滿載 AI晶片需求不墜
+       https://news.cnyes.com/news/id/5800002
+ 2. 聯發科      (2454.TW)  ▪▪ 2次
+     → 台積電CoWoS產能滿載 AI晶片需求不墜
+       https://news.cnyes.com/news/id/5800002
+ 3. 廣達       (2382.TW)  ▪ 1次
+     → Nvidia GPU需求爆發 輝達市值再創新高
+       https://news.cnyes.com/news/id/5800001
+ 4. 英業達      (2356.TW)  ▪ 1次
+     → Nvidia GPU需求爆發 輝達市值再創新高
+       https://news.cnyes.com/news/id/5800001
+ 5. Nvidia   (NVDA)  ▪ 1次
+     → Nvidia GPU需求爆發 輝達市值再創新高
+       https://news.cnyes.com/news/id/5800001
+ 6. AMD      (AMD)  ▪ 1次
+     → 台積電CoWoS產能滿載 AI晶片需求不墜
+       https://news.cnyes.com/news/id/5800002
+ 7. 雙鴻       (3324.TW)  ▪ 1次
+     → AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼
+       https://www.moneydj.com/KLINE/news/001
+ 8. 奇鋐       (3017.TW)  ▪ 1次
+     → AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼
+       https://www.moneydj.com/KLINE/news/001
+ 9. 建準       (2421.TW)  ▪ 1次
+     → AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼
+       https://www.moneydj.com/KLINE/news/001
+10. 仁寶       (2324.TW)  ▪ 1次
+     → 美國加徵關稅 台灣轉單效應受矚目
+       https://news.cnyes.com/news/id/5800003
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議

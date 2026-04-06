@@ -95,8 +95,10 @@ def parse_args() -> argparse.Namespace:
                         help="使用範例新聞，不連網")
     parser.add_argument("--output",  type=str,  default="",
                         help="輸出 CSV 路徑（選填）")
-    parser.add_argument("--report",  type=str,  default="",
+    parser.add_argument("--report",    type=str,  default="",
                         help="輸出報告目錄（選填），會產生 .html 和 .txt 兩個檔案")
+    parser.add_argument("--community", type=str,  default="",
+                        help="輸出社群版報告目錄（選填），產生 community_YYYYMMDD.html/.txt")
     parser.add_argument("--llm",     action="store_true",
                         help="使用 Claude LLM 分類（需設定 ANTHROPIC_API_KEY）")
     return parser.parse_args()
@@ -155,7 +157,29 @@ def main() -> None:
     if args.output:
         save_csv(signals, args.output)
 
-    # ⑤ 產生報告（選填）
+    # ⑤ 產生社群版報告（選填）
+    if args.community:
+        import os
+        from stock_mention_counter import count_stock_mentions
+        from community_report import generate_community_html, generate_community_text
+        os.makedirs(args.community, exist_ok=True)
+        date_str  = datetime.now().strftime("%Y%m%d")
+        html_path = os.path.join(args.community, f"community_{date_str}.html")
+        txt_path  = os.path.join(args.community, f"community_{date_str}.txt")
+
+        mentions = count_stock_mentions(news_items)
+        html = generate_community_html(events, mentions, len(news_items))
+        txt  = generate_community_text(events, mentions, len(news_items))
+
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(html)
+        with open(txt_path, "w", encoding="utf-8") as f:
+            f.write(txt)
+
+        print(f"\n[社群報告] HTML → {html_path}")
+        print(f"[社群報告] 文字 → {txt_path}")
+
+    # ⑥ 產生報告（選填）
     if args.report:
         import os
         from report_generator import generate_html_report, generate_text_report

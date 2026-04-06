@@ -164,36 +164,66 @@ class NewsFetcher:
         return result
 
 
-# ── 測試用假新聞 ──────────────────────────────────────────────
+# ── 測試用假新聞（含模擬 URL，用於 --dry-run）──────────────────
 SAMPLE_NEWS: list[NewsItem] = [
+    # AI 熱潮（多則，讓圖表有差異）
     NewsItem(
-        source="sample", url="",
-        title="Fed宣布升息2碼 市場震盪",
-        summary="聯準會FOMC會議決定升息2碼，抑制通膨，成長股承壓。",
+        source="cnyes", url="https://news.cnyes.com/news/id/5800001",
+        title="Nvidia GPU需求爆發 輝達市值再創新高",
+        summary="生成式AI基礎建設需求持續，Nvidia GPU訂單強勁，AI伺服器廠商廣達、英業達受惠。",
         published=datetime.now(timezone.utc),
     ),
     NewsItem(
-        source="sample", url="",
-        title="AI熱潮持續 GPU需求創新高 台積電訂單滿載",
-        summary="生成式AI基礎建設需求爆發，AI伺服器、散熱模組廠商受惠。",
+        source="cnyes", url="https://news.cnyes.com/news/id/5800002",
+        title="台積電CoWoS產能滿載 AI晶片需求不墜",
+        summary="台積電AI相關封裝產能全滿，聯發科、AMD AI晶片需求強勁。",
         published=datetime.now(timezone.utc),
     ),
     NewsItem(
-        source="sample", url="",
-        title="中東戰事升溫 油價突破90美元",
-        summary="地緣政治風險加劇，布蘭特原油上漲，航空股跌幅明顯。",
+        source="moneydj", url="https://www.moneydj.com/KLINE/news/001",
+        title="AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼",
+        summary="AI伺服器熱設計功耗提升，散熱模組廠奇鋐、雙鴻、建準訂單能見度高。",
         published=datetime.now(timezone.utc),
     ),
+    # 關稅貿易戰（多則）
     NewsItem(
-        source="sample", url="",
+        source="cnyes", url="https://news.cnyes.com/news/id/5800003",
         title="美國加徵關稅 台灣轉單效應受矚目",
-        summary="美中貿易摩擦升溫，台灣電子零組件廠可望受惠轉單。",
+        summary="美中貿易摩擦升溫，台灣電子零組件廠鴻海、仁寶可望受惠轉單。",
         published=datetime.now(timezone.utc),
     ),
     NewsItem(
-        source="sample", url="",
-        title="DRAM報價連續上漲 記憶體廠商獲利看俏",
-        summary="記憶體供不應求，HBM需求強勁，DRAM現貨價走揚。",
+        source="udn", url="https://money.udn.com/money/story/001",
+        title="川普關稅升級 供應鏈重組加速 台廠搶單",
+        summary="美國對中國加徵高額關稅，台灣半導體、電子廠受惠供應鏈脫鉤趨勢。",
+        published=datetime.now(timezone.utc),
+    ),
+    # 升息
+    NewsItem(
+        source="reuters", url="https://www.reuters.com/markets/rates-bonds/001",
+        title="Fed宣布升息2碼 市場震盪 成長股承壓",
+        summary="聯準會FOMC會議決定升息2碼，抑制通膨，成長股折現率上升。",
+        published=datetime.now(timezone.utc),
+    ),
+    # 戰爭/地緣
+    NewsItem(
+        source="cnbc", url="https://www.cnbc.com/2026/04/06/oil-prices.html",
+        title="中東戰事升溫 布蘭特原油突破90美元",
+        summary="地緣政治風險加劇，油價上漲，航空股跌，軍工需求升溫。",
+        published=datetime.now(timezone.utc),
+    ),
+    # 記憶體
+    NewsItem(
+        source="moneydj", url="https://www.moneydj.com/KLINE/news/002",
+        title="DRAM報價連續上漲 南亞科華邦電獲利看俏",
+        summary="記憶體供不應求，HBM需求強勁，DRAM現貨價走揚，南亞科、群聯受惠。",
+        published=datetime.now(timezone.utc),
+    ),
+    # 台積電額外提及
+    NewsItem(
+        source="ctee", url="https://ctee.com.tw/news/tech/001",
+        title="台積電3奈米良率提升 法人上調目標價",
+        summary="台積電先進製程良率改善，聯發科、Nvidia等客戶受惠，法人持續看好。",
         published=datetime.now(timezone.utc),
     ),
 ]

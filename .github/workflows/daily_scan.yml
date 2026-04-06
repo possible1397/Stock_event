@@ -36,7 +36,8 @@ jobs:
             --hours 24 \
             --top 30 \
             --output output/signal_${DATE}.csv \
-            --report output/
+            --report output/ \
+            --community output/
 
       - name: Commit results
         run: |
