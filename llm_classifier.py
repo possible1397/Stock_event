@@ -52,16 +52,20 @@ def _strip_code_block(raw: str) -> str:
 class GeminiBackend:
     """Google Gemini 免費 API。"""
 
-    def __init__(self, api_key: str, model: str = "gemini-1.5-flash"):
-        import google.generativeai as genai
-        genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(
-            model_name=model,
-            system_instruction=_SYSTEM_PROMPT,
-        )
+    def __init__(self, api_key: str, model: str = "gemini-2.0-flash"):
+        from google import genai
+        self.client = genai.Client(api_key=api_key)
+        self.model  = model
 
     def call(self, user_msg: str) -> str:
-        response = self.model.generate_content(user_msg)
+        from google.genai import types
+        response = self.client.models.generate_content(
+            model=self.model,
+            contents=user_msg,
+            config=types.GenerateContentConfig(
+                system_instruction=_SYSTEM_PROMPT,
+            ),
+        )
         return response.text
 
 
