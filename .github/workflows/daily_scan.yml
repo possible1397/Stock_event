@@ -35,7 +35,8 @@ jobs:
           python event_scanner.py \
             --hours 24 \
             --top 30 \
-            --output output/signal_${DATE}.csv
+            --output output/signal_${DATE}.csv \
+            --report output/
 
       - name: Commit results
         run: |

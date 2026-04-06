@@ -11,7 +11,6 @@ LLM 事件分類器 — 用 Claude API 取代靜態關鍵字
 import json
 import os
 from collections import defaultdict
-from dataclasses import dataclass, field
 
 import anthropic
 
@@ -56,7 +55,7 @@ class LLMClassifier:
         """
         # 彙總：event_id → {titles, reasons, count}
         aggregated: dict[str, dict] = defaultdict(lambda: {
-            "titles": [], "reasons": [], "count": 0
+            "titles": [], "urls": [], "reasons": [], "count": 0
         })
 
         # 分批送 LLM
@@ -71,6 +70,7 @@ class LLMClassifier:
                     if eid in EVENT_KB:
                         agg = aggregated[eid]
                         agg["titles"].append(title)
+                        agg["urls"].append(batch[item_idx].url)
                         agg["reasons"].append(reason)
                         agg["count"] += 1
 
@@ -94,7 +94,8 @@ class LLMClassifier:
                 matched_keywords=agg["reasons"][:3],   # 重用欄位存 LLM 理由
                 confidence=1.0 if count >= 2 else 0.7,
                 article_count=count,
-                source_titles=agg["titles"][:3],
+                source_titles=agg["titles"][:5],
+                source_urls=agg["urls"][:5],
             ))
 
         result.sort(key=lambda x: x.article_count, reverse=True)

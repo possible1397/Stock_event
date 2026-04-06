@@ -53,6 +53,7 @@ class DetectedEvent:
     confidence: float        # 0.7 = 1篇命中, 1.0 = 2篇以上
     article_count: int
     source_titles: list[str] = field(default_factory=list)
+    source_urls: list[str]   = field(default_factory=list)
 
 
 class EventClassifier:
@@ -63,6 +64,7 @@ class EventClassifier:
         aggregated: dict[str, dict] = defaultdict(lambda: {
             "matched_kws": set(),
             "titles": [],
+            "urls": [],
             "count": 0,
         })
 
@@ -73,7 +75,8 @@ class EventClassifier:
                 if kw:
                     agg = aggregated[event_id]
                     agg["matched_kws"].add(kw)
-                    agg["titles"].append(item.title[:50])
+                    agg["titles"].append(item.title[:60])
+                    agg["urls"].append(item.url)
                     agg["count"] += 1
 
         # 互斥事件抑制：保留 count 較多的，移除 count 較少的
@@ -98,7 +101,8 @@ class EventClassifier:
                 matched_keywords=sorted(agg["matched_kws"]),
                 confidence=confidence,
                 article_count=count,
-                source_titles=agg["titles"][:3],
+                source_titles=agg["titles"][:5],
+                source_urls=agg["urls"][:5],
             ))
 
         result.sort(key=lambda x: x.article_count, reverse=True)
