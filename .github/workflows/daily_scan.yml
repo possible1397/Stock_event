@@ -1,0 +1,44 @@
+name: Daily Event Scan
+
+on:
+  schedule:
+    - cron: '30 0 * * 1-5'   # UTC 00:30 = 台灣 08:30，週一到週五
+  workflow_dispatch:           # 允許手動觸發
+
+permissions:
+  contents: write              # 允許 commit 回 repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run event scanner
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          DATE=$(date +%Y%m%d)
+          python event_scanner.py \
+            --hours 24 \
+            --top 30 \
+            --output output/signal_${DATE}.csv
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "chore: daily scan $(date +%Y-%m-%d)"
+          git push
