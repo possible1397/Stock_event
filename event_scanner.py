@@ -168,8 +168,8 @@ def main() -> None:
         txt_path  = os.path.join(args.community, f"community_{date_str}.txt")
 
         mentions = count_stock_mentions(news_items)
-        html = generate_community_html(events, mentions, len(news_items))
-        txt  = generate_community_text(events, mentions, len(news_items))
+        html = generate_community_html(events, mentions, news_items)
+        txt  = generate_community_text(events, mentions, news_items)
 
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html)

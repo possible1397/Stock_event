@@ -13,7 +13,36 @@
 from datetime import datetime
 
 from event_classifier import DetectedEvent
+from news_fetcher import NewsItem
 from stock_mention_counter import StockMention
+
+
+# ── 輔助：全部新聞列表 HTML ──────────────────────────────────────
+
+def _all_news_html(news_items: list[NewsItem]) -> str:
+    rows = ""
+    for i, item in enumerate(news_items, 1):
+        title = item.title or "(無標題)"
+        source = item.source or ""
+        if item.url:
+            title_cell = f'<a href="{item.url}" target="_blank" rel="noopener">{title}</a>'
+        else:
+            title_cell = title
+        rows += f"""
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">{i}</td>
+          <td class="src-badge">{source}</td>
+          <td>{title_cell}</td>
+        </tr>"""
+    return f"""
+    <table>
+      <tr>
+        <th style="width:36px">#</th>
+        <th style="width:90px">來源</th>
+        <th>標題（點擊看原文）</th>
+      </tr>
+      {rows}
+    </table>"""
 
 
 # ── HTML 社群報告 ────────────────────────────────────────────────
@@ -21,9 +50,10 @@ from stock_mention_counter import StockMention
 def generate_community_html(
     events: list[DetectedEvent],
     mentions: list[StockMention],
-    news_count: int,
+    news_items: list[NewsItem],
     date_str: str | None = None,
 ) -> str:
+    news_count = len(news_items)
     date_str = date_str or datetime.now().strftime("%Y-%m-%d")
 
     # Chart.js 資料：事件熱度
@@ -160,6 +190,7 @@ tr:hover td{{background:#fafbfc}}
 .sample-news a{{color:#2980b9;text-decoration:none}}
 .sample-news a:hover{{text-decoration:underline}}
 footer{{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px}}
+.src-badge{{font-size:.75rem;color:#888;white-space:nowrap}}
 </style>
 </head>
 <body>
@@ -204,6 +235,14 @@ footer{{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8p
 </table>
 
 <footer>由事件驅動選股系統自動產生 · {date_str}<br>本報告為自動掃描，僅供參考，不構成投資建議</footer>
+</div>
+<div id="all-news-wrap" class="wrap" style="margin-top:0">
+<h2 style="margin-top:8px">📑 今日全部新聞（{news_count} 則）</h2>
+<p style="font-size:.8rem;color:#999;margin-bottom:10px">
+  以下為本次掃描的所有新聞標題，點標題可開原文。
+</p>
+{_all_news_html(news_items)}
+<div style="height:24px"></div>
 </div>
 
 <script>
@@ -260,12 +299,13 @@ new Chart(document.getElementById('chartMentions'), {{
 def generate_community_text(
     events: list[DetectedEvent],
     mentions: list[StockMention],
-    news_count: int,
+    news_items: list[NewsItem],
     date_str: str | None = None,
     top_events: int = 8,
     top_stocks: int = 10,
 ) -> str:
-    date_str = date_str or datetime.now().strftime("%Y-%m-%d")
+    date_str  = date_str or datetime.now().strftime("%Y-%m-%d")
+    news_count = len(news_items)
     lines = [
         f"📰 財經熱點日報 {date_str}",
         "═" * 32,
@@ -304,6 +344,13 @@ def generate_community_text(
             if url:
                 lines.append(f"     → {title}")
                 lines.append(f"       {url}")
+
+    lines += ["", "📑 今日全部新聞", "─" * 32]
+    for i, item in enumerate(news_items, 1):
+        title = item.title or "(無標題)"
+        lines.append(f"{i:3}. [{item.source}] {title}")
+        if item.url:
+            lines.append(f"      {item.url}")
 
     lines += [
         "",

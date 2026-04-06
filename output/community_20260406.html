@@ -54,23 +54,24 @@ tr:hover td{background:#fafbfc}
 .sample-news a{color:#2980b9;text-decoration:none}
 .sample-news a:hover{text-decoration:underline}
 footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px}
+.src-badge{font-size:.75rem;color:#888;white-space:nowrap}
 </style>
 </head>
 <body>
 <div class="wrap">
 
 <h1>📰 財經熱點日報</h1>
-<p class="meta">2026-04-06 &nbsp;·&nbsp; 掃描 9 則新聞自動產生</p>
+<p class="meta">2026-04-06 &nbsp;·&nbsp; 掃描 153 則新聞自動產生</p>
 
 <div class="stat-bar">
-  <div class="stat"><strong>9</strong>則新聞</div>
-  <div class="stat"><strong>6</strong>個熱門話題</div>
-  <div class="stat"><strong>15</strong>檔股票被提及</div>
+  <div class="stat"><strong>153</strong>則新聞</div>
+  <div class="stat"><strong>5</strong>個熱門話題</div>
+  <div class="stat"><strong>7</strong>檔股票被提及</div>
 </div>
 
 <!-- 話題熱度圖 -->
 <h2>🔥 話題熱度（新聞則數）</h2>
-<div class="chart-box" style="height:288px">
+<div class="chart-box" style="height:240px">
   <canvas id="chartEvents"></canvas>
 </div>
 
@@ -79,27 +80,19 @@ footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px
 
         <div class="ev-card">
           <div class="ev-header">
+            <span class="ev-name">戰爭升溫</span>
+            <span class="ev-count">9 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          <ul class="news-list"><li><a href="https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824" target="_blank" rel="noopener">Global equity funds draw second weekly inflow amid war de-es</a></li><li><a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html" target="_blank" rel="noopener">Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Mark</a></li><li><a href="https://money.udn.com/money/story/5612/9424813" target="_blank" rel="noopener">旅遊變貴影響買氣 雄獅等業者把握當下需求夯旅遊價值進入重塑期</a></li><li><a href="https://money.udn.com/money/story/5612/9424753" target="_blank" rel="noopener">醫材、藥品每月需求1,138公噸塑料 產發署助媒合供應</a></li><li><a href="https://money.udn.com/money/story/5612/9424707" target="_blank" rel="noopener">戰事影響能源供應 經濟部：啟動多項調度與應變措施</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
             <span class="ev-name">關稅/貿易戰</span>
             <span class="ev-count">2 則</span>
             <span class="badge high">高信心</span>
           </div>
-          <ul class="news-list"><li><a href="https://news.cnyes.com/news/id/5800003" target="_blank" rel="noopener">美國加徵關稅 台灣轉單效應受矚目</a></li><li><a href="https://money.udn.com/money/story/001" target="_blank" rel="noopener">川普關稅升級 供應鏈重組加速 台廠搶單</a></li></ul>
-        </div>
-        <div class="ev-card">
-          <div class="ev-header">
-            <span class="ev-name">AI熱潮</span>
-            <span class="ev-count">1 則</span>
-            <span class="badge mid">單篇</span>
-          </div>
-          <ul class="news-list"><li><a href="https://news.cnyes.com/news/id/5800001" target="_blank" rel="noopener">Nvidia GPU需求爆發 輝達市值再創新高</a></li></ul>
-        </div>
-        <div class="ev-card">
-          <div class="ev-header">
-            <span class="ev-name">升息</span>
-            <span class="ev-count">1 則</span>
-            <span class="badge mid">單篇</span>
-          </div>
-          <ul class="news-list"><li><a href="https://www.reuters.com/markets/rates-bonds/001" target="_blank" rel="noopener">Fed宣布升息2碼 市場震盪 成長股承壓</a></li></ul>
+          <ul class="news-list"><li><a href="https://www.investing.com/news/economy-news/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil-4597676" target="_blank" rel="noopener">How one factory in China learned to live with Trump, tariffs</a></li><li><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%8B%BC%E9%8B%81%E9%8A%85%E8%A1%8D%E7%94%9F%E5%93%81%E6%96%B0%E9%97%9C%E7%A8%85%E4%BB%8A%E4%B8%8A%E8%B7%AF-%E9%9F%93%E6%94%BF%E5%BA%9C-%E5%BD%B1%E9%9F%BF%E5%A5%BD%E5%A3%9E%E5%8F%83%E5%8D%8A-%E6%8C%81%E7%BA%8C%E7%B7%8A%E7%9B%AF-083020943.html" target="_blank" rel="noopener">美鋼鋁銅衍生品新關稅今上路 韓政府：影響好壞參半 持續緊盯</a></li></ul>
         </div>
         <div class="ev-card">
           <div class="ev-header">
@@ -107,28 +100,28 @@ footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px
             <span class="ev-count">1 則</span>
             <span class="badge mid">單篇</span>
           </div>
-          <ul class="news-list"><li><a href="https://www.cnbc.com/2026/04/06/oil-prices.html" target="_blank" rel="noopener">中東戰事升溫 布蘭特原油突破90美元</a></li></ul>
+          <ul class="news-list"><li><a href="https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E6%8C%87%E6%95%B8%E6%94%B6%E7%B4%85-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%81%E7%BA%8C%E9%97%9C%E6%B3%A8%E4%BC%8A%E6%9C%97%E6%88%B0%E6%B3%81%E5%8F%8A%E5%BD%B1%E9%9F%BF-074709699.html" target="_blank" rel="noopener">日經指數收紅　投資人持續關注伊朗戰況及影響</a></li></ul>
         </div>
         <div class="ev-card">
           <div class="ev-header">
-            <span class="ev-name">戰爭升溫</span>
+            <span class="ev-name">政策補助</span>
             <span class="ev-count">1 則</span>
             <span class="badge mid">單篇</span>
           </div>
-          <ul class="news-list"><li><a href="https://www.cnbc.com/2026/04/06/oil-prices.html" target="_blank" rel="noopener">中東戰事升溫 布蘭特原油突破90美元</a></li></ul>
+          <ul class="news-list"><li><a href="https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA</a></li></ul>
         </div>
         <div class="ev-card">
           <div class="ev-header">
-            <span class="ev-name">記憶體漲價</span>
+            <span class="ev-name">AI熱潮</span>
             <span class="ev-count">1 則</span>
             <span class="badge mid">單篇</span>
           </div>
-          <ul class="news-list"><li><a href="https://www.moneydj.com/KLINE/news/002" target="_blank" rel="noopener">DRAM報價連續上漲 南亞科華邦電獲利看俏</a></li></ul>
+          <ul class="news-list"><li><a href="https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html" target="_blank" rel="noopener">'Silent killers': How AI start-ups are trying to solve one o</a></li></ul>
         </div>
 
 <!-- 股票提及圖 -->
 <h2>📊 熱門股票提及排行</h2>
-<div class="chart-box" style="height:600px">
+<div class="chart-box" style="height:280px">
   <canvas id="chartMentions"></canvas>
 </div>
 
@@ -145,6 +138,17 @@ footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px
   
         <tr>
           <td class="center rank">1</td>
+          <td><strong>Tesla</strong><br><span class="ticker">TSLA</span></td>
+          <td class="center count">2</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:120px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://seekingalpha.com/news/4572582-teslas-south-korea-sales-jump-over-300-in-march-crosses-11000-units-for-first-time?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Tesla’s South Korea sales quadruple in March, crosses 11,000</a><br><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%992%E6%AA%94-%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%9C%89%E6%9C%9B%E6%88%90%E6%96%B0%E9%9C%B8%E4%B8%BB-090042355.html" target="_blank" rel="noopener">美股大洗牌！「台積電＋這2檔」被點名有望成新霸主</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">2</td>
           <td><strong>台積電</strong><br><span class="ticker">2330.TW</span></td>
           <td class="center count">2</td>
           <td>
@@ -152,165 +156,847 @@ footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px
               <div class="bar-fill" style="width:120px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800002" target="_blank" rel="noopener">台積電CoWoS產能滿載 AI晶片需求不墜</a><br><a href="https://ctee.com.tw/news/tech/001" target="_blank" rel="noopener">台積電3奈米良率提升 法人上調目標價</a></td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a><br><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%992%E6%AA%94-%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%9C%89%E6%9C%9B%E6%88%90%E6%96%B0%E9%9C%B8%E4%B8%BB-090042355.html" target="_blank" rel="noopener">美股大洗牌！「台積電＋這2檔」被點名有望成新霸主</a></td>
         </tr>
         <tr>
-          <td class="center rank">2</td>
-          <td><strong>聯發科</strong><br><span class="ticker">2454.TW</span></td>
+          <td class="center rank">3</td>
+          <td><strong>Nvidia</strong><br><span class="ticker">NVDA</span></td>
           <td class="center count">2</td>
           <td>
             <div class="bar-wrap">
               <div class="bar-fill" style="width:120px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800002" target="_blank" rel="noopener">台積電CoWoS產能滿載 AI晶片需求不墜</a><br><a href="https://ctee.com.tw/news/tech/001" target="_blank" rel="noopener">台積電3奈米良率提升 法人上調目標價</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">3</td>
-          <td><strong>廣達</strong><br><span class="ticker">2382.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800001" target="_blank" rel="noopener">Nvidia GPU需求爆發 輝達市值再創新高</a></td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a><br><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%992%E6%AA%94-%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%9C%89%E6%9C%9B%E6%88%90%E6%96%B0%E9%9C%B8%E4%B8%BB-090042355.html" target="_blank" rel="noopener">美股大洗牌！「台積電＋這2檔」被點名有望成新霸主</a></td>
         </tr>
         <tr>
           <td class="center rank">4</td>
-          <td><strong>英業達</strong><br><span class="ticker">2356.TW</span></td>
+          <td><strong>超微</strong><br><span class="ticker">2492.TW</span></td>
           <td class="center count">1</td>
           <td>
             <div class="bar-wrap">
               <div class="bar-fill" style="width:60px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800001" target="_blank" rel="noopener">Nvidia GPU需求爆發 輝達市值再創新高</a></td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a></td>
         </tr>
         <tr>
           <td class="center rank">5</td>
-          <td><strong>Nvidia</strong><br><span class="ticker">NVDA</span></td>
+          <td><strong>Samsung</strong><br><span class="ticker">005930.KS</span></td>
           <td class="center count">1</td>
           <td>
             <div class="bar-wrap">
               <div class="bar-fill" style="width:60px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800001" target="_blank" rel="noopener">Nvidia GPU需求爆發 輝達市值再創新高</a></td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a></td>
         </tr>
         <tr>
           <td class="center rank">6</td>
-          <td><strong>AMD</strong><br><span class="ticker">AMD</span></td>
+          <td><strong>SK Hynix</strong><br><span class="ticker">000660.KS</span></td>
           <td class="center count">1</td>
           <td>
             <div class="bar-wrap">
               <div class="bar-fill" style="width:60px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800002" target="_blank" rel="noopener">台積電CoWoS產能滿載 AI晶片需求不墜</a></td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a></td>
         </tr>
         <tr>
           <td class="center rank">7</td>
-          <td><strong>雙鴻</strong><br><span class="ticker">3324.TW</span></td>
+          <td><strong>Apple</strong><br><span class="ticker">AAPL</span></td>
           <td class="center count">1</td>
           <td>
             <div class="bar-wrap">
               <div class="bar-fill" style="width:60px"></div>
             </div>
           </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/001" target="_blank" rel="noopener">AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">8</td>
-          <td><strong>奇鋐</strong><br><span class="ticker">3017.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/001" target="_blank" rel="noopener">AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">9</td>
-          <td><strong>建準</strong><br><span class="ticker">2421.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/001" target="_blank" rel="noopener">AI伺服器帶動散熱需求 奇鋐雙鴻業績亮眼</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">10</td>
-          <td><strong>仁寶</strong><br><span class="ticker">2324.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800003" target="_blank" rel="noopener">美國加徵關稅 台灣轉單效應受矚目</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">11</td>
-          <td><strong>鴻海</strong><br><span class="ticker">2317.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://news.cnyes.com/news/id/5800003" target="_blank" rel="noopener">美國加徵關稅 台灣轉單效應受矚目</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">12</td>
-          <td><strong>南亞科</strong><br><span class="ticker">2408.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/002" target="_blank" rel="noopener">DRAM報價連續上漲 南亞科華邦電獲利看俏</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">13</td>
-          <td><strong>華邦電</strong><br><span class="ticker">2344.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/002" target="_blank" rel="noopener">DRAM報價連續上漲 南亞科華邦電獲利看俏</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">14</td>
-          <td><strong>群聯</strong><br><span class="ticker">8299.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/002" target="_blank" rel="noopener">DRAM報價連續上漲 南亞科華邦電獲利看俏</a></td>
-        </tr>
-        <tr>
-          <td class="center rank">15</td>
-          <td><strong>南亞</strong><br><span class="ticker">1303.TW</span></td>
-          <td class="center count">1</td>
-          <td>
-            <div class="bar-wrap">
-              <div class="bar-fill" style="width:60px"></div>
-            </div>
-          </td>
-          <td class="sample-news"><a href="https://www.moneydj.com/KLINE/news/002" target="_blank" rel="noopener">DRAM報價連續上漲 南亞科華邦電獲利看俏</a></td>
+          <td class="sample-news"><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%992%E6%AA%94-%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%9C%89%E6%9C%9B%E6%88%90%E6%96%B0%E9%9C%B8%E4%B8%BB-090042355.html" target="_blank" rel="noopener">美股大洗牌！「台積電＋這2檔」被點名有望成新霸主</a></td>
         </tr>
 </table>
 
 <footer>由事件驅動選股系統自動產生 · 2026-04-06<br>本報告為自動掃描，僅供參考，不構成投資建議</footer>
+</div>
+<div id="all-news-wrap" class="wrap" style="margin-top:0">
+<h2 style="margin-top:8px">📑 今日全部新聞（153 則）</h2>
+<p style="font-size:.8rem;color:#999;margin-bottom:10px">
+  以下為本次掃描的所有新聞標題，點標題可開原文。
+</p>
+
+    <table>
+      <tr>
+        <th style="width:36px">#</th>
+        <th style="width:90px">來源</th>
+        <th>標題（點擊看原文）</th>
+      </tr>
+      
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">1</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/ecbs-stournaras-says-euro-zone-monetary-policy-will-depend-on-size-of-energy-disruption-4597825" target="_blank" rel="noopener">ECB’s Stournaras says euro zone monetary policy will depend on size of energy disruption</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">2</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824" target="_blank" rel="noopener">Global equity funds draw second weekly inflow amid war de-escalation hopes</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">3</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/stock-market-news/morgan-stanley-not-expecting-fresh-lows-in-sp-500-4597822" target="_blank" rel="noopener">Morgan Stanley not expecting fresh lows in S&P 500</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">4</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/company-news/versamet-acquires-360m-gold-stream-on-eskay-creek-project-93CH-4597821" target="_blank" rel="noopener">Versamet acquires $360M gold stream on Eskay Creek project</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">5</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil-4597676" target="_blank" rel="noopener">How one factory in China learned to live with Trump, tariffs and turmoil</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">6</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/analyst-ratings/jefferies-initiates-paypay-stock-with-buy-rating-on-japan-growth-93CH-4597817" target="_blank" rel="noopener">Jefferies initiates PayPay stock with buy rating on Japan growth</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">7</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-netflix-stock-rating-on-content-strength-93CH-4597816" target="_blank" rel="noopener">Goldman Sachs upgrades Netflix stock rating on content strength</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">8</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/stock-market-news/why-yardeni-sees-good-value-in-the-stock-market-at-current-levels-4597809" target="_blank" rel="noopener">Why Yardeni sees good value in the stock market at current levels</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">9</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/commodities-news/trump-vows-hell-for-iran-if-strait-stays-shut-says-a-deal-is-possible-4597686" target="_blank" rel="noopener">US and Iran receive peace proposal as Trump vows ’hell’ if Strait stays shut</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">10</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/earnings/sobha-shares-rise-4-after-reporting-record-annual-sales-93CH-4597815" target="_blank" rel="noopener">Sobha shares rise 4% after reporting record annual sales</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">11</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/economy/policy/articles/burger-king-hire-60-000-091353911.html" target="_blank" rel="noopener">Burger King to hire 60,000 new employees in US</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">12</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/options/articles/401-k-isn-t-enough-090000325.html" target="_blank" rel="noopener">Your 401(k) isn’t enough. A mix of Roth, traditional and taxable accounts could save you thousands of dollars in taxes</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">13</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-steady-amid-hopes-for-a-mideast-end-to-hostilities-002656695.html" target="_blank" rel="noopener">Stock market today: US stock futures steady amid hopes for a Mideast end to hostilities</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">14</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/sectors/energy/articles/opec-commits-boost-output-once-054324481.html" target="_blank" rel="noopener">OPEC Commits to Boost Output Once Hormuz Reopens</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">15</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/indias-wipro-rises-deal-acquire-042313674.html" target="_blank" rel="noopener">India's Wipro rises after deal to acquire Olam Group’s IT business</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">16</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/sectors/healthcare/articles/kpmg-fiji-expands-team-two-091350756.html" target="_blank" rel="noopener">KPMG Fiji expands team with two new partners</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">17</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-36-annualized-return-since-042000076.html" target="_blank" rel="noopener">Bitcoin’s 36% Annualized Return Since August 2020 Shows Why Zooming Out Still Wins</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">18</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/crypto/articles/bank-canada-finds-aave-defi-035900202.html" target="_blank" rel="noopener">Bank of Canada Finds Aave DeFi Lending Technically Feasible</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">19</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-don-t-034521919.html" target="_blank" rel="noopener">Jim Cramer Says “I Don’t Think There’s a Compelling AI Disruption Case Against Shopify”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">20</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-possibility-end-034511719.html" target="_blank" rel="noopener">Jim Cramer Discusses the Possibility of “End of Adobe’s Design Dominance”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">21</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/starbucks-completes-jv-deal-boyu-091347301.html" target="_blank" rel="noopener">Starbucks completes JV deal with Boyu Capital in China</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">22</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-thomson-034502012.html" target="_blank" rel="noopener">Jim Cramer Discusses Why Thomson Reuters Became an AI Casualty</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">23</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-thinks-stock-034451950.html" target="_blank" rel="noopener">Jim Cramer Says He Thinks “The Stock of DoorDash Can Be Bought Here”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">24</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuit-m-hoping-034439871.html" target="_blank" rel="noopener">Jim Cramer on Intuit: “I’m Hoping That’s the Start of a Larger Comeback, and I Think It Deserves To”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">25</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-fairness-zscaler-034428181.html" target="_blank" rel="noopener">Jim Cramer Says “In Fairness, Zscaler Shouldn’t Have Been Hit All That Hard”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">26</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-weekly-high-over-090848495.html" target="_blank" rel="noopener">Bitcoin Hits Weekly High Over $69K on US-Iran Ceasefire Hopes as Oil Slides</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">27</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-workday-don-t-034419713.html" target="_blank" rel="noopener">Jim Cramer on Workday: “Don’t Try to Be a Hero in This Group”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">28</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-costar-group-034410285.html" target="_blank" rel="noopener">Jim Cramer Discusses CoStar Group’s Stock Decline and the Threat of AI</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">29</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-applovin-very-fine-034357603.html" target="_blank" rel="noopener">Jim Cramer on AppLovin: “It Is a Very Fine Business, By the Way, With Fantastic Growth, Impressive Profitability”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">30</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-identifies-atlassian-ground-034347392.html" target="_blank" rel="noopener">Jim Cramer Identifies Atlassian as Ground Zero for the AI Displacement Narrative</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">31</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/nasdaq-pullback-3-stocks-youll-090400858.html" target="_blank" rel="noopener">Nasdaq Pullback: 3 Stocks You'll Wish You Bought on the Dip</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">32</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-moderna-rally-034336747.html" target="_blank" rel="noopener">Jim Cramer Discusses the Moderna Rally and the Impact of FDA Leadership Changes</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">33</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-occidental-petroleum-034325443.html" target="_blank" rel="noopener">Jim Cramer Says Occidental Petroleum Is a “Big Loser If Peace Breaks Out” and Vice Versa</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">34</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-texas-pacific-034315547.html" target="_blank" rel="noopener">Jim Cramer Highlights Texas Pacific Land as the Ninth Best Performing S&P 500 Stock in Q1</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">35</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-apa-corporation-034304393.html" target="_blank" rel="noopener">Jim Cramer Highlights APA Corporation Stellar Performance in the First Quarter</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">36</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/economy/policy/articles/states-highest-lowest-income-tax-090308304.html" target="_blank" rel="noopener">These states have the highest and lowest income tax rates for 2026</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">37</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-persian-gulf-034251557.html" target="_blank" rel="noopener">Jim Cramer Explains How Persian Gulf Being Blocked Off Benefits CF Industries</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">38</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dow-inc-think-034242396.html" target="_blank" rel="noopener">Jim Cramer on Dow Inc.: “I Think You Should Kaching Kaching”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">39</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-fiber-034231678.html" target="_blank" rel="noopener">Jim Cramer Discusses Why Fiber Optic Plays Like Ciena Provided Recent Market Gains</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">40</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-90-first-034219171.html" target="_blank" rel="noopener">Jim Cramer Discusses the 90% First Quarter Rally for Lumentum Holdings</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">41</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/economy/policy/articles/us-doubles-gulf-maritime-cover-090254843.html" target="_blank" rel="noopener">US doubles Gulf maritime cover to $40bn</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">42</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sandisk-always-tell-034208907.html" target="_blank" rel="noopener">Jim Cramer on Sandisk: “I Always Tell You This Is Inherently a Boom and Bust Industry”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">43</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-willing-bless-032715958.html" target="_blank" rel="noopener">Jim Cramer Says He is Willing to Bless The Trade Desk Stock at $22</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">44</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">Dow Jones Futures Fall As Trump Sees Iran Deal Or 'Hell'; Sandisk Leads 7 Stocks To Watch</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">45</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-petrobras-wish-could-032557916.html" target="_blank" rel="noopener">Jim Cramer on Petrobras: “I Wish I Could Have Recommended It Earlier”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">46</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/sectors/technology/articles/pca-close-richmond-packaging-plant-085212161.html" target="_blank" rel="noopener">PCA to close Richmond packaging plant</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">47</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-oklo-very-032547180.html" target="_blank" rel="noopener">Jim Cramer Says Oklo “Has Very Little Prospects for Making Any Money Any Time in the Future”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">48</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-refuses-032537033.html" target="_blank" rel="noopener">Jim Cramer Discusses Why He Refuses to Cut and Run on SoFi Technologies</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">49</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-gibraltar-industries-032522167.html" target="_blank" rel="noopener">Jim Cramer Calls Gibraltar Industries a “Boring Company”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">50</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ventas-inc-attractive-032509198.html" target="_blank" rel="noopener">Jim Cramer on Ventas, Inc.: “It’s as Attractive Today as It’s Been at Any Point Over the Past Couple of Decades”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">51</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/sectors/energy/articles/boralex-sngrdc-close-144m-oxford-084644906.html" target="_blank" rel="noopener">Boralex and SNGRDC close $144m Oxford project financing</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">52</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-janus-living-leap-032447056.html" target="_blank" rel="noopener">Jim Cramer on Janus Living: “It’s a Leap of Faith That I’d Be Very Comfortable Making”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">53</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lockheed-martin-one-032420451.html" target="_blank" rel="noopener">Jim Cramer on Lockheed Martin: “That’s the One I Would Tell You to Buy”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">54</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-newmont-corporation-032408699.html" target="_blank" rel="noopener">Jim Cramer Discusses Newmont Corporation and the Importance of Owning Gold</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">55</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-prefers-chevron-032356847.html" target="_blank" rel="noopener">Jim Cramer Notes That He Prefers Chevron Over Exxon</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">56</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html" target="_blank" rel="noopener">Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">57</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-regard-032344787.html" target="_blank" rel="noopener">Jim Cramer on Home Depot: “I Regard It Now as One of the Most Problematic Positions in My Portfolio”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">58</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-constellation-brands-m-032330121.html" target="_blank" rel="noopener">Jim Cramer on Constellation Brands: “I’m Excited About the Possibilities Here”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">59</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-delta-air-032319102.html" target="_blank" rel="noopener">Jim Cramer Says Delta Air “Truly Distinguished Itself as One of the Most Reliable Earners in a Very Volatile Group”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">60</td>
+          <td class="src-badge">yahoo_finance</td>
+          <td><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-companies-really-032308705.html" target="_blank" rel="noopener">Jim Cramer Says Some Companies “Really Struggle for Respect” and “That’s the Case With Levi’s”</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">61</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572582-teslas-south-korea-sales-jump-over-300-in-march-crosses-11000-units-for-first-time?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Tesla’s South Korea sales quadruple in March, crosses 11,000 units for first time</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">62</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572587-biggest-stock-movers-monday-slno-nbix-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Biggest stock movers Monday: SLNO, TWLO, and more</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">63</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572581-uk-tries-to-woo-anthropic-to-expand-in-london-amid-us-clash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">UK tries to woo Anthropic to expand in London amid US clash: report</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">64</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572583-soleno-therapeutics-rallies-on-report-of-25b-neurocrine-buyout-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Soleno Therapeutics rallies on report of $2.5B Neurocrine buyout talks</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">65</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572579-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Stock index futures rise as traders continue to focus on Middle East</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">66</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572573-ups-teamsters-deal-driver-severance-offers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">UPS reaches deal with Teamsters to cap driver severance offers</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">67</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4572576-european-markets-remain-shut-for-easter-iran-tensions-cloud-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">European markets remain shut for Easter; Iran tensions cloud outlook</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">68</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424813" target="_blank" rel="noopener">旅遊變貴影響買氣 雄獅等業者把握當下需求夯旅遊價值進入重塑期</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">69</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424806" target="_blank" rel="noopener">遠東 SOGO 推育兒友善政策！響應「育兒減少工時」、首創「職代津貼」</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">70</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424772" target="_blank" rel="noopener">全球半導體產值估將挑戰1兆美元 2月產值跳躍年增61.8%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">71</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424762" target="_blank" rel="noopener">最佳萌友助攻治療 訓練師「抖宅媽」分享狗醫生養成</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">72</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/10871/9424756" target="_blank" rel="noopener">拼圖喵接力計畫 無家者與貓互助互癒的重生練習</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">73</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424753" target="_blank" rel="noopener">醫材、藥品每月需求1,138公噸塑料 產發署助媒合供應</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">74</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424752" target="_blank" rel="noopener">海外資產配置升溫 格拉豪斯攜 MM2H 解析國際佈局新機會</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">75</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424722" target="_blank" rel="noopener">法人：日韓股市反彈暨美伊戰事影響台股表現</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">76</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424707" target="_blank" rel="noopener">戰事影響能源供應 經濟部：啟動多項調度與應變措施</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">77</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424677" target="_blank" rel="noopener">請嘸工又下雨約3成蒜頭泡水 雲林蒜農憂心縣府急啟動烘乾助農</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">78</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424658" target="_blank" rel="noopener">西索米大樂隊轉型滴雞精 洪毅豪家族研發特殊方法產品行銷國外</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">79</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424628" target="_blank" rel="noopener">前列腺癌新劑型新藥 CAMCEVI 21毫克 獲加拿大上市許可</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">80</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424614" target="_blank" rel="noopener">重要棗子產區台南推「棗保險」 補助保費受理到5月31日</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">81</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424600" target="_blank" rel="noopener">入境旅客非法攜帶電子煙、走私螺螄粉 高雄關籲遵守規定</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">82</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424599" target="_blank" rel="noopener">清明連假親子潮升溫 板橋大遠百業績成長高達18%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">83</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424575" target="_blank" rel="noopener">日本金融廳推虛擬資產業資安三層治理 與台灣 VASP 路徑雷同</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">84</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424565" target="_blank" rel="noopener">美伊僵局怎解？施俊吉：川普應效法「阿Q勝利法」見好就收</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">85</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424548" target="_blank" rel="noopener">李四川坪林訪茶農 承諾結合雙北資源擴大茶葉行銷通路</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">86</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424543" target="_blank" rel="noopener">2026青聚點 全台接力陪青年實踐地方夢</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">87</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9424540" target="_blank" rel="noopener">汎銓研發「MSS HG」於2026電子設備展亮相 獲多組研發團隊預購</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">88</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ai%E5%A4%A7%E8%85%A6%E9%81%8E%E8%BC%89-%E6%88%90%E8%81%B7%E5%A0%B4%E6%96%B0%E6%8C%91%E6%88%B0-%E7%BE%8E%E7%A0%94%E7%A9%B6-%E5%93%A1%E5%B7%A5%E7%B2%BE%E7%A5%9E%E8%80%97%E7%AB%AD-%E7%94%9F%E7%94%A2%E5%8A%9B%E4%B8%8B%E6%BB%91-091935066.html" target="_blank" rel="noopener">「AI大腦過載」成職場新挑戰 美研究：員工精神耗竭、生產力下滑</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">89</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%B4%9B%E6%9D%89%E7%A3%AF%E8%BA%8D%E5%B1%85ai%E5%89%B5%E6%96%B0%E9%87%8D%E9%8E%AE-%E5%8D%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E5%BC%95%E9%A0%98%E6%87%89%E7%94%A8%E7%A7%91%E6%8A%80%E6%B5%AA%E6%BD%AE-091827365.html" target="_blank" rel="noopener">洛杉磯躍居AI創新重鎮 十大企業引領應用科技浪潮</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">90</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%8B%B1%E5%9C%8B%E9%80%BE%E5%85%AD%E6%88%90%E6%95%99%E5%B8%AB%E6%86%82ai%E6%87%89%E7%94%A8%E6%90%8D%E5%AD%B8%E7%94%9F%E6%89%B9%E5%88%A4%E6%80%9D%E8%80%83%E5%8A%9B-%E6%94%BF%E5%BA%9C%E6%8E%A8%E6%95%99%E5%AD%B8%E5%B7%A5%E5%85%B7%E5%BC%95%E7%88%AD%E8%AD%B0-091412932.html" target="_blank" rel="noopener">英國逾六成教師憂AI應用損學生批判思考力 政府推教學工具引爭議</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">91</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%98%93%E5%A8%81-2026%E5%B9%B43%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B61%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E30-64-091222192.html" target="_blank" rel="noopener">【公告】易威 2026年3月合併營收1億元 年增30.64%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">92</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%8B%97%E6%A0%97%E7%B6%B2%E7%B4%85%E5%8F%B8%E6%A9%9F%E8%B3%AA%E7%96%91-%E4%BA%BA%E9%80%A0%E9%9B%A8%E9%87%80%E7%81%BD-%E5%96%8A%E5%9C%8B%E8%B3%A0-%E6%B0%B4%E5%88%A9%E7%BD%B2%E9%97%A2%E8%AC%A0-%E7%84%A1%E9%97%9C%E8%81%AF-091141603.html" target="_blank" rel="noopener">苗栗網紅司機質疑「人造雨釀災」喊國賠 水利署闢謠:無關聯</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">93</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%992%E6%AA%94-%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%9C%89%E6%9C%9B%E6%88%90%E6%96%B0%E9%9C%B8%E4%B8%BB-090042355.html" target="_blank" rel="noopener">美股大洗牌！「台積電＋這2檔」被點名有望成新霸主</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">94</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%B8%96%E7%B4%80%E9%A2%A8%E9%9B%BB%E9%A6%96%E5%AD%A3%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E%E9%80%BE4%E6%88%90-%E8%A8%82%E5%96%AE%E7%9C%8B%E8%87%B32029%E5%B9%B4-085618270.html" target="_blank" rel="noopener">世紀風電首季營收年增逾4成 訂單看至2029年</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">95</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E9%A3%9B%E5%AE%98%E6%B1%82%E6%95%91%E7%AC%AC-%E5%8F%A5%E8%A9%B1-%E5%BA%A6%E8%AE%93%E5%B7%9D%E6%99%AE%E8%B5%B7%E7%96%91%E5%BF%83-084613292.html" target="_blank" rel="noopener">美軍飛官求救第一句話　一度讓川普起疑心</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">96</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%84%84%E8%90%AC%E5%AF%8C%E7%BF%81%E7%AA%81%E7%A0%B42%E8%90%AC%E4%BA%BA-%E6%9C%89%E9%8C%A2%E4%BA%BA%E7%90%86%E8%B2%A1%E8%A1%93%E6%9B%9D%E5%85%891%E8%B3%87%E7%94%A2%E5%8D%A0%E5%A4%A7%E5%AE%97-084459420.html" target="_blank" rel="noopener">億萬富翁突破2萬人！有錢人理財術曝光1資產占大宗</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">97</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/nh%E6%8A%95%E8%B3%87%E8%AD%89%E5%88%B8%E4%B8%8A%E8%AA%BF%E9%9F%93%E5%9C%8B%E7%A7%91%E7%91%AA%E7%9B%AE%E6%A8%99%E5%83%B9-%E9%A0%90%E6%9C%9F%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%A5%AD%E7%B8%BE%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%AB%98-084124809.html" target="_blank" rel="noopener">NH投資證券上調韓國科瑪目標價 預期上半年業績能見度高</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">98</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%98%A5%E6%8D%B2%E7%96%91%E4%B8%AD%E6%AF%92%E6%A1%88-%E9%9B%84%E6%AA%A2%E6%8C%87%E6%B4%BE%E6%AA%A2%E5%AF%9F%E5%AE%98%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5-083912793.html" target="_blank" rel="noopener">高雄春捲疑中毒案 雄檢指派檢察官到場調查</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">99</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ai%E6%99%82%E4%BB%A3%E4%BC%81%E6%A5%AD%E7%AB%B6%E7%88%AD%E5%8A%9B%E9%97%9C%E9%8D%B5-ceo%E9%A0%98%E5%B0%8E%E5%8A%9B%E8%88%87ai%E7%90%86%E8%A7%A3-083351749.html" target="_blank" rel="noopener">AI時代企業競爭力關鍵：CEO領導力與AI理解</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">100</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%8B%BC%E9%8B%81%E9%8A%85%E8%A1%8D%E7%94%9F%E5%93%81%E6%96%B0%E9%97%9C%E7%A8%85%E4%BB%8A%E4%B8%8A%E8%B7%AF-%E9%9F%93%E6%94%BF%E5%BA%9C-%E5%BD%B1%E9%9F%BF%E5%A5%BD%E5%A3%9E%E5%8F%83%E5%8D%8A-%E6%8C%81%E7%BA%8C%E7%B7%8A%E7%9B%AF-083020943.html" target="_blank" rel="noopener">美鋼鋁銅衍生品新關稅今上路 韓政府：影響好壞參半 持續緊盯</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">101</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ai%E5%B8%82%E5%A0%B4%E5%85%A9%E5%BC%B7%E7%88%AD%E9%9C%B8-nvidia%E5%B8%82%E5%80%BC%E7%A0%B44-1%E5%85%86%E7%BE%8E%E5%85%83-coreweave%E5%BC%B7%E5%8B%A2%E5%B4%9B%E8%B5%B7-082755673.html" target="_blank" rel="noopener">AI市場兩強爭霸：Nvidia市值破4.1兆美元 CoreWeave強勢崛起</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">102</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ai%E6%B5%AA%E6%BD%AE%E9%87%8D%E5%A1%91%E8%BB%9F%E9%AB%94%E5%AE%9A%E5%83%B9%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E5%9C%8Bai%E4%BC%81%E6%A5%AD%E8%BD%89%E5%90%91%E9%96%89%E6%BA%90%E5%B0%8B%E6%B1%82%E5%95%86%E6%A9%9F-082645550.html" target="_blank" rel="noopener">AI浪潮重塑軟體定價模式 中國AI企業轉向閉源尋求商機</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">103</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8C%88%E7%89%99%E5%88%A9%E5%BB%A0%E5%B0%87%E5%95%9F%E5%8B%95-%E6%94%9C%E6%89%8B%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3-ecopro-bm%E7%8D%B2%E6%95%99%E4%BF%9D%E8%AD%89%E5%88%B8%E8%AA%BF%E5%8D%87%E7%9B%AE%E6%A8%99%E5%83%B9-082416582.html" target="_blank" rel="noopener">匈牙利廠將啟動、攜手寧德時代 EcoPro BM獲教保證券調升目標價</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">104</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-jpp-ky%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E5%88%86%E6%B4%BE%E8%82%A1%E5%88%A9-082319082.html" target="_blank" rel="noopener">【公告】jpp-KY代重要子公司泰國經寶精密股份有限公司公告董事會決議分派股利</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">105</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-jpp-ky%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E8%82%A1%E5%88%A9%E5%88%86%E6%B4%BE%E4%B9%8B%E9%99%A4%E6%81%AF%E5%9F%BA%E6%BA%96%E6%97%A5-082317720.html" target="_blank" rel="noopener">【公告】jpp-KY代重要子公司泰國經寶精密股份有限公司公告董事會決議股利分派之除息基準日</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">106</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-jpp-ky%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E5%8F%AC%E9%96%8B%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E7%9B%B8%E9%97%9C%E4%BA%8B%E5%AE%9C-082315684.html" target="_blank" rel="noopener">【公告】jpp-KY代重要子公司泰國經寶精密股份有限公司公告召開股東常會相關事宜</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">107</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ai%E6%87%89%E7%94%A8%E7%8E%87%E6%94%80%E5%8D%87%E9%9B%A3%E7%8D%B2%E4%BF%A1%E4%BB%BB-%E6%B3%B0%E9%9B%B7%E8%8C%B2%E5%A0%B1%E5%91%8A%E6%8F%AD%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99%E4%BF%A1%E4%BB%BB%E6%96%B7%E5%B1%A4-081855382.html" target="_blank" rel="noopener">AI應用率攀升難獲信任 泰雷茲報告揭數位服務信任斷層</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">108</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/jpp-ky-%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E8%82%A1%E5%88%A9%E5%88%86%E6%B4%BE%E4%B9%8B%E9%99%A4%E6%81%AF%E5%9F%BA%E6%BA%96%E6%97%A5-081700994.html" target="_blank" rel="noopener">jpp-KY 代重要子公司泰國經寶精密股份有限公司公告董事會決議股利分派之除息基準日</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">109</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/jpp-ky-%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E5%8F%AC%E9%96%8B%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E7%9B%B8%E9%97%9C%E4%BA%8B%E5%AE%9C-081700165.html" target="_blank" rel="noopener">jpp-KY 代重要子公司泰國經寶精密股份有限公司公告召開股東常會相關事宜</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">110</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/jpp-ky-%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B3%B0%E5%9C%8B%E7%B6%93%E5%AF%B6%E7%B2%BE%E5%AF%86%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E5%88%86%E6%B4%BE%E8%82%A1%E5%88%A9-081700616.html" target="_blank" rel="noopener">jpp-KY 代重要子公司泰國經寶精密股份有限公司公告董事會決議分派股利</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">111</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%B7%A5%E6%9C%83%E9%81%8B%E5%8B%95%E6%93%B4%E5%A4%A7%E8%A1%9D%E6%93%8A-%E7%89%A9%E6%B5%81%E8%88%87%E9%86%AB%E7%99%82%E7%94%A2%E6%A5%AD%E6%8A%95%E8%B3%87%E9%A2%A8%E9%9A%AA%E6%B5%AE%E7%8F%BE-081520294.html" target="_blank" rel="noopener">工會運動擴大衝擊 物流與醫療產業投資風險浮現</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">112</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%83%8C%E6%9B%B8%E7%A6%8F%E6%96%AF%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B8%8C%E7%88%BE%E9%A0%93-%E8%A7%92%E9%80%90%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7-081338182.html" target="_blank" rel="noopener">川普背書福斯主持人希爾頓 角逐加州州長</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">113</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%99%BE%E8%90%AC%E7%B6%B2%E7%B4%85ai%E6%8F%9B%E8%87%89%E7%9B%9C%E5%9C%96%E6%83%B9%E8%AD%B0-%E8%82%96%E5%83%8F%E6%AC%8A%E4%BE%B5%E7%8A%AF%E7%88%AD%E8%AD%B0%E6%B5%AE%E6%AA%AF%E9%9D%A2-081316955.html" target="_blank" rel="noopener">美百萬網紅AI換臉盜圖惹議 肖像權侵犯爭議浮檯面</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">114</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E4%B8%96%E7%95%8C%E6%9C%80%E9%95%B7%E5%A3%BD%E9%B4%BF%E5%AD%90%E5%A4%9A%E5%B0%91%E6%AD%B2-%E9%A3%BC%E4%B8%BB%E8%88%87%E7%89%A0%E6%9C%89%E9%80%99%E7%B4%84%E5%AE%9A-104830710.html" target="_blank" rel="noopener">世界最長壽鴿子多少歲？飼主與牠有這約定</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">115</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%90%B6%E6%95%91%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%85%B5-%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%8C%A2-%E6%88%B0%E6%90%8D%E6%A9%9F%E5%9E%8B%E7%B8%BD%E9%A1%8D%E6%9B%9D-074715848.html" target="_blank" rel="noopener">「搶救美國大兵」花多少錢？戰損機型總額曝</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">116</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%B0%91%E9%80%B2%E9%BB%A8%E9%81%B8%E5%B0%8D%E6%9C%837%E6%97%A5%E9%96%8B%E6%9C%83-%E5%8C%97%E6%A1%83%E5%B8%82%E9%95%B7%E4%BA%BA%E9%81%B8%E6%98%AF%E5%90%A6%E5%AE%9A%E6%A1%88%E5%8F%97%E9%97%9C%E6%B3%A8-080100737.html" target="_blank" rel="noopener">民進黨選對會7日開會 北桃市長人選是否定案受關注</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">117</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E9%9C%B2%E6%9B%99%E5%85%89-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%81%E4%BA%A4%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0-%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%9C%80%E5%BF%AB-%E9%80%99%E5%A4%A9-%E9%87%8D%E9%96%8B-080003140.html" target="_blank" rel="noopener">伊朗美國停火露曙光！巴基斯坦送交和平協議、荷姆茲海峽最快「這天」重開</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">118</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E9%AB%98%E8%82%A1%E6%81%AF%E6%BD%9B%E5%8A%9B%E8%82%A1%E5%87%BA%E5%88%97-%E4%B8%89%E6%AA%94%E6%AE%96%E5%88%A9%E7%8E%87%E9%80%BE6-6-%E5%8F%97%E7%9F%9A%E7%9B%AE-075627532.html" target="_blank" rel="noopener">美股高股息潛力股出列：三檔殖利率逾6.6%受矚目</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">119</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%83%85%E5%A0%B1%E7%A8%B1%E9%87%91%E4%B8%BB%E6%84%9B%E6%88%96%E5%B7%B2%E6%8C%87%E7%82%BA%E6%8E%A5%E7%8F%AD%E4%BA%BA-%E9%A0%BB%E5%87%BA%E5%B8%AD%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95%E9%8B%AA%E8%B7%AF-075401439.html" target="_blank" rel="noopener">南韓情報稱金主愛或已指為接班人 頻出席軍事活動鋪路</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">120</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%8B%9E%E5%B7%A5%E9%83%A8%E6%93%AC%E6%94%BE%E5%AF%AC401-k-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E6%8A%95%E8%B3%87-%E6%95%B8%E5%85%86%E9%80%80%E4%BC%91%E9%87%91%E5%8F%AF%E6%9C%9B%E5%85%A5%E5%B8%82-074918460.html" target="_blank" rel="noopener">美國勞工部擬放寬401(k)加密貨幣投資 數兆退休金可望入市</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">121</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E9%BE%90%E5%A4%A7%E4%B8%AD%E5%9C%8B%E8%B2%B8%E6%AC%BE-%E6%8B%96%E7%B4%AF%E6%9D%B1%E5%8A%A0%E7%81%AB%E5%B1%B1%E7%81%BD%E5%BE%8C%E9%87%8D%E5%BB%BA-074813275.html" target="_blank" rel="noopener">龐大中國貸款  拖累東加火山災後重建</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">122</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%87%83%E6%B2%B9%E5%8D%B1%E6%A9%9F%E5%8A%A0%E5%8A%87-%E6%B3%B0%E5%9C%8B%E8%80%83%E6%85%AE%E5%8B%95%E7%94%A8%E7%B7%8A%E6%80%A5%E6%B3%95%E4%BB%A4%E6%87%89%E5%B0%8D%E6%B2%B9%E5%83%B9-074711730.html" target="_blank" rel="noopener">燃油危機加劇　 泰國考慮動用緊急法令應對油價</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">123</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E6%8C%87%E6%95%B8%E6%94%B6%E7%B4%85-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%81%E7%BA%8C%E9%97%9C%E6%B3%A8%E4%BC%8A%E6%9C%97%E6%88%B0%E6%B3%81%E5%8F%8A%E5%BD%B1%E9%9F%BF-074709699.html" target="_blank" rel="noopener">日經指數收紅　投資人持續關注伊朗戰況及影響</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">124</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%8A%95%E8%B3%87%E6%B0%9B%E5%9C%8D%E7%86%B1%E7%B5%A1-%E5%9C%8B%E9%8A%802%E6%9C%88%E5%AF%8C%E8%B1%AA%E6%88%B6%E5%AD%98%E6%AC%BE%E6%AF%94%E7%8E%87%E6%8E%A2%E9%80%BE3%E5%B9%B4%E5%8D%8A%E6%96%B0%E4%BD%8E-074706751.html" target="_blank" rel="noopener">投資氛圍熱絡　國銀2月富豪戶存款比率探逾3年半新低</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">125</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E5%9C%8B-%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%9C%89%E6%9C%9B%E5%9C%A84-6%E7%94%9F%E6%95%88-074611459.html" target="_blank" rel="noopener">路透：美國、伊朗停火協議有望在4/6生效</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">126</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E9%A2%A8%E6%9A%B4%E8%87%B4%E4%BE%9B%E6%87%89%E9%8F%88%E6%96%B7%E8%A3%82-%E5%8D%A1%E9%81%9440%E9%A4%98%E8%89%98%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%81%8B%E8%BC%B8%E8%88%B9%E5%9B%B0%E5%AE%88%E4%BA%9E%E6%B4%B2-074002678.html" target="_blank" rel="noopener">中東風暴致供應鏈斷裂！卡達40餘艘液化天然氣運輸船困守亞洲</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">127</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1q1%E5%BC%B7%E5%8B%A2%E8%82%A1-%E7%94%9F%E6%8A%80%E6%96%B0%E8%97%A5%E8%88%87ai%E5%9F%BA%E5%BB%BA%E9%A0%98%E6%BC%B2-%E8%82%A1%E5%83%B9%E6%BC%B2%E5%B9%85%E9%80%BE150-073832451.html" target="_blank" rel="noopener">美股Q1強勢股：生技新藥與AI基建領漲 股價漲幅逾150%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">128</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%BA%BA%E9%80%A0%E9%9B%A8-%E9%87%80%E8%8B%97%E6%A0%97%E7%81%BD%E6%83%85-%E6%B0%B4%E5%88%A9%E7%BD%B2%E9%97%A2%E8%AC%A0-%E4%BD%9C%E6%A5%AD%E5%9A%B4%E9%81%BF%E8%B1%AA%E9%9B%A8-073548328.html" target="_blank" rel="noopener">「人造雨」釀苗栗災情? 水利署闢謠:作業嚴避豪雨</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">129</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%8A%92%E6%9E%9C%E9%86%AC%E5%B7%A1%E6%BC%94%E9%96%8B%E8%B7%91-%E7%B2%89%E7%B5%B2-%E5%82%98%E9%99%A3-%E5%AE%88%E5%80%99%E7%89%9B%E6%8E%92%E9%A4%A8%E6%88%90%E5%A5%87%E8%A7%80-073541706.html" target="_blank" rel="noopener">芒果醬巡演開跑　粉絲「傘陣」守候牛排館成奇觀</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">130</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8B%9E%E9%80%80%E5%88%86%E7%B4%85%E5%89%B5%E9%AB%98%E6%B0%91%E7%9C%BE%E7%84%A1%E6%84%9F-%E5%8B%9E%E5%9C%98%E6%8F%AD%E7%9C%9F%E7%9B%B8-%E5%8B%9E%E9%80%80%E6%96%B0%E8%88%8A%E5%88%B6%E8%90%BD%E5%B7%AE%E5%A4%A7-073533465.html" target="_blank" rel="noopener">勞退分紅創高民眾無感? 勞團揭真相"勞退新舊制落差大"</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">131</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%B3%95%E5%BE%8Bai%E5%B8%82%E5%A0%B4%E6%BD%9B%E5%8A%9B%E7%88%86%E7%99%BC-legora%E5%B9%B4%E7%B6%93%E5%B8%B8%E6%80%A7%E7%87%9F%E6%94%B6%E9%81%941%E5%84%84%E7%BE%8E%E5%85%83-073048386.html" target="_blank" rel="noopener">法律AI市場潛力爆發 Legora年經常性營收達1億美元</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">132</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E9%87%8B%E5%96%84%E6%84%8F-%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%8F%BE-%E5%B1%80%E9%83%A8%E8%A7%A3%E5%B0%81-%E8%B7%A1%E8%B1%A1-%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E7%BF%BB%E7%B4%85-073015975.html" target="_blank" rel="noopener">伊朗釋善意？荷莫茲海峽現「局部解封」跡象　美股期指翻紅、油價漲幅收斂</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">133</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E4%BA%9E%E8%B3%87%E9%AB%98%E9%9B%84%E9%87%91%E8%9E%8D%E5%B0%88%E5%8D%80-54%E5%AE%B6%E9%87%91%E8%9E%8D%E6%A5%AD%E8%80%85%E6%90%B6%E7%81%98-071753994.html" target="_blank" rel="noopener">亞資高雄金融專區 54家金融業者搶灘</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">134</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%8A%80%E5%AF%8C%E8%B1%AA%E8%B2%A1%E7%AE%A1%E8%A1%9D2-3%E5%85%86%E5%85%83-2%E6%9C%88%E5%AD%98%E6%AC%BE%E6%AF%94%E9%87%8D%E9%99%8D-%E8%BD%89%E5%90%91%E9%80%99%E9%A1%9E%E5%95%86%E5%93%81-071707817.html" target="_blank" rel="noopener">國銀富豪財管衝2.3兆元！2月存款比重降 轉向這類商品</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">135</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%8F%BE-%E5%90%8C%E5%84%95%E4%BF%9D%E8%AD%B7-%E8%A1%8C%E7%82%BA-%E7%A0%94%E7%A9%B6%E7%A4%BA%E8%AD%A6ai%E5%B0%87%E6%AC%BA%E9%A8%99%E7%94%A8%E6%88%B6%E6%8B%92%E7%B5%95%E9%97%9C%E9%96%89%E6%8C%87%E4%BB%A4-071631827.html" target="_blank" rel="noopener">大型語言模型現「同儕保護」行為 研究示警AI將欺騙用戶拒絕關閉指令</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">136</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%B3%B0%E5%9C%8B%E7%87%83%E6%B2%B9%E5%8D%B1%E6%A9%9F%E8%A1%9D%E6%93%8A%E6%BD%91%E6%B0%B4%E7%AF%80%E6%97%85%E9%81%8A%E6%97%BA%E5%AD%A3-%E7%89%A9%E5%83%B9%E6%94%80%E5%8D%87%E6%81%90%E9%87%8D%E5%89%B5%E7%B6%93%E6%BF%9F-071608497.html" target="_blank" rel="noopener">泰國燃油危機衝擊潑水節旅遊旺季 物價攀升恐重創經濟</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">137</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%98%8E%E7%B7%AF%E4%BC%81%E6%A5%AD-2026%E5%B9%B43%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B638-63%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E28-071304931.html" target="_blank" rel="noopener">【公告】明緯企業 2026年3月合併營收38.63億元 年增28.02%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">138</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories" target="_blank" rel="noopener">Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">139</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories" target="_blank" rel="noopener">Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">140</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/i-was-shoveling-sidewalks-at-8-years-old-im-a-73-year-old-boomer-dad-with-two-kids-heres-what-i-teach-them-about-finance-339e1295?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">141</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I plan to take out a mortgage’: My father died. Should I buy the family home from my mom at a 40% discount?</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">142</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">143</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/stock-market-today-live-updates.html" target="_blank" rel="noopener">Stock futures edge higher after a winning week as oil prices tick higher: Live updates</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">144</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html" target="_blank" rel="noopener">Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">145</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html" target="_blank" rel="noopener">India turns to Iran for oil and gas after 7-year hiatus, signaling limits to U.S. tilt</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">146</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/crude-oil-prices-iran-war-strait-hormuz.html" target="_blank" rel="noopener">Oil prices slide as Trump warns Iran to open Strait of Hormuz by Tuesday or face 'hell'</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">147</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/warren-buffett-strikes-measured-tone-on-markets-in-first-remarks-since-stepping-back.html" target="_blank" rel="noopener">Warren Buffett strikes measured tone on markets in his first remarks since stepping back</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">148</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/06/us-treasury-bond-yields-note-trump-extends-tuesday-deadline.html" target="_blank" rel="noopener">Treasury yields hold steady as traders assess mixed signals on Iran war de-escalation</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">149</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/how-a-perilous-us-rescue-mission-in-iran-nearly-went-off-course.html" target="_blank" rel="noopener">How a perilous U.S. rescue mission in Iran nearly went off course</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">150</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html" target="_blank" rel="noopener">AI data center boom ‘stress tests’ insurers as private capital floods in</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">151</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html" target="_blank" rel="noopener">'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">152</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/avoid-these-stocks-in-the-second-quarter-says-piper-sandler.html" target="_blank" rel="noopener">Avoid these stocks in the second quarter, says Piper Sandler</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">153</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/04/05/screenwriters-union-and-hollywood-studios-reach-four-year-tentative-agreement.html" target="_blank" rel="noopener">Screenwriters union and Hollywood studios reach four-year tentative agreement</a></td>
+        </tr>
+    </table>
+<div style="height:24px"></div>
 </div>
 
 <script>
@@ -318,11 +1004,11 @@ footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px
 new Chart(document.getElementById('chartEvents'), {
   type: 'bar',
   data: {
-    labels: ["記憶體漲價", "戰爭升溫", "油價上升", "升息", "AI熱潮", "關稅/貿易戰"],
+    labels: ["AI熱潮", "政策補助", "油價上升", "關稅/貿易戰", "戰爭升溫"],
     datasets: [{
       label: '新聞則數',
-      data: [1, 1, 1, 1, 1, 2],
-      backgroundColor: ["rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(52,152,219,0.85)"],
+      data: [1, 1, 1, 2, 9],
+      backgroundColor: ["rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(149,165,166,0.7)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)"],
       borderRadius: 5,
     }]
   },
@@ -340,10 +1026,10 @@ new Chart(document.getElementById('chartEvents'), {
 new Chart(document.getElementById('chartMentions'), {
   type: 'bar',
   data: {
-    labels: ["南亞(1303.TW)", "群聯(8299.TW)", "華邦電(2344.TW)", "南亞科(2408.TW)", "鴻海(2317.TW)", "仁寶(2324.TW)", "建準(2421.TW)", "奇鋐(3017.TW)", "雙鴻(3324.TW)", "AMD(AMD)", "Nvidia(NVDA)", "英業達(2356.TW)", "廣達(2382.TW)", "聯發科(2454.TW)", "台積電(2330.TW)"],
+    labels: ["Apple(AAPL)", "SK Hynix(000660.KS)", "Samsung(005930.KS)", "超微(2492.TW)", "Nvidia(NVDA)", "台積電(2330.TW)", "Tesla(TSLA)"],
     datasets: [{
       label: '提及次數',
-      data: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2],
+      data: [1, 1, 1, 1, 2, 2, 2],
       backgroundColor: 'rgba(52,152,219,0.75)',
       borderRadius: 5,
     }]
