@@ -11,6 +11,7 @@ LLM 事件分類器 — 支援 Google Gemini（免費）或 Claude（付費）
 """
 import json
 import os
+import time
 from collections import defaultdict
 
 from event_kb import EVENT_KB
@@ -44,29 +45,55 @@ def _strip_code_block(raw: str) -> str:
     raw = raw.strip()
     if raw.startswith("```"):
         lines = raw.split("\n")
-        # 去掉第一行（```json）和最後一行（```）
         raw = "\n".join(lines[1:-1]) if lines[-1] == "```" else "\n".join(lines[1:])
     return raw.strip()
 
 
 class GeminiBackend:
-    """Google Gemini 免費 API。"""
+    """Google Gemini API，內建 429 retry。"""
 
-    def __init__(self, api_key: str, model: str = "gemini-2.0-flash"):
+    def __init__(self, api_key: str, model: str = "gemini-2.5-flash"):
         from google import genai
         self.client = genai.Client(api_key=api_key)
         self.model  = model
 
-    def call(self, user_msg: str) -> str:
+    def call(self, user_msg: str, max_retries: int = 3) -> str:
         from google.genai import types
-        response = self.client.models.generate_content(
-            model=self.model,
-            contents=user_msg,
-            config=types.GenerateContentConfig(
-                system_instruction=_SYSTEM_PROMPT,
-            ),
-        )
-        return response.text
+        import re
+
+        for attempt in range(max_retries):
+            try:
+                response = self.client.models.generate_content(
+                    model=self.model,
+                    contents=user_msg,
+                    config=types.GenerateContentConfig(
+                        system_instruction=_SYSTEM_PROMPT,
+                    ),
+                )
+                return response.text
+
+            except Exception as e:
+                err_str = str(e)
+
+                # 偵測 429，解析建議等待秒數
+                if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                    # 嘗試從錯誤訊息中取得 retryDelay
+                    match = re.search(r"retryDelay.*?(\d+)s", err_str)
+                    wait_sec = int(match.group(1)) + 5 if match else 60
+
+                    if attempt < max_retries - 1:
+                        print(f"[LLM] 429 配額限制，等待 {wait_sec} 秒後重試"
+                              f"（第 {attempt + 1}/{max_retries} 次）...")
+                        time.sleep(wait_sec)
+                        continue
+                    else:
+                        print(f"[LLM] 已達最大重試次數，略過此批次")
+                        raise
+
+                # 其他錯誤直接拋出
+                raise
+
+        raise RuntimeError("Gemini API 重試失敗")
 
 
 class AnthropicBackend:
@@ -77,7 +104,7 @@ class AnthropicBackend:
         self.client = anthropic.Anthropic(api_key=api_key)
         self.model  = model
 
-    def call(self, user_msg: str) -> str:
+    def call(self, user_msg: str, max_retries: int = 3) -> str:
         response = self.client.messages.create(
             model=self.model,
             max_tokens=2048,
@@ -88,7 +115,7 @@ class AnthropicBackend:
 
 
 class LLMClassifier:
-    def __init__(self, batch_size: int = 20):
+    def __init__(self, batch_size: int = 10):  # 從 20 改為 10，減少 token 消耗
         gemini_key    = os.environ.get("GEMINI_API_KEY", "")
         anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "")
 
@@ -111,9 +138,14 @@ class LLMClassifier:
             "titles": [], "urls": [], "reasons": [], "count": 0
         })
 
-        for i in range(0, len(items), self.batch_size):
-            batch   = items[i: i + self.batch_size]
+        total_batches = (len(items) + self.batch_size - 1) // self.batch_size
+
+        for batch_idx, i in enumerate(range(0, len(items), self.batch_size)):
+            batch = items[i: i + self.batch_size]
+            print(f"[LLM] 處理批次 {batch_idx + 1}/{total_batches}（{len(batch)} 則）...")
+
             results = self._call_llm(batch)
+
             for item_idx, event_list in results.items():
                 for ev in event_list:
                     eid    = ev.get("event_id", "")
@@ -124,6 +156,10 @@ class LLMClassifier:
                         agg["urls"].append(batch[item_idx].url)
                         agg["reasons"].append(reason)
                         agg["count"] += 1
+
+            # 批次之間稍作等待，避免觸發 RPM 限制
+            if batch_idx < total_batches - 1:
+                time.sleep(6)  # 每分鐘最多 10 次請求，間隔 6 秒
 
         # 互斥事件抑制
         for ev_a, ev_b in MUTUALLY_EXCLUSIVE_PAIRS:
