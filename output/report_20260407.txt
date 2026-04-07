@@ -1,56 +1,46 @@
 📊 事件驅動選股日報 2026-04-07
 ════════════════════════════════
-掃描 166 則新聞  |  偵測 8 個事件
+掃描 164 則新聞  |  偵測 8 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【戰爭升溫】12 則  🟢高信心
-  ▸ Markets Rise as Trump’s Iran Deadline Looms. Stock Futures, 
-    https://www.barrons.com/livecoverage/stock-market-news-today-040726/card/markets-drop-as-trump-s-iran-deadline-looms-stock-futures-fall-oil-prices-rise--jLzXhiRR7dm7bseyTEBf?siteid=yhoof2&yptr=yahoo
-  ▸ Goldman warns copper faces downside risk if Hormuz disruptio
-    https://seekingalpha.com/news/4572865-goldman-warns-copper-faces-downside-risk-if-hormuz-disruption-persists?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ European markets mixed as rising oil and war risks cloud out
-    https://seekingalpha.com/news/4572869-european-markets-mixed-as-rising-oil-and-war-risks-cloud-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【戰爭升溫】2 則  🟢高信心
+  ▸ S&P 500 futures rebound as Trump’s deadline to reopen Strait
+    https://www.cnbc.com/2026/04/06/stock-market-today-live-updates.html
+  ▸ ‘All roads lead to higher prices and slower growth,' warns I
+    https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html
 
-【AI熱潮】8 則  🟢高信心
-  ▸ Broadcom expands chip deals with Google and Anthropic
-    https://finance.yahoo.com/sectors/technology/articles/broadcom-expands-chip-deals-google-084815627.html
-  ▸ JPMorgan CEO Jamie Dimon in annual letter cites risks in geo
-    https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html
-  ▸ OpenAI asks California, Delaware to investigate Musk's 'anti
-    https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html
+【油價上升】2 則  🟢高信心
+  ▸ S&P 500 futures rebound as Trump’s deadline to reopen Strait
+    https://www.cnbc.com/2026/04/06/stock-market-today-live-updates.html
+  ▸ Crude-oil futures rise into Trump’s deadline as SocGen sees 
+    https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories
 
-【油價上升】6 則  🟢高信心
-  ▸ US gas prices risk topping $5 per gallon if Strait of Hormuz
-    https://finance.yahoo.com/news/us-gas-prices-risk-topping-5-per-gallon-if-strait-of-hormuz-stays-closed-jpmorgan-200128577.html
-  ▸ Markets Rise as Trump’s Iran Deadline Looms. Stock Futures, 
-    https://www.barrons.com/livecoverage/stock-market-news-today-040726/card/markets-drop-as-trump-s-iran-deadline-looms-stock-futures-fall-oil-prices-rise--jLzXhiRR7dm7bseyTEBf?siteid=yhoof2&yptr=yahoo
-  ▸ European markets mixed as rising oil and war risks cloud out
-    https://seekingalpha.com/news/4572869-european-markets-mixed-as-rising-oil-and-war-risks-cloud-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【景氣轉弱】4 則  🟢高信心
-  ▸ Nvidia, Apple, Alphabet, Amazon, and Microsoft Are Sending S
-    https://finance.yahoo.com/markets/stocks/articles/nvidia-apple-alphabet-amazon-microsoft-082600521.html
-  ▸ Goldman warns copper faces downside risk if Hormuz disruptio
-    https://seekingalpha.com/news/4572865-goldman-warns-copper-faces-downside-risk-if-hormuz-disruption-persists?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ UK services growth slows to 11-month low amid Middle East co
-    https://www.investing.com/news/economic-indicators/uk-services-growth-slows-to-11month-low-amid-middle-east-conflict-4599795
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ “Take the oil”: Trump eyes seizing Iran oil to gain trade le
-    https://seekingalpha.com/news/4572853-take-the-oil-trump-eyes-seizing-iran-oil-to-gain-trade-leverage-over-china-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】2 則  🟢高信心
+  ▸ Samsung shares rise after profit seen jumping 8-fold on AI c
+    https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html
+  ▸ Broadcom’s stock is rising. Here’s why its new Google and An
+    https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories
 
 【通膨上升】1 則  🟡單篇
-  ▸ UK services firms report surge in costs, fading optimism as 
-    https://www.investing.com/news/economy-news/uk-services-firms-report-surge-in-costs-fading-optimism-as-iran-war-takes-toll-4599791
+  ▸ ‘All roads lead to higher prices and slower growth,' warns I
+    https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html
 
-【升息】1 則  🟡單篇
-  ▸ ECB may raise rates as soon as April on energy crisis concer
-    https://www.investing.com/news/economic-indicators/ecb-may-raise-rates-as-soon-as-april-on-energy-crisis-concerns-ecbs-wunsch-93CH-4599789
+【景氣轉弱】1 則  🟡單篇
+  ▸ ‘All roads lead to higher prices and slower growth,' warns I
+    https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html
 
 【政策補助】1 則  🟡單篇
-  ▸ Health insurers secured a better Medicare Advantage rate for
-    https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories
+  ▸ Trump administration finalizes better-than-feared Medicare A
+    https://www.cnbc.com/2026/04/06/trump-medicare-advantage.html
+
+【升息】1 則  🟡單篇
+  ▸ Jim Cramer says potential stock market bottom is tied to int
+    https://www.cnbc.com/2026/04/06/jim-cramer-stock-market-bottom-interest-rates-war.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Samsung shares rise after profit seen jumping 8-fold on AI c
+    https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html
 
 ▲ 買進信號
 ────────────────────────────────
@@ -71,11 +61,11 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 7. 2317.TW      -2.4  電子零組件｜景氣轉弱、關稅/貿易戰
- 8. 2327.TW      -2.4  電子零組件｜景氣轉弱、關稅/貿易戰
- 9. 3037.TW      -2.4  電子零組件｜景氣轉弱、關稅/貿易戰
+ 5. 2317.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 10. 2515.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
