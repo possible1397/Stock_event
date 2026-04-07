@@ -2,11 +2,13 @@ name: Daily Event Scan
 
 on:
   schedule:
-    - cron: '30 0 * * 1-5'   # UTC 00:30 = 台灣 08:30，週一到週五
-  workflow_dispatch:           # 允許手動觸發
+    - cron: '30 0 * * 1-5'
+  workflow_dispatch:
 
 permissions:
-  contents: write              # 允許 commit 回 repo
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   scan:
@@ -48,3 +50,12 @@ jobs:
           git add output/
           git commit --allow-empty -m "chore: daily scan $(date +%Y-%m-%d %H:%M)"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
