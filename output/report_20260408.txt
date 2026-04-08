@@ -1,0 +1,66 @@
+📊 事件驅動選股日報 2026-04-08
+════════════════════════════════
+掃描 133 則新聞  |  偵測 7 個事件
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【油價下降】4 則  🟢高信心
+  ▸ Stock futures surge, oil prices slide as Trump announces two
+    https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories
+  ▸ Stock futures jump, crude oil slides after Trump suspends Ir
+    https://seekingalpha.com/news/4573149-stock-futures-jump-crude-oil-slides-after-trump-suspends-iran-attack-for-two-weeks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ U.S. crude stockpiles rose 3.7M barrels last week, API says
+    https://seekingalpha.com/news/4573144-u-s-crude-stockpiles-rose-3_7m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ Stock futures surge, oil prices slide as Trump announces two
+    https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories
+  ▸ The Iran conflict isn’t panicking investors — yet. That’s ab
+    https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories
+  ▸ NZ central bank holds cash rate at 2.25%, adopts cautious st
+    https://www.investing.com/news/economy-news/nz-central-bank-holds-cash-rate-at-225-adopts-cautious-stance-amid-iran-war-4601899
+
+【AI熱潮】3 則  🟢高信心
+  ▸ CrowdStrike, Palo Alto Networks shares pop as cybersecurity 
+    https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories
+  ▸ Japan IT Week登場 和碩展示AI解決方案深化布局
+    https://money.udn.com/money/story/5612/9428267
+  ▸ 新鮮人直接躋身AI新貴 6.7萬個AI工作機會 62%不限科系
+    https://money.udn.com/money/story/5612/9428254
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Colombia’s Petro calls for economic emergency, fresh financi
+    https://www.investing.com/news/economy-news/colombias-petro-calls-for-economic-emergency-fresh-financing-law-4601898
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ US rebuffs aluminum tariff relief request from Ford, WSJ rep
+    https://www.investing.com/news/stock-market-news/us-rebuffs-aluminum-tariff-relief-request-from-ford-wsj-reports-4601897
+
+【美元貶值】1 則  🟡單篇
+  ▸ 美伊停火兩週 股匯同慶新台幣勁揚逾1.4角
+    https://money.udn.com/money/story/5612/9428218
+
+【政策補助】1 則  🟡單篇
+  ▸ 特斯拉搶市 推油轉電補貼 和泰車、南陽也出招促銷
+    https://money.udn.com/money/story/10871/9427702
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2880.TW      +2.0  金融｜戰爭升溫
+ 7. 2881.TW      +2.0  金融｜戰爭升溫
+ 8. 2882.TW      +2.0  金融｜戰爭升溫
+ 9. 2884.TW      +2.0  金融｜戰爭升溫
+10. 2886.TW      +2.0  金融｜戰爭升溫
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 2. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
