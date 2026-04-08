@@ -1,48 +1,24 @@
 📊 事件驅動選股日報 2026-04-08
 ════════════════════════════════
-掃描 133 則新聞  |  偵測 7 個事件
+掃描 134 則新聞  |  偵測 3 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【油價下降】4 則  🟢高信心
-  ▸ Stock futures surge, oil prices slide as Trump announces two
-    https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories
-  ▸ Stock futures jump, crude oil slides after Trump suspends Ir
-    https://seekingalpha.com/news/4573149-stock-futures-jump-crude-oil-slides-after-trump-suspends-iran-attack-for-two-weeks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ U.S. crude stockpiles rose 3.7M barrels last week, API says
-    https://seekingalpha.com/news/4573144-u-s-crude-stockpiles-rose-3_7m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【戰爭升溫】3 則  🟢高信心
-  ▸ Stock futures surge, oil prices slide as Trump announces two
-    https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories
-  ▸ The Iran conflict isn’t panicking investors — yet. That’s ab
-    https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories
-  ▸ NZ central bank holds cash rate at 2.25%, adopts cautious st
-    https://www.investing.com/news/economy-news/nz-central-bank-holds-cash-rate-at-225-adopts-cautious-stance-amid-iran-war-4601899
-
 【AI熱潮】3 則  🟢高信心
-  ▸ CrowdStrike, Palo Alto Networks shares pop as cybersecurity 
-    https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories
-  ▸ Japan IT Week登場 和碩展示AI解決方案深化布局
-    https://money.udn.com/money/story/5612/9428267
-  ▸ 新鮮人直接躋身AI新貴 6.7萬個AI工作機會 62%不限科系
-    https://money.udn.com/money/story/5612/9428254
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ Colombia’s Petro calls for economic emergency, fresh financi
-    https://www.investing.com/news/economy-news/colombias-petro-calls-for-economic-emergency-fresh-financing-law-4601898
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ US rebuffs aluminum tariff relief request from Ford, WSJ rep
-    https://www.investing.com/news/stock-market-news/us-rebuffs-aluminum-tariff-relief-request-from-ford-wsj-reports-4601897
+  ▸ 優步深化與AWS合作，AI晶片競爭亞馬遜再下一城，甲骨文軟銀佈局生變
+    https://tw.stock.yahoo.com/news/%E5%84%AA%E6%AD%A5%E6%B7%B1%E5%8C%96%E8%88%87aws%E5%90%88%E4%BD%9C-ai%E6%99%B6%E7%89%87%E7%AB%B6%E7%88%AD%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%86%8D%E4%B8%8B-%E5%9F%8E-%E7%94%B2%E9%AA%A8%E6%96%87%E8%BB%9F%E9%8A%80%E4%BD%88%E5%B1%80%E7%94%9F%E8%AE%8A-030415328.html
+  ▸ DeepSeek在AI應用和網頁端推出「專家模式」，處理複雜問題
+    https://tw.stock.yahoo.com/news/deepseek%E5%9C%A8ai%E6%87%89%E7%94%A8%E5%92%8C%E7%B6%B2%E9%A0%81%E7%AB%AF%E6%8E%A8%E5%87%BA-%E5%B0%88%E5%AE%B6%E6%A8%A1%E5%BC%8F-%E8%99%95%E7%90%86%E8%A4%87%E9%9B%9C%E5%95%8F%E9%A1%8C-030308138.html
+  ▸ Gemini導入一鍵式介面　升級心理健康支援
+    https://tw.stock.yahoo.com/news/gemini%E5%B0%8E%E5%85%A5-%E9%8D%B5%E5%BC%8F%E4%BB%8B%E9%9D%A2-%E5%8D%87%E7%B4%9A%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%94%AF%E6%8F%B4-030304261.html
 
 【美元貶值】1 則  🟡單篇
-  ▸ 美伊停火兩週 股匯同慶新台幣勁揚逾1.4角
-    https://money.udn.com/money/story/5612/9428218
+  ▸ 中間價創高＋美元急挫，人民幣創37個月新高，惟6.83阻力未有效突破
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%89%B5%E9%AB%98-%E7%BE%8E%E5%85%83%E6%80%A5%E6%8C%AB-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%89%B537%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E6%83%9F6-83%E9%98%BB%E5%8A%9B%E6%9C%AA%E6%9C%89%E6%95%88%E7%AA%81%E7%A0%B4-030528150.html
 
-【政策補助】1 則  🟡單篇
-  ▸ 特斯拉搶市 推油轉電補貼 和泰車、南陽也出招促銷
-    https://money.udn.com/money/story/10871/9427702
+【戰爭升溫】1 則  🟡單篇
+  ▸ 中東戰事提前拉貨 群創洪進揚：上半年優於預期
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E6%8F%90%E5%89%8D%E6%8B%89%E8%B2%A8-%E7%BE%A4%E5%89%B5%E6%B4%AA%E9%80%B2%E6%8F%9A%EF%BC%9A%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%84%AA%E6%96%BC%E9%A0%90%E6%9C%9F-030309753.html
 
 ▲ 買進信號
 ────────────────────────────────
@@ -51,16 +27,17 @@
  3. 2308.TW      +3.0  AI伺服器｜AI熱潮
  4. 3017.TW      +3.0  AI伺服器｜AI熱潮
  5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 6. 2880.TW      +2.0  金融｜戰爭升溫
- 7. 2881.TW      +2.0  金融｜戰爭升溫
- 8. 2882.TW      +2.0  金融｜戰爭升溫
- 9. 2884.TW      +2.0  金融｜戰爭升溫
-10. 2886.TW      +2.0  金融｜戰爭升溫
+ 6. 6505.TW      +2.1  油電燃氣｜戰爭升溫
+ 7. 8917.TW      +2.1  油電燃氣｜戰爭升溫
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 2. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2603.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 2. 2609.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 3. 2615.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 4. 2618.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 5. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
