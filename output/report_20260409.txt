@@ -1,105 +1,83 @@
 📊 事件驅動選股日報 2026-04-09
 ════════════════════════════════
-掃描 132 則新聞  |  偵測 11 個事件
+掃描 134 則新聞  |  偵測 9 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【戰爭升溫】23 則  🟢高信心
+【戰爭升溫】16 則  🟢高信心
+  ▸ Oil plunges by most since COVID on ceasefire deal, but Strai
+    https://seekingalpha.com/news/4573576-oil-plunges-by-most-since-covid-on-ceasefire-deal-but-strait-of-hormuz-still-bottled-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Ag traders welcome Middle East ceasefire but farmer struggle
     https://seekingalpha.com/news/4573574-ag-traders-welcome-middle-east-ceasefire-but-farmer-struggles-seen-baked-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ California faces fuel squeeze as Iran conflict disrupts glob
     https://seekingalpha.com/news/4573572-california-faces-fuel-squeeze-as-iran-conflict-disrupts-global-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Vance to lead U.S. talks with Iran in Pakistan following cea
-    https://seekingalpha.com/news/4573571-vance-to-lead-u-s-talks-with-iran-in-pakistan-following-ceasefire?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【AI熱潮】13 則  🟢高信心
-  ▸ Meta debuts new AI model, attempting to catch Google, OpenAI
-    https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html
-  ▸ OpenAI will allocate IPO shares to retail investors as it pr
-    https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html
-  ▸ Meta unveils a new AI model that it hopes will justify its m
-    https://www.cnbc.com/2026/04/08/meta-unveils-a-new-ai-model-that-it-hopes-will-justify-its-massive-spending-plans.html
+【AI熱潮】9 則  🟢高信心
+  ▸ Intel’s stock soars to a five-year high. This is what’s driv
+    https://www.marketwatch.com/story/intels-stock-soars-to-a-five-year-high-this-is-whats-driving-its-massive-momentum-61e91f5b?mod=mw_rss_topstories
+  ▸ Pony.ai, Uber, Verne to launch Europe’s first commercial rob
+    https://www.investing.com/news/stock-market-news/ponyai-uber-verne-to-launch-europes-first-commercial-robotaxi-service-4604494
+  ▸ Alibaba shares fall after Jefferies cuts target on AI spendi
+    https://www.investing.com/news/stock-market-news/alibaba-shares-fall-after-jefferies-cuts-target-on-ai-spending-noncore-losses-4604491
 
-【油價上升】10 則  🟢高信心
-  ▸ ‘They essentially have a blackmail card up their sleeve’: A 
-    https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories
-  ▸ Valero's Port Arthur refinery blast destroyed diesel hydrotr
-    https://seekingalpha.com/news/4573573-valeros-port-arthur-refinery-blast-destroyed-diesel-hydrotreater-control-room---reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【油價上升】5 則  🟢高信心
   ▸ California faces fuel squeeze as Iran conflict disrupts glob
     https://seekingalpha.com/news/4573572-california-faces-fuel-squeeze-as-iran-conflict-disrupts-global-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【關稅/貿易戰】4 則  🟢高信心
-  ▸ Inside India newsletter: Tariffs and Iran war threaten India
-    https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html
-  ▸ Trump threatens tariffs of 50% on countries 'supplying milit
-    https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html
-  ▸ 國巨3月單月、第1季單季營收創雙高 後市緊盯關稅、匯率變化
-    https://money.udn.com/money/story/5612/9430096
-
-【通膨上升】3 則  🟢高信心
-  ▸ How to save money on flights as airlines raise prices
-    https://www.cnbc.com/2026/04/08/iran-war-airlines-prices-airfare-flights-how-to-save-money.html
-  ▸ Fed紀綠顯示，戰爭帶來雙重風險，多數官員憂通膨加劇或有升息可能
-    https://tw.stock.yahoo.com/news/fed%E7%B4%80%E7%B6%A0%E9%A1%AF%E7%A4%BA-%E6%88%B0%E7%88%AD%E5%B8%B6%E4%BE%86%E9%9B%99%E9%87%8D%E9%A2%A8%E9%9A%AA-%E5%A4%9A%E6%95%B8%E5%AE%98%E5%93%A1%E6%86%82%E9%80%9A%E8%86%A8%E5%8A%A0%E5%8A%87%E6%88%96%E6%9C%89%E5%8D%87%E6%81%AF%E5%8F%AF%E8%83%BD-000803897.html
-  ▸ 物料上漲、客戶提前拉貨，群創H1表現將優於預期
-    https://tw.stock.yahoo.com/news/%E7%89%A9%E6%96%99%E4%B8%8A%E6%BC%B2-%E5%AE%A2%E6%88%B6%E6%8F%90%E5%89%8D%E6%8B%89%E8%B2%A8-%E7%BE%A4%E5%89%B5h1%E8%A1%A8%E7%8F%BE%E5%B0%87%E5%84%AA%E6%96%BC%E9%A0%90%E6%9C%9F-233213746.html
-
-【降息】3 則  🟢高信心
-  ▸ Fed officials still foresee rate cut this year, despite war 
-    https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html
-  ▸ Markets shift back toward potential Fed rate cut this year w
-    https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html
-  ▸ 《美債》美伊停火帶動降息預期 殖利率全面回落
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%B8%B6%E5%8B%95%E9%99%8D%E6%81%AF%E9%A0%90%E6%9C%9F-%E6%AE%96%E5%88%A9%E7%8E%87%E5%85%A8%E9%9D%A2%E5%9B%9E%E8%90%BD-231100186.html
-
-【航運運價上升】2 則  🟢高信心
   ▸ ‘They essentially have a blackmail card up their sleeve’: A 
     https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories
-  ▸ 荷姆茲海峽再關閉，逾800艘船舶受阻，伊朗擬收過路費並限量放行
-    https://tw.stock.yahoo.com/news/%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%86%8D%E9%97%9C%E9%96%89-%E9%80%BE800%E8%89%98%E8%88%B9%E8%88%B6%E5%8F%97%E9%98%BB-%E4%BC%8A%E6%9C%97%E6%93%AC%E6%94%B6%E9%81%8E%E8%B7%AF%E8%B2%BB%E4%B8%A6%E9%99%90%E9%87%8F%E6%94%BE%E8%A1%8C-235329777.html
+  ▸ Iran oil shock stirs memories of 1997 Asian Financial Crisis
+    https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html
 
 【景氣轉弱】2 則  🟢高信心
+  ▸ Ag traders welcome Middle East ceasefire but farmer struggle
+    https://seekingalpha.com/news/4573574-ag-traders-welcome-middle-east-ceasefire-but-farmer-struggles-seen-baked-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Corona brewer says shoppers are going for cheaper beer and w
     https://www.marketwatch.com/story/corona-brewer-says-shoppers-are-going-for-cheaper-beer-and-wine-as-it-grows-more-cautious-on-demand-d3c89aed?mod=mw_rss_topstories
-  ▸ Constellation Brands, U.S. maker of Modelo and Corona, withd
-    https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html
 
-【記憶體漲價】2 則  🟢高信心
-  ▸ 三星電子中國戰線傳大瘦身，家電恐改代理制，重心轉向儲存晶片
-    https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E4%B8%AD%E5%9C%8B%E6%88%B0%E7%B7%9A%E5%82%B3%E5%A4%A7%E7%98%A6%E8%BA%AB-%E5%AE%B6%E9%9B%BB%E6%81%90%E6%94%B9%E4%BB%A3%E7%90%86%E5%88%B6-%E9%87%8D%E5%BF%83%E8%BD%89%E5%90%91%E5%84%B2%E5%AD%98%E6%99%B6%E7%89%87-001530370.html
-  ▸ 台股高檔震盪怎布局？AI主軸未變 記憶體與太空題材浮現 第2季逢回買！
-    https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA%E6%80%8E%E5%B8%83%E5%B1%80-ai%E4%B8%BB%E8%BB%B8%E6%9C%AA%E8%AE%8A-%E8%A8%98%E6%86%B6%E9%AB%94%E8%88%87%E5%A4%AA%E7%A9%BA%E9%A1%8C%E6%9D%90%E6%B5%AE%E7%8F%BE-%E7%AC%AC2%E5%AD%A3%E9%80%A2%E5%9B%9E%E8%B2%B7-230400286.html
+【通膨上升】2 則  🟢高信心
+  ▸ Daily Spotlight: Fed's Favorite Inflation Indicator
+    https://finance.yahoo.com/research/reports/ARGUS_46664_MarketOutlook_1775646940000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+  ▸ How to save money on flights as airlines raise prices
+    https://www.cnbc.com/2026/04/08/iran-war-airlines-prices-airfare-flights-how-to-save-money.html
 
-【美元貶值】1 則  🟡單篇
-  ▸ 美伊同意停火兩週助長風險情緒，紐約匯市美元兌主要貨幣週三走低
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E5%85%A9%E9%80%B1%E5%8A%A9%E9%95%B7%E9%A2%A8%E9%9A%AA%E6%83%85%E7%B7%92-%E7%B4%90%E7%B4%84%E5%8C%AF%E5%B8%82%E7%BE%8E%E5%85%83%E5%85%8C%E4%B8%BB%E8%A6%81%E8%B2%A8%E5%B9%A3%E9%80%B1%E4%B8%89%E8%B5%B0%E4%BD%8E-235636026.html
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Inside India newsletter: Tariffs and Iran war threaten India
+    https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html
+
+【降息】1 則  🟡單篇
+  ▸ Markets shift back toward potential Fed rate cut this year w
+    https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html
 
 【政策補助】1 則  🟡單篇
-  ▸ 汽油破4美元！美國第二州出手 印第安納州暫停汽油稅30天救民生
-    https://tw.stock.yahoo.com/news/%E6%B1%BD%E6%B2%B9%E7%A0%B44%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E7%AC%AC%E4%BA%8C%E5%B7%9E%E5%87%BA%E6%89%8B-%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E6%9A%AB%E5%81%9C%E6%B1%BD%E6%B2%B9%E7%A8%8530%E5%A4%A9%E6%95%91%E6%B0%91%E7%94%9F-230004534.html
+  ▸ 迎向 AI 轉型助攻智慧升級 新北「產業AI化輔導計畫」交流會22日登場
+    https://money.udn.com/money/story/5612/9430920
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 停火後首艘油輪現身，嘉能可重返中東原油航線，租船運價暴衝1.5倍
+    https://tw.stock.yahoo.com/news/%E5%81%9C%E7%81%AB%E5%BE%8C%E9%A6%96%E8%89%98%E6%B2%B9%E8%BC%AA%E7%8F%BE%E8%BA%AB-%E5%98%89%E8%83%BD%E5%8F%AF%E9%87%8D%E8%BF%94%E4%B8%AD%E6%9D%B1%E5%8E%9F%E6%B2%B9%E8%88%AA%E7%B7%9A-%E7%A7%9F%E8%88%B9%E9%81%8B%E5%83%B9%E6%9A%B4%E8%A1%9D1-5%E5%80%8D-031711814.html
 
 ▲ 買進信號
 ────────────────────────────────
  1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
  2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2344.TW      +3.7  半導體/記憶體｜AI熱潮、關稅/貿易戰
- 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 9. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
-10. 2006.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2330.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      +2.1  半導體｜AI熱潮、景氣轉弱
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -5.2  電子零組件｜關稅/貿易戰、通膨上升
- 2. 2327.TW      -5.2  電子零組件｜關稅/貿易戰、通膨上升
- 3. 3037.TW      -5.2  電子零組件｜關稅/貿易戰、通膨上升
- 4. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
