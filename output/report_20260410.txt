@@ -1,0 +1,75 @@
+📊 事件驅動選股日報 2026-04-10
+════════════════════════════════
+掃描 131 則新聞  |  偵測 6 個事件
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【戰爭升溫】17 則  🟢高信心
+  ▸ Saudi says Iranian attacks slash its oil output by 600K bbl/
+    https://seekingalpha.com/news/4573906-iranian-attacks-slash-saudi-oil-output-by-600k-bblday-pipeline-flows-by-700k-bblday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Your grocery bill will be the next casualty of the Iran war.
+    https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories
+  ▸ Netflix, big banks face a moment of truth as the Iran cease-
+    https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories
+
+【油價上升】9 則  🟢高信心
+  ▸ Saudi says Iranian attacks slash its oil output by 600K bbl/
+    https://seekingalpha.com/news/4573906-iranian-attacks-slash-saudi-oil-output-by-600k-bblday-pipeline-flows-by-700k-bblday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Iran attacks on crucial Saudi pipeline and production facili
+    https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html
+  ▸ China factory prices return to growth after 3 years, beating
+    https://www.cnbc.com/2026/04/10/china-cpi-ppi-march-iran-oil-chock-consumer-inflation-manufacturing-.html
+
+【AI熱潮】9 則  🟢高信心
+  ▸ Meta's long-awaited AI model is finally here. But can it mak
+    https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html
+  ▸ Alibaba leads $290 million investment for building a new kin
+    https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html
+  ▸ OpenAI slams Anthropic in memo to shareholders as its leadin
+    https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html
+
+【通膨上升】7 則  🟢高信心
+  ▸ Your grocery bill will be the next casualty of the Iran war.
+    https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories
+  ▸ China factory prices return to growth after 3 years, beating
+    https://www.cnbc.com/2026/04/10/china-cpi-ppi-march-iran-oil-chock-consumer-inflation-manufacturing-.html
+  ▸ From war to weather: A 'super El Niño' event poses fresh ris
+    https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Disney plans layoffs of as many as 1,000 employees
+    https://www.cnbc.com/2026/04/09/disney-layoffs-ceo-josh-damaro.html
+  ▸ 亞洲開發銀行警告，即便油價趨穩，亞洲經濟增速仍將放緩
+    https://tw.stock.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E9%96%8B%E7%99%BC%E9%8A%80%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%B3%E4%BE%BF%E6%B2%B9%E5%83%B9%E8%B6%A8%E7%A9%A9-%E4%BA%9E%E6%B4%B2%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%80%9F%E4%BB%8D%E5%B0%87%E6%94%BE%E7%B7%A9-013448048.html
+
+【美元貶值】1 則  🟡單篇
+  ▸ 川普樂觀看待伊朗協議 美元連四日走貶創逾月新低
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E6%A8%82%E8%A7%80%E7%9C%8B%E5%BE%85%E4%BC%8A%E6%9C%97%E5%8D%94%E8%AD%B0-%E7%BE%8E%E5%85%83%E9%80%A3%E5%9B%9B%E6%97%A5%E8%B5%B0%E8%B2%B6%E5%89%B5%E9%80%BE%E6%9C%88%E6%96%B0%E4%BD%8E-012339885.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+ 9. 2006.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+10. 2007.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.5  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.5  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.5  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
