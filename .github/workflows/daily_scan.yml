@@ -2,7 +2,8 @@ name: Daily Event Scan
 
 on:
   schedule:
-    - cron: '30 0 * * 1-5'
+    - cron: '30 0 * * 1-5'   # UTC 00:30 = 台灣 08:30（主排程）
+    - cron: '0 2 * * 1-5'    # UTC 02:00 = 台灣 10:00（備用排程）
   workflow_dispatch:
 
 permissions:
@@ -42,6 +43,23 @@ jobs:
             --output output/signal_${DATE}.csv \
             --report output/ \
             --community output/
+
+      - name: Generate index.html
+        run: |
+          DATE=$(date +%Y%m%d)
+          cat > output/index.html << EOF
+          <!DOCTYPE html>
+          <html lang="zh-TW">
+          <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="refresh" content="0; url=community_${DATE}.html">
+            <title>財經熱點日報</title>
+          </head>
+          <body>
+            <p>正在跳轉至今日報告... <a href="community_${DATE}.html">點此前往</a></p>
+          </body>
+          </html>
+          EOF
 
       - name: Commit results
         run: |
