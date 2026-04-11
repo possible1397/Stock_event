@@ -1,0 +1,85 @@
+📊 事件驅動選股日報 2026-04-11
+════════════════════════════════
+掃描 130 則新聞  |  偵測 8 個事件
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【戰爭升溫】19 則  🟢高信心
+  ▸ Your grocery bill will be the next casualty of the Iran war.
+    https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories
+  ▸ Trump praises Palantir as stock has worst week in over a yea
+    https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html
+  ▸ Where fixed income investors are finding yield as geopolitic
+    https://www.cnbc.com/2026/04/10/where-fixed-income-investors-are-finding-yield-as-geopolitical-risk-rattles-markets.html
+
+【AI熱潮】14 則  🟢高信心
+  ▸ AI spending will boost productivity — but first it’ll make e
+    https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories
+  ▸ Vance, Bessent questioned tech giants on AI security before 
+    https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html
+  ▸ Man arrested after Sam Altman's house hit with Molotov cockt
+    https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html
+
+【油價上升】7 則  🟢高信心
+  ▸ Pump prices likely to stay high after posting biggest monthl
+    https://seekingalpha.com/news/4574196-pump-prices-likely-to-stay-high-after-posting-biggest-monthly-increase-in-nearly-60-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Ireland gridlocked by fuel protests as Iran war drives price
+    https://www.cnbc.com/2026/04/10/ireland-fuel-prices-protest-blockade-cork-galway.html
+  ▸ Social Security 2027 cost-of-living adjustment estimate rise
+    https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html
+
+【通膨上升】6 則  🟢高信心
+  ▸ Investors are gloomy about inflation and risk-taking ahead o
+    https://www.marketwatch.com/story/investors-are-gloomy-about-inflation-and-risk-taking-ahead-of-saturdays-iran-talks-eeb8552d?mod=mw_rss_topstories
+  ▸ Your grocery bill will be the next casualty of the Iran war.
+    https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories
+  ▸ Social Security 2027 cost-of-living adjustment estimate rise
+    https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Can the MATCH Act trap China’s semiconductor ambitions?
+    https://www.investing.com/news/economy-news/can-the-match-act-trap-chinas-semiconductor-ambitions-4608952
+  ▸ 美歐推礦產合作重組供應鏈　巴西角色吃重
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%AD%90%E6%8E%A8%E7%A4%A6%E7%94%A2%E5%90%88%E4%BD%9C%E9%87%8D%E7%B5%84%E4%BE%9B%E6%87%89%E9%8F%88-%E5%B7%B4%E8%A5%BF%E8%A7%92%E8%89%B2%E5%90%83%E9%87%8D-004632866.html
+
+【航運運價上升】2 則  🟢高信心
+  ▸ 【中東戰火燒航運2】中東航線恐面臨海轉空？貨攬業者曝現狀：寧可壓貨不願出
+    https://tw.stock.yahoo.com/news/%E3%80%90%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%87%92%E8%88%AA%E9%81%8B2%E3%80%91%E4%B8%AD%E6%9D%B1%E8%88%AA%E7%B7%9A%E6%81%90%E9%9D%A2%E8%87%A8%E6%B5%B7%E8%BD%89%E7%A9%BA%EF%BC%9F%E8%B2%A8%E6%94%AC%E6%A5%AD%E8%80%85%E6%9B%9D%E7%8F%BE%E7%8B%80%EF%BC%9A%E5%AF%A7%E5%8F%AF%E5%A3%93%E8%B2%A8%E4%B8%8D%E9%A1%98%E5%87%BA-004541933.html
+  ▸ 【中東戰火燒航運1】SCFI指數狂飆5成貨櫃三雄股價卻漲不動？專家揭關鍵原因
+    https://tw.stock.yahoo.com/news/%E3%80%90%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%87%92%E8%88%AA%E9%81%8B1%E3%80%91scfi%E6%8C%87%E6%95%B8%E7%8B%82%E9%A3%865%E6%88%90%E8%B2%A8%E6%AB%83%E4%B8%89%E9%9B%84%E8%82%A1%E5%83%B9%E5%8D%BB%E6%BC%B2%E4%B8%8D%E5%8B%95%EF%BC%9F%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%97%9C%E9%8D%B5%E5%8E%9F%E5%9B%A0-004524670.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Consumer sentiment hits record low, inflation fears rise ami
+    https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 政策鼓勵續留職場 勞部優化中高齡獎助
+    https://money.udn.com/money/story/5676/9434808
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2880.TW      +2.0  金融｜戰爭升溫
+ 9. 2881.TW      +2.0  金融｜戰爭升溫
+10. 2882.TW      +2.0  金融｜戰爭升溫
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2317.TW      -3.0  電子零組件｜通膨上升、關稅/貿易戰
+ 8. 2327.TW      -3.0  電子零組件｜通膨上升、關稅/貿易戰
+ 9. 3037.TW      -3.0  電子零組件｜通膨上升、關稅/貿易戰
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
