@@ -14,7 +14,19 @@ from datetime import datetime
 
 from event_classifier import DetectedEvent
 from news_fetcher import NewsItem
-from stock_mention_counter import StockMention
+from stock_mention_counter import StockMention, _PATTERNS
+
+
+# ── 輔助：找出某話題新聞標題裡提到的股票 ─────────────────────────
+
+def _stocks_in_event(ev: DetectedEvent) -> list[tuple[str, str]]:
+    """掃描該話題的新聞標題，回傳 [(display_name, ticker), ...] 不重複。"""
+    found: dict[str, str] = {}   # ticker → display_name
+    for title in ev.source_titles:
+        for pat, ticker, display in _PATTERNS:
+            if ticker not in found and pat.search(title):
+                found[ticker] = display
+    return [(name, ticker) for ticker, name in found.items()]
 
 
 # ── 輔助：全部新聞列表 HTML ──────────────────────────────────────
@@ -55,6 +67,10 @@ def generate_community_html(
 ) -> str:
     news_count = len(news_items)
     date_str = date_str or datetime.now().strftime("%Y-%m-%d")
+
+    # 依新聞則數降序排列
+    events  = sorted(events,  key=lambda e: e.article_count, reverse=True)
+    mentions = sorted(mentions, key=lambda m: m.count,         reverse=True)
 
     # Chart.js 資料：事件熱度
     ev_labels = [e.event_name    for e in events]
@@ -100,6 +116,17 @@ def generate_community_html(
         if not news_html:
             news_html = '<li class="no-link">（本次無抓到新聞連結）</li>'
 
+        # 相關股票標籤
+        related = _stocks_in_event(ev)
+        if related:
+            tags_html = " ".join(
+                f'<span class="stock-tag">{name}<span class="stock-ticker">{ticker}</span></span>'
+                for name, ticker in related
+            )
+            stock_row = f'<div class="ev-stocks">📌 相關股票：{tags_html}</div>'
+        else:
+            stock_row = ""
+
         event_sections += f"""
         <div class="ev-card">
           <div class="ev-header">
@@ -107,6 +134,7 @@ def generate_community_html(
             <span class="ev-count">{ev.article_count} 則</span>
             <span class="badge {conf_cls}">{conf_label}</span>
           </div>
+          {stock_row}
           <ul class="news-list">{news_html}</ul>
         </div>"""
 
@@ -173,6 +201,10 @@ h2{{font-size:1rem;margin:24px 0 10px;color:#34495e;
 .news-list a{{color:#2980b9;text-decoration:none}}
 .news-list a:hover{{text-decoration:underline}}
 .no-link{{color:#aaa;font-style:italic}}
+.ev-stocks{{font-size:.82rem;color:#555;margin-bottom:8px;display:flex;flex-wrap:wrap;align-items:center;gap:6px}}
+.stock-tag{{background:#eaf4fb;border:1px solid #aed6f1;border-radius:12px;
+           padding:2px 10px;font-size:.8rem;color:#1a5276;white-space:nowrap}}
+.stock-ticker{{color:#7fb3d3;font-size:.72rem;margin-left:4px}}
 /* mention table */
 table{{width:100%;border-collapse:collapse;background:#fff;
        border-radius:10px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.08)}}
@@ -306,6 +338,8 @@ def generate_community_text(
 ) -> str:
     date_str  = date_str or datetime.now().strftime("%Y-%m-%d")
     news_count = len(news_items)
+    events  = sorted(events,  key=lambda e: e.article_count, reverse=True)
+    mentions = sorted(mentions, key=lambda m: m.count,         reverse=True)
     lines = [
         f"📰 財經熱點日報 {date_str}",
         "═" * 32,
@@ -324,6 +358,10 @@ def generate_community_text(
 
     for ev in events[:top_events]:
         lines.append(f"【{ev.event_name}】")
+        related = _stocks_in_event(ev)
+        if related:
+            stocks_str = "、".join(f"{n}({t})" for n, t in related)
+            lines.append(f"  📌 相關股票：{stocks_str}")
         paired = list(zip(ev.source_titles, ev.source_urls))
         if not paired:
             lines.append("  （無新聞資料）")
