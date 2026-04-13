@@ -1,0 +1,88 @@
+📊 事件驅動選股日報 2026-04-13
+════════════════════════════════
+掃描 110 則新聞  |  偵測 8 個事件
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【戰爭升溫】14 則  🟢高信心
+  ▸ Stock-market futures drop, oil surges back above $100 after 
+    https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories
+  ▸ Trump says he’s closing the Strait of Hormuz. Has he been re
+    https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories
+  ▸ Trump announces blockade of Strait of Hormuz as Vance leaves
+    https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories
+
+【油價上升】9 則  🟢高信心
+  ▸ Stock-market futures drop, oil surges back above $100 after 
+    https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories
+  ▸ Trump says he’s closing the Strait of Hormuz. Has he been re
+    https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories
+  ▸ Trump announces blockade of Strait of Hormuz as Vance leaves
+    https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories
+
+【AI熱潮】7 則  🟢高信心
+  ▸ TSMC likely to book fourth straight quarter of record profit
+    https://www.investing.com/news/stock-market-news/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-oninsatiable-ai-demand-4609143
+  ▸ 富達分析師調查：AI 評價仍未過高 相關基礎設施投資推動企業樂觀情緒
+    https://money.udn.com/money/story/5612/9438147
+  ▸ 從AI到全球布局 政大EMBA全球華商班前進美東掌握產業脈動 手把手強化競爭優勢！
+    https://money.udn.com/money/story/10871/9430588
+
+【美元升值】4 則  🟢高信心
+  ▸ Oil leaps, dollar firm and stocks wobble as US-Iran peace ta
+    https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115
+  ▸ Bank of Korea governor nominee vows to respond to excessive 
+    https://www.investing.com/news/economy-news/bank-of-korea-governor-nominee-vows-to-respond-to-excessive-won-weakness-4609141
+  ▸ 央行：穩匯可減緩輸入性通膨 出口競爭力非主要考量
+    https://money.udn.com/money/story/5612/9438079
+
+【政策補助】3 則  🟢高信心
+  ▸ 報稅季要來了！租屋族省稅可靠「特別扣除額」報這支出
+    https://money.udn.com/money/story/5612/9438199
+  ▸ 陸拋10項惠台措施 總統府：盼與我方政府做正式協商
+    https://money.udn.com/money/story/5612/9438154
+  ▸ 助中小企業轉型、高值成長！經濟部「企業經營領袖班」開放報名
+    https://money.udn.com/money/story/5612/9437740
+
+【通膨上升】2 則  🟢高信心
+  ▸ 豐興本周盤價續揚 廢鋼及鋼筋每噸調漲200元
+    https://money.udn.com/money/story/5612/9438127
+  ▸ 央行：穩匯可減緩輸入性通膨 出口競爭力非主要考量
+    https://money.udn.com/money/story/5612/9438079
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Move now to seize this potential stock-market crisis and opp
+    https://www.marketwatch.com/story/move-now-to-seize-this-potential-stock-market-crisis-and-opportunity-3c61dea9?mod=mw_rss_topstories
+
+【升息】1 則  🟡單篇
+  ▸ 【外幣高利】一銀推美元14天年利率6.6％ 100美元可承作
+    https://tw.stock.yahoo.com/news/%E3%80%90%E5%A4%96%E5%B9%A3%E9%AB%98%E5%88%A9%E3%80%91%E4%B8%80%E9%8A%80%E6%8E%A8%E7%BE%8E%E5%85%8314%E5%A4%A9%E5%B9%B4%E5%88%A9%E7%8E%8766%EF%BC%85-100%E7%BE%8E%E5%85%83%E5%8F%AF%E6%89%BF%E4%BD%9C-033804054.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
