@@ -1,58 +1,68 @@
 📊 事件驅動選股日報 2026-04-13
 ════════════════════════════════
-掃描 110 則新聞  |  偵測 8 個事件
+掃描 110 則新聞  |  偵測 9 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
 【戰爭升溫】14 則  🟢高信心
-  ▸ Stock-market futures drop, oil surges back above $100 after 
-    https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories
-  ▸ Trump says he’s closing the Strait of Hormuz. Has he been re
-    https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories
-  ▸ Trump announces blockade of Strait of Hormuz as Vance leaves
-    https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories
-
-【油價上升】9 則  🟢高信心
-  ▸ Stock-market futures drop, oil surges back above $100 after 
-    https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories
-  ▸ Trump says he’s closing the Strait of Hormuz. Has he been re
-    https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories
-  ▸ Trump announces blockade of Strait of Hormuz as Vance leaves
-    https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories
-
-【AI熱潮】7 則  🟢高信心
-  ▸ TSMC likely to book fourth straight quarter of record profit
-    https://www.investing.com/news/stock-market-news/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-oninsatiable-ai-demand-4609143
-  ▸ 富達分析師調查：AI 評價仍未過高 相關基礎設施投資推動企業樂觀情緒
-    https://money.udn.com/money/story/5612/9438147
-  ▸ 從AI到全球布局 政大EMBA全球華商班前進美東掌握產業脈動 手把手強化競爭優勢！
-    https://money.udn.com/money/story/10871/9430588
-
-【美元升值】4 則  🟢高信心
+  ▸ US, Australia, Philippines hold second joint drills in South
+    https://www.investing.com/news/world-news/us-australia-philippines-hold-second-joint-drills-in-south-china-sea-this-year-4609133
+  ▸ Morning Bid: Oil surges on US blockade of Iran
+    https://www.investing.com/news/economy-news/morning-bid-oil-surges-on-us-blockade-of-iran-4609195
   ▸ Oil leaps, dollar firm and stocks wobble as US-Iran peace ta
     https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115
-  ▸ Bank of Korea governor nominee vows to respond to excessive 
-    https://www.investing.com/news/economy-news/bank-of-korea-governor-nominee-vows-to-respond-to-excessive-won-weakness-4609141
-  ▸ 央行：穩匯可減緩輸入性通膨 出口競爭力非主要考量
-    https://money.udn.com/money/story/5612/9438079
 
-【政策補助】3 則  🟢高信心
-  ▸ 報稅季要來了！租屋族省稅可靠「特別扣除額」報這支出
-    https://money.udn.com/money/story/5612/9438199
-  ▸ 陸拋10項惠台措施 總統府：盼與我方政府做正式協商
-    https://money.udn.com/money/story/5612/9438154
-  ▸ 助中小企業轉型、高值成長！經濟部「企業經營領袖班」開放報名
-    https://money.udn.com/money/story/5612/9437740
+【油價上升】9 則  🟢高信心
+  ▸ Morning Bid: Oil surges on US blockade of Iran
+    https://www.investing.com/news/economy-news/morning-bid-oil-surges-on-us-blockade-of-iran-4609195
+  ▸ Oil leaps, dollar firm and stocks wobble as US-Iran peace ta
+    https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115
+  ▸ Odds of Strait of Hormuz opening plunge on prediction market
+    https://seekingalpha.com/news/4574251-odds-of-strait-of-hormuz-opening-plunge-on-prediction-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【AI熱潮】9 則  🟢高信心
+  ▸ TSMC likely to book fourth straight quarter of record profit
+    https://www.investing.com/news/stock-market-news/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-oninsatiable-ai-demand-4609143
+  ▸ Meta builds AI version of Mark Zuckerberg for employees: FT
+    https://seekingalpha.com/news/4574255-meta-builds-ai-version-of-mark-zuckerberg-for-employees-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 焦點股：中東地緣政治＋AI電容量價題材發酵，立隆電獲得資金卡位
+    https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E4%B8%AD%E6%9D%B1%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB-ai%E9%9B%BB%E5%AE%B9%E9%87%8F%E5%83%B9%E9%A1%8C%E6%9D%90%E7%99%BC%E9%85%B5-%E7%AB%8B%E9%9A%86%E9%9B%BB%E7%8D%B2%E5%BE%97%E8%B3%87%E9%87%91%E5%8D%A1%E4%BD%8D-043841714.html
+
+【政策補助】6 則  🟢高信心
+  ▸ 發1萬元石油津貼？立委羅明才喊話全民普發再一次 主計長：先從凍漲開始
+    https://tw.stock.yahoo.com/news/%E7%99%BC1%E8%90%AC%E5%85%83%E7%9F%B3%E6%B2%B9%E6%B4%A5%E8%B2%BC%EF%BC%9F%E7%AB%8B%E5%A7%94%E7%BE%85%E6%98%8E%E6%89%8D%E5%96%8A%E8%A9%B1%E5%85%A8%E6%B0%91%E6%99%AE%E7%99%BC%E5%86%8D%E4%B8%80%E6%AC%A1-%E4%B8%BB%E8%A8%88%E9%95%B7%EF%BC%9A%E5%85%88%E5%BE%9E%E5%87%8D%E6%BC%B2%E9%96%8B%E5%A7%8B-040613557.html
+  ▸ 高雄推公益出租人政策　最高1.5萬元免稅額吸引房東加入
+    https://tw.stock.yahoo.com/news/%E9%AB%98%E9%9B%84%E6%8E%A8%E5%85%AC%E7%9B%8A%E5%87%BA%E7%A7%9F%E4%BA%BA%E6%94%BF%E7%AD%96-%E6%9C%80%E9%AB%9815%E8%90%AC%E5%85%83%E5%85%8D%E7%A8%85%E9%A1%8D%E5%90%B8%E5%BC%95%E6%88%BF%E6%9D%B1%E5%8A%A0%E5%85%A5-040002378.html
+  ▸ 英國財長本週將公布助企方案 緩解高漲能源成本衝擊
+    https://tw.stock.yahoo.com/news/%E8%8B%B1%E5%9C%8B%E8%B2%A1%E9%95%B7%E6%9C%AC%E9%80%B1%E5%B0%87%E5%85%AC%E5%B8%83%E5%8A%A9%E4%BC%81%E6%96%B9%E6%A1%88-%E7%B7%A9%E8%A7%A3%E9%AB%98%E6%BC%B2%E8%83%BD%E6%BA%90%E6%88%90%E6%9C%AC%E8%A1%9D%E6%93%8A-035443670.html
+
+【美元升值】3 則  🟢高信心
+  ▸ Oil leaps, dollar firm and stocks wobble as US-Iran peace ta
+    https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115
+  ▸ 外資湧入美國市場逾35兆美元 顯現全球經濟信心
+    https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E6%B9%A7%E5%85%A5%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%80%BE35%E5%85%86%E7%BE%8E%E5%85%83-%E9%A1%AF%E7%8F%BE%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E4%BF%A1%E5%BF%83-042506237.html
+  ▸ 美伊談判破局 美元短線恐轉強
+    https://money.udn.com/money/story/5612/9438361
+
+【記憶體漲價】3 則  🟢高信心
+  ▸ 焦點股：矽晶圓明年量價齊揚＋8吋以下稼動率好轉，環球晶收復月線、季線
+    https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E7%9F%BD%E6%99%B6%E5%9C%93%E6%98%8E%E5%B9%B4%E9%87%8F%E5%83%B9%E9%BD%8A%E6%8F%9A-8%E5%90%8B%E4%BB%A5%E4%B8%8B%E7%A8%BC%E5%8B%95%E7%8E%87%E5%A5%BD%E8%BD%89-%E7%92%B0%E7%90%83%E6%99%B6%E6%94%B6%E5%BE%A9%E6%9C%88%E7%B7%9A-%E5%AD%A3%E7%B7%9A-042952767.html
+  ▸ 慧榮總座示警明年the worst condition，價格上漲是必然
+    https://tw.stock.yahoo.com/news/%E6%85%A7%E6%A6%AE%E7%B8%BD%E5%BA%A7%E7%A4%BA%E8%AD%A6%E6%98%8E%E5%B9%B4the-worst-condition-%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2%E6%98%AF%E5%BF%85%E7%84%B6-035830484.html
+  ▸ 慧榮：台北總部2030年啟用 記憶體明年缺口可能擴大
+    https://money.udn.com/money/story/5612/9438371
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ 房貸揹到退休？購屋族壓力大 30年貸款成主流
+    https://tw.stock.yahoo.com/news/%E6%88%BF%E8%B2%B8%E6%8F%B9%E5%88%B0%E9%80%80%E4%BC%91-%E8%B3%BC%E5%B1%8B%E6%97%8F%E5%A3%93%E5%8A%9B%E5%A4%A7-30%E5%B9%B4%E8%B2%B8%E6%AC%BE%E6%88%90%E4%B8%BB%E6%B5%81-042203024.html
+  ▸ 慧榮總座示警明年the worst condition，價格上漲是必然
+    https://tw.stock.yahoo.com/news/%E6%85%A7%E6%A6%AE%E7%B8%BD%E5%BA%A7%E7%A4%BA%E8%AD%A6%E6%98%8E%E5%B9%B4the-worst-condition-%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2%E6%98%AF%E5%BF%85%E7%84%B6-035830484.html
 
 【通膨上升】2 則  🟢高信心
-  ▸ 豐興本周盤價續揚 廢鋼及鋼筋每噸調漲200元
-    https://money.udn.com/money/story/5612/9438127
-  ▸ 央行：穩匯可減緩輸入性通膨 出口競爭力非主要考量
-    https://money.udn.com/money/story/5612/9438079
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ Move now to seize this potential stock-market crisis and opp
-    https://www.marketwatch.com/story/move-now-to-seize-this-potential-stock-market-crisis-and-opportunity-3c61dea9?mod=mw_rss_topstories
+  ▸ 豐興新盤價 廢鋼每公噸漲300元、鋼筋漲200元
+    https://money.udn.com/money/story/5612/9438359
+  ▸ 匯率政策孰重？輸入性通膨v.s出口競爭 嚴宗大：近期以輸入性通膨為重
+    https://money.udn.com/money/story/5612/9438358
 
 【升息】1 則  🟡單篇
   ▸ 【外幣高利】一銀推美元14天年利率6.6％ 100美元可承作
@@ -62,24 +72,24 @@
 ────────────────────────────────
  1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
  2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
- 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
- 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
- 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
- 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2344.TW      +3.9  半導體/記憶體｜AI熱潮、美元升值
+ 4. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 9. 2382.TW      +3.0  AI伺服器｜AI熱潮
+10. 2356.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
- 6. 2327.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
- 7. 3037.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 1. 2317.TW      -6.2  電子零組件｜記憶體漲價、景氣轉弱
+ 2. 2327.TW      -6.2  電子零組件｜記憶體漲價、景氣轉弱
+ 3. 3037.TW      -6.2  電子零組件｜記憶體漲價、景氣轉弱
+ 4. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 10. 2515.TW      -2.1  建材營造｜升息
