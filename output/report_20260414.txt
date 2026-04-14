@@ -1,91 +1,65 @@
 📊 事件驅動選股日報 2026-04-14
 ════════════════════════════════
-掃描 130 則新聞  |  偵測 9 個事件
+掃描 130 則新聞  |  偵測 5 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】21 則  🟢高信心
-  ▸ China’s March exports slow as Iran war wipes out AI-driven g
-    https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643
-  ▸ SK Hynix shares hit record high on AI optimism, SanDisk inde
-    https://www.investing.com/news/stock-market-news/sk-hynix-shares-hit-record-high-on-ai-optimism-sandisk-index-inclusion-4611640
-  ▸ Some brave traders who made a leveraged bet on chip stocks n
-    https://www.cnbc.com/2026/04/13/brave-traders-with-leveraged-bet-on-semis-made-nearly-100percent-in-almost-10-days.html
+【AI熱潮】16 則  🟢高信心
+  ▸ OpenAI’s $852 bln valuation faces scrutiny amid strategy shi
+    https://www.investing.com/news/stock-market-news/openais-852-bln-valuation-faces-scrutiny-amid-strategy-shift-ft-reports-4611653
+  ▸ Korean AI chip startup DeepX prepares public share offering
+    https://www.investing.com/news/stock-market-news/korean-ai-chip-startup-deepx-prepares-public-share-offering-4611651
+  ▸ OpenAI investors question $852 billion valuation as strategy
+    https://www.investing.com/news/stock-market-news/openai-investors-question-852-billion-valuation-as-strategy-shifts-ft-reports-4611649
 
-【戰爭升溫】14 則  🟢高信心
-  ▸ China’s March exports slow as Iran war wipes out AI-driven g
-    https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643
-  ▸ Dozens detained in New York City protest over US arms sales 
-    https://www.investing.com/news/politics-news/dozens-detained-in-new-york-city-protest-over-us-arms-sales-to-israel-4611639
-  ▸ Australian business, consumer confidence crashes on worries 
-    https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625
+【戰爭升溫】12 則  🟢高信心
+  ▸ This is the defense sector’s fastest grower — and a $20 bill
+    https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories
+  ▸ US begins Iran port blockade, oil prices ease on hopes for d
+    https://www.investing.com/news/world-news/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue-4611650
+  ▸ US-sanctioned tankers pass Strait of Hormuz despite US block
+    https://www.investing.com/news/commodities-news/ussanctioned-tankers-pass-strait-of-hormuz-despite-us-blockade-data-shows-4611652
 
-【景氣轉弱】5 則  🟢高信心
-  ▸ China’s March exports slow as Iran war wipes out AI-driven g
-    https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643
-  ▸ China trade balance falls sharply in March as exports slow, 
-    https://www.investing.com/news/economic-indicators/china-trade-balance-falls-sharply-in-march-as-exports-slow-imports-surge-4611641
-  ▸ Australian business, consumer confidence crashes on worries 
-    https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625
+【景氣轉弱】4 則  🟢高信心
+  ▸ China’s March trade surplus misses estimates by 50% amid sta
+    https://seekingalpha.com/news/4574590-chinas-march-trade-surplus-misses-estimates-by-50-amid-stagnant-export-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 中國3月原油進口量年減2.8%，天然氣降幅達11%
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B3%E6%9C%88%E5%8E%9F%E6%B2%B9%E9%80%B2%E5%8F%A3%E9%87%8F%E5%B9%B4%E6%B8%9B2-8-%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%99%8D%E5%B9%85%E9%81%9411-042105719.html
+  ▸ China exports miss estimates in March, imports post best gro
+    https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html
 
-【油價上升】4 則  🟢高信心
-  ▸ Supply shock coming as last oil tankers leaving Hormuz befor
-    https://seekingalpha.com/news/4574583-supply-shock-coming-as-last-oil-tankers-leaving-hormuz-before-iran-war-to-unload-in-next-few-days?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ The Iran war is compounding California's energy crunch
-    https://www.cnbc.com/2026/04/13/the-iran-war-is-compounding-californias-energy-crunch.html
-  ▸ Middle East oil production plunges due to Iran war, OPEC dat
-    https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html
+【油價下降】3 則  🟢高信心
+  ▸ US begins Iran port blockade, oil prices ease on hopes for d
+    https://www.investing.com/news/world-news/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue-4611650
+  ▸ 中國3月原油進口量年減2.8%，天然氣降幅達11%
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B3%E6%9C%88%E5%8E%9F%E6%B2%B9%E9%80%B2%E5%8F%A3%E9%87%8F%E5%B9%B4%E6%B8%9B2-8-%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%99%8D%E5%B9%85%E9%81%9411-042105719.html
+  ▸ Oil falls as Vance comments raise hopes for a diplomatic res
+    https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html
 
-【通膨上升】3 則  🟢高信心
+【通膨上升】1 則  🟡單篇
   ▸ Chicago rents surge as housing shortage deepens, constructio
     https://seekingalpha.com/news/4574584-chicago-rents-surge-as-housing-shortage-deepens-construction-stalls?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ 愛爾蘭電價高踞歐洲第八 政府補助仍難遏漲勢
-    https://tw.stock.yahoo.com/news/%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%BB%E5%83%B9%E9%AB%98%E8%B8%9E%E6%AD%90%E6%B4%B2%E7%AC%AC%E5%85%AB-%E6%94%BF%E5%BA%9C%E8%A3%9C%E5%8A%A9%E4%BB%8D%E9%9B%A3%E9%81%8F%E6%BC%B2%E5%8B%A2-032017264.html
-  ▸ 倫敦銅價升至一個月高點，市場樂觀預期美伊將重啟和平談判
-    https://tw.stock.yahoo.com/news/%E5%80%AB%E6%95%A6%E9%8A%85%E5%83%B9%E5%8D%87%E8%87%B3-%E5%80%8B%E6%9C%88%E9%AB%98%E9%BB%9E-%E5%B8%82%E5%A0%B4%E6%A8%82%E8%A7%80%E9%A0%90%E6%9C%9F%E7%BE%8E%E4%BC%8A%E5%B0%87%E9%87%8D%E5%95%9F%E5%92%8C%E5%B9%B3%E8%AB%87%E5%88%A4-030407969.html
-
-【記憶體漲價】2 則  🟢高信心
-  ▸ SK Hynix shares hit record high on AI optimism, SanDisk inde
-    https://www.investing.com/news/stock-market-news/sk-hynix-shares-hit-record-high-on-ai-optimism-sandisk-index-inclusion-4611640
-  ▸ AI題材持續升溫，A股記憶晶片與光學模組類股盤中齊漲
-    https://tw.stock.yahoo.com/news/ai%E9%A1%8C%E6%9D%90%E6%8C%81%E7%BA%8C%E5%8D%87%E6%BA%AB-a%E8%82%A1%E8%A8%98%E6%86%B6%E6%99%B6%E7%89%87%E8%88%87%E5%85%89%E5%AD%B8%E6%A8%A1%E7%B5%84%E9%A1%9E%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%BD%8A%E6%BC%B2-033133823.html
-
-【航運運價上升】1 則  🟡單篇
-  ▸ Shipping, tanker stocks rally as Trump launches Strait of Ho
-    https://seekingalpha.com/news/4574581-shipping-tanker-stocks-rally-as-trump-launches-strait-of-hormuz-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【政策補助】1 則  🟡單篇
-  ▸ 布局觀光兆元產業 觀光署關鍵人才培育計畫強化產業核心競爭力
-    https://money.udn.com/money/story/5612/9440130
-
-【美元貶值】1 則  🟡單篇
-  ▸ 中間價創波段高位＋美元偏弱，人民幣盤中突破6.82，創37個月新高
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%89%B5%E6%B3%A2%E6%AE%B5%E9%AB%98%E4%BD%8D-%E7%BE%8E%E5%85%83%E5%81%8F%E5%BC%B1-%E4%BA%BA%E6%B0%91%E5%B9%A3%E7%9B%A4%E4%B8%AD%E7%AA%81%E7%A0%B46-82-%E5%89%B537%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-030227977.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2344.TW      +3.1  半導體/記憶體｜AI熱潮、景氣轉弱
- 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 9. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
-10. 2006.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 6505.TW      +2.2  油電燃氣｜戰爭升溫、油價下降
+ 7. 8917.TW      +2.2  油電燃氣｜戰爭升溫、油價下降
+ 8. 2880.TW      +2.0  金融｜戰爭升溫
+ 9. 2881.TW      +2.0  金融｜戰爭升溫
+10. 2882.TW      +2.0  金融｜戰爭升溫
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -6.9  電子零組件｜景氣轉弱、通膨上升
- 2. 2327.TW      -6.9  電子零組件｜景氣轉弱、通膨上升
- 3. 3037.TW      -6.9  電子零組件｜景氣轉弱、通膨上升
- 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2317.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
