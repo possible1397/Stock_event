@@ -1,94 +1,75 @@
 📊 事件驅動選股日報 2026-04-15
 ════════════════════════════════
-掃描 134 則新聞  |  偵測 9 個事件
+掃描 130 則新聞  |  偵測 6 個事件
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】10 則  🟢高信心
+【AI熱潮】7 則  🟢高信心
+  ▸ US agencies test Anthropic’s advanced AI model despite Trump
+    https://www.investing.com/news/stock-market-news/us-agencies-test-anthropics-advanced-ai-model-despite-trump-ban--politico-4614201
+  ▸ Uber commits $10 billion to robotaxis in strategy shift, FT 
+    https://www.investing.com/news/stock-market-news/uber-commits-10-billion-to-robotaxis-in-strategy-shift-ft-says-4614197
   ▸ CEOs are betting AI will augment work rather than displace a
     https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html
-  ▸ Korean AI chip startup DEEPX, Hyundai work on robots powered
-    https://www.investing.com/news/stock-market-news/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai-4614183
-  ▸ Federal agencies skirt Trump’s Anthropic ban to test its adv
-    https://www.investing.com/news/politics-news/federal-agencies-skirt-trumps-anthropic-ban-to-test-its-advanced-ai-model-politico-reports-4614184
 
-【景氣轉弱】5 則  🟢高信心
-  ▸ JPMorgan has stark message for investors on market weakness
-    https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-investors-market-174700070.html
+【戰爭升溫】6 則  🟢高信心
+  ▸ Iran used Chinese spy satellite to target US bases, FT repor
+    https://www.investing.com/news/world-news/iran-used-chinese-spy-satellite-to-target-us-bases-ft-reports-4614200
+  ▸ Factbox-Oil tankers transiting Strait of Hormuz since start 
+    https://www.investing.com/news/stock-market-news/factboxoil-tankers-transiting-strait-of-hormuz-since-start-of-iran-war-4614199
+  ▸ Rattled by Trump, US allies eye Japan’s biggest arms opening
+    https://www.investing.com/news/stock-market-news/rattled-by-trump-us-allies-eye-japans-biggest-arms-opening-since-ww2-4614198
+
+【景氣轉弱】3 則  🟢高信心
   ▸ Global recession is inevitable if Strait of Hormuz stays shu
     https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html
   ▸ David Einhorn signals caution as his hedge fund Greenlight p
     https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html
+  ▸ History says there’s a good chance we haven’t seen the stock
+    https://www.marketwatch.com/story/history-says-theres-a-good-chance-we-havent-seen-the-stock-market-lows-yet-66d015fa?mod=mw_rss_topstories
 
-【油價下降】5 則  🟢高信心
-  ▸ Oil extends declines as possible U.S.-Iran talks raise hopes
-    https://www.cnbc.com/2026/04/15/oil-price-us-iran-talks-hormuz-trump.html
-  ▸ Asia markets open higher as hopes for a U.S.-Iran deal rise 
-    https://www.cnbc.com/2026/04/15/asia-markets-today-nikkei225-hang-seng-csi300-nifty50-oil-iran-us-.html
-  ▸ Stocks keep the rally going and oil tumbles. Here's why we h
-    https://www.cnbc.com/2026/04/14/stocks-keep-the-rally-going-and-oil-tumbles-heres-why-we-have-some-trepidation-.html
+【油價上升】2 則  🟢高信心
+  ▸ Oil mixed as Middle East supply uncertainty outweighs hopes 
+    https://www.investing.com/news/commodities-news/oil-prices-fall-for-a-second-day-on-expectations-usiran-talks-may-resume-4614155
+  ▸ Factbox-Oil tankers transiting Strait of Hormuz since start 
+    https://www.investing.com/news/stock-market-news/factboxoil-tankers-transiting-strait-of-hormuz-since-start-of-iran-war-4614199
 
-【戰爭升溫】5 則  🟢高信心
+【通膨上升】2 則  🟢高信心
+  ▸ Bank of Korea Governor nominee Shin signals hawkish policy i
+    https://www.investing.com/news/stock-market-news/bank-of-korea-governor-nominee-shin-signals-hawkish-policy-if-inflation-persists-93CH-4614202
   ▸ Wholesale prices rose 0.5% in March, much less than expected
     https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html
-  ▸ 荷莫茲海峽封鎖台灣產業衝擊最大？經部：中油和台塑要超前部署
-    https://money.udn.com/money/story/5612/9442672
-  ▸ 中東戰事談判結果不確定 經濟部：能源、原物料價格高檔震盪
-    https://money.udn.com/money/story/5612/9442554
 
-【升息】4 則  🟢高信心
-  ▸ Best high-yield savings interest rates today, April 14, 2026
-    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-april-14-2026-100000832.html
-  ▸ Mortgage and refinance interest rates today, April 14, 2026:
-    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-april-14-2026-100000763.html
-  ▸ HELOC and home equity loan rates today, April 14, 2026: The 
-    https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-april-14-2026-100000159.html
-
-【通膨上升】3 則  🟢高信心
-  ▸ Wholesale prices rose 0.5% in March, much less than expected
-    https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html
-  ▸ 中東戰事談判結果不確定 經濟部：能源、原物料價格高檔震盪
-    https://money.udn.com/money/story/5612/9442554
-  ▸ 成本壓力飆升，韓國3月進口價格月增16.1%，近30年來最大漲幅
-    https://tw.stock.yahoo.com/news/%E6%88%90%E6%9C%AC%E5%A3%93%E5%8A%9B%E9%A3%86%E5%8D%87-%E9%9F%93%E5%9C%8B3%E6%9C%88%E9%80%B2%E5%8F%A3%E5%83%B9%E6%A0%BC%E6%9C%88%E5%A2%9E16-1-%E8%BF%9130%E5%B9%B4%E4%BE%86%E6%9C%80%E5%A4%A7%E6%BC%B2%E5%B9%85-030450468.html
-
-【政策補助】2 則  🟢高信心
-  ▸ 中鼎：獲南科再生水廠擴建案 操作營運20年
-    https://money.udn.com/money/story/5612/9442769
-  ▸ 川普就「月球建核反應爐」發布新聯邦指引 相關概念股全面走強
-    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%B0%B1-%E6%9C%88%E7%90%83%E5%BB%BA%E6%A0%B8%E5%8F%8D%E6%87%89%E7%88%90-%E7%99%BC%E5%B8%83%E6%96%B0%E8%81%AF%E9%82%A6%E6%8C%87%E5%BC%95-%E7%9B%B8%E9%97%9C%E6%A6%82%E5%BF%B5%E8%82%A1%E5%85%A8%E9%9D%A2%E8%B5%B0%E5%BC%B7-030003751.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 川普要還錢了！美國下週將退還5.4兆元關稅
-    https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%A6%81%E9%82%84%E9%8C%A2%E4%BA%86-%E7%BE%8E%E5%9C%8B%E4%B8%8B%E9%80%B1%E5%B0%87%E9%80%80%E9%82%845-4%E5%85%86%E5%85%83%E9%97%9C%E7%A8%85-013509757.html
-
-【美元升值】1 則  🟡單篇
-  ▸ CNH未能突破6.80阻力，人民幣兌美元早盤翻空退回6.81元上方
-    https://tw.stock.yahoo.com/news/cnh%E6%9C%AA%E8%83%BD%E7%AA%81%E7%A0%B46-80%E9%98%BB%E5%8A%9B-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%85%8C%E7%BE%8E%E5%85%83%E6%97%A9%E7%9B%A4%E7%BF%BB%E7%A9%BA%E9%80%80%E5%9B%9E6-81%E5%85%83%E4%B8%8A%E6%96%B9-030254377.html
+【降息】2 則  🟢高信心
+  ▸ Former Fed Chair Yellen sees one rate cut possible this year
+    https://www.investing.com/news/economy-news/former-fed-chair-yellen-sees-one-rate-cut-possible-this-year-4614193
+  ▸ Treasury Secretary Bessent backs rate cuts but says he under
+    https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
-10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2330.TW      +4.2  半導體｜AI熱潮、景氣轉弱
+ 4. 2454.TW      +4.2  半導體｜AI熱潮、景氣轉弱
+ 5. 2303.TW      +4.2  半導體｜AI熱潮、景氣轉弱
+ 6. 2344.TW      +4.2  半導體｜AI熱潮、景氣轉弱
+ 7. 3711.TW      +4.2  半導體｜AI熱潮、景氣轉弱
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
- 2. 2327.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
- 3. 3037.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
- 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 2515.TW      -3.0  建材營造｜升息
- 7. 5534.TW      -3.0  建材營造｜升息
- 8. 2504.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
