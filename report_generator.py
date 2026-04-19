@@ -40,6 +40,13 @@ def generate_html_report(
             f'"{v}"' if isinstance(v, str) else str(v) for v in lst
         ) + "]"
 
+    if ai_summary:
+        # replace newline with <br> for HTML rendering
+        fmt_summary = ai_summary.replace('\n', '<br>')
+        ai_summary_html = f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{fmt_summary}</p></div>'
+    else:
+        ai_summary_html = ""
+
     # ── 事件表格 rows ──────────────────────────────────────────
     event_rows = ""
     for ev in events:
@@ -184,7 +191,7 @@ footer {{
   <div class="stat blue"><strong>{len(sell_signals)}</strong>賣出信號</div>
 </div>
 
-{f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{ai_summary.replace(chr(10), "<br>")}</p></div>' if ai_summary else ''}
+{ai_summary_html}
 
 <!-- 事件表格 -->
 <h2>🔍 偵測到的事件 &amp; 新聞來源</h2>

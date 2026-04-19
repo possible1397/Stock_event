@@ -94,6 +94,12 @@ def generate_community_html(
     def js_num_array(lst: list) -> str:
         return "[" + ", ".join(str(v) for v in lst) + "]"
 
+    if ai_summary:
+        fmt_summary = ai_summary.replace('\n', '<br>')
+        ai_summary_html = f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{fmt_summary}</p></div>'
+    else:
+        ai_summary_html = ""
+
     # 事件 → 新聞列表 HTML
     event_sections = ""
     for ev in events:
@@ -242,7 +248,7 @@ footer{{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8p
   <div class="stat"><strong>{len(top_mentions)}</strong>檔股票被提及</div>
 </div>
 
-{f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{{ai_summary.replace(chr(10), "<br>")}}</p></div>' if ai_summary else ''}
+{ai_summary_html}
 
 <!-- 話題熱度圖 -->
 <h2>🔥 話題熱度（新聞則數）</h2>
