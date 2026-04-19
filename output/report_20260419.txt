@@ -1,0 +1,103 @@
+📊 事件驅動選股日報 2026-04-19
+════════════════════════════════
+掃描 141 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】
+1.  **AI熱潮持續：** 科技巨頭如Apple、Google等積極投入AI晶片與應用開發，大型雲端服務業者資本支出強勁，顯示AI產業仍是市場焦點。
+2.  **地緣政治升溫：** 中東地區衝突加劇、北韓試射飛彈，以及相關的國際外交斡旋消息，推升全球地緣政治不確定性。
+3.  **油價上漲壓力：** 地緣政治緊張局勢直接導致原油價格走高，影響能源市場並對全球通膨構成潛在威脅。
+4.  **景氣訊號分歧：** 大型企業在AI領域的支出表現亮眼，但中小企業面臨資本支出削減壓力，顯示經濟復甦態勢存在結構性差異。
+5.  **通膨隱憂浮現：** 除油價上漲外，照護服務成本、公用事業費率調整等因素，共同推升整體通膨壓力。
+
+【具體總結】
+今日市場呈現複雜格局，AI熱潮持續為大型科技股帶來支撐，資金動能集中於具備創新技術能力的領導廠商。然而，地緣政治衝突升溫導致油價上漲，連帶推升通膨預期與整體市場不確定性。在經濟表現上，大型企業與中小企業的營運差異擴大，顯示景氣復甦步調不一。整體而言，市場在追逐AI題材的同時，也需審慎評估地緣風險及通膨壓力對未來走向的潛在影響。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】21 則  🟢高信心
+  ▸ Gurman: Apple WWDC teaser signals Siri reboot as Mac launche
+    https://seekingalpha.com/news/4576362-gurman-apple-wwdc-teaser-signals-siri-reboot-as-mac-launches-face-delays?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Google is said to explore new AI chip partnership with Marve
+    https://seekingalpha.com/news/4576361-google-is-said-to-explore-new-ai-chip-partnership-with-marvell?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ As hyperscalers spend big, small businesses are slashing cap
+    https://seekingalpha.com/news/4576357-as-hyperscalers-spend-big-small-businesses-are-slashing-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】8 則  🟢高信心
+  ▸ Israeli military publishes map of south Lebanon territory un
+    https://www.investing.com/news/world-news/israeli-military-publishes-map-of-south-lebanon-territory-under-its-control-4622229
+  ▸ Trump says US delegation to go to Pakistan for Iran talks, t
+    https://www.investing.com/news/commodities-news/trump-iran-cite-progress-in-talks-as-uncertainty-hangs-over-strait-4622182
+  ▸ North Korea fires ballistic missiles again, flexing muscle a
+    https://www.cnbc.com/2026/04/19/north-korea-fires-ballistic-missiles-flexing-muscle-amid-iran-war.html
+
+【油價上升】7 則  🟢高信心
+  ▸ Israeli military publishes map of south Lebanon territory un
+    https://www.investing.com/news/world-news/israeli-military-publishes-map-of-south-lebanon-territory-under-its-control-4622229
+  ▸ Trump says US delegation to go to Pakistan for Iran talks, t
+    https://www.investing.com/news/commodities-news/trump-iran-cite-progress-in-talks-as-uncertainty-hangs-over-strait-4622182
+  ▸ No escape: U.S.-Iran war, $4 gas, have taken all the fun out
+    https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ As hyperscalers spend big, small businesses are slashing cap
+    https://seekingalpha.com/news/4576357-as-hyperscalers-spend-big-small-businesses-are-slashing-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Markets keep shrugging at crisis risks as faith in bailouts 
+    https://seekingalpha.com/news/4576355-markets-keep-shrugging-at-crisis-risks-as-faith-in-bailouts-grows-nyt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Too early to short stocks as flows overpower macro risks – N
+    https://seekingalpha.com/news/4576356-too-early-to-short-stocks-as-flows-overpower-macro-risks-nomura?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【通膨上升】3 則  🟢高信心
+  ▸ Caregiving has become so crazy expensive that it’s financial
+    https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories
+  ▸ No escape: U.S.-Iran war, $4 gas, have taken all the fun out
+    https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html
+  ▸ 被指敲竹槓!翡水發電每度電加收12.5元 蔣萬安提再議
+    https://tw.stock.yahoo.com/news/%E8%A2%AB%E6%8C%87%E6%95%B2%E7%AB%B9%E6%A7%93-%E7%BF%A1%E6%B0%B4%E7%99%BC%E9%9B%BB%E6%AF%8F%E5%BA%A6%E9%9B%BB%E5%8A%A0%E6%94%B612-5%E5%85%83-%E8%94%A3%E8%90%AC%E5%AE%89%E6%8F%90%E5%86%8D%E8%AD%B0-102424894.html
+
+【政策補助】2 則  🟢高信心
+  ▸ Markets keep shrugging at crisis risks as faith in bailouts 
+    https://seekingalpha.com/news/4576355-markets-keep-shrugging-at-crisis-risks-as-faith-in-bailouts-grows-nyt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 韓國KSC全球新創中心徵選拓國際市場 一年吸引逾2億美元投資
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8Bksc%E5%85%A8%E7%90%83%E6%96%B0%E5%89%B5%E4%B8%AD%E5%BF%83%E5%BE%B5%E9%81%B8%E6%8B%93%E5%9C%8B%E9%9A%9B%E5%B8%82%E5%A0%B4-%E5%B9%B4%E5%90%B8%E5%BC%95%E9%80%BE2%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87-100950755.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 經濟部：已有台美 MOU、ART、矽盛世宣言等 台灣無須回頭依附中國
+    https://money.udn.com/money/story/5612/9451245
+  ▸ 中國提10措施 經部：台灣續與世界接軌無須依附中國
+    https://money.udn.com/money/story/5612/9451237
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ AI 帶動需求強勁 記憶體景氣仍處高檔 股價為何下跌？
+    https://money.udn.com/money/story/11162/9451647
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 3576.TWO     +2.5  綠能｜政策補助
+ 9. 6443.TW      +2.5  綠能｜政策補助
+10. 3691.TW      +2.5  綠能｜政策補助
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
