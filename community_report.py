@@ -64,6 +64,7 @@ def generate_community_html(
     mentions: list[StockMention],
     news_items: list[NewsItem],
     date_str: str | None = None,
+    ai_summary: str = "",
 ) -> str:
     news_count = len(news_items)
     date_str = date_str or datetime.now().strftime("%Y-%m-%d")
@@ -187,6 +188,10 @@ h2{{font-size:1rem;margin:24px 0 10px;color:#34495e;
 /* chart */
 .chart-box{{background:#fff;border-radius:10px;padding:16px;
             box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:20px}}
+.ai-summary-box{{background:#eaf2f8;border-left:5px solid #2980b9;
+                 border-radius:8px;padding:16px 20px;margin-bottom:20px;
+                 font-size:.95rem;line-height:1.6}}
+.ai-summary-box h2{{margin-top:0;margin-bottom:12px}}
 /* event cards */
 .ev-card{{background:#fff;border-radius:10px;padding:14px 16px;
           margin-bottom:10px;box-shadow:0 1px 4px rgba(0,0,0,.07)}}
@@ -236,6 +241,8 @@ footer{{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8p
   <div class="stat"><strong>{len(events)}</strong>個熱門話題</div>
   <div class="stat"><strong>{len(top_mentions)}</strong>檔股票被提及</div>
 </div>
+
+{f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{{ai_summary.replace(chr(10), "<br>")}}</p></div>' if ai_summary else ''}
 
 <!-- 話題熱度圖 -->
 <h2>🔥 話題熱度（新聞則數）</h2>
@@ -335,6 +342,7 @@ def generate_community_text(
     date_str: str | None = None,
     top_events: int = 8,
     top_stocks: int = 10,
+    ai_summary: str = "",
 ) -> str:
     date_str  = date_str or datetime.now().strftime("%Y-%m-%d")
     news_count = len(news_items)
@@ -345,6 +353,17 @@ def generate_community_text(
         "═" * 32,
         f"共掃描 {news_count} 則新聞",
         "",
+    ]
+    
+    if ai_summary:
+        lines += [
+            "💡 AI 今日盤勢與焦點速報",
+            "─" * 32,
+            ai_summary,
+            "",
+        ]
+
+    lines += [
         "🔥 熱門話題（依新聞則數）",
         "─" * 32,
     ]

@@ -57,7 +57,7 @@ class GeminiBackend:
         self.client = genai.Client(api_key=api_key)
         self.model  = model
 
-    def call(self, user_msg: str, max_retries: int = 3) -> str:
+    def call(self, user_msg: str, max_retries: int = 3, sys_prompt: str = _SYSTEM_PROMPT) -> str:
         from google.genai import types
         import re
 
@@ -67,7 +67,7 @@ class GeminiBackend:
                     model=self.model,
                     contents=user_msg,
                     config=types.GenerateContentConfig(
-                        system_instruction=_SYSTEM_PROMPT,
+                        system_instruction=sys_prompt,
                     ),
                 )
                 return response.text
@@ -104,11 +104,11 @@ class AnthropicBackend:
         self.client = anthropic.Anthropic(api_key=api_key)
         self.model  = model
 
-    def call(self, user_msg: str, max_retries: int = 3) -> str:
+    def call(self, user_msg: str, max_retries: int = 3, sys_prompt: str = _SYSTEM_PROMPT) -> str:
         response = self.client.messages.create(
             model=self.model,
             max_tokens=2048,
-            system=_SYSTEM_PROMPT,
+            system=sys_prompt,
             messages=[{"role": "user", "content": user_msg}],
         )
         return response.content[0].text
@@ -204,3 +204,39 @@ class LLMClassifier:
         except Exception as e:
             print(f"[LLM Warning] {e}")
             return {}
+
+    def generate_daily_summary(self, events: list[DetectedEvent], top_n: int = 5) -> str:
+        if not events:
+            return "今日無重大事件。"
+        
+        # 準備給 AI 閱讀的素材：最熱門的 top_n 個事件及其標題
+        top_events = sorted(events, key=lambda x: x.article_count, reverse=True)[:top_n]
+        context_lines = []
+        for ev in top_events:
+            context_lines.append(f"事件：{ev.event_name} (新聞：{ev.article_count}則)")
+            for title in ev.source_titles[:3]:  # 取前 3 則標題
+                context_lines.append(f" - {title}")
+            context_lines.append("")
+            
+        context_str = "\n".join(context_lines)
+        
+        system_prompt = (
+            "你是一個專業、中立的財經分析師。\n"
+            "任務：根據以下今日最熱門的財經事件與重點新聞標題，寫一段「今日盤勢與焦點速報」。\n"
+            "格式要求：\n"
+            "1. 【重點提要】：使用 3~5 點中立的條列式，總結最熱門的事件與受影響的產業/焦點。\n"
+            "2. 【具體總結】：用一段 50~100 字的話，統整這些新聞對整體盤勢或資金動向可能的綜合影響。\n"
+            "風格：客觀、精煉，不給予明確的買賣標的建議。\n"
+        )
+        
+        user_msg = f"請根據以下今日最熱門的財經事件與重點新聞標題，產生摘要：\n\n{context_str}"
+        
+        print(f"[LLM] 正在產生盤勢總結 ({self._backend_name})...")
+        try:
+            summary = self.backend.call(user_msg=user_msg, sys_prompt=system_prompt)
+            # 移除可能不小心包裝的 markdown
+            summary = _strip_code_block(summary)
+            return summary.strip()
+        except Exception as e:
+            print(f"[LLM] 產生總結失敗: {e}")
+            return "無法產生總結。"

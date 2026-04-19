@@ -17,6 +17,7 @@ def generate_html_report(
     signals: list[StockSignal],
     news_count: int,
     date_str: str | None = None,
+    ai_summary: str = "",
 ) -> str:
     date_str = date_str or datetime.now().strftime("%Y-%m-%d")
     buy_signals  = [s for s in signals if s.direction == "BUY"][:15]
@@ -156,6 +157,15 @@ tr:hover td {{ background: #fafbfc; }}
   background: #fff; border-radius: 10px; padding: 20px;
   box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-top: 8px;
 }}
+.ai-summary-box {{
+  background: #eaf2f8; border-left: 5px solid #2980b9; 
+  border-radius: 8px; padding: 16px 20px; margin-bottom: 20px;
+  font-size: .95rem; line-height: 1.6;
+}}
+.ai-summary-box h2 {{
+  margin-top: 0;
+  margin-bottom: 12px;
+}}
 footer {{
   margin-top: 40px; font-size: .78rem; color: #bbb; text-align: center; padding: 10px;
 }}
@@ -173,6 +183,8 @@ footer {{
   <div class="stat red"><strong>{len(buy_signals)}</strong>買進信號</div>
   <div class="stat blue"><strong>{len(sell_signals)}</strong>賣出信號</div>
 </div>
+
+{f'<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>{ai_summary.replace(chr(10), "<br>")}</p></div>' if ai_summary else ''}
 
 <!-- 事件表格 -->
 <h2>🔍 偵測到的事件 &amp; 新聞來源</h2>
@@ -307,6 +319,7 @@ def generate_text_report(
     news_count: int,
     date_str: str | None = None,
     top_n: int = 10,
+    ai_summary: str = "",
 ) -> str:
     date_str = date_str or datetime.now().strftime("%Y-%m-%d")
     buy_signals  = [s for s in signals if s.direction == "BUY"][:top_n]
@@ -317,6 +330,17 @@ def generate_text_report(
         "═" * 32,
         f"掃描 {news_count} 則新聞  |  偵測 {len(events)} 個事件",
         "",
+    ]
+    
+    if ai_summary:
+        lines += [
+            "💡 AI 今日盤勢與焦點速報",
+            "─" * 32,
+            ai_summary,
+            "",
+        ]
+
+    lines += [
         "🔍 今日事件 & 新聞",
         "─" * 32,
     ]

@@ -152,6 +152,14 @@ def main() -> None:
     print(f"\n[信號] 共計 {len(signals)} 檔有信號")
     print_signals(signals, top_n=args.top)
 
+    # ③-2 產生 AI 總結
+    ai_summary = ""
+    if getattr(args, "llm", False) and events:
+        try:
+            ai_summary = classifier.generate_daily_summary(events)
+        except Exception as e:
+            print(f"[警告] 產生 AI 總結失敗: {e}")
+
     # ④ 儲存 CSV（選填）
     if args.output:
         save_csv(signals, args.output)
@@ -167,8 +175,8 @@ def main() -> None:
         txt_path  = os.path.join(args.community, f"community_{date_str}.txt")
 
         mentions = count_stock_mentions(news_items)
-        html = generate_community_html(events, mentions, news_items)
-        txt  = generate_community_text(events, mentions, news_items)
+        html = generate_community_html(events, mentions, news_items, ai_summary=ai_summary)
+        txt  = generate_community_text(events, mentions, news_items, ai_summary=ai_summary)
 
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html)
@@ -187,8 +195,8 @@ def main() -> None:
         html_path = os.path.join(args.report, f"report_{date_str}.html")
         txt_path  = os.path.join(args.report, f"report_{date_str}.txt")
 
-        html = generate_html_report(events, signals, len(news_items))
-        txt  = generate_text_report(events, signals, len(news_items))
+        html = generate_html_report(events, signals, len(news_items), ai_summary=ai_summary)
+        txt  = generate_text_report(events, signals, len(news_items), ai_summary=ai_summary)
 
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html)
