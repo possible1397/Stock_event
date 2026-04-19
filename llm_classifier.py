@@ -52,7 +52,7 @@ def _strip_code_block(raw: str) -> str:
 class GeminiBackend:
     """Google Gemini API，內建 429 retry。"""
 
-    def __init__(self, api_key: str, model: str = "gemini-2.5-flash"):
+    def __init__(self, api_key: str, model: str = "gemini-1.5-flash"):
         from google import genai
         self.client = genai.Client(api_key=api_key)
         self.model  = model
@@ -99,7 +99,7 @@ class GeminiBackend:
 class AnthropicBackend:
     """Claude API（付費備用）。"""
 
-    def __init__(self, api_key: str, model: str = "claude-haiku-4-5-20251001"):
+    def __init__(self, api_key: str, model: str = "claude-3-5-haiku-20241022"):
         import anthropic
         self.client = anthropic.Anthropic(api_key=api_key)
         self.model  = model
