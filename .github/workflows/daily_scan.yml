@@ -46,17 +46,32 @@ jobs:
 
       - name: Generate index.html
         run: |
+          # 確保 output 目錄存在
+          mkdir -p output
+          
+          # 取得今日與昨日的日期，確保跳轉不會因為 UTC 轉換而 404
           DATE=$(date +%Y%m%d)
+          
+          # 尋找 output 目錄下最新的一個 community_*.html 檔案
+          LATEST_HTML=$(ls -t output/community_*.html 2>/dev/null | head -n 1 | xargs -n 1 basename 2>/dev/null)
+          TARGET=${LATEST_HTML:-"community_${DATE}.html"}
+
           cat > output/index.html << EOF
           <!DOCTYPE html>
           <html lang="zh-TW">
           <head>
             <meta charset="UTF-8">
-            <meta http-equiv="refresh" content="0; url=community_${DATE}.html">
+            <meta http-equiv="refresh" content="3; url=${TARGET}">
             <title>財經熱點日報</title>
+            <style>
+              body { font-family: sans-serif; text-align: center; padding-top: 50px; color: #444; }
+              .btn { display: inline-block; padding: 10px 20px; background: #2980b9; color: white; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+            </style>
           </head>
           <body>
-            <p>正在跳轉至今日報告... <a href="community_${DATE}.html">點此前往</a></p>
+            <h2>📊 正在跳轉至最新日報...</h2>
+            <p>如果三秒後沒有跳轉，請點擊下方按鈕：</p>
+            <a href="${TARGET}" class="btn">前往今日報告 (${TARGET})</a>
           </body>
           </html>
           EOF

@@ -52,7 +52,7 @@ def _strip_code_block(raw: str) -> str:
 class GeminiBackend:
     """Google Gemini API，內建 429 retry。"""
 
-    def __init__(self, api_key: str, model: str = "gemini-1.5-flash"):
+    def __init__(self, api_key: str, model: str = "gemini-2.5-flash"):
         from google import genai
         self.client = genai.Client(api_key=api_key)
         self.model  = model
@@ -238,5 +238,7 @@ class LLMClassifier:
             summary = _strip_code_block(summary)
             return summary.strip()
         except Exception as e:
-            print(f"[LLM] 產生總結失敗: {e}")
+            print(f"[LLM] 產生總結失敗！錯誤訊息: {e}")
+            import traceback
+            traceback.print_exc()
             return "無法產生總結。"
