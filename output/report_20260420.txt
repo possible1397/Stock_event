@@ -1,0 +1,89 @@
+📊 事件驅動選股日報 2026-04-20
+════════════════════════════════
+掃描 159 則新聞  |  偵測 7 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **AI熱潮持續發酵：** 科技巨頭財報與AI軟硬體應用持續為市場關注焦點。
+2.  **地緣政治風險升溫：** 美伊緊張關係加劇，導致全球主要股指期貨下跌，市場避險情緒升溫。
+3.  **油價受地緣政治推升：** 中東局勢不穩帶動原油價格上漲，對通膨預期及經濟前景構成壓力。
+4.  **高利率環境維持：** 存款及定存利率居高不下，反映市場對利率走勢的預期。
+5.  **美國企業退稅利多：** 千億美元退稅潛力為美國企業帶來資金回流與投資動能。
+
+**【具體總結】**
+今日市場情緒主要受到美伊地緣政治緊張及油價上漲的影響，導致全球股指期貨普遍下跌，避險情緒升高。儘管如此，AI產業的熱潮仍未消退，科技巨頭的表現和相關應用發展持續吸引市場目光。在高利率環境與美國企業退稅政策的背景下，資金流向可能呈現分化，一方面趨於保守，另一方面仍尋求具成長潛力的科技領域，整體盤勢面臨多空交織的局面。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】11 則  🟢高信心
+  ▸ IBM Earnings On Deck Amid AI Software Risk Debate. Here's Wh
+    https://www.investors.com/news/technology/ibm-stock-q1-2026-earnings-preview/?src=A00220&yptr=yahoo
+  ▸ Tesla Robotaxi Service Expands To Dallas And Houston
+    https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo
+  ▸ Is Alphabet (GOOGL) The Best AI Stock to Buy in 2026?
+    https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-best-ai-stock-121126680.html
+
+【戰爭升溫】11 則  🟢高信心
+  ▸ Stock Market Today: Dow Slides On Rising U.S.-Iran Tensions;
+    https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices/?src=A00220&yptr=yahoo
+  ▸ Wall Street just sent oil stocks a brutal message after Iran
+    https://finance.yahoo.com/sectors/energy/articles/wall-street-just-sent-oil-203300330.html
+  ▸ Stock market today: S&P 500, Nasdaq, Dow futures fall as US-
+    https://finance.yahoo.com/markets/stocks/live/stock-market-today-sp-500-nasdaq-dow-futures-fall-as-us-iran-tensions-flare-up-again-to-shutter-hormuz-230354323.html
+
+【油價上升】4 則  🟢高信心
+  ▸ Stock Market Today: Dow Slides On Rising U.S.-Iran Tensions;
+    https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices/?src=A00220&yptr=yahoo
+  ▸ Stock market today: S&P 500, Nasdaq, Dow futures fall as US-
+    https://finance.yahoo.com/markets/stocks/live/stock-market-today-sp-500-nasdaq-dow-futures-fall-as-us-iran-tensions-flare-up-again-to-shutter-hormuz-230354323.html
+  ▸ S&P 500 Holds 7100 as Oil Surges Amid Moment of Hormuz Strai
+    https://finance.yahoo.com/markets/stocks/articles/p-500-holds-7100-oil-124512201.html
+
+【升息】2 則  🟢高信心
+  ▸ Best high-yield savings interest rates today, April 20, 2026
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-20-2026-100000844.html
+  ▸ Best CD rates today, April 20, 2026 (Lock in up to 4.05% APY
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-20-2026-100000576.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 美退稅上看千億美元！PwC 籲企業把握退稅黃金期
+    https://money.udn.com/money/story/5612/9453498
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 記憶體短缺 加深電子產品交期不確定性升高
+    https://money.udn.com/money/story/5612/9453230
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ USA Rare Earth to buy Brazil's Serra Verde for $2.8 billion 
+    https://www.cnbc.com/2026/04/20/usa-rare-earth-serra-verde-minerals-china.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -3.0  建材營造｜升息
+ 8. 5534.TW      -3.0  建材營造｜升息
+ 9. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
