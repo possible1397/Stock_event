@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-04-21
 ════════════════════════════════
-掃描 129 則新聞  |  偵測 7 個事件
+掃描 129 則新聞  |  偵測 1 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,64 +8,24 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】7 則  🟢高信心
-  ▸ Anthropic has ‘unprecedented’ demand — and it’s leaning on A
-    https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories
-  ▸ This AI power company ousted its CEO. Why that could help it
-    https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories
-  ▸ Why Cadence’s ‘ChatGPT moment’ may have already arrived
-    https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories
-
-【戰爭升溫】2 則  🟢高信心
-  ▸ 美伊停火協議明日屆期 黃金白銀價格恐劇烈波動
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%98%8E%E6%97%A5%E5%B1%86%E6%9C%9F-%E9%BB%83%E9%87%91%E7%99%BD%E9%8A%80%E5%83%B9%E6%A0%BC%E6%81%90%E5%8A%87%E7%83%88%E6%B3%A2%E5%8B%95-025426443.html
-  ▸ 伊朗議長稱加密貨幣為「數位石油」：荷莫茲海峽衝突攪動市場
-    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E7%A8%B1%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E7%82%BA-%E6%95%B8%E4%BD%8D%E7%9F%B3%E6%B2%B9-%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%A1%9D%E7%AA%81%E6%94%AA%E5%8B%95%E5%B8%82%E5%A0%B4-024800414.html
-
-【政策補助】1 則  🟡單篇
-  ▸ 台灣人壽注資公建及綠能轉型 加碼4.5億投資吉信持股達45%
-    https://money.udn.com/money/story/5612/9454353
-
-【美元升值】1 則  🟡單篇
-  ▸ 中間價大幅上調，CNY早盤創新高、CNH微貶，同步遊走6.81元上方
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%AA%BF-cny%E6%97%A9%E7%9B%A4%E5%89%B5%E6%96%B0%E9%AB%98-cnh%E5%BE%AE%E8%B2%B6-%E5%90%8C%E6%AD%A5%E9%81%8A%E8%B5%B06-81%E5%85%83%E4%B8%8A%E6%96%B9-025446408.html
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ AI驅動記憶體供應轉移，終端產品交期拉長、漲價會是長期趨勢
-    https://tw.stock.yahoo.com/news/ai%E9%A9%85%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E6%87%89%E8%BD%89%E7%A7%BB-%E7%B5%82%E7%AB%AF%E7%94%A2%E5%93%81%E4%BA%A4%E6%9C%9F%E6%8B%89%E9%95%B7-%E6%BC%B2%E5%83%B9%E6%9C%83%E6%98%AF%E9%95%B7%E6%9C%9F%E8%B6%A8%E5%8B%A2-024853456.html
-
-【通膨上升】1 則  🟡單篇
-  ▸ 總預算之後軍警待遇如何解？卓揆：研議更合理反映物價的調整方式
-    https://tw.stock.yahoo.com/news/%E7%B8%BD%E9%A0%90%E7%AE%97%E4%B9%8B%E5%BE%8C%E8%BB%8D%E8%AD%A6%E5%BE%85%E9%81%87%E5%A6%82%E4%BD%95%E8%A7%A3-%E5%8D%93%E6%8F%86-%E7%A0%94%E8%AD%B0%E6%9B%B4%E5%90%88%E7%90%86%E5%8F%8D%E6%98%A0%E7%89%A9%E5%83%B9%E7%9A%84%E8%AA%BF%E6%95%B4%E6%96%B9%E5%BC%8F-024803850.html
-
-【油價上升】1 則  🟡單篇
-  ▸ 伊朗議長稱加密貨幣為「數位石油」：荷莫茲海峽衝突攪動市場
-    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E7%A8%B1%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E7%82%BA-%E6%95%B8%E4%BD%8D%E7%9F%B3%E6%B2%B9-%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%A1%9D%E7%AA%81%E6%94%AA%E5%8B%95%E5%B8%82%E5%A0%B4-024800414.html
+【AI熱潮】2 則  🟢高信心
+  ▸ Apple’s new CEO is a product perfectionist taking on the AI 
+    https://www.investing.com/news/stock-market-news/apples-new-ceo-is-a-product-perfectionist-taking-on-the-ai-age-4625004
+  ▸ Jeff Bezos’ AI lab nears $38 billion valuation in funding de
+    https://www.investing.com/news/stock-market-news/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft-reports-4625003
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +6.9  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +6.9  油電燃氣｜戰爭升溫、通膨上升
- 3. 2344.TW      +6.0  半導體/記憶體｜AI熱潮、美元升值
- 4. 2330.TW      +4.2  半導體｜AI熱潮、美元升值
- 5. 2454.TW      +4.2  半導體｜AI熱潮、美元升值
- 6. 2303.TW      +4.2  半導體｜AI熱潮、美元升值
- 7. 3711.TW      +4.2  半導體｜AI熱潮、美元升值
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
-
-▼ 賣出信號
-────────────────────────────────
- 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 7. 2317.TW      -3.0  電子零組件｜記憶體漲價、通膨上升
- 8. 2327.TW      -3.0  電子零組件｜記憶體漲價、通膨上升
- 9. 3037.TW      -3.0  電子零組件｜記憶體漲價、通膨上升
+ 1. 2330.TW      +3.0  半導體｜AI熱潮
+ 2. 2454.TW      +3.0  半導體｜AI熱潮
+ 3. 2303.TW      +3.0  半導體｜AI熱潮
+ 4. 2344.TW      +3.0  半導體｜AI熱潮
+ 5. 3711.TW      +3.0  半導體｜AI熱潮
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
