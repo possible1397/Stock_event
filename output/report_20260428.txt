@@ -1,0 +1,111 @@
+📊 事件驅動選股日報 2026-04-28
+════════════════════════════════
+掃描 130 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續，產業內部輪動與應用擴展：** AI概念仍是市場焦點，但個股表現出現分化（如Arm暫歇而Qualcomm上漲），同時AI應用正從硬體向軟體與企業服務層面延伸。
+2.  **全球通膨壓力未減，地緣政治增添不確定性：** 國際原物料價格波動與中東地緣政治緊張，共同推升了對未來通膨走勢的擔憂。
+3.  **各國央行政策分歧，日本央行面臨升息壓力：** 日本央行維持利率不變，但內部對於升息的呼聲升高，反映出全球央行在通膨與經濟成長間的政策權衡。
+4.  **部分經濟數據與企業表現顯露景氣逆風：** 美國部分消費性產業銷售疲軟，中國大陸土地財政收入顯著下滑，顯示部分區域或產業經濟成長動能轉弱。
+
+【具體總結】：
+今日盤勢受多重因素交織影響。AI熱潮仍是市場主要驅動力，但產業內部資金呈現輪動。同時，全球通膨壓力未減，地緣政治緊張情勢升溫，加劇了市場對未來物價走勢的擔憂。部分經濟數據和企業財報則顯露景氣逆風。在各國央行政策分歧下，投資人觀望氣氛濃厚，資金可能在成長性產業與避險資產間尋求平衡，整體市場風險意識升高。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】23 則  🟢高信心
+  ▸ Arm’s stock snaps a seven-day winning streak as it loses som
+    https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories
+  ▸ Qualcomm’s stock gains as an AI opportunity emerges
+    https://www.marketwatch.com/story/qualcomms-stock-soars-as-an-ai-opportunity-emerges-14a6ed98?mod=mw_rss_topstories
+  ▸ This bank CEO let his AI clone handle an earnings call — now
+    https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html
+
+【戰爭升溫】8 則  🟢高信心
+  ▸ Bank of Japan keeps policy rate steady while raising inflati
+    https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html
+  ▸ Trump discussed Iran's Hormuz Strait proposal with top aides
+    https://www.cnbc.com/2026/04/27/trump-iran-war-strait-of-hormuz-rubio.html
+  ▸ Asia-Pacific markets trade mixed as investors assess latest 
+    https://www.cnbc.com/2026/04/28/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ Higher inflation is on the way. The Fed needs to make this c
+    https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories
+  ▸ Bank of Japan keeps policy rate steady while raising inflati
+    https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html
+  ▸ Ray Dalio says Kevin Warsh shouldn't cut interest rates in a
+    https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Ray Dalio says Kevin Warsh shouldn't cut interest rates in a
+    https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html
+  ▸ Domino's Pizza stock falls on disappointing sales — and CEO 
+    https://www.cnbc.com/2026/04/27/dominos-pizza-dpz-earnings-stock-falls-on-weak-sales.html
+  ▸ 中國土地財政滑鐵盧　Q1地方賣地收入年減24.4%
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%9C%9F%E5%9C%B0%E8%B2%A1%E6%94%BF%E6%BB%91%E9%90%B5%E7%9B%A7-q1%E5%9C%B0%E6%96%B9%E8%B3%A3%E5%9C%B0%E6%94%B6%E5%85%A5%E5%B9%B4%E6%B8%9B24-4-034008197.html
+
+【升息】3 則  🟢高信心
+  ▸ Higher inflation is on the way. The Fed needs to make this c
+    https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories
+  ▸ BOJ keeps rates steady but 3 board members dissent, call for
+    https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954
+  ▸ BOJ holds interest rates; flags more hikes amid M.East infla
+    https://www.investing.com/news/economy-news/boj-leaves-interest-rates-steady-flags-more-rate-hikes-amid-inflation-risks-4640232
+
+【油價上升】3 則  🟢高信心
+  ▸ Oil edges higher as traders weigh Iran’s Hormuz offer and Tr
+    https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html
+  ▸ 德國油價管制未奏效　消費者未受益油商利潤反增
+    https://tw.stock.yahoo.com/news/%E5%BE%B7%E5%9C%8B%E6%B2%B9%E5%83%B9%E7%AE%A1%E5%88%B6%E6%9C%AA%E5%A5%8F%E6%95%88-%E6%B6%88%E8%B2%BB%E8%80%85%E6%9C%AA%E5%8F%97%E7%9B%8A%E6%B2%B9%E5%95%86%E5%88%A9%E6%BD%A4%E5%8F%8D%E5%A2%9E-034932766.html
+  ▸ 華航油料占成本近4成，三原則迎戰高油價，歐洲線載客率達90%
+    https://tw.stock.yahoo.com/news/%E8%8F%AF%E8%88%AA%E6%B2%B9%E6%96%99%E5%8D%A0%E6%88%90%E6%9C%AC%E8%BF%914%E6%88%90-%E4%B8%89%E5%8E%9F%E5%89%87%E8%BF%8E%E6%88%B0%E9%AB%98%E6%B2%B9%E5%83%B9-%E6%AD%90%E6%B4%B2%E7%B7%9A%E8%BC%89%E5%AE%A2%E7%8E%87%E9%81%9490-032010936.html
+
+【美元貶值】1 則  🟡單篇
+  ▸ Gold is winning against the dollar as nations manage global 
+    https://www.cnbc.com/2026/04/27/gold-is-winning-out-against-the-dollar-as-nations-manage-global-strife.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Micron and Sandisk continue rally as demand for memory expec
+    https://www.cnbc.com/2026/04/27/micron-and-sandisk-pop-as-memory-demand-to-remain-high-through-2030.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 歐盟擬設「歐洲製造」門檻 中國揚言祭出貿易報復
+    https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E6%93%AC%E8%A8%AD-%E6%AD%90%E6%B4%B2%E8%A3%BD%E9%80%A0-%E9%96%80%E6%AA%BB-%E4%B8%AD%E5%9C%8B%E6%8F%9A%E8%A8%80%E7%A5%AD%E5%87%BA%E8%B2%BF%E6%98%93%E5%A0%B1%E5%BE%A9-034349334.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 大南方新矽谷現成果 蕭美琴推AI十大建設走入生活應用
+    https://tw.news.yahoo.com/%E5%A4%A7%E5%8D%97%E6%96%B9%E6%96%B0%E7%9F%BD%E8%B0%B7%E7%8F%BE%E6%88%90%E6%9E%9C-%E8%95%AD%E7%BE%8E%E7%90%B4%E6%8E%A8ai%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD%E8%B5%B0%E5%85%A5%E7%94%9F%E6%B4%BB%E6%87%89%E7%94%A8-032135403.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 8. 2330.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
