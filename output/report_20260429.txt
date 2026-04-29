@@ -1,0 +1,108 @@
+📊 事件驅動選股日報 2026-04-29
+════════════════════════════════
+掃描 126 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **AI熱潮持續主導市場：** 從科技巨頭的策略佈局、對基礎設施與能源方案的需求，到政府層級的政策引導，AI題材全面牽動產業發展與資金流向。
+2.  **地緣政治風險影響油價：** 中東緊張局勢持續受到關注，國際油價波動加劇，市場對地緣政治因素的敏感度仍高，但部分市場展現韌性。
+3.  **全球通膨前景分歧：** 澳洲等部分地區通膨數據跳升，引發升息預期，而其他區域則呈現不同趨勢，凸顯全球經濟復甦與通膨壓力並存的複雜性。
+4.  **記憶體市場動能轉強：** 受惠於AI對高階記憶體需求，記憶體控制晶片與相關產業展望樂觀，產業龍頭間的策略合作預示供應鏈的整合。
+5.  **貿易與供應鏈戰略受關注：** 關鍵材料（如稀土）的供應鏈安全與能源貿易的地緣政治角力，持續影響國際經貿格局及企業策略。
+
+**【具體總結】**
+今日市場核心驅動力仍是AI熱潮，預期將持續引導資金流向相關科技、基礎設施與能源解決方案。儘管中東地緣政治緊張與部分地區通膨壓力可能為市場帶來波動與不確定性，但記憶體產業因AI需求而展現復甦跡象，為半導體板塊注入動能。此外，全球貿易與供應鏈策略受地緣政治深刻影響，對關鍵資源的投資與佈局將是長期焦點。整體盤勢反映AI題材的強勁主導，與多重外部風險因素並存的複雜局面。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】22 則  🟢高信心
+  ▸ White House drafts guidance to bypass Anthropic’s risk flag 
+    https://www.investing.com/news/economy-news/white-house-drafts-guidance-to-bypass-anthropics-risk-flag-for-new-ai-models-axios-reports-4643479
+  ▸ Can Meta make money on AI beyond consumer ads? That’s a big 
+    https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories
+  ▸ Bloom Energy is riding the AI wave with a major lift from Or
+    https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Here’s where Robinhood’s retail traders have flocked as the 
+    https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories
+  ▸ The stock market’s comeback from the Iran-inspired selloff h
+    https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories
+  ▸ U.S. oil hovers near $100 on report Trump dissatisfied with 
+    https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ Australia inflation jumps with worse to come, rate hike loom
+    https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465
+  ▸ These bonds protect against inflation. How to optimize them 
+    https://www.cnbc.com/2026/04/28/these-bonds-protect-against-inflation-how-to-optimize-them-for-your-portfolio.html
+  ▸ Australia reports lower-than-expected first-quarter inflatio
+    https://www.cnbc.com/2026/04/29/australia-inflation-q1-rba-rate-hike-outlook.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ 慧榮：第2季強勁動能延續 營收估季增20%
+    https://money.udn.com/money/story/5612/9471306
+  ▸ 輝達高層傳會三星、SK海力士，實體AI合作牽動記憶體戰局
+    https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E9%AB%98%E5%B1%A4%E5%82%B3%E6%9C%83%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB-%E5%AF%A6%E9%AB%94ai%E5%90%88%E4%BD%9C%E7%89%BD%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E6%88%B0%E5%B1%80-033029839.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 沒有礦山！台灣想參與川普「稀土好友圈」打造稀土防線玩真的？
+    https://money.udn.com/money/story/5612/9471012
+  ▸ U.S. warns banks of sanctions risk over China ‘teapot’ refin
+    https://www.cnbc.com/2026/04/29/us-treasury-warns-sanctions-china-refineries-iran-oil-malaysian-blend.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 國泰世華中小企業永續金融夥伴專案 鼓勵企業節能成果顯著
+    https://money.udn.com/money/story/5612/9471087
+  ▸ 普發現金1萬明天到期！3萬人登記失敗不知道 財政部加強宣導
+    https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%911%E8%90%AC%E6%98%8E%E5%A4%A9%E5%88%B0%E6%9C%9F-3%E8%90%AC%E4%BA%BA%E7%99%BB%E8%A8%98%E5%A4%B1%E6%95%97%E4%B8%8D%E7%9F%A5%E9%81%93-%E8%B2%A1%E6%94%BF%E9%83%A8%E5%8A%A0%E5%BC%B7%E5%AE%A3%E5%B0%8E-034615669.html
+
+【油價上升】2 則  🟢高信心
+  ▸ U.S. oil hovers near $100 on report Trump dissatisfied with 
+    https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html
+  ▸ Starbucks raises full-year outlook as turnaround takes hold 
+    https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html
+
+【升息】1 則  🟡單篇
+  ▸ Australia inflation jumps with worse to come, rate hike loom
+    https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Jamie Dimon warns of 'some kind of bond crisis' ahead as glo
+    https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 中東局勢推升運價　航運業界看2026年旺季可期
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E6%8E%A8%E5%8D%87%E9%81%8B%E5%83%B9-%E8%88%AA%E9%81%8B%E6%A5%AD%E7%95%8C%E7%9C%8B2026%E5%B9%B4%E6%97%BA%E5%AD%A3%E5%8F%AF%E6%9C%9F-035922199.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.4  電子零組件｜通膨上升、記憶體漲價
+ 2. 2327.TW      -4.4  電子零組件｜通膨上升、記憶體漲價
+ 3. 3037.TW      -4.4  電子零組件｜通膨上升、記憶體漲價
+ 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
