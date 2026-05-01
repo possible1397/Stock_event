@@ -1,0 +1,114 @@
+📊 事件驅動選股日報 2026-05-01
+════════════════════════════════
+掃描 130 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮延燒並擴散：** AI晶片需求持續帶動相關產業成長，韓國等晶片出口國表現亮眼，市場對AI概念股的關注從龍頭股擴展至潛力股。
+2.  **地緣政治與油價波動：** 中東地緣緊張局勢推升油價，但全球股市整體展現韌性，亞洲市場在華爾街創新高帶動下仍呈上漲態勢。
+3.  **通膨壓力持續存在：** 核心通膨率維持高檔，半導體等關鍵零組件面臨漲價趨勢，上游成本上升可能影響終端產品價格與企業獲利。
+4.  **政府政策提供支撐：** 各國政府積極推出產業補貼（如對AI晶片）、國防預算與減稅措施，為特定戰略產業及整體經濟注入動能。
+5.  **新興市場表現強勁：** 在AI帶動的科技需求與高油價雙重利好下，新興市場股市迎來良好表現。
+
+【具體總結】：
+今日盤勢主要受到AI熱潮持續主導，晶片需求強勁帶動出口成長，並引發市場對AI相關供應鏈的廣泛關注。儘管核心通膨壓力持續存在，且中東地緣政治緊張推升油價，但全球主要市場展現一定韌性，特別是新興市場在AI與高油價的交織作用下表現突出。政府的產業扶持政策和財政措施，也為科技及國防等特定產業提供支撐。資金動向可能持續關注AI相關概念股，同時留意高油價對產業鏈成本及能源板塊的影響。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】24 則  🟢高信心
+  ▸ Alphabet hits a milestone as it closes in on Nvidia
+    https://www.marketwatch.com/story/alphabet-hits-a-milestone-as-it-closes-in-on-nvidia-00622b31?mod=mw_rss_topstories
+  ▸ Cathie Wood buys $18 million of beaten-down AI stock
+    https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html
+  ▸ South Korean April exports rise 48.0% y/y as chip boom exten
+    https://www.investing.com/news/economic-indicators/south-korea-april-exports-rise-480-yy-as-chip-boom-continues-4651835
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Asia stocks rise tracking Wall St record highs; renewed Iran
+    https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-wall-st-record-highs-renewed-iran-fears-limit-gains-4651874
+  ▸ Oil rises as White House says Iran ceasefire halts 60-day wa
+    https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html
+  ▸ Australia and Japan markets climb, looking past Iran war esc
+    https://www.cnbc.com/2026/05/01/asia-markets-today-asx-200-nikkei-225-labor-day-live-updates.html
+
+【油價上升】6 則  🟢高信心
+  ▸ Oil rises as White House says Iran ceasefire halts 60-day wa
+    https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html
+  ▸ Trump said his blockade would cause Iran's oil industry to '
+    https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html
+  ▸ AI熱潮與高油價交織 新興市場股市迎兩年最佳表現
+    https://tw.stock.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%88%87%E9%AB%98%E6%B2%B9%E5%83%B9%E4%BA%A4%E7%B9%94-%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4%E8%82%A1%E5%B8%82%E8%BF%8E%E5%85%A9%E5%B9%B4%E6%9C%80%E4%BD%B3%E8%A1%A8%E7%8F%BE-035440072.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ Core inflation rate hit 3.2% in March as first-quarter growt
+    https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html
+  ▸ 安聯投信：上游零組件漲價 推升台股企業獲利上修
+    https://money.udn.com/money/story/5612/9475753
+  ▸ 半導體通膨趨勢成形 晶圓代工、IC設計紛漲價
+    https://money.udn.com/money/story/5612/9475750
+
+【政策補助】3 則  🟢高信心
+  ▸ 卓榮泰：1.25兆元國防特別條例包含三大拼圖 盼立院全數合理審議
+    https://tw.news.yahoo.com/%E5%8D%93%E6%A6%AE%E6%B3%B0-1-25%E5%85%86%E5%85%83%E5%9C%8B%E9%98%B2%E7%89%B9%E5%88%A5%E6%A2%9D%E4%BE%8B%E5%8C%85%E5%90%AB%E4%B8%89%E5%A4%A7%E6%8B%BC%E5%9C%96-%E7%9B%BC%E7%AB%8B%E9%99%A2%E5%85%A8%E6%95%B8%E5%90%88%E7%90%86%E5%AF%A9%E8%AD%B0-034331908.html
+  ▸ 〈報稅新制上路〉減稅很有感！基本生活與長照扣除額加碼 注意「擬制遺產」新規別踩雷
+    https://tw.stock.yahoo.com/news/%E5%A0%B1%E7%A8%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E6%B8%9B%E7%A8%85%E5%BE%88%E6%9C%89%E6%84%9F-%E5%9F%BA%E6%9C%AC%E7%94%9F%E6%B4%BB%E8%88%87%E9%95%B7%E7%85%A7%E6%89%A3%E9%99%A4%E9%A1%8D%E5%8A%A0%E7%A2%BC-%E6%B3%A8%E6%84%8F-%E6%93%AC%E5%88%B6%E9%81%BA%E7%94%A2-031834485.html
+  ▸ 英特爾股價四月飆漲逾一倍 AI晶片與政府力挺成雙引擎
+    https://tw.stock.yahoo.com/news/%E8%8B%B1%E7%89%B9%E7%88%BE%E8%82%A1%E5%83%B9%E5%9B%9B%E6%9C%88%E9%A3%86%E6%BC%B2%E9%80%BE-%E5%80%8D-ai%E6%99%B6%E7%89%87%E8%88%87%E6%94%BF%E5%BA%9C%E5%8A%9B%E6%8C%BA%E6%88%90%E9%9B%99%E5%BC%95%E6%93%8E-023035537.html
+
+【升息】2 則  🟢高信心
+  ▸ Mortgage rates increase to 6.3% — but home buyers aren’t sca
+    https://www.marketwatch.com/story/mortgage-rates-increase-to-6-3-but-thats-not-stopping-home-buyers-8f24ecbb?mod=mw_rss_topstories
+  ▸ Will rates go higher in Europe this week? Central banks conf
+    https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html
+
+【美元升值】2 則  🟢高信心
+  ▸ Yen steadies after Japan intervention; traders brace for mor
+    https://www.investing.com/news/economy-news/yen-trims-gains-against-dollar-after-japans-intervention-in-markets-4651833
+  ▸ 日圓貶破160大關 日本當局相隔1年10個月干預止貶
+    https://tw.news.yahoo.com/%E6%97%A5%E5%9C%93%E8%B2%B6%E7%A0%B4160%E5%A4%A7%E9%97%9C-%E6%97%A5%E6%9C%AC%E7%95%B6%E5%B1%80%E7%9B%B8%E9%9A%941%E5%B9%B410%E5%80%8B%E6%9C%88%E5%B9%B2%E9%A0%90%E6%AD%A2%E8%B2%B6-030856510.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Why Portland's empty store fronts are causing a budget crisi
+    https://www.cnbc.com/video/2026/04/30/portlands-empty-storefronts-are-costing-the-city-millions.html
+  ▸ 【房地產週報】台股破4萬點房市沒跟上？五大科學園區「這9區」悄悄跌了！全台房市「版圖大洗牌」南港、嘉義成新黑馬
+    https://tw.stock.yahoo.com/news/%E3%80%90%E6%88%BF%E5%9C%B0%E7%94%A2%E9%80%B1%E5%A0%B1%E3%80%91%E5%8F%B0%E8%82%A1%E7%A0%B44%E8%90%AC%E9%BB%9E%E6%88%BF%E5%B8%82%E6%B2%92%E8%B7%9F%E4%B8%8A%EF%BC%9F%E4%BA%94%E5%A4%A7%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E3%80%8C%E9%80%999%E5%8D%80%E3%80%8D%E6%82%84%E6%82%84%E8%B7%8C%E4%BA%86%EF%BC%81%E5%85%A8%E5%8F%B0%E6%88%BF%E5%B8%82%E3%80%8C%E7%89%88%E5%9C%96%E5%A4%A7%E6%B4%97%E7%89%8C%E3%80%8D%E5%8D%97%E6%B8%AF%E3%80%81%E5%98%89%E7%BE%A9%E6%88%90%E6%96%B0%E9%BB%91%E9%A6%AC-023100593.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ China, US economic chiefs raise complaints in ’candid’ call 
+    https://www.investing.com/news/economy-news/china-us-trade-chiefs-had-candid-call-weeks-ahead-of-expected-trumpxi-summit-4650185
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ South Korean April exports rise 48.0% y/y as chip boom exten
+    https://www.investing.com/news/economic-indicators/south-korea-april-exports-rise-480-yy-as-chip-boom-continues-4651835
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
