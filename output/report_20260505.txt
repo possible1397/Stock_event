@@ -1,0 +1,113 @@
+📊 事件驅動選股日報 2026-05-05
+════════════════════════════════
+掃描 132 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  【重點提要】：
+    *   AI產業熱潮持續，相關企業營收表現強勁，且技術應用領域正朝機器人與硬體拓展，國家安全亦將AI納入防衛韌性重點。
+    *   地緣政治風險升溫，尤其伊朗相關情勢引發亞洲股市下跌，並促使金融機構評估戰爭風險。
+    *   全球通膨壓力加劇，大宗商品價格顯著上漲，民生消費品面臨漲價危機，企業營運成本隨之升高。
+    *   記憶體價格持續走揚，相關供應鏈表現受關注，但同時也為下游廠商帶來成本壓力。
+    *   油價上漲導致企業燃料及運輸成本增加，可能對企業獲利及整體股市構成壓力。
+
+2.  【具體總結】：
+    今日市場呈現多空交雜局面。一方面，AI產業動能強勁，相關概念股持續受資金青睞。另一方面，地緣政治衝突加劇，特別是中東局勢緊張，引發市場避險情緒並壓抑股市表現。同時，全球通膨壓力因大宗商品、記憶體及油價上漲而顯著升溫，推升企業營運成本，進而可能影響消費者支出及整體經濟增長。預期短期內市場將在AI成長動能與通膨、地緣政治風險之間權衡，維持波動格局。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】21 則  🟢高信心
+  ▸ Palantir posts its fastest revenue growth ever while calling
+    https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories
+  ▸ OpenAI explored robotics and hardware spinoff in race to IPO
+    https://www.investing.com/news/stock-market-news/openai-explored-robotics-and-hardware-spinoff-in-race-to-ipo-wsj-93CH-4657765
+  ▸ 調查局：以 AI 強化「數位國土」防衛韌性 反制 AI 時代複合式認知戰
+    https://money.udn.com/money/story/5612/9482453
+
+【戰爭升溫】7 則  🟢高信心
+  ▸ US military says it struck vessel in Caribbean, killing two
+    https://www.investing.com/news/world-news/us-military-says-it-struck-vessel-in-caribbean-killing-two-4657769
+  ▸ Australian lender Westpac flags Iran war risks as first-half
+    https://www.investing.com/news/economy-news/australias-westpac-firsthalf-profit-growth-misses-estimates-on-margin-pressure-4657631
+  ▸ Asia stocks fall as Iran tensions surge; Australia weakens a
+    https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-iran-tensions-surge-australia-weakens-ahead-of-rba-decision-4657763
+
+【通膨上升】5 則  🟢高信心
+  ▸ The silent crisis taxing your grocery bill could get a lot l
+    https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories
+  ▸ 野村投信：台股多頭三大核心領域「缺貨漲價」
+    https://money.udn.com/money/story/5612/9482377
+  ▸ 中國4月大宗商品價格年漲20.2%創近兩年最大升幅，近八成商品上漲
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B4%E6%9C%88%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E5%83%B9%E6%A0%BC%E5%B9%B4%E6%BC%B220-2-%E5%89%B5%E8%BF%91%E5%85%A9%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%8D%87%E5%B9%85-%E8%BF%91%E5%85%AB%E6%88%90%E5%95%86%E5%93%81%E4%B8%8A%E6%BC%B2-030717583.html
+
+【記憶體漲價】4 則  🟢高信心
+  ▸ Here’s just how quickly Micron has risen up the ranks of the
+    https://www.marketwatch.com/story/heres-just-how-quickly-micron-has-risen-up-the-ranks-of-the-top-u-s-companies-fd95ae8d?mod=mw_rss_topstories
+  ▸ Sonos expects Q3 revenue of $355M-$375M amid ~400 bps memory
+    https://seekingalpha.com/news/4585290-sonos-expects-q3-revenue-of-355m-375m-amid-400-bps-memory-cost-headwind?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 華邦電法說會下午登場！股價暖身上漲3%一度站回百元 分析師：尚未轉強
+    https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E4%B8%8B%E5%8D%88%E7%99%BB%E5%A0%B4%EF%BC%81%E8%82%A1%E5%83%B9%E6%9A%96%E8%BA%AB%E4%B8%8A%E6%BC%B23%E4%B8%80%E5%BA%A6%E7%AB%99%E5%9B%9E%E7%99%BE%E5%85%83-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%B0%9A%E6%9C%AA%E8%BD%89%E5%BC%B7-032210766.html
+
+【油價上升】3 則  🟢高信心
+  ▸ 君善輪5/6到港 台塑化：煉油開動率逐步拉升到8成
+    https://money.udn.com/money/story/10871/9482419
+  ▸ 油價飆升恐拖累美股 高盛預警華爾街將面臨壓力
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E6%81%90%E6%8B%96%E7%B4%AF%E7%BE%8E%E8%82%A1-%E9%AB%98%E7%9B%9B%E9%A0%90%E8%AD%A6%E8%8F%AF%E7%88%BE%E8%A1%97%E5%B0%87%E9%9D%A2%E8%87%A8%E5%A3%93%E5%8A%9B-025303116.html
+  ▸ 運費燃料成本壓力加劇，澳洲零售巨頭Wesfarmers調漲部分商品價格
+    https://tw.stock.yahoo.com/news/%E9%81%8B%E8%B2%BB%E7%87%83%E6%96%99%E6%88%90%E6%9C%AC%E5%A3%93%E5%8A%9B%E5%8A%A0%E5%8A%87-%E6%BE%B3%E6%B4%B2%E9%9B%B6%E5%94%AE%E5%B7%A8%E9%A0%ADwesfarmers%E8%AA%BF%E6%BC%B2%E9%83%A8%E5%88%86%E5%95%86%E5%93%81%E5%83%B9%E6%A0%BC-025232304.html
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ 川普擬提高汽車關稅 歐盟貿易代表將晤美方對口
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E6%93%AC%E6%8F%90%E9%AB%98%E6%B1%BD%E8%BB%8A%E9%97%9C%E7%A8%85-%E6%AD%90%E7%9B%9F%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8%E5%B0%87%E6%99%A4%E7%BE%8E%E6%96%B9%E5%B0%8D%E5%8F%A3-031944194.html
+  ▸ 美非法關稅退款延後一天至5/12啟動，首批採電子方式發放
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%9D%9E%E6%B3%95%E9%97%9C%E7%A8%85%E9%80%80%E6%AC%BE%E5%BB%B6%E5%BE%8C-%E5%A4%A9%E8%87%B35-12%E5%95%9F%E5%8B%95-%E9%A6%96%E6%89%B9%E6%8E%A1%E9%9B%BB%E5%AD%90%E6%96%B9%E5%BC%8F%E7%99%BC%E6%94%BE-030719387.html
+  ▸ 路透：川普關稅退款　最快「5/12啟動」
+    https://tw.news.yahoo.com/%E8%B7%AF%E9%80%8F-%E5%B7%9D%E6%99%AE%E9%97%9C%E7%A8%85%E9%80%80%E6%AC%BE-%E6%9C%80%E5%BF%AB-5-12%E5%95%9F%E5%8B%95-025555013.html
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ 油價飆升恐拖累美股 高盛預警華爾街將面臨壓力
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E6%81%90%E6%8B%96%E7%B4%AF%E7%BE%8E%E8%82%A1-%E9%AB%98%E7%9B%9B%E9%A0%90%E8%AD%A6%E8%8F%AF%E7%88%BE%E8%A1%97%E5%B0%87%E9%9D%A2%E8%87%A8%E5%A3%93%E5%8A%9B-025303116.html
+  ▸ BYD's passenger EV sales drop for an eighth month as competi
+    https://www.cnbc.com/2026/05/05/byd-april-sales-exports-china-ev-rivals-leapmotor-zeekr.html
+  ▸ Spirit Airlines CEO on carrier's collapse: 'We just kind of 
+    https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html
+
+【政策補助】2 則  🟢高信心
+  ▸ Apple explores using Intel, Samsung to build main device chi
+    https://www.investing.com/news/stock-market-news/apple-explores-using-intel-samsung-to-build-main-device-chips-in-the-us-bloomberg-news-reports-4657766
+  ▸ 和潤攜手交通部公路局 推動機車駕訓補助1,400名額
+    https://money.udn.com/money/story/5612/9482414
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 運費燃料成本壓力加劇，澳洲零售巨頭Wesfarmers調漲部分商品價格
+    https://tw.stock.yahoo.com/news/%E9%81%8B%E8%B2%BB%E7%87%83%E6%96%99%E6%88%90%E6%9C%AC%E5%A3%93%E5%8A%9B%E5%8A%A0%E5%8A%87-%E6%BE%B3%E6%B4%B2%E9%9B%B6%E5%94%AE%E5%B7%A8%E9%A0%ADwesfarmers%E8%AA%BF%E6%BC%B2%E9%83%A8%E5%88%86%E5%95%86%E5%93%81%E5%83%B9%E6%A0%BC-025232304.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2408.TW      +2.5  記憶體｜記憶體漲價
+ 9. 3260.TW      +2.5  記憶體｜記憶體漲價
+10. 3576.TWO     +2.5  綠能｜政策補助
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -5.0  電子零組件｜通膨上升、記憶體漲價
+ 2. 2327.TW      -5.0  電子零組件｜通膨上升、記憶體漲價
+ 3. 3037.TW      -5.0  電子零組件｜通膨上升、記憶體漲價
+ 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
