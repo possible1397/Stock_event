@@ -1,93 +1,71 @@
 📊 事件驅動選股日報 2026-05-07
 ════════════════════════════════
-掃描 128 則新聞  |  偵測 10 個事件
+掃描 125 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】
-1.  **AI熱潮持續延燒：** AI相關產業鏈持續受市場關注，尤其在半導體設計、封裝及資料中心關鍵零組件（如矽光子CPO）等領域，顯示產業策略佈局積極。
-2.  **地緣政治緊張升溫：** 中東衝突情勢加劇，引發市場對能源供應的擔憂，並成為東協峰會討論的重點挑戰。
-3.  **國際油價上漲壓力：** 地緣政治因素連帶推升國際油價，已開始反映在航空等產業的燃油成本上，恐壓縮企業獲利空間。
-4.  **全球景氣與市場警訊：** 部分大宗商品需求預期放緩，加上企業財測趨於謹慎，以及大型機構對市場修正風險的警告，暗示經濟前景存在不確定性。
-5.  **美元維持強勢格局：** 美元持續走強，促使部分國家面臨本幣貶值壓力，並可能引發潛在的匯市干預行動。
-
-【具體總結】
-今日市場焦點集中於AI領域的持續創新與資金動能，科技股表現仍受期待。然而，中東地緣政治緊張情勢升溫，不僅推升油價，也對特定產業營運成本構成壓力，同時加劇了市場對全球經濟潛在放緩的擔憂。美元的強勢表現進一步凸顯資金避險需求。整體而言，投資人資金可能在AI的成長潛力與地緣政治、能源成本及經濟前景不確定性之間權衡，導致盤勢呈現多空交雜、謹慎觀望的局面。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】15 則  🟢高信心
+【AI熱潮】20 則  🟢高信心
   ▸ Fortinet’s stock rockets higher as earnings help dispel fear
     https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories
   ▸ Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Me
     https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories
-  ▸ 日月光集團啟動策略規劃　攻AI用矽光子CPO方案
-    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%88%E5%85%89%E9%9B%86%E5%9C%98%E5%95%9F%E5%8B%95%E7%AD%96%E7%95%A5%E8%A6%8F%E5%8A%83-%E6%94%BBai%E7%94%A8%E7%9F%BD%E5%85%89%E5%AD%90cpo%E6%96%B9%E6%A1%88-035307272.html
+  ▸ Japanese chip and tech shares surge as AMD earnings spark AI
+    https://www.investing.com/news/stock-market-news/japanese-chip-and-tech-shares-surge-as-amd-earnings-spark-ai-optimism-4666156
 
-【戰爭升溫】8 則  🟢高信心
-  ▸ 東協峰會菲國宿霧開幕 討論中東衝突引發能源挑戰
-    https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%94%E5%B3%B0%E6%9C%83%E8%8F%B2%E5%9C%8B%E5%AE%BF%E9%9C%A7%E9%96%8B%E5%B9%95-%E8%A8%8E%E8%AB%96%E4%B8%AD%E6%9D%B1%E8%A1%9D%E7%AA%81%E5%BC%95%E7%99%BC%E8%83%BD%E6%BA%90%E6%8C%91%E6%88%B0-033657753.html
+【戰爭升溫】7 則  🟢高信心
+  ▸ China may try ’manoeuvring’ over Taiwan issue at Trump meeti
+    https://www.investing.com/news/world-news/china-may-try-manoeuvring-over-taiwan-issue-at-trump-meeting-official-says-4666157
   ▸ Iran war threatens jet fuel shortage that could disrupt summ
     https://www.cnbc.com/2026/05/06/iran-war-jet-fuel-europe-asia-summer-flights.html
   ▸ Snap issues cautious guidance as Perplexity deal ends, Middl
     https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html
 
-【油價上升】7 則  🟢高信心
+【油價上升】4 則  🟢高信心
   ▸ Everyone’s paying more for gas, but only some are cutting ba
     https://www.marketwatch.com/story/everyones-paying-more-for-gas-but-only-some-are-cutting-back-heres-why-6366212e?mod=mw_rss_topstories
-  ▸ 東協峰會菲國宿霧開幕 討論中東衝突引發能源挑戰
-    https://tw.news.yahoo.com/%E6%9D%B1%E5%8D%94%E5%B3%B0%E6%9C%83%E8%8F%B2%E5%9C%8B%E5%AE%BF%E9%9C%A7%E9%96%8B%E5%B9%95-%E8%A8%8E%E8%AB%96%E4%B8%AD%E6%9D%B1%E8%A1%9D%E7%AA%81%E5%BC%95%E7%99%BC%E8%83%BD%E6%BA%90%E6%8C%91%E6%88%B0-033657753.html
-  ▸ 美航企3月燃油支出月比暴增逾五成，油價衝擊開始壓縮航空獲利
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%88%AA%E4%BC%813%E6%9C%88%E7%87%83%E6%B2%B9%E6%94%AF%E5%87%BA%E6%9C%88%E6%AF%94%E6%9A%B4%E5%A2%9E%E9%80%BE%E4%BA%94%E6%88%90-%E6%B2%B9%E5%83%B9%E8%A1%9D%E6%93%8A%E9%96%8B%E5%A7%8B%E5%A3%93%E7%B8%AE%E8%88%AA%E7%A9%BA%E7%8D%B2%E5%88%A9-031305215.html
+  ▸ Surging gas prices are hitting lower-income households harde
+    https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html
+  ▸ Iran war threatens jet fuel shortage that could disrupt summ
+    https://www.cnbc.com/2026/05/06/iran-war-jet-fuel-europe-asia-summer-flights.html
 
 【景氣轉弱】3 則  🟢高信心
-  ▸ ITA預估今年全球錫礦供應大增，精煉錫產量微升但消費需求面臨下滑
-    https://tw.stock.yahoo.com/news/ita%E9%A0%90%E4%BC%B0%E4%BB%8A%E5%B9%B4%E5%85%A8%E7%90%83%E9%8C%AB%E7%A4%A6%E4%BE%9B%E6%87%89%E5%A4%A7%E5%A2%9E-%E7%B2%BE%E7%85%89%E9%8C%AB%E7%94%A2%E9%87%8F%E5%BE%AE%E5%8D%87%E4%BD%86%E6%B6%88%E8%B2%BB%E9%9C%80%E6%B1%82%E9%9D%A2%E8%87%A8%E4%B8%8B%E6%BB%91-031533697.html
+  ▸ Siemens Healthineers trims 2026 outlook as China weakness hi
+    https://www.investing.com/news/earnings/siemens-healthineers-trims-2026-outlook-as-china-weakness-hit-q2-profit-4666158
   ▸ Snap issues cautious guidance as Perplexity deal ends, Middl
     https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html
   ▸ Apollo CEO Rowan warns of market correction, slams 'egregiou
     https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html
 
-【美元升值】2 則  🟢高信心
-  ▸ Japan says it has no limits on yen intervention, in daily co
-    https://www.investing.com/news/economy-news/japan-forex-czar-says-imf-floating-rate-label-does-not-limit-currency-action-4666078
-  ▸ 將來銀行推24小時全線上外匯服務 美元定存5.5%、日圓讓分0.03分
-    https://money.udn.com/money/story/5612/9487434
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ China asks banks to pause new loans to US-sanctioned refiner
-    https://www.investing.com/news/economy-news/china-asks-banks-to-pause-new-loans-to-ussanctioned-refiners-bloomberg-news-reports-4666129
-
-【政策補助】1 則  🟡單篇
-  ▸ 台美簽署MOU 「20家台企」擬對美投資350億美元
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%BE%8E%E7%B0%BD%E7%BD%B2mou-20%E5%AE%B6%E5%8F%B0%E4%BC%81-%E6%93%AC%E5%B0%8D%E7%BE%8E%E6%8A%95%E8%B3%87350%E5%84%84%E7%BE%8E%E5%85%83-035100734.html
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ 中國儲存硬體類股在港行情升溫，瀾起科技等H股溢價超越寧德時代
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%84%B2%E5%AD%98%E7%A1%AC%E9%AB%94%E9%A1%9E%E8%82%A1%E5%9C%A8%E6%B8%AF%E8%A1%8C%E6%83%85%E5%8D%87%E6%BA%AB-%E7%80%BE%E8%B5%B7%E7%A7%91%E6%8A%80%E7%AD%89h%E8%82%A1%E6%BA%A2%E5%83%B9%E8%B6%85%E8%B6%8A%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3-035032270.html
-
-【升息】1 則  🟡單篇
-  ▸ 將來銀行推24小時全線上外匯服務 美元定存5.5%、日圓讓分0.03分
-    https://money.udn.com/money/story/5612/9487434
-
-【通膨上升】1 則  🟡單篇
+【通膨上升】2 則  🟢高信心
+  ▸ Everyone’s paying more for gas, but only some are cutting ba
+    https://www.marketwatch.com/story/everyones-paying-more-for-gas-but-only-some-are-cutting-back-heres-why-6366212e?mod=mw_rss_topstories
   ▸ Surging gas prices are hitting lower-income households harde
     https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html
 
+【美元升值】1 則  🟡單篇
+  ▸ Japan signals it will act without limit to defend yen, in da
+    https://www.investing.com/news/economy-news/japan-forex-czar-says-imf-floating-rate-label-does-not-limit-currency-action-4666078
+
+【政策補助】1 則  🟡單篇
+  ▸ 雙首長訪美深化 AI 戰略夥伴 國發會：建融資保證機制助企業布局
+    https://money.udn.com/money/story/5612/9487811
+
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
- 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
- 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
- 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
- 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2330.TW      +2.9  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      +2.9  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      +2.9  半導體｜AI熱潮、景氣轉弱
 
 ▼ 賣出信號
 ────────────────────────────────
@@ -95,12 +73,11 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -3.6  電子零組件｜景氣轉弱、關稅/貿易戰
- 6. 2327.TW      -3.6  電子零組件｜景氣轉弱、關稅/貿易戰
- 7. 3037.TW      -3.6  電子零組件｜景氣轉弱、關稅/貿易戰
+ 5. 2317.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2515.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
