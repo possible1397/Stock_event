@@ -1,97 +1,95 @@
 📊 事件驅動選股日報 2026-05-11
 ════════════════════════════════
-掃描 121 則新聞  |  偵測 10 個事件
+掃描 123 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】
-1.  **AI熱潮持續：** 大型科技公司在AI領域的資本支出龐大，引起市場對其對股東回報的潛在影響討論，Nvidia財報表現成為焦點。
-2.  **地緣政治升溫：** 中東地緣政治緊張情勢加劇，導致國際油價上漲，市場對區域衝突擴大風險的擔憂升高。
-3.  **原物料與通膨壓力：** 受地緣政治衝突影響，油價及相關原物料價格同步走高，通膨擔憂再度浮現，部分分析師提出「NACHO」交易策略。
-4.  **景氣轉弱疑慮：** 部分企業財報表現未達預期，加上零售業雖有增聘但消費行為顯示需求可能放緩，反映市場對整體經濟景氣的謹慎態度。
+【重點提要】：
+1.  全球通膨壓力持續，中國生產者物價指數(PPI)顯著上升，可能延緩主要央行降息時程，甚至引發升息考量。
+2.  中東地緣政治緊張升溫，伊朗相關消息推動美元走強，市場避險情緒上升。
+3.  受地緣政治情勢及需求預期影響，國際油價走高，有利能源相關企業獲利。
+4.  AI產業投資熱潮不減，先進製程與基礎設施佈局持續進行，如台積電2奈米廠區動土。
 
-【具體總結】
-今日盤勢受多重因素交織影響。AI領域的成長性雖持續引導市場情緒，但大型科技公司的高額資本支出及其對盈利的影響正被審視。與此同時，中東地緣政治緊張情勢顯著升溫，推升國際油價與原物料價格，不僅加劇通膨擔憂，也為全球經濟前景增添不確定性。部分企業財報疲軟與零售消費數據的混雜信號，進一步引發市場對景氣可能轉弱的疑慮，資金在成長機會與避險需求間尋求平衡。
+【具體總結】：
+今日盤勢受多重因素影響，全球通膨的黏性及地緣政治緊張推升油價，可能使主要央行維持高利率更久，甚至不排除升息可能。此環境恐壓抑市場風險偏好，引發避險資金流向美元。儘管AI領域的投資熱度不減，持續帶動相關基礎設施與半導體供應鏈發展，但總體經濟的不確定性仍將是市場波動的主要驅動因素。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】18 則  🟢高信心
-  ▸ Big Tech’s AI spending is depriving investors of juicy payou
-    https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories
-  ▸ As Nvidia earnings draw closer, here are 5 things investors 
-    https://www.marketwatch.com/story/as-nvidia-earnings-draw-closer-here-are-5-things-investors-need-to-watch-d11d8136?mod=mw_rss_topstories
-  ▸ Do you need a chief AI officer? Here's how the tech is chang
-    https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html
+【通膨上升】7 則  🟢高信心
+  ▸ Goldman Sachs delays Fed cut outlook to December 2026 as Ira
+    https://www.investing.com/news/economy-news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation-4674977
+  ▸ ECB’s Kocher sees rate move if inflation outlook does not im
+    https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976
+  ▸ China’s April CPI rises to 1.2%; PPI surges to 2.8% on commo
+    https://seekingalpha.com/news/4590294-chinas-april-cpi-rises-to-12-ppi-surges-to-28-on-commodity-spike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【戰爭升溫】12 則  🟢高信心
-  ▸ U.S. stock futures fall, oil surges as Trump calls Iran’s la
-    https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories
-  ▸ Stock futures slide as investors monitor the latest Iran war
-    https://www.cnbc.com/2026/05/10/stock-market-today-live-updates.html
+【升息】6 則  🟢高信心
+  ▸ ECB’s Kocher sees rate move if inflation outlook does not im
+    https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976
+  ▸ Best CD rates today, May 10, 2026 (lock in up to 4% APY)
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-may-10-2026-100000258.html
+  ▸ Best high-yield savings interest rates today, Sunday, May 10
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-may-10-2026-100000441.html
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Goldman Sachs delays Fed cut outlook to December 2026 as Ira
+    https://www.investing.com/news/economy-news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation-4674977
+  ▸ Shares mixed, dollar gains as Iran talks teeter
+    https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873
   ▸ Iran says it will 'never bow' as Trump rejects peace counter
     https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html
 
-【油價上升】10 則  🟢高信心
+【油價上升】5 則  🟢高信心
+  ▸ RBI likely sold dollars to curb rupee decline amid oil price
+    https://www.investing.com/news/stock-market-news/rbi-likely-sold-dollars-to-curb-rupee-decline-amid-oil-price-surge-reuters-93CH-4674973
+  ▸ Saudi giant Aramco sees 25% jump in Q1 profit jumps on oil r
+    https://seekingalpha.com/news/4590291-saudi-giant-aramco-sees-25-jump-in-q1-profit-jumps-on-oil-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ U.S. stock futures fall, oil surges as Trump calls Iran’s la
     https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories
-  ▸ Introducing the ‘NACHO’ trade: How Wall Street is betting on
-    https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories
-  ▸ Oil climbs as Netanyahu and Trump remarks stoke worries over
-    https://www.cnbc.com/2026/05/11/oil-price-today-brent-wti-iran-war-trump.html
 
-【景氣轉弱】8 則  🟢高信心
-  ▸ RadNet misses top-line and bottom-line estimates; updates FY
-    https://seekingalpha.com/news/4590289-radnet-misses-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ MoonLake Immunotherapeutics GAAP EPS of -$0.98 misses by $0.
-    https://seekingalpha.com/news/4590288-moonlake-immunotherapeutics-gaap-eps-of--098-misses-by-007?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】5 則  🟢高信心
+  ▸ SoftBank launches large-scale battery business in Japan to b
+    https://seekingalpha.com/news/4590299-softbank-launches-large-scale-battery-business-in-japan-to-build-ai-era-power-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 影／南科特定區區段徵收今動土 就等台積電2奈米進駐
+    https://money.udn.com/money/story/5612/9494976
+  ▸ Big Tech’s AI spending is depriving investors of juicy payou
+    https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ 未來一周美股要觀察川習會等六大變數
+    https://money.udn.com/money/story/5612/9494950
+  ▸ 強化違規轉運查核小組上路一年 台北關揪77違規
+    https://money.udn.com/money/story/5612/9494894
+  ▸ 防範AI供應鏈風險 美官員籲美印避免依賴敵對國
+    https://tw.stock.yahoo.com/news/%E9%98%B2%E7%AF%84ai%E4%BE%9B%E6%87%89%E9%8F%88%E9%A2%A8%E9%9A%AA-%E7%BE%8E%E5%AE%98%E5%93%A1%E7%B1%B2%E7%BE%8E%E5%8D%B0%E9%81%BF%E5%85%8D%E4%BE%9D%E8%B3%B4%E6%95%B5%E5%B0%8D%E5%9C%8B-053543727.html
+
+【美元升值】2 則  🟢高信心
+  ▸ Shares mixed, dollar gains as Iran talks teeter
+    https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873
+  ▸ RBI likely sold dollars to curb rupee decline amid oil price
+    https://www.investing.com/news/stock-market-news/rbi-likely-sold-dollars-to-curb-rupee-decline-amid-oil-price-surge-reuters-93CH-4674973
+
+【政策補助】2 則  🟢高信心
+  ▸ 中油負債比衝93% 經部：專案融資已協調完成
+    https://money.udn.com/money/story/5612/9494965
+  ▸ 國有造林地開放承租人委託申辦自然碳匯碳權 碳權1成需分給國產署
+    https://money.udn.com/money/story/5612/9494818
+
+【景氣轉弱】1 則  🟡單篇
   ▸ Retailers are on a hiring spree. But consumers are sending w
     https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html
 
-【通膨上升】6 則  🟢高信心
-  ▸ Powell’s legacy as Fed chair is fighting inflation and Trump
-    https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories
-  ▸ Introducing the ‘NACHO’ trade: How Wall Street is betting on
-    https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories
-  ▸ China inflation beat estimates in April as Iran war drives p
-    https://www.cnbc.com/2026/05/11/china-cpi-ppi-inflation-energy-costs-oil-iran-war.html
-
-【升息】2 則  🟢高信心
-  ▸ Powell’s legacy as Fed chair is fighting inflation and Trump
-    https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories
-  ▸ 利率維持較高水準 美國非投資等級公司債有利基
-    https://money.udn.com/money/story/5612/9494861
-
-【記憶體漲價】2 則  🟢高信心
-  ▸ Memory chip makers are looking at a 'supercycle' and 'windfa
-    https://www.cnbc.com/2026/05/10/memory-chip-makers-are-looking-at-a-supercycle-and-windfall-gains-the-stocks-jumped-30percent-in-one-week.html
-  ▸ 記憶體氣勢如虹！南亞科群聯等7檔亮漲停燈 分析師：不預設高點
-    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E6%B0%A3%E5%8B%A2%E5%A6%82%E8%99%B9%EF%BC%81%E5%8D%97%E4%BA%9E%E7%A7%91%E7%BE%A4%E8%81%AF%E7%AD%897%E6%AA%94%E4%BA%AE%E6%BC%B2%E5%81%9C%E7%87%88-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%B8%8D%E9%A0%90%E8%A8%AD%E9%AB%98%E9%BB%9E-035449618.html
-
-【政策補助】2 則  🟢高信心
-  ▸ 三箭穩中油財務 龔明鑫：已完成專案貸款 將爭取撥補、增資
-    https://tw.news.yahoo.com/%E4%B8%89%E7%AE%AD%E7%A9%A9%E4%B8%AD%E6%B2%B9%E8%B2%A1%E5%8B%99-%E9%BE%94%E6%98%8E%E9%91%AB-%E5%B7%B2%E5%AE%8C%E6%88%90%E5%B0%88%E6%A1%88%E8%B2%B8%E6%AC%BE-%E5%B0%87%E7%88%AD%E5%8F%96%E6%92%A5%E8%A3%9C-%E5%A2%9E%E8%B3%87-034347042.html
-  ▸ 達運光電看好美國BEAD計畫帶動北美網通升級 Q3營運逐步增溫
-    https://tw.stock.yahoo.com/news/%E9%81%94%E9%81%8B%E5%85%89%E9%9B%BB%E7%9C%8B%E5%A5%BD%E7%BE%8E%E5%9C%8Bbead%E8%A8%88%E7%95%AB%E5%B8%B6%E5%8B%95%E5%8C%97%E7%BE%8E%E7%B6%B2%E9%80%9A%E5%8D%87%E7%B4%9A-q3%E7%87%9F%E9%81%8B%E9%80%90%E6%AD%A5%E5%A2%9E%E6%BA%AB-033625370.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ From Singapore to Brussels, world leaders eye Trump-Xi summi
-    https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html
-
-【美元升值】1 則  🟡單篇
-  ▸ Share futures wobble, dollar gains as Iran talks teeter
-    https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873
-
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
@@ -102,12 +100,11 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
- 6. 2327.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
- 7. 3037.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 5. 2515.TW      -3.0  建材營造｜升息
+ 6. 5534.TW      -3.0  建材營造｜升息
+ 7. 2504.TW      -3.0  建材營造｜升息
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2515.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
