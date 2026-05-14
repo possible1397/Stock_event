@@ -1,24 +1,14 @@
 📊 事件驅動選股日報 2026-05-14
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 8 個事件
+掃描 127 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI熱潮延燒：** 企業持續加碼AI投資，並推動相關IPO，顯示資金持續聚焦AI領域，引導產業轉型。
-2.  **中美關係：** 高層會晤釋出改善信號，潛在緩和貿易與地緣政治緊張氣氛。
-3.  **地緣衝突加劇：** 中東戰爭風險與烏克蘭戰事持續，引發市場對能源供應及全球經濟衝擊的擔憂。
-4.  **通膨壓力再現：** 批發通膨數據走高，導致房貸利率上揚，市場預期高通膨可能長期化。
-5.  **油價攀升：** 原油供給面受損與OPEC減產推動油價上漲，進一步加劇通膨並可能影響終端消費。
-
-【具體總結】：
-今日市場焦點主要集中於AI領域的持續熱度與資金流動，支撐部分科技股表現。然而，全球經濟面臨多重不確定性，中美貿易關係雖現緩和跡象，但中東地緣衝突的升溫，加上批發通膨數據與油價的上漲，共同推升了市場對通膨長期化及利率維持高位的預期。這可能導致資金在追逐成長性（AI）與尋求避險之間擺盪，整體市場需警惕高通膨和地緣政治風險帶來的潛在波動。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】29 則  🟢高信心
+【AI熱潮】19 則  🟢高信心
   ▸ Cisco to cut jobs so it can invest more in AI, and the stock
     https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories
   ▸ Cerebras’s massive IPO will be a fresh test of investor exci
@@ -26,31 +16,39 @@
   ▸ Retailers keep tinkering with their AI shopping assistants, 
     https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories
 
-【關稅/貿易戰】10 則  🟢高信心
-  ▸ China’s Xi signals trade progress as ‘biggest summit’ with T
+【關稅/貿易戰】11 則  🟢高信心
+  ▸ Protests flare across Havana as power cuts deepen amid US bl
+    https://www.investing.com/news/commodities-news/cuba-has-run-out-of-diesel-and-fuel-oil-amid-us-oil-blockade-4686993
+  ▸ Asia FX muted as Trump-Xi summit begins; yuan hits 3-yr high
+    https://www.investing.com/news/forex-news/asia-fx-muted-as-trumpxi-summit-begins-yuan-hits-3yr-high-rupee-at-record-low-4687109
+  ▸ China’s Xi hails trade progress in Trump summit, sends Taiwa
     https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875
-  ▸ Trump, Xi call for improving US-China ties as Beijing talks 
-    https://www.investing.com/news/economy-news/trump-xi-call-for-improving-uschina-ties-as-beijing-talks-begin-4687087
-  ▸ Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' 
-    https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html
 
-【戰爭升溫】8 則  🟢高信心
-  ▸ The Iran war could be a $300 billion shock — driving up mort
-    https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories
-  ▸ Kyiv under attack from Russian drones, missiles, at least 4 
-    https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976
-  ▸ Iran war overshadows Trump’s China visit as peace talks stal
-    https://www.investing.com/news/commodities-news/iran-war-overshadows-trumps-china-visit-as-peace-talks-stall-4687088
-
-【通膨上升】7 則  🟢高信心
+【通膨上升】8 則  🟢高信心
   ▸ Inflation will likely be higher for longer. Your retirement 
     https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories
+  ▸ Analysis-Investors gird for high US Treasury yields as new F
+    https://www.investing.com/news/economy-news/analysisinvestors-gird-for-high-us-treasury-yields-as-new-fed-chair-warsh-battles-inflation-4687110
   ▸ Wholesale inflation jumps 6% in April on annual basis, bigge
     https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html
-  ▸ Mortgage rates jump to highest level since March on hotter i
-    https://www.cnbc.com/2026/05/13/mortgage-rates-jump-to-highest-level-since-march.html
 
-【油價上升】4 則  🟢高信心
+【升息】4 則  🟢高信心
+  ▸ The Iran war could be a $300 billion shock — driving up mort
+    https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories
+  ▸ Analysis-Investors gird for high US Treasury yields as new F
+    https://www.investing.com/news/economy-news/analysisinvestors-gird-for-high-us-treasury-yields-as-new-fed-chair-warsh-battles-inflation-4687110
+  ▸ Mortgage rates move to highest level in 5 weeks, but homebuy
+    https://www.cnbc.com/2026/05/13/mortgage-rates-move-to-highest-level-in-5-weeks.html
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ The Iran war could be a $300 billion shock — driving up mort
+    https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories
+  ▸ Anduril doubles valuation to over $60 billion as defense tec
+    https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html
+  ▸ 美媒：中東戰爭讓美國更依賴中國稀土
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%AA%92-%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%88%AD%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%9B%B4%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%A8%80%E5%9C%9F-050403290.html
+
+【油價上升】3 則  🟢高信心
   ▸ The world lost nearly 1 billion barrels in oil supply over t
     https://www.marketwatch.com/story/the-world-lost-nearly-1-billion-barrels-in-oil-supply-over-the-past-75-days-why-investors-arent-worrying-enough-5a777ae0?mod=mw_rss_topstories
   ▸ Oil rises as IEA flags greater volatility ahead, OPEC cuts d
@@ -58,33 +56,31 @@
   ▸ Beer demand stumbles as gas prices surge, data shows
     https://www.cnbc.com/2026/05/13/beer-demand-stumbles-as-gas-prices-surge-data-show.html
 
-【政策補助】3 則  🟢高信心
+【景氣轉弱】3 則  🟢高信心
+  ▸ Honda logs first ever annual loss on EV writedown
+    https://www.investing.com/news/earnings/honda-logs-first-ever-annual-loss-on-ev-writedown-4687115
+  ▸ Honda books first annual loss, hit by $9 billion EV charge
+    https://www.investing.com/news/stock-market-news/honda-books-first-annual-loss-hit-by-hefty-ev-charge-4687103
+  ▸ 加密硬體錢包商Ledger暫緩40億美元IPO 市場逆風轉尋私募機會
+    https://tw.stock.yahoo.com/news/%E5%8A%A0%E5%AF%86%E7%A1%AC%E9%AB%94%E9%8C%A2%E5%8C%85%E5%95%86ledger%E6%9A%AB%E7%B7%A940%E5%84%84%E7%BE%8E%E5%85%83ipo-%E5%B8%82%E5%A0%B4%E9%80%86%E9%A2%A8%E8%BD%89%E5%B0%8B%E7%A7%81%E5%8B%9F%E6%A9%9F%E6%9C%83-050513204.html
+
+【政策補助】1 則  🟡單篇
   ▸ Gas tax holiday as Trump promises? Not so fast, trucking, co
     https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html
-  ▸ Centrus Energy上調2026年展望 聯邦專案助攻核燃料業務
-    https://tw.stock.yahoo.com/news/centrus-energy%E4%B8%8A%E8%AA%BF2026%E5%B9%B4%E5%B1%95%E6%9C%9B-%E8%81%AF%E9%82%A6%E5%B0%88%E6%A1%88%E5%8A%A9%E6%94%BB%E6%A0%B8%E7%87%83%E6%96%99%E6%A5%AD%E5%8B%99-034616697.html
-  ▸ 國家住都中心啟動9案公辦都更招商　估引資596億
-    https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%AE%B6%E4%BD%8F%E9%83%BD%E4%B8%AD%E5%BF%83%E5%95%9F%E5%8B%959%E6%A1%88%E5%85%AC%E8%BE%A6%E9%83%BD%E6%9B%B4%E6%8B%9B%E5%95%86-%E4%BC%B0%E5%BC%95%E8%B3%87596%E5%84%84-034353875.html
 
-【升息】2 則  🟢高信心
-  ▸ Mortgage rates move to highest level in 5 weeks, but homebuy
-    https://www.cnbc.com/2026/05/13/mortgage-rates-move-to-highest-level-in-5-weeks.html
-  ▸ Mortgage rates jump to highest level since March on hotter i
-    https://www.cnbc.com/2026/05/13/mortgage-rates-jump-to-highest-level-since-march.html
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ Beer demand stumbles as gas prices surge, data shows
-    https://www.cnbc.com/2026/05/13/beer-demand-stumbles-as-gas-prices-surge-data-show.html
+【記憶體漲價】1 則  🟡單篇
+  ▸ 三星罷工倒數，或造成40兆韓元經損，逾5萬人停工恐衝擊AI記憶體鏈
+    https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E7%BD%B7%E5%B7%A5%E5%80%92%E6%95%B8-%E6%88%96%E9%80%A0%E6%88%9040%E5%85%86%E9%9F%93%E5%85%83%E7%B6%93%E6%90%8D-%E9%80%BE5%E8%90%AC%E4%BA%BA%E5%81%9C%E5%B7%A5%E6%81%90%E8%A1%9D%E6%93%8Aai%E8%A8%98%E6%86%B6%E9%AB%94%E9%8F%88-052822937.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
@@ -95,12 +91,12 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 7. 2515.TW      -3.0  建材營造｜升息
- 8. 5534.TW      -3.0  建材營造｜升息
- 9. 2504.TW      -3.0  建材營造｜升息
-10. 2330.TW      -2.9  半導體｜AI熱潮、關稅/貿易戰
+ 5. 2317.TW      -3.7  電子零組件｜關稅/貿易戰、通膨上升
+ 6. 2327.TW      -3.7  電子零組件｜關稅/貿易戰、通膨上升
+ 7. 3037.TW      -3.7  電子零組件｜關稅/貿易戰、通膨上升
+ 8. 2330.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
+ 9. 2454.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
+10. 2303.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
