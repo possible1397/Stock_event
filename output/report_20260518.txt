@@ -1,84 +1,72 @@
 📊 事件驅動選股日報 2026-05-18
 ════════════════════════════════
-掃描 120 則新聞  |  偵測 9 個事件
+掃描 121 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  **AI熱潮持續延燒**：以Nvidia為代表的AI產業鏈持續火熱，不僅帶動相關科技股表現，市場焦點亦擴及電力基礎設施等周邊產業，成為S&P 500盈利的重要支撐。
-2.  **中東地緣政治升溫**：中東緊張情勢加劇，推升國際油價走高，同時對亞洲股市及貨幣造成壓力，部分投資者開始關注防衛概念股。
-3.  **全球經濟景氣擔憂**：全球經濟面臨潛在轉弱風險，部分地區消費活動已受地緣政治波及，G7財政部長會議將討論潛在的經濟衝擊。
-4.  **高利率環境持續**：現行的高利率政策維持不變，持續影響房貸、再融資以及高收益儲蓄產品的利率走勢。
-
-**【具體總結】**
-今日市場呈現多空交織。AI熱潮持續為科技板塊提供強勁支撐，資金持續湧入Nvidia及其相關供應鏈，乃至於電力基礎設施等成長題材。然而，中東地緣政治緊張情勢顯著升溫，不僅推高油價，也導致亞洲股市普遍下跌及貨幣走軟，加劇了全球經濟景氣可能轉弱的擔憂。整體而言，市場在AI樂觀情緒與地緣政治及宏觀經濟逆風之間擺盪，投資氣氛偏向謹慎觀望。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
+【AI熱潮】14 則  🟢高信心
   ▸ Nvidia is getting some help as it props up S&P 500 earnings 
     https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories
   ▸ Meet the Nvidias of power — 5 stocks winning Big Tech’s $700
     https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories
-  ▸ One of the market's hottest stock themes is buying everythin
-    https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html
+  ▸ High energy prices could derail Europe’s AI race with U.S. a
+    https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html
 
 【戰爭升溫】10 則  🟢高信心
-  ▸ Gina Rinehart’s Hancock Prospecting adds defence stocks to U
-    https://www.investing.com/news/stock-market-news/gina-rineharts-hancock-prospecting-adds-defence-stocks-to-us-portfolio-4694619
-  ▸ Asia stocks slip as tech losses, Iran tensions drag; Samsung
-    https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-tech-losses-iran-tensions-drag-samsung-union-talks-in-focus-4694618
-  ▸ Asia FX weakens on Iran jitters, yuan soft after China data 
-    https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617
-
-【升息】6 則  🟢高信心
-  ▸ Mortgage and refinance interest rates today, May 17, 2026: R
-    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-17-2026-100000980.html
-  ▸ Best high-yield savings interest rates today, Sunday, May 17
-    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-may-17-2026-100000364.html
-  ▸ Best CD rates today, May 17, 2026: Lock in up to 4% APY
-    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-may-17-2026-100000661.html
-
-【油價上升】4 則  🟢高信心
   ▸ Dow futures drop, oil prices push higher as Iran war remains
     https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories
-  ▸ Oil jumps as Trump warns 'Clock is Ticking' for Iran, fannin
-    https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html
-  ▸ Asia-Pacific markets mostly fall as Trump’s Iran warning sto
-    https://www.cnbc.com/2026/05/18/asia-pacific-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50.html
+  ▸ The Iran war could be a $300 billion shock — driving up mort
+    https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories
+  ▸ Walmart and Target are about to show just how much shopping 
+    https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories
 
-【景氣轉弱】4 則  🟢高信心
-  ▸ Your 3–6 months of emergency savings won’t cut it — why the 
-    https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories
+【油價上升】7 則  🟢高信心
+  ▸ Dow futures drop, oil prices push higher as Iran war remains
+    https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories
+  ▸ High energy prices could derail Europe’s AI race with U.S. a
+    https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html
   ▸ G7 finance ministers to meet amid warning of economic conseq
     https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html
-  ▸ 中東地緣政治波及消費 菲律賓Q1遊戲營收銳減16%
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E6%B3%A2%E5%8F%8A%E6%B6%88%E8%B2%BB-%E8%8F%B2%E5%BE%8B%E8%B3%93q1%E9%81%8A%E6%88%B2%E7%87%9F%E6%94%B6%E9%8A%B3%E6%B8%9B16-042958314.html
 
-【關稅/貿易戰】3 則  🟢高信心
+【景氣轉弱】6 則  🟢高信心
+  ▸ Thyssenkrupp to close Indiana automotive site
+    https://www.investing.com/news/stock-market-news/thyssenkrupp-to-close-indiana-automotive-site-4694643
+  ▸ Your 3–6 months of emergency savings won’t cut it — why the 
+    https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories
+  ▸ China's economic slowdown deepens: Retail sales flatline and
+    https://seekingalpha.com/news/4594236-china-economic-slowdown-deepens-retail-sales-flatline-and-factory-output-tumbles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【升息】4 則  🟢高信心
+  ▸ Global bond rout deepens as inflation fears trigger rate-hik
+    https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615
+  ▸ Mortgage and refinance interest rates today, May 17, 2026: R
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-17-2026-100000980.html
+  ▸ The Iran war could be a $300 billion shock — driving up mort
+    https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories
+
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ White House touts deals on soybeans and rare earths after Tr
+    https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html
   ▸ 川習會再掀晶片戰 盧秀燕掛保證：台積電台中廠不影響
     https://money.udn.com/money/story/5612/9509573
-  ▸ 解碼國際／白宮公布川習會事實清單 美中談定哪些重大協議？
-    https://tw.news.yahoo.com/%E8%A7%A3%E7%A2%BC%E5%9C%8B%E9%9A%9B-%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E5%B7%9D%E7%BF%92%E6%9C%83%E4%BA%8B%E5%AF%A6%E6%B8%85%E5%96%AE-%E7%BE%8E%E4%B8%AD%E8%AB%87%E5%AE%9A%E5%93%AA%E4%BA%9B%E9%87%8D%E5%A4%A7%E5%8D%94%E8%AD%B0-033713260.html
-  ▸ 解讀川習會 周鋒鎖、矢板明夫指中國沒有民主化才是問題關鍵
-    https://tw.news.yahoo.com/%E8%A7%A3%E8%AE%80%E5%B7%9D%E7%BF%92%E6%9C%83-%E5%91%A8%E9%8B%92%E9%8E%96-%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB%E6%8C%87%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%9C%89%E6%B0%91%E4%B8%BB%E5%8C%96%E6%89%8D%E6%98%AF%E5%95%8F%E9%A1%8C%E9%97%9C%E9%8D%B5-033558025.html
+  ▸ 澳洲再出手限制中資，要求稀土商Northern Minerals大股東出清持股
+    https://tw.stock.yahoo.com/news/%E6%BE%B3%E6%B4%B2%E5%86%8D%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6%E4%B8%AD%E8%B3%87-%E8%A6%81%E6%B1%82%E7%A8%80%E5%9C%9F%E5%95%86northern-minerals%E5%A4%A7%E8%82%A1%E6%9D%B1%E5%87%BA%E6%B8%85%E6%8C%81%E8%82%A1-052410854.html
 
-【通膨上升】2 則  🟢高信心
-  ▸ Global bond rout deepens as inflation fears mount
+【通膨上升】3 則  🟢高信心
+  ▸ Global bond rout deepens as inflation fears trigger rate-hik
     https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615
-  ▸ 原物料價格上揚及同業調漲報價，豐興、威致本週鋼筋報價調漲200元
-    https://tw.stock.yahoo.com/news/%E5%8E%9F%E7%89%A9%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%8F%9A%E5%8F%8A%E5%90%8C%E6%A5%AD%E8%AA%BF%E6%BC%B2%E5%A0%B1%E5%83%B9-%E8%B1%90%E8%88%88-%E5%A8%81%E8%87%B4%E6%9C%AC%E9%80%B1%E9%8B%BC%E7%AD%8B%E5%A0%B1%E5%83%B9%E8%AA%BF%E6%BC%B2200%E5%85%83-041720178.html
+  ▸ High energy prices could derail Europe’s AI race with U.S. a
+    https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html
+  ▸ 聯準會新主席凱文·沃什抗通膨 市場預期美債殖利率將續居高位
+    https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E6%96%B0%E4%B8%BB%E5%B8%AD%E5%87%B1%E6%96%87-%E6%B2%83%E4%BB%80%E6%8A%97%E9%80%9A%E8%86%A8-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E5%B0%87%E7%BA%8C%E5%B1%85%E9%AB%98%E4%BD%8D-045805800.html
 
-【美元升值】2 則  🟢高信心
-  ▸ Asia FX weakens on Iran jitters, yuan soft after China data 
-    https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617
-  ▸ 華府傳擬與中國簽貨幣互換協議 鞏固美元主導地位
-    https://tw.stock.yahoo.com/news/%E8%8F%AF%E5%BA%9C%E5%82%B3%E6%93%AC%E8%88%87%E4%B8%AD%E5%9C%8B%E7%B0%BD%E8%B2%A8%E5%B9%A3%E4%BA%92%E6%8F%9B%E5%8D%94%E8%AD%B0-%E9%9E%8F%E5%9B%BA%E7%BE%8E%E5%85%83%E4%B8%BB%E5%B0%8E%E5%9C%B0%E4%BD%8D-040425437.html
-
-【政策補助】1 則  🟡單篇
-  ▸ 獨家／海運業利多！ 噸位稅啟動15年來大改革
-    https://money.udn.com/money/story/5612/9509138
+【航運運價上升】1 則  🟡單篇
+  ▸ G7 finance ministers to meet amid warning of economic conseq
+    https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html
 
 ▲ 買進信號
 ────────────────────────────────
@@ -95,16 +83,16 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 7. 2515.TW      -3.0  建材營造｜升息
- 8. 5534.TW      -3.0  建材營造｜升息
- 9. 2504.TW      -3.0  建材營造｜升息
-10. 2317.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
+ 1. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2330.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 6. 2454.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 7. 2303.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 8. 2344.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 9. 3711.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+10. 2317.TW      -3.2  電子零組件｜景氣轉弱、關稅/貿易戰
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
