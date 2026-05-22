@@ -1,0 +1,106 @@
+📊 事件驅動選股日報 2026-05-22
+════════════════════════════════
+掃描 125 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **【重點提要】**
+    *   AI熱潮持續強勁，企業投資與晶片研發需求旺盛，推動AI硬體、雲端服務及相關供應商表現突出。
+    *   全球經濟面臨景氣轉弱警示，高通膨導致消費者支出放緩，且市場預期高利率環境將維持更長時間。
+    *   各國政府積極部署財政補助與戰略科技投資，旨在穩定經濟並推動特定高科技產業發展，例如量子計算。
+    *   國際貿易關係仍受地緣政治緊張影響，但考量供應鏈穩定性，部分貿易限制措施可能趨於務實。
+
+2.  **【具體總結】**
+    今日盤勢在強勁的AI產業動能與宏觀經濟逆風之間拉鋸。AI創新與企業投資持續支撐科技板塊，特別是晶片與相關硬體領域。然而，全球經濟數據顯現景氣放緩跡象，高通膨壓力影響消費者支出，加上市場對「高利率將維持更久」的預期，對整體市場估值形成壓力。各國政府的財政刺激與產業補助政策，為特定領域提供支撐。資金動向可能持續聚焦於具備明確成長前景的AI題材，同時密切關注全球經濟數據與利率政策的變化。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】25 則  🟢高信心
+  ▸ Nvidia can deliver chips — but it can’t buy Big Tech out of 
+    https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories
+  ▸ Lenovo surge on Q4 revenue beat driven by 84% AI growth; dec
+    https://seekingalpha.com/news/4596129-lenovo-surge-on-q4-revenue-beat-driven-by-84-ai-growth-declares-final-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Meta, Broadcom to launch $125M AI chip research hub at UCLA
+    https://seekingalpha.com/news/4596122-meta-broadcom-to-launch-125m-ai-chip-research-hub-at-ucla?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ ‘Buffett Indicator’ warns of a market top — 8 crucial signs 
+    https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories
+  ▸ Nvidia can deliver chips — but it can’t buy Big Tech out of 
+    https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories
+  ▸ People are putting less gas in their tanks as high prices cr
+    https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories
+
+【政策補助】5 則  🟢高信心
+  ▸ Japanese quantum computing stocks rally as US plans $2 bln g
+    https://www.investing.com/news/stock-market-news/japanese-quantum-computing-stocks-rally-as-us-plans-2-bln-grant-4705741
+  ▸ 發錢了！ 「這回饋金」恢復常態 5/25一次可領4個月
+    https://tw.stock.yahoo.com/news/%E7%99%BC%E9%8C%A2%E4%BA%86-%E9%80%99%E5%9B%9E%E9%A5%8B%E9%87%91-%E6%81%A2%E5%BE%A9%E5%B8%B8%E6%85%8B-5-25-043800327.html
+  ▸ 片山皋月稱日本補充預算規模約190億美元，首相下週公布細節
+    https://tw.stock.yahoo.com/news/%E7%89%87%E5%B1%B1%E7%9A%8B%E6%9C%88%E7%A8%B1%E6%97%A5%E6%9C%AC%E8%A3%9C%E5%85%85%E9%A0%90%E7%AE%97%E8%A6%8F%E6%A8%A1%E7%B4%84190%E5%84%84%E7%BE%8E%E5%85%83-%E9%A6%96%E7%9B%B8%E4%B8%8B%E9%80%B1%E5%85%AC%E5%B8%83%E7%B4%B0%E7%AF%80-042426139.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ People are putting less gas in their tanks as high prices cr
+    https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories
+  ▸ India central bank not in favour of rate hikes to defend rup
+    https://www.investing.com/news/economy-news/india-central-bank-not-in-favour-of-rate-hikes-to-defend-rupee-prioritises-inflation-sources-say-4705743
+  ▸ Nomura forecasts no Fed rate cuts in 2026 as inflation rises
+    https://www.investing.com/news/economy-news/nomura-forecasts-no-fed-rate-cuts-in-2026-as-inflation-rises-4705740
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ EU may pause Chinese chip ban over auto supply fears: report
+    https://seekingalpha.com/news/4596126-eu-may-pause-chinese-chip-ban-over-auto-supply-fears-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 川習會後經貿因應對策 立法院邀卓榮泰專案報告
+    https://money.udn.com/money/story/5612/9519094
+  ▸ 遵循美出口禁令，不出高階AI晶片給大陸 蘇姿丰：持續押注台灣半導體
+    https://money.udn.com/money/story/5612/9519036
+
+【油價上升】2 則  🟢高信心
+  ▸ People are putting less gas in their tanks as high prices cr
+    https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories
+  ▸ Oil prices rise as investors doubt breakthrough in US-Iran p
+    https://www.investing.com/news/commodities-news/us-oil-prices-rise-as-investors-doubt-breakthrough-in-usiran-peace-talks-4705545
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ Oil prices rise as investors doubt breakthrough in US-Iran p
+    https://www.investing.com/news/commodities-news/us-oil-prices-rise-as-investors-doubt-breakthrough-in-usiran-peace-talks-4705545
+  ▸ Asia stocks set for weekly rise on chipmaker gains; Iran pea
+    https://www.investing.com/news/stock-market-news/asia-stocks-set-for-weekly-rise-on-chipmaker-gains-iran-peace-doubts-limit-upside-4705738
+
+【降息】1 則  🟡單篇
+  ▸ Japan core inflation softens to over four year low, weakenin
+    https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html
+
+【美元貶值】1 則  🟡單篇
+  ▸ 新台幣午盤升6.6分　暫收31.529元
+    https://money.udn.com/money/story/5612/9519085
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+ 9. 2006.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+10. 2007.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2317.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 8. 2327.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 9. 3037.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
