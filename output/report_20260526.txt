@@ -1,0 +1,113 @@
+📊 事件驅動選股日報 2026-05-26
+════════════════════════════════
+掃描 115 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+**【今日盤勢與焦點速報】**
+
+**【重點提要】**
+1.  **AI熱潮延燒：** AI相關科技股表現強勁，帶動台灣股市在全球股市排名提升，但市場也開始關注AI相關板塊外的多元投資機會。
+2.  **地緣政治升溫：** 中東地區衝突加劇，美國對伊朗採取軍事行動，提升市場對地緣政治風險的擔憂，並對油價產生影響。
+3.  **油價承壓：** 儘管地緣政治緊張，但市場傳出伊朗戰事可能接近尾聲的訊號，加上亞洲市場原油庫存上升，導致國際油價面臨下跌壓力。
+4.  **全球經濟放緩：** 消費者支出趨於保守，美國國際旅遊人數創20年新低，部分分析師警示全球經濟面臨下行風險。
+5.  **貿易政策分歧：** 中美部分關稅措施似有鬆動跡象，但歐盟內部仍有國家倡議強化對中貿易限制，國際貿易關係複雜多變。
+
+**【具體總結】**
+今日市場呈現複雜交錯的訊號。AI議題持續為科技類股注入活力，支撐相關市場表現，然中東地緣政治的緊張局勢與油價的波動性，為市場增添不確定性。同時，全球經濟成長放緩的跡象日益顯現，從消費支出到國際旅遊皆見疲軟，配合國際貿易政策的不明確性，可能壓抑整體市場的風險偏好。資金動向或在追逐AI創新題材的同時，也將審慎評估地緣政治與宏觀經濟逆風帶來的潛在影響。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】14 則  🟢高信心
+  ▸ Taiwan overtakes India as world's fifth-largest stock market
+    https://seekingalpha.com/news/4596681-taiwan-overtakes-india-as-worlds-fifth-largest-stock-market-as-tsmc-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Want to hop off the AI trade? Goldman says buy these stocks 
+    https://www.cnbc.com/2026/05/25/want-to-hop-off-the-ai-trade-goldman-says-buy-these-stocks-that-have-nothing-to-do-with-it.html
+  ▸ Pope Leo urges AI regulation and warns that some weapons are
+    https://www.cnbc.com/2026/05/25/pope-leo-issues-warnings-about-ai-and-autonomous-weapons.html
+
+【戰爭升溫】13 則  🟢高信心
+  ▸ U.S. conducts 'self-defense strikes' in Iran as Trump pushes
+    https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html
+  ▸ Oil prices mixed as U.S. military strikes against Iran cloud
+    https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html
+  ▸ Iran and U.S. play down hopes for imminent breakthrough in w
+    https://www.cnbc.com/2026/05/25/iran-and-us-play-down-hopes-for-imminent-breakthrough-in-war.html
+
+【油價下降】6 則  🟢高信心
+  ▸ Oil prices tumble as deal to end Iran war appears close, tho
+    https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories
+  ▸ Iran is in the 'process of blinking' over the Strait of Horm
+    https://www.cnbc.com/2026/05/25/iran-in-the-process-of-blinking-over-the-strait-ofoh-ex-cia-director.html
+  ▸ Oil market at 'tank bottoms' in Asia, and Europe isn't far b
+    https://www.cnbc.com/2026/05/25/oil-prices-iran-war-carlyle-currie.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ BJ’s Wholesale plans major store changes as customers pull b
+    https://finance.yahoo.com/economy/articles/bj-wholesale-plans-major-store-140700001.html
+  ▸ 美股夏季恐陷危險區 Bitunix分析師點出全球三大風險
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%8F%E5%AD%A3%E6%81%90%E9%99%B7%E5%8D%B1%E9%9A%AA%E5%8D%80-bitunix%E5%88%86%E6%9E%90%E5%B8%AB%E9%BB%9E%E5%87%BA%E5%85%A8%E7%90%83%E4%B8%89%E5%A4%A7%E9%A2%A8%E9%9A%AA-040620045.html
+  ▸ 美國際旅客大減創20年最糟　政治氛圍與戰事衝擊觀光
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%9A%9B%E6%97%85%E5%AE%A2%E5%A4%A7%E6%B8%9B%E5%89%B520%E5%B9%B4%E6%9C%80%E7%B3%9F-%E6%94%BF%E6%B2%BB%E6%B0%9B%E5%9C%8D%E8%88%87%E6%88%B0%E4%BA%8B%E8%A1%9D%E6%93%8A%E8%A7%80%E5%85%89-035947953.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ CNBC's The China Connection newsletter: Tariffs eased. Trust
+    https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html
+  ▸ 歐盟5國促強化對中貿易措施　環時：歐打不起貿易戰
+    https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F5%E5%9C%8B%E4%BF%83%E5%BC%B7%E5%8C%96%E5%B0%8D%E4%B8%AD%E8%B2%BF%E6%98%93%E6%8E%AA%E6%96%BD-%E7%92%B0%E6%99%82-%E6%AD%90%E6%89%93%E4%B8%8D%E8%B5%B7%E8%B2%BF%E6%98%93%E6%88%B0-035845529.html
+
+【美元貶值】2 則  🟢高信心
+  ▸ Gold rises as dollar, oil ease on U.S.-Iran deal prospects
+    https://www.cnbc.com/2026/05/25/gold-rises-as-dollar-oil-ease-on-us-iran-deal-prospects.html
+  ▸ 中日台等國三月拋售千億美元美債 影響國際資本流動
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%97%A5%E5%8F%B0%E7%AD%89%E5%9C%8B%E4%B8%89%E6%9C%88%E6%8B%8B%E5%94%AE%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E7%BE%8E%E5%82%B5-%E5%BD%B1%E9%9F%BF%E5%9C%8B%E9%9A%9B%E8%B3%87%E6%9C%AC%E6%B5%81%E5%8B%95-040416099.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ Beware the boom and bust cycle of memory stocks, investors w
+    https://www.cnbc.com/2026/05/25/memory-stocks-cyclical-boom-bust-samsung-sk-hynix.html
+  ▸ 記憶體荒恐延燒至2026年後？美光：AI晶片變大、產能追不上
+    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%8D%92%E6%81%90%E5%BB%B6%E7%87%92%E8%87%B32026%E5%B9%B4%E5%BE%8C-%E7%BE%8E%E5%85%89-ai%E6%99%B6%E7%89%87%E8%AE%8A%E5%A4%A7-%E7%94%A2%E8%83%BD%E8%BF%BD%E4%B8%8D%E4%B8%8A-034916590.html
+
+【升息】2 則  🟢高信心
+  ▸ Sri Lanka jolts markets with outsized 100-bp rate hike to co
+    https://www.investing.com/news/economy-news/sri-lanka-jolts-markets-with-outsized-100bp-rate-hike-to-counter-gulf-crisis-4708709
+  ▸ Sri Lanka raises interest rate by bigger-than-expected 100 b
+    https://www.investing.com/news/stock-market-news/sri-lanka-raises-interest-rate-by-biggerthanexpected-100-bps-amid-meast-crisis-93CH-4708708
+
+【政策補助】2 則  🟢高信心
+  ▸ 育兒減工時配套要來了！洪申翰：此次整體人口戰略提出
+    https://money.udn.com/money/story/5612/9525995
+  ▸ 賴清德拋「家庭主婦月領5000」 資格、時程、申請方式一次看懂
+    https://tw.stock.yahoo.com/news/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8B%8B-%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A9%A6%E6%9C%88%E9%A0%985000-%E8%B3%87%E6%A0%BC-%E6%99%82%E7%A8%8B-%E7%94%B3%E8%AB%8B%E6%96%B9%E5%BC%8F-041300854.html
+
+【通膨下降】1 則  🟡單篇
+  ▸ Singapore reports lower-than-expected inflation for April at
+    https://www.cnbc.com/2026/05/25/singapore-inflation-gdp-iran-war-energy.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -3.6  半導體｜AI熱潮、景氣轉弱
+ 2. 2454.TW      -3.6  半導體｜AI熱潮、景氣轉弱
+ 3. 2303.TW      -3.6  半導體｜AI熱潮、景氣轉弱
+ 4. 3711.TW      -3.6  半導體｜AI熱潮、景氣轉弱
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -3.0  建材營造｜升息
+ 8. 5534.TW      -3.0  建材營造｜升息
+ 9. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
