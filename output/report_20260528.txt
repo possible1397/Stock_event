@@ -1,0 +1,105 @@
+📊 事件驅動選股日報 2026-05-28
+════════════════════════════════
+掃描 121 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **AI題材表現分歧**：部分公司受惠AI加速應用股價飆升，然亦有企業因AI轉型挑戰或市場預期未達而股價承壓，顯示市場對AI的判斷趨於複雜。
+2.  **地緣政治風險升高**：美國與伊朗關係緊張升溫，中東區域衝突風險增加，可能引發市場避險情緒。
+3.  **通膨壓力持續存在**：通膨數據持續影響消費者儲蓄，聯準會官員重申關注通膨，牽動市場對未來貨幣政策的預期。
+4.  **全球景氣現放緩跡象**：部分地區（如亞洲）與產業（如汽車、製造業）數據顯示生產與銷售疲軟，反映需求端壓力。
+5.  **政策支持特定領域**：各國政府積極推動針對特定產業（如無人機）的補助或長期經濟策略，試圖應對挑戰。
+
+【具體總結】
+今日市場呈現複雜態勢。AI概念股雖仍是焦點，但投資者對其評價已顯現分歧。同時，地緣政治緊張、持續的通膨壓力以及全球部分區域的景氣放緩跡象，共同為市場增添不確定性。資金可能在追逐具明確成長潛力的AI機會的同時，也傾向規避風險，轉向避險資產或具防禦性的標的，短期內市場波動性或將增加。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】23 則  🟢高信心
+  ▸ Snowflake’s stock surges nearly 40% as AI acceleration drive
+    https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories
+  ▸ Marvell’s stock falls despite ‘exceptional’ AI demand drivin
+    https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories
+  ▸ Salesforce shares dip on soft revenue outlook as AI disrupti
+    https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories
+
+【戰爭升溫】10 則  🟢高信心
+  ▸ Morning Bid: The US-Iran ceasefire is unravelling
+    https://www.investing.com/news/economy-news/morning-bid-the-usiran-ceasefire-is-unravelling-4713600
+  ▸ Iran and US trade air strikes after Trump dismisses report o
+    https://www.investing.com/news/world-news/iran-and-us-trade-air-strikes-after-trump-dismisses-report-of-hormuz-deal-4713597
+  ▸ NZ shuns ’sugar hits’ in budget, slashes growth forecast as 
+    https://www.investing.com/news/economic-indicators/new-zealand-forecasts-narrower-budget-deficit-for-202526-4713568
+
+【通膨上升】7 則  🟢高信心
+  ▸ Cancer treatment already costs hundreds of thousands of doll
+    https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories
+  ▸ More Americans are raiding their emergency savings just to f
+    https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories
+  ▸ Fed’s Jefferson says he is focusing on inflation as US labou
+    https://www.investing.com/news/economy-news/feds-jefferson-says-he-is-focusing-on-inflation-as-us-labour-market-very-resilient-4713589
+
+【景氣轉弱】6 則  🟢高信心
+  ▸ Toyota sales drop for third month on declines in China, Midd
+    https://www.investing.com/news/stock-market-news/toyota-sales-drop-for-third-month-on-declines-in-china-middle-east-4713599
+  ▸ Thai April factory output drops 0.36% on year, below forecas
+    https://www.investing.com/news/economy-news/thai-april-factory-output-drops-036-on-year-below-forecast-4713598
+  ▸ China’s auto industry is unlikely to return to ’golden era,’
+    https://www.investing.com/news/stock-market-news/chinas-auto-industry-is-unlikely-to-return-to-golden-era-nio-ceo-says-4713583
+
+【政策補助】3 則  🟢高信心
+  ▸ Trump Administration in Talks to Fund US Drone Companies- WS
+    https://www.investing.com/news/stock-market-news/trump-administration-in-talks-to-fund-us-drone-companies-wsj-93CH-4713593
+  ▸ 人口新戰略3800億財源哪來？ 國發會：2028年前GDP年增估逾3%
+    https://money.udn.com/money/story/5612/9530957
+  ▸ 直聘中心助攻 外看可轉任外國技術人力
+    https://money.udn.com/money/story/5612/9530953
+
+【升息】3 則  🟢高信心
+  ▸ This bank just lifted its CD yield. Here's where you can nab
+    https://www.cnbc.com/2026/05/27/this-bank-just-lifted-its-cd-yield-heres-where-you-can-nab-4percent.html
+  ▸ Mortgage refinance demand drops 18% as rates hit highest lev
+    https://www.cnbc.com/2026/05/27/mortgage-refinance-demand-drops.html
+  ▸ 銀行搶短期客！祭新一波美元高利定存 年利率最高衝10%
+    https://money.udn.com/money/story/5612/9530860
+
+【油價上升】2 則  🟢高信心
+  ▸ More Americans are raiding their emergency savings just to f
+    https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories
+  ▸ Oil jumps 3% after Iran says it targeted U.S. airbase follow
+    https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Micron investors are partying like it’s 1987. Analysts say t
+    https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -5.7  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -5.7  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -5.7  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
