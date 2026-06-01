@@ -1,91 +1,59 @@
 📊 事件驅動選股日報 2026-06-01
 ════════════════════════════════
-掃描 121 則新聞  |  偵測 8 個事件
+掃描 123 則新聞  |  偵測 6 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI熱潮持續延燒**：Nvidia新品發布並將AI應用擴展至PC端，同時AI對全球企業債券市場的影響浮現，顯示其動能強勁且影響深遠。
-2.  **中東地緣政治緊張升溫**：美伊衝突導致國際油價上漲，市場對區域衝突擴大的擔憂加劇，影響原物料市場。
-3.  **全球經濟景氣轉弱跡象**：信用市場壓力與股市空單增加，反映投資者對經濟前景的謹慎態度，歐央行也示警企業償債能力惡化。
-4.  **通膨壓力持續存在**：原物料如銅價上漲與部分零組件迎來調漲動能，顯示供應鏈緊張及成本壓力未減，可能傳導至終端價格。
-5.  **政府政策積極介入**：各國政府透過政策補助與投資，支持特定產業發展，特別是能源轉型與AI技術導入，為相關領域提供支撐。
-
-【具體總結】：
-今日盤勢呈現多空交織格局，AI熱潮依然是市場主導力量，Nvidia新品及AI應用廣泛化持續吸引資金。然而，中東地緣政治緊張推升油價，全球經濟景氣轉弱訊號，包括信用市場壓力與通膨隱憂，為大盤帶來不確定性。儘管政府政策對特定產業提供支持，但市場仍需權衡高漲的AI熱情與潛在的宏觀經濟風險，資金流向預計將更加分化，投資人宜保持審慎。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】30 則  🟢高信心
-  ▸ Analysis-AI debt sales reshape global corporate bond markets
-    https://www.investing.com/news/economy-news/analysisai-debt-sales-reshape-global-corporate-bond-markets-4718020
-  ▸ Nvidia unveils new processor for Windows PC with Microsoft
-    https://www.investing.com/news/stock-market-news/nvidia-unveils-new-processor-for-windows-pc-with-microsoft-4718006
-  ▸ Morning Bid: Who needs oil when there’s AI to buy?
-    https://www.investing.com/news/economy-news/morning-bid-who-needs-oil-when-theres-ai-to-buy-4718004
+【AI熱潮】15 則  🟢高信心
+  ▸ Softbank hits record high on AI boom, overtakes Toyota as Ja
+    https://www.investing.com/news/stock-market-news/softbank-hits-record-high-on-ai-boom-overtakes-toyota-as-japans-biggest-company-4718035
+  ▸ Uber, Autobrains partner on Munich robotaxi program powered 
+    https://seekingalpha.com/news/4598734-uber-autobrains-partner-on-munich-robotaxi-program-powered-by-nvidia-drive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ TSMC taps Nvidia accelerated computing to drive next-gen sem
+    https://seekingalpha.com/news/4598732-tsmc-taps-nvidia-accelerated-computing-to-drive-next-gen-semiconductor-fabs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【戰爭升溫】9 則  🟢高信心
-  ▸ Asia FX, dollar subdued amid Iran ceasefire uncertainty; Chi
-    https://www.investing.com/news/forex-news/asia-fx-dollar-subdued-amid-iran-ceasefire-uncertainty-china-mixed-pmi-in-focus-4718007
-  ▸ US says it struck Iranian military sites, Tehran responds wi
-    https://www.investing.com/news/world-news/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-4718003
-  ▸ Oil rises as US and Iran trade strikes, Israel moves further
-    https://www.investing.com/news/commodities-news/oil-prices-rise-more-than-2-as-israel-moves-further-into-lebanon-4717951
+【戰爭升溫】3 則  🟢高信心
+  ▸ Trump hits out at ‘chirping’ critics as Iran peace talks ent
+    https://www.cnbc.com/2026/06/01/iran-war-trump-hits-out-at-critics-says-tehran-really-wants-a-deal.html
+  ▸ Oil jumps 2% as Israel expands Lebanon offensive, rattling c
+    https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html
+  ▸ 因應中東戰事推高油價，歐盟考慮凍結俄油價格上限並擬推新制裁
+    https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E6%AD%90%E7%9B%9F%E8%80%83%E6%85%AE%E5%87%8D%E7%B5%90%E4%BF%84%E6%B2%B9%E5%83%B9%E6%A0%BC%E4%B8%8A%E9%99%90%E4%B8%A6%E6%93%AC%E6%8E%A8%E6%96%B0%E5%88%B6%E8%A3%81-062939859.html
 
-【景氣轉弱】5 則  🟢高信心
-  ▸ 經濟學家示警 AI 恐致經濟崩潰 川普政策添變數
-    https://tw.stock.yahoo.com/news/%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E7%A4%BA%E8%AD%A6-ai-%E6%81%90%E8%87%B4%E7%B6%93%E6%BF%9F%E5%B4%A9%E6%BD%B0-%E5%B7%9D%E6%99%AE%E6%94%BF%E7%AD%96%E6%B7%BB%E8%AE%8A%E6%95%B8-050404736.html
-  ▸ 美國股市空單激增 比特幣市場結構面臨考驗
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E8%82%A1%E5%B8%82%E7%A9%BA%E5%96%AE%E6%BF%80%E5%A2%9E-%E6%AF%94%E7%89%B9%E5%B9%A3%E5%B8%82%E5%A0%B4%E7%B5%90%E6%A7%8B%E9%9D%A2%E8%87%A8%E8%80%83%E9%A9%97-045348728.html
-  ▸ 私人信貸市場帳面損失擴大 歐央行示警企業償債能力惡化
-    https://tw.stock.yahoo.com/news/%E7%A7%81%E4%BA%BA%E4%BF%A1%E8%B2%B8%E5%B8%82%E5%A0%B4%E5%B8%B3%E9%9D%A2%E6%90%8D%E5%A4%B1%E6%93%B4%E5%A4%A7-%E6%AD%90%E5%A4%AE%E8%A1%8C%E7%A4%BA%E8%AD%A6%E4%BC%81%E6%A5%AD%E5%84%9F%E5%82%B5%E8%83%BD%E5%8A%9B%E6%83%A1%E5%8C%96-043145873.html
-
-【通膨上升】4 則  🟢高信心
-  ▸ India manufacturing activity rose in May despite cost pressu
-    https://www.investing.com/news/economic-indicators/india-manufacturing-activity-rose-in-may-despite-cost-pressures-pmi-shows-4718024
-  ▸ 美囤貨潮加劇全球供應緊張，高盛調高LME期銅年底目標價至13735美元
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9B%A4%E8%B2%A8%E6%BD%AE%E5%8A%A0%E5%8A%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E7%B7%8A%E5%BC%B5-%E9%AB%98%E7%9B%9B%E8%AA%BF%E9%AB%98lme%E6%9C%9F%E9%8A%85%E5%B9%B4%E5%BA%95%E7%9B%AE%E6%A8%99%E5%83%B9%E8%87%B313735%E7%BE%8E%E5%85%83-051656302.html
-  ▸ 焦點股：功率元件迎調漲動能，廣閎科沿短期均線高檔震盪
-    https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E5%8A%9F%E7%8E%87%E5%85%83%E4%BB%B6%E8%BF%8E%E8%AA%BF%E6%BC%B2%E5%8B%95%E8%83%BD-%E5%BB%A3%E9%96%8E%E7%A7%91%E6%B2%BF%E7%9F%AD%E6%9C%9F%E5%9D%87%E7%B7%9A%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA-045147548.html
-
-【政策補助】4 則  🟢高信心
-  ▸ Government is now an active investor — and it’s why your por
-    https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories
-  ▸ 中油80周年 賴清德承諾力挺公司及員工 拋能源韌性、導入AI兩大核心目標
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%B2%B980%E5%91%A8%E5%B9%B4-%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%89%BF%E8%AB%BE%E5%8A%9B%E6%8C%BA%E5%85%AC%E5%8F%B8%E5%8F%8A%E5%93%A1%E5%B7%A5-%E6%8B%8B%E8%83%BD%E6%BA%90%E9%9F%8C%E6%80%A7-%E5%B0%8E%E5%85%A5ai%E5%85%A9%E5%A4%A7%E6%A0%B8%E5%BF%83%E7%9B%AE%E6%A8%99-043705074.html
-  ▸ 通化安和公辦都更拍板 北市住都攜手冠德打造23層新地標
-    https://money.udn.com/money/story/5612/9538195
-
-【油價上升】3 則  🟢高信心
-  ▸ Oil rises as US and Iran trade strikes, Israel moves further
-    https://www.investing.com/news/commodities-news/oil-prices-rise-more-than-2-as-israel-moves-further-into-lebanon-4717951
-  ▸ Oil rises, U.S. stock futures inch higher as Wall Street loo
-    https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories
-  ▸ 中東戰事恐下半年才落幕 中油估國際油價續居高檔至明年
-    https://tw.news.yahoo.com/%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E6%81%90%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%89%8D%E8%90%BD%E5%B9%95-%E4%B8%AD%E6%B2%B9%E4%BC%B0%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E7%BA%8C%E5%B1%85%E9%AB%98%E6%AA%94%E8%87%B3%E6%98%8E%E5%B9%B4-045127063.html
+【油價上升】2 則  🟢高信心
+  ▸ Oil jumps 2% as Israel expands Lebanon offensive, rattling c
+    https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html
+  ▸ 因應中東戰事推高油價，歐盟考慮凍結俄油價格上限並擬推新制裁
+    https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E6%AD%90%E7%9B%9F%E8%80%83%E6%85%AE%E5%87%8D%E7%B5%90%E4%BF%84%E6%B2%B9%E5%83%B9%E6%A0%BC%E4%B8%8A%E9%99%90%E4%B8%A6%E6%93%AC%E6%8E%A8%E6%96%B0%E5%88%B6%E8%A3%81-062939859.html
 
 【降息】1 則  🟡單篇
   ▸ Mortgage and refinance interest rates today, Sunday, May 31,
     https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-31-2026-100000557.html
 
-【美元貶值】1 則  🟡單篇
-  ▸ Asia FX, dollar subdued amid Iran ceasefire uncertainty; Chi
-    https://www.investing.com/news/forex-news/asia-fx-dollar-subdued-amid-iran-ceasefire-uncertainty-china-mixed-pmi-in-focus-4718007
+【政策補助】1 則  🟡單篇
+  ▸ CRISM Therapeutics secures £99,902 grant for cancer program
+    https://www.investing.com/news/company-news/crism-therapeutics-secures-99902-grant-for-cancer-program-93CH-4718042
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ German retail sales dip 0.3% in April, beating forecasts des
+    https://seekingalpha.com/news/4598735-germany-retail-sales-edge-down-030-mm-in-april?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 8. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
- 9. 2006.TW      +2.9  鋼鐵｜通膨上升、美元貶值
-10. 2007.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+ 1. 6505.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 3. 2330.TW      +3.9  半導體｜AI熱潮、降息
+ 4. 2454.TW      +3.9  半導體｜AI熱潮、降息
+ 5. 2303.TW      +3.9  半導體｜AI熱潮、降息
+ 6. 2344.TW      +3.9  半導體｜AI熱潮、降息
+ 7. 3711.TW      +3.9  半導體｜AI熱潮、降息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
@@ -93,11 +61,8 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
- 6. 2327.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
- 7. 3037.TW      -4.5  電子零組件｜景氣轉弱、通膨上升
- 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
