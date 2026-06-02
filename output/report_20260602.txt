@@ -1,0 +1,102 @@
+📊 事件驅動選股日報 2026-06-02
+════════════════════════════════
+掃描 137 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續，投資動能強勁**：科技巨頭持續投入巨資，AI基礎設施及相關供應商營收展望強勁，顯示產業擴張趨勢不變。
+2.  **地緣政治風險升溫**：中東情勢緊張及軍事部署計畫受到關注，可能導致原油價格波動，並推升防衛相關議題。
+3.  **記憶體市場景氣向上**：關鍵記憶體廠商股價表現強勢，反映市場對其產業前景的樂觀預期，半導體供應鏈受惠。
+4.  **貿易保護主義延續**：美國擬對特定國家祭出新關稅及制裁，增添全球貿易不確定性，可能影響供應鏈布局。
+5.  **政策支持特定產業**：各國政府透過政策工具支持環保科技、生技醫療等特定產業發展，並研議潛在的消費稅調整以刺激經濟。
+
+【具體總結】：
+今日市場受多重因子影響，呈現多空交織格局。AI與記憶體產業受強勁需求和投資帶動，為科技板塊提供主要動能。然而，地緣政治緊張升溫及貿易保護主義加劇，恐提升整體市場避險情緒，並影響原油等大宗商品價格。此外，各國政府的產業補助與潛在減稅措施，則為綠色經濟與生技醫療等特定領域帶來支撐，資金動向可能在成長型與防禦型產業間尋求平衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】40 則  🟢高信心
+  ▸ Job seekers are using ‘AI role-play’ to negotiate salary. He
+    https://www.marketwatch.com/story/job-seekers-are-using-ai-role-play-to-negotiate-salary-heres-how-to-do-it-149123b7?mod=mw_rss_topstories
+  ▸ Alphabet asks shareholders to foot an $80 billion bill for A
+    https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories
+  ▸ Credo signals 80%+ fiscal 2027 revenue growth, with $600m+ e
+    https://seekingalpha.com/news/4599516-credo-signals-80-percent-fiscal-2027-revenue-growth-with-600m-expected-from-optical-portfolio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】7 則  🟢高信心
+  ▸ Oil pulls back from biggest losses as Trump says Israel, Hez
+    https://seekingalpha.com/news/4599515-oil-pulls-back-from-biggest-losses-as-trump-says-israel-hezbollah-to-stop-attacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ US in talks to expand nuclear weapons deployments in Europe,
+    https://www.investing.com/news/world-news/us-in-talks-to-expand-nuclear-weapons-deployments-in-europe-ft-says-4720823
+  ▸ 影／從偵察到火力支援　國軍機器狗展現未來作戰新樣貌
+    https://money.udn.com/money/story/11162/9540323
+
+【政策補助】5 則  🟢高信心
+  ▸ Japan considering sales tax cut in April 2027, Mainichi repo
+    https://www.investing.com/news/economy-news/japan-considering-rolling-out-sales-tax-cut-in-april-2027-mainichi-reports-4720692
+  ▸ Moderna and other groups get $60 million to develop Ebola va
+    https://www.investing.com/news/stock-market-news/moderna-partners-with-global-health-coalition-to-develop-bundibugyo-ebola-vaccine-4718359
+  ▸ 資源循環推動法三讀 導入綠色設計、企業可減稅
+    https://money.udn.com/money/story/5612/9540441
+
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ Trump administration proposes 25% tariff on Brazilian goods 
+    https://www.cnbc.com/2026/06/02/trump-proposes-25-tariff-on-brazil.html
+  ▸ CNBC's The China Connection newsletter: China learns to buil
+    https://www.cnbc.com/2026/06/01/china-learns-to-build-without-nvidia.html
+  ▸ 美國擬以強迫勞動調查結果為由，再對巴西祭出貿易制裁
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%93%AC%E4%BB%A5%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95%E8%AA%BF%E6%9F%A5%E7%B5%90%E6%9E%9C%E7%82%BA%E7%94%B1-%E5%86%8D%E5%B0%8D%E5%B7%B4%E8%A5%BF%E7%A5%AD%E5%87%BA%E8%B2%BF%E6%98%93%E5%88%B6%E8%A3%81-040000228.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ As Micron’s stock blows past $1,000, Wall Street sees more g
+    https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories
+  ▸ 美光衝破1000美元 華爾街看好還有得漲
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E8%A1%9D%E7%A0%B41000%E7%BE%8E%E5%85%83-%E8%8F%AF%E7%88%BE%E8%A1%97%E7%9C%8B%E5%A5%BD%E9%82%84%E6%9C%89%E5%BE%97%E6%BC%B2-041003382.html
+
+【油價上升】2 則  🟢高信心
+  ▸ Many big oil tankers remain stuck in the Strait of Hormuz — 
+    https://www.marketwatch.com/story/many-big-oil-tankers-remain-stuck-in-strait-of-hormuz-and-may-not-return-once-they-escape-5b344e49?mod=mw_rss_topstories
+  ▸ S&P 500 closes at a record to kick off June trading as tech 
+    https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Counterpoint Research：2026年智慧型手機出貨量將創歷史最大跌幅
+    https://money.udn.com/money/story/5612/9540478
+  ▸ Retail had a 'surprisingly robust' first quarter, but the re
+    https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 新台幣午盤重貶1.28角　暫收31.507元
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%88%E7%9B%A4%E9%87%8D%E8%B2%B61-28%E8%A7%92-%E6%9A%AB%E6%94%B631-507%E5%85%83-041323082.html
+
+【通膨下降】1 則  🟡單篇
+  ▸ 通膨壓力未明顯升溫，日銀前官員白井早由里估本月或按兵不動
+    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B%E6%9C%AA%E6%98%8E%E9%A1%AF%E5%8D%87%E6%BA%AB-%E6%97%A5%E9%8A%80%E5%89%8D%E5%AE%98%E5%93%A1%E7%99%BD%E4%BA%95%E6%97%A9%E7%94%B1%E9%87%8C%E4%BC%B0%E6%9C%AC%E6%9C%88%E6%88%96%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-040719985.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 3. 2344.TW      +4.8  半導體/記憶體｜AI熱潮、關稅/貿易戰
+ 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 9. 3576.TWO     +2.5  綠能｜政策補助
+10. 6443.TW      +2.5  綠能｜政策補助
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
