@@ -1,79 +1,67 @@
 📊 事件驅動選股日報 2026-06-05
 ════════════════════════════════
-掃描 130 則新聞  |  偵測 8 個事件
+掃描 128 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-*   AI熱潮持續，美國對中國AI技術管制限縮，並引導投資人尋求創新應用，科技類股仍為焦點。
-*   全球及國內經濟復甦呈現K型不均，部分私部門資產面臨流動性壓力，市場對景氣前景保持謹慎。
-*   中東地緣政治風險升溫，影響能源供應穩定性，推升全球原油價格與航運成本。
-*   政府積極推動綠色能源發展，並提供相關政策補助，有利於再生能源相關產業鏈。
-*   美元維持強勢，導致新台幣及部分新興市場貨幣承壓，出口導向產業受惠程度可能提升。
-
-【具體總結】：
-綜合今日市場焦點，AI熱潮持續支撐科技類股表現，但美國對中國技術管制趨嚴及AI對勞動市場的影響值得關注。同時，全球經濟復甦不均與部分私部門資產流動性壓力，使得市場對整體景氣前景維持謹慎態度。中東地緣政治風險升高，導致能源供應鏈不確定性增加，推升原物料價格。此外，政府對綠能產業的政策支持，以及美元走強對新台幣造成的貶值壓力，將影響資金流向與不同產業的獲利表現，投資人需審慎評估。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】20 則  🟢高信心
-  ▸ Trump officials fear US policy loophole allowed China to buy
-    https://seekingalpha.com/news/4600900-trump-officials-fear-us-policy-loophole-allowed-china-to-buy-nvidia-blackwell-chips-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Exclusive-South Korea labour minister calls on tech firms to
-    https://www.investing.com/news/stock-market-news/exclusivesouth-korea-labour-minister-calls-on-tech-firms-to-share-excess-ai-profits-with-suppliers-staff-4727817
+【AI熱潮】11 則  🟢高信心
   ▸ This investing strategy digs deeper to find hidden stocks ri
     https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories
+  ▸ Senior U.S. officials mull taking stakes in AI firms - repor
+    https://seekingalpha.com/news/4600904-senior-us-officials-mull-taking-stakes-in-ai-firms---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Data center developer Switch eyed at $50B+ valuation in mass
+    https://seekingalpha.com/news/4600913-data-center-developer-switch-eyed-at-50b-valuation-in-massive-private-funding-talks-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【景氣轉弱】5 則  🟢高信心
-  ▸ 商研院：不均衡復甦常態化 國內景氣K型發展失衡
-    https://tw.stock.yahoo.com/news/%E5%95%86%E7%A0%94%E9%99%A2-%E4%B8%8D%E5%9D%87%E8%A1%A1%E5%BE%A9%E7%94%A6%E5%B8%B8%E6%85%8B%E5%8C%96-%E5%9C%8B%E5%85%A7%E6%99%AF%E6%B0%A3k%E5%9E%8B%E7%99%BC%E5%B1%95%E5%A4%B1%E8%A1%A1-034747027.html
-  ▸ S&P 500 futures tick lower as Wall Street awaits May jobs re
-    https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html
-  ▸ Blackstone restricts flagship fund withdrawals as private as
-    https://www.cnbc.com/2026/06/04/blackstone-caps-withdrawals-private-credit.html
-
-【戰爭升溫】4 則  🟢高信心
-  ▸ 烏克蘭與緬甸實戰經驗 斷網後靠「Wi-Fi機＋Gogoro電池」照樣能通訊
-    https://tw.news.yahoo.com/%E7%83%8F%E5%85%8B%E8%98%AD%E8%88%87%E7%B7%AC%E7%94%B8%E5%AF%A6%E6%88%B0%E7%B6%93%E9%A9%97-%E6%96%B7%E7%B6%B2%E5%BE%8C%E9%9D%A0-wi-fi%E6%A9%9F-gogoro%E9%9B%BB%E6%B1%A0-043000420.html
-  ▸ 疑遭無人機襲擊，阿曼Mina al Fahal碼頭爆炸後暫停石油裝載
-    https://tw.stock.yahoo.com/news/%E7%96%91%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E9%98%BF%E6%9B%BCmina-al-fahal%E7%A2%BC%E9%A0%AD%E7%88%86%E7%82%B8%E5%BE%8C%E6%9A%AB%E5%81%9C%E7%9F%B3%E6%B2%B9%E8%A3%9D%E8%BC%89-035000550.html
-  ▸ India's cenbank keeps rates steady at  5.25% — flags Middle 
-    https://www.cnbc.com/2026/06/05/india-rbi-rate-gdp-inflation.html
-
-【政策補助】4 則  🟢高信心
-  ▸ 推小水力發電落地  經濟部祭獎勵辦法最高500萬元
-    https://tw.stock.yahoo.com/news/%E6%8E%A8%E5%B0%8F%E6%B0%B4%E5%8A%9B%E7%99%BC%E9%9B%BB%E8%90%BD%E5%9C%B0-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%A5%AD%E7%8D%8E%E5%8B%B5%E8%BE%A6%E6%B3%95%E6%9C%80%E9%AB%98500%E8%90%AC%E5%85%83-040721587.html
+【政策補助】5 則  🟢高信心
+  ▸ Senior U.S. officials mull taking stakes in AI firms - repor
+    https://seekingalpha.com/news/4600904-senior-us-officials-mull-taking-stakes-in-ai-firms---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ InnoVEX 2026聚焦AI與深科技，資誠頒發新創特別獎助攻新創成長
+    https://money.udn.com/money/story/5612/9547973
   ▸ 國環院迎世界環境日 祭萬元補助挺弱勢考環教證
     https://money.udn.com/money/story/5612/9547802
-  ▸ 推小水力發電落地 經濟部祭獎勵辦法最高500萬元
-    https://money.udn.com/money/story/5612/9547747
 
-【美元升值】2 則  🟢高信心
-  ▸ 新台幣午盤貶4分　暫收31.50元
-    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%88%E7%9B%A4%E8%B2%B64%E5%88%86-%E6%9A%AB%E6%94%B631-50%E5%85%83-040515714.html
-  ▸ 惠譽：亞太區發債活動有所改善 新興市場正面臨匯率壓力
-    https://money.udn.com/money/story/5612/9547836
+【景氣轉弱】4 則  🟢高信心
+  ▸ Blackstone restricts flagship fund withdrawals as private as
+    https://www.cnbc.com/2026/06/04/blackstone-caps-withdrawals-private-credit.html
+  ▸ Long-term unemployment is surging in the U.S. There are hidd
+    https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html
+  ▸ 一度慘殺1467點！台股收跌606點  台積電砍20元記憶體遭拋售
+    https://tw.stock.yahoo.com/news/%E5%BA%A6%E6%85%98%E6%AE%BA1467%E9%BB%9E-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C606%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A0%8D20%E5%85%83%E8%A8%98%E6%86%B6%E9%AB%94%E9%81%AD%E6%8B%8B%E5%94%AE-054416570.html
 
-【油價上升】2 則  🟢高信心
-  ▸ 疑遭無人機襲擊，阿曼Mina al Fahal碼頭爆炸後暫停石油裝載
-    https://tw.stock.yahoo.com/news/%E7%96%91%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E9%98%BF%E6%9B%BCmina-al-fahal%E7%A2%BC%E9%A0%AD%E7%88%86%E7%82%B8%E5%BE%8C%E6%9A%AB%E5%81%9C%E7%9F%B3%E6%B2%B9%E8%A3%9D%E8%BC%89-035000550.html
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ Trump’s latest tariff salvo no fix for global issue of force
+    https://www.investing.com/news/world-news/trumps-latest-tariff-salvo-no-fix-for-global-issue-of-forced-labor-4727842
+  ▸ U.S. proposes fresh tariffs on 60 economies over forced labo
+    https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html
+  ▸ 力抗產業缺工、高齡化與供應鏈重組 卓榮泰：現在是最好的時代
+    https://money.udn.com/money/story/5612/9547742
+
+【美元升值】3 則  🟢高信心
+  ▸ India holds rates, ramps up measures to support faltering ru
+    https://www.investing.com/news/economy-news/indian-central-bank-keeps-key-policy-rate-on-hold-despite-falling-currency-4727828
+  ▸ Asian equities largely decline on tech rotation; yen remains
+    https://seekingalpha.com/news/4600909-asian-equities-largely-decline-on-tech-rotation-yen-remains-pinned-near-critical-160-mark?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Yen hits key 160 level for third session amid Gulf turmoil; 
+    https://seekingalpha.com/news/4600911-yen-hits-key-160-level-for-third-session-amid-gulf-turmoil-pm-takaichi-vows-economic-lift?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ Dollar steadies with US-Iran tensions, nonfarm payrolls in f
+    https://www.investing.com/news/forex-news/dollar-steadies-with-usiran-tensions-nonfarm-payrolls-in-focus-4727838
   ▸ Ships stranded in Persian Gulf quietly coordinate with U.S. 
     https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html
 
-【航運運價上升】1 則  🟡單篇
-  ▸ 散裝航商對Q2及今年展望正面，慧洋-KY盤中創波段高，帶動散裝族群走揚
-    https://tw.stock.yahoo.com/news/%E6%95%A3%E8%A3%9D%E8%88%AA%E5%95%86%E5%B0%8Dq2%E5%8F%8A%E4%BB%8A%E5%B9%B4%E5%B1%95%E6%9C%9B%E6%AD%A3%E9%9D%A2-%E6%85%A7%E6%B4%8B-ky%E7%9B%A4%E4%B8%AD%E5%89%B5%E6%B3%A2%E6%AE%B5%E9%AB%98-%E5%B8%B6%E5%8B%95%E6%95%A3%E8%A3%9D%E6%97%8F%E7%BE%A4%E8%B5%B0%E6%8F%9A-034641715.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ U.S. proposes fresh tariffs on 60 economies over forced labo
-    https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html
+【油價上升】1 則  🟡單篇
+  ▸ Ships stranded in Persian Gulf quietly coordinate with U.S. 
+    https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 1. 6505.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
  3. 2382.TW      +3.0  AI伺服器｜AI熱潮
  4. 2356.TW      +3.0  AI伺服器｜AI熱潮
  5. 2308.TW      +3.0  AI伺服器｜AI熱潮
@@ -85,10 +73,10 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
  5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
