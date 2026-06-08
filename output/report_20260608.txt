@@ -1,112 +1,73 @@
 📊 事件驅動選股日報 2026-06-08
 ════════════════════════════════
-掃描 125 則新聞  |  偵測 9 個事件
+掃描 122 則新聞  |  偵測 6 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  **【重點提要】**
-    *   AI概念股在前期強勁上漲後出現修正壓力，但龍頭企業仍有新合作案，市場資金集中於少數巨頭的現象顯著。
-    *   全球股市（特別是S&P 500與Nasdaq）面臨顯著下挫，反映市場對景氣轉弱的擔憂；台股雖大跌，然大型權值股ETF逆勢吸引資金買進。
-    *   受強勁美國經濟數據影響，高盛預期聯準會降息時程可能延後至2027年，強化「高利率將維持更久」的市場預期。
-    *   中東地區地緣政治緊張情勢升溫，導致油價上漲，增加全球供應鏈成本與市場不確定性。
-    *   美元指數因美國經濟數據表現強勁及高利率預期而走高，壓抑亞洲與新興市場貨幣表現。
-
-2.  **【具體總結】**
-    今日盤勢受多重壓力影響，AI概念股在前期熱潮後顯現修正壓力，但龍頭交易仍持續。全球股市因景氣轉弱擔憂而下跌，儘管台股大型ETF吸引資金逆勢進場。聯準會降息預期延後至2027年，強化高利率將維持更久的看法，推動美元走強並壓抑亞幣。此外，中東地緣政治緊張升溫，導致油價上漲，為全球經濟增添不確定性。整體而言，市場呈現震盪格局，資金流向趨於保守，短期內風險規避情緒較高。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ Morning Bid: Blistering AI rally turns ugly
-    https://www.investing.com/news/economy-news/morning-bid-blistering-ai-rally-turns-ugly-4729762
-  ▸ Analysis-How a few AI chip giants warped Asia’s stock pickin
-    https://www.investing.com/news/stock-market-news/analysishow-a-few-ai-chip-giants-warped-asias-stock-picking-game-4729759
-  ▸ Nvidia signs AI deals with SK Group and South Korean tech fi
-    https://www.investing.com/news/stock-market-news/nvidia-signs-ai-deals-with-sk-group-and-south-korean-tech-firms-93CH-4729757
+【AI熱潮】7 則  🟢高信心
+  ▸ UK AI start-up PhysicsX hits $2.4B valuation following $300M
+    https://seekingalpha.com/news/4601278-uk-ai-start-up-physicsx-hits-24b-valuation-following-300m-temasek-led-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ South Korea's Naver will build AI factories using Nvidia's D
+    https://seekingalpha.com/news/4601271-south-koreas-naver-will-build-ai-factories-using-nvidias-dsx-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Nvidia is working with LG on humanoid robots, next-generatio
+    https://seekingalpha.com/news/4601265-nvidia-is-working-with-lg-on-humanoid-robots-next-generation-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【景氣轉弱】10 則  🟢高信心
+【景氣轉弱】2 則  🟢高信心
+  ▸ Asian stock markets plunge as South Korea's KOSPI triggers h
+    https://seekingalpha.com/news/4601268-asian-stock-markets-plunge-as-south-koreas-kospi-triggers-halt-amid-global-tech-rout-geopolitical-shock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest p
     https://www.marketwatch.com/story/s-p-500-sees-1-8-trillion-wipeout-nasdaq-tallies-biggest-point-drop-on-record-heres-what-investors-need-to-know-about-fridays-selloff-4eb7b490?mod=mw_rss_topstories
-  ▸ 台股大跌投資人勇敢搶進市值雙雄 0050、00631L盤中成交金額雙破200億
-    https://money.udn.com/money/story/5612/9552713
-  ▸ 美吉吉-KY前5月營收年減26%，歐美客戶下單動能逐步回升
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%90%89%E5%90%89-ky%E5%89%8D5%E6%9C%88%E7%87%9F%E6%94%B6%E5%B9%B4%E6%B8%9B26-%E6%AD%90%E7%BE%8E%E5%AE%A2%E6%88%B6%E4%B8%8B%E5%96%AE%E5%8B%95%E8%83%BD%E9%80%90%E6%AD%A5%E5%9B%9E%E5%8D%87-050317900.html
 
-【升息】6 則  🟢高信心
-  ▸ Mortgage and refinance interest rates today, Sunday, June 7,
-    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-june-7-2026-100000607.html
-  ▸ Best CD rates today, Sunday, June 7, 2026: Lock in up to 4% 
-    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-7-2026-100000587.html
-  ▸ Goldman Sachs pushes Fed rate-cut call to 2027 on strong US 
-    https://www.investing.com/news/economy-news/goldman-sachs-pushes-fed-ratecut-call-to-2027-on-strong-us-jobs-data-4729763
-
-【戰爭升溫】5 則  🟢高信心
-  ▸ China’s global e-commerce push stalls as Iran war lifts cost
-    https://www.investing.com/news/stock-market-news/chinas-global-ecommerce-push-stalls-as-iran-war-lifts-costs-dampens-demand-4729756
-  ▸ U.S. stock futures mixed, oil prices surge as new attacks th
-    https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories
-  ▸ Iran and Israel exchange strikes, threatening fragile ceasef
-    https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html
-
-【美元升值】4 則  🟢高信心
-  ▸ Asia FX steadies after sliding on strong US jobs data; dolla
-    https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-strong-us-jobs-data-dollar-firm-at-2mth-high-4729761
-  ▸ Dollar hits two-month peak as Fed hike bets ramp up
-    https://www.investing.com/news/economy-news/dollar-climbs-to-twomonth-peak-as-fed-hike-bets-ramp-up-4729726
-  ▸ 印尼外匯存底連5月下滑至1,449億美元，穩匯成本推升壓力
-    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E5%A4%96%E5%8C%AF%E5%AD%98%E5%BA%95%E9%80%A35%E6%9C%88%E4%B8%8B%E6%BB%91%E8%87%B31-449%E5%84%84%E7%BE%8E%E5%85%83-%E7%A9%A9%E5%8C%AF%E6%88%90%E6%9C%AC%E6%8E%A8%E5%8D%87%E5%A3%93%E5%8A%9B-041316397.html
-
-【油價上升】4 則  🟢高信心
+【油價上升】2 則  🟢高信心
   ▸ U.S. stock futures mixed, oil prices surge as new attacks th
     https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories
   ▸ S&P 500 companies can’t stop talking about higher oil prices
     https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories
-  ▸ Oil prices spike over 3% as Iran and Israel trade strikes, e
-    https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ U.S. stock futures mixed, oil prices surge as new attacks th
+    https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories
+  ▸ 100 days of the Iran war: How global markets and the economy
+    https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html
 
 【記憶體漲價】2 則  🟢高信心
-  ▸ Nvidia strikes a new memory-chip deal — but SK Hynix and Sam
-    https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories
-  ▸ 記憶體開低走高 凱基投信：AI 發展剛性需求暢旺 產業出現結構性轉變
-    https://money.udn.com/money/story/5612/9552495
+  ▸ 【公告】福懋科 2026年5月合併營收10.53億元 年增49.61%
+    https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%A6%8F%E6%87%8B%E7%A7%91-2026%E5%B9%B45%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B610-53%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E49-061312894.html
+  ▸ 【公告】旺宏 2026年5月合併營收62.56億元 年增175.8%
+    https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%97%BA%E5%AE%8F-2026%E5%B9%B45%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B662-56%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E175-061239503.html
 
-【通膨上升】2 則  🟢高信心
+【通膨上升】1 則  🟡單篇
   ▸ Inflation inside the electronics you buy may soon become a b
     https://www.cnbc.com/2026/06/07/inflation-iran-war-consumer-economy-electronics.html
-  ▸ 印尼收緊大宗商品出口管理，煤炭、棕櫚油與鐵合金納入中央管控
-    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E6%94%B6%E7%B7%8A%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E5%87%BA%E5%8F%A3%E7%AE%A1%E7%90%86-%E7%85%A4%E7%82%AD-%E6%A3%95%E6%AB%9A%E6%B2%B9%E8%88%87%E9%90%B5%E5%90%88%E9%87%91%E7%B4%8D%E5%85%A5%E4%B8%AD%E5%A4%AE%E7%AE%A1%E6%8E%A7-041709036.html
-
-【政策補助】1 則  🟡單篇
-  ▸ 促進民眾參與！經部公告小水力發電示範獎勵辦法 獎勵金上限500萬元
-    https://money.udn.com/money/story/5612/9552470
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +7.8  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +7.8  油電燃氣｜油價上升、戰爭升溫
+ 3. 2344.TW      +4.2  半導體/記憶體｜AI熱潮、景氣轉弱
+ 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 9. 2408.TW      +2.5  記憶體｜記憶體漲價
+10. 3260.TW      +2.5  記憶體｜記憶體漲價
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
- 2. 2327.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
- 3. 3037.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
- 4. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 8. 2515.TW      -3.0  建材營造｜升息
- 9. 5534.TW      -3.0  建材營造｜升息
-10. 2504.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 6. 2327.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 7. 3037.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
