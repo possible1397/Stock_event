@@ -1,0 +1,59 @@
+📊 事件驅動選股日報 2026-06-09
+════════════════════════════════
+掃描 130 則新聞  |  偵測 5 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】6 則  🟢高信心
+  ▸ Upstage AI模型Solar Open效率超越巨頭 規劃擴大參數並整合VLM功能
+    https://tw.stock.yahoo.com/news/upstage-ai%E6%A8%A1%E5%9E%8Bsolar-open%E6%95%88%E7%8E%87%E8%B6%85%E8%B6%8A%E5%B7%A8%E9%A0%AD-%E8%A6%8F%E5%8A%83%E6%93%B4%E5%A4%A7%E5%8F%83%E6%95%B8%E4%B8%A6%E6%95%B4%E5%90%88vlm%E5%8A%9F%E8%83%BD-040025147.html
+  ▸ 緯軟啟動品牌升級更名「緯致」，以AI、半導體作為雙軸成長動能
+    https://tw.stock.yahoo.com/news/%E7%B7%AF%E8%BB%9F%E5%95%9F%E5%8B%95%E5%93%81%E7%89%8C%E5%8D%87%E7%B4%9A%E6%9B%B4%E5%90%8D-%E7%B7%AF%E8%87%B4-%E4%BB%A5ai-%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BD%9C%E7%82%BA%E9%9B%99%E8%BB%B8%E6%88%90%E9%95%B7%E5%8B%95%E8%83%BD-035942837.html
+  ▸ OpenAI confidentially files for IPO, prepping Wall Street fo
+    https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html
+
+【油價下降】2 則  🟢高信心
+  ▸ 川普：美國對伊朗將在兩週內取得「全面勝利」、油價將「大幅下跌」
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B0%87%E5%9C%A8%E5%85%A9%E9%80%B1%E5%85%A7%E5%8F%96%E5%BE%97-%E5%85%A8%E9%9D%A2%E5%8B%9D%E5%88%A9-%E6%B2%B9%E5%83%B9%E5%B0%87-%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C-035005368.html
+  ▸ 川普喊美2週內宣布全面勝利！預告油價下跌
+    https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%96%8A%E7%BE%8E2%E9%80%B1%E5%85%A7%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%8B%9D%E5%88%A9-%E9%A0%90%E5%91%8A%E6%B2%B9%E5%83%B9%E4%B8%8B%E8%B7%8C-035002942.html
+
+【升息】1 則  🟡單篇
+  ▸ ING預測台灣央行第三季升息，油價風險成關鍵變數
+    https://tw.stock.yahoo.com/news/ing%E9%A0%90%E6%B8%AC%E5%8F%B0%E7%81%A3%E5%A4%AE%E8%A1%8C%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%8D%87%E6%81%AF-%E6%B2%B9%E5%83%B9%E9%A2%A8%E9%9A%AA%E6%88%90%E9%97%9C%E9%8D%B5%E8%AE%8A%E6%95%B8-035905452.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Pentagon expands list of China military-linked firms to incl
+    https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ Oil prices may hit $150 per barrel soon if Iran war continue
+    https://www.cnbc.com/2026/06/09/oil-prices-iran-hormuz-rystad-war-conflict-middle-east-.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2880.TW      +2.8  金融｜升息、戰爭升溫
+ 7. 2881.TW      +2.8  金融｜升息、戰爭升溫
+ 8. 2882.TW      +2.8  金融｜升息、戰爭升溫
+ 9. 2884.TW      +2.8  金融｜升息、戰爭升溫
+10. 2886.TW      +2.8  金融｜升息、戰爭升溫
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -2.1  建材營造｜升息
+ 2. 5534.TW      -2.1  建材營造｜升息
+ 3. 2504.TW      -2.1  建材營造｜升息
+ 4. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
