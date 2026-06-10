@@ -1,86 +1,70 @@
 📊 事件驅動選股日報 2026-06-10
 ════════════════════════════════
-掃描 128 則新聞  |  偵測 10 個事件
+掃描 136 則新聞  |  偵測 10 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  **【重點提要】**
-    *   AI熱潮持續：OpenAI投入巨額資料中心建設，Meta與Reliance深化AI合作，凸顯AI基礎設施與應用端仍是市場焦點。
-    *   亞洲通膨壓力驟升：日本與中國5月PPI均創多年新高，反映生產成本顯著上升，對亞洲股市構成壓力。
-    *   地緣政治風險加劇：中東地區衝突升級導致油價波動，並被點名為推升中國批發物價的主因。
-    *   景氣轉弱訊號浮現：宏觀擔憂導致銅價承壓，部分企業削減股息，顯示市場對經濟前景持謹慎態度。
-    *   油價與運輸成本上升：油價上漲推高美國汽油價格及航運燃油附加費，加劇通膨螺旋效應。
-
-2.  **【具體總結】**
-    今日盤勢呈現多空交雜局面。AI領域儘管續獲巨額投資與合作，但市場同步面臨通膨升溫、地緣政治風險及景氣轉弱的三重挑戰。亞洲主要國家生產者物價指數（PPI）飆高，加上油價上漲連帶推升運輸成本與消費者物價，使全球經濟活動面臨更高的不確定性。資金動向可能因此趨於謹慎，部分轉向避險資產，或重新評估成長型股票的風險報酬比。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】17 則  🟢高信心
-  ▸ OpenAI eyes massive $500B Ohio data center campus leased wit
-    https://seekingalpha.com/news/4602016-openai-eyes-massive-500b-ohio-data-center-campus-leased-with-nvidia-backing-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Meta teams up with billionaire Mukesh Ambani's Reliance to e
-    https://seekingalpha.com/news/4602032-meta-teams-up-billionaire-mukesh-ambanis-reliance-to-expand-ai-infrastructure-in-india?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Oracle’s stock has surged on AI hype. Now it has to deliver 
-    https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories
-
-【通膨上升】10 則  🟢高信心
-  ▸ Asian stocks slide on hot inflation prints; tech rally crumb
-    https://seekingalpha.com/news/4602025-asian-stocks-slide-on-hot-inflation-prints-tech-rally-crumbles-on-geopolitical-flare-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Japan's May PPI jumps 6.3% to over 3-year high, beats market
-    https://seekingalpha.com/news/4602028-japans-may-ppi-jumps-63-to-over-3-year-high-beats-market-forecasts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ China May Inflation: PPI hits near 4-year high of 3.9% while
-    https://seekingalpha.com/news/4602027-china-may-inflation-ppi-hits-near-4-year-high-of-39-while-cpi-stalls-at-12?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【戰爭升溫】8 則  🟢高信心
-  ▸ Asian stocks slide on hot inflation prints; tech rally crumb
-    https://seekingalpha.com/news/4602025-asian-stocks-slide-on-hot-inflation-prints-tech-rally-crumbles-on-geopolitical-flare-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes
-    https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html
+【AI熱潮】16 則  🟢高信心
+  ▸ TSMC sales jumps 30% y/y in May on strong AI chip demand
+    https://www.investing.com/news/stock-market-news/tsmc-sales-jumps-30-yy-in-may-on-strong-ai-chip-demand-4734331
+  ▸ Beijing escalating AI espionage to catch up with the U.S. on
+    https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html
   ▸ China May wholesale inflation hits near 4-year high on Iran 
     https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html
 
-【景氣轉弱】7 則  🟢高信心
-  ▸ These dividend stocks have slashed their payments, Morgan St
-    https://www.cnbc.com/2026/06/09/these-dividend-stocks-have-slashed-their-payments-morgan-stanley-says.html
-  ▸ Jim Cramer says tech stocks are losing the qualities that ma
-    https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html
-  ▸ Copper edges down as macro concerns weigh on tariff support
-    https://www.investing.com/news/economy-news/copper-edges-down-as-macro-concerns-weigh-on-tariff-support-4734314
+【戰爭升溫】6 則  🟢高信心
+  ▸ Iran attacks US bases amid row over downed helicopter near H
+    https://www.investing.com/news/economy-news/iran-attacks-us-bases-amid-row-over-downed-helicopter-near-hormuz-4734332
+  ▸ Asian stocks slide, oil rises as Iran and US launch strikes
+    https://www.investing.com/news/economy-news/asian-stocks-slide-oil-gains-as-middle-east-tensions-escalate-4734284
+  ▸ Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes
+    https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html
 
-【油價上升】4 則  🟢高信心
+【升息】4 則  🟢高信心
+  ▸ Best CD rates today, Tuesday, June 9, 2026: Lock in up to 4%
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-9-2026-100000440.html
+  ▸ Best high-yield savings interest rates today, Tuesday, June 
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-9-2026-100000388.html
+  ▸ Mortgage and refinance rates today, Tuesday, June 9, 2026: R
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-9-2026-100000893.html
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ National mall footwear giant closes 82 stores as shoppers tr
+    https://finance.yahoo.com/economy/policy/articles/national-mall-footwear-giant-closes-160709525.html
+  ▸ 102-year-old fashion giant faces 400 store closures
+    https://finance.yahoo.com/markets/stocks/articles/102-old-fashion-giant-faces-184600129.html
+  ▸ Taiwan stocks lower at close of trade; Taiwan Weighted down 
+    https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-348-4734333
+
+【油價上升】3 則  🟢高信心
+  ▸ Asian stocks slide, oil rises as Iran and US launch strikes
+    https://www.investing.com/news/economy-news/asian-stocks-slide-oil-gains-as-middle-east-tensions-escalate-4734284
   ▸ Oil choppy after U.S. completes Iran strikes following Apach
     https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html
-  ▸ Higher gasoline prices likely pushed up US consumer inflatio
-    https://www.investing.com/news/economy-news/higher-gasoline-prices-likely-pushed-up-us-consumer-inflation-again-in-may-4734313
   ▸ 航運業者：5月貨櫃市況增溫　燃油附加費擬逐月調
     https://money.udn.com/money/story/10871/9557584
 
-【關稅/貿易戰】4 則  🟢高信心
-  ▸ U.S. customs agency, trade judge to seek path to final tarif
-    https://www.cnbc.com/2026/06/09/us-customs-agency-trade-judge-to-seek-path-to-final-tariff-refunds.html
-  ▸ Copper edges down as macro concerns weigh on tariff support
-    https://www.investing.com/news/economy-news/copper-edges-down-as-macro-concerns-weigh-on-tariff-support-4734314
-  ▸ 川普關稅風暴後 以太坊漲幅超越比特幣成最大贏家
-    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E9%97%9C%E7%A8%85%E9%A2%A8%E6%9A%B4%E5%BE%8C-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%BC%B2%E5%B9%85%E8%B6%85%E8%B6%8A%E6%AF%94%E7%89%B9%E5%B9%A3%E6%88%90%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-043206082.html
+【通膨上升】2 則  🟢高信心
+  ▸ China May wholesale inflation hits near 4-year high on Iran 
+    https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html
+  ▸ A powerful inflation storm is brewing — and your portfolio i
+    https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories
 
-【升息】4 則  🟢高信心
-  ▸ BOJ set to raise key rate to 1.0% in June, 1.25% by year-end
-    https://www.investing.com/news/economy-news/boj-set-to-raise-key-rate-to-10-in-june-125-by-yearend-reuters-poll-4734316
-  ▸ 談預防性升息　楊金龍：通膨預期不嚴重但會上修CPI預測
-    https://money.udn.com/money/story/5612/9557363
-  ▸ 投標倍數驟降！日本30年期國債拍賣需求創2025年6月來最低
-    https://tw.stock.yahoo.com/news/%E6%8A%95%E6%A8%99%E5%80%8D%E6%95%B8%E9%A9%9F%E9%99%8D-%E6%97%A5%E6%9C%AC30%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%8B%8D%E8%B3%A3%E9%9C%80%E6%B1%82%E5%89%B52025%E5%B9%B46%E6%9C%88%E4%BE%86%E6%9C%80%E4%BD%8E-040652209.html
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ Micron and other memory makers are driving a ‘supercycle’ fo
-    https://www.marketwatch.com/story/micron-and-other-memory-makers-are-driving-a-supercycle-for-this-corner-of-the-chip-sector-398c40c5?mod=mw_rss_topstories
+【美元升值】1 則  🟡單篇
+  ▸ Exclusive-Dollar demand estimated at $1.5 billion cleared in
+    https://www.investing.com/news/stock-market-news/exclusivedollar-demand-estimated-at-15-billion-cleared-in-south-korea-source-4734328
 
 【政策補助】1 則  🟡單篇
   ▸ $70 billion immigration funding package passes in U.S. House
     https://www.cnbc.com/2026/06/09/trump-ice-congress-fisa-immigration-funding.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Micron and other memory makers are driving a ‘supercycle’ fo
+    https://www.marketwatch.com/story/micron-and-other-memory-makers-are-driving-a-supercycle-for-this-corner-of-the-chip-sector-398c40c5?mod=mw_rss_topstories
 
 【航運運價上升】1 則  🟡單篇
   ▸ 航運業者：5月貨櫃市況增溫　燃油附加費擬逐月調
@@ -88,8 +72,8 @@
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
- 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
  3. 2880.TW      +4.0  金融｜戰爭升溫、升息
  4. 2881.TW      +4.0  金融｜戰爭升溫、升息
  5. 2882.TW      +4.0  金融｜戰爭升溫、升息
@@ -101,16 +85,16 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -4.4  電子零組件｜通膨上升、景氣轉弱
- 2. 2327.TW      -4.4  電子零組件｜通膨上升、景氣轉弱
- 3. 3037.TW      -4.4  電子零組件｜通膨上升、景氣轉弱
+ 1. 2317.TW      -6.4  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -6.4  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -6.4  電子零組件｜景氣轉弱、通膨上升
  4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
  5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
  6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
  7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 8. 2330.TW      -3.2  半導體｜AI熱潮、景氣轉弱
- 9. 2454.TW      -3.2  半導體｜AI熱潮、景氣轉弱
-10. 2303.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
