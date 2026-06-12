@@ -1,102 +1,71 @@
 📊 事件驅動選股日報 2026-06-12
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 8 個事件
+掃描 127 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  **AI熱潮不減：** AI應用持續深化，帶動相關基礎設施需求強勁，華城、國泰金等公司均受惠於AI趨勢，展現產業擴散效應。
-2.  **中東地緣政治與油價：** 儘管中東戰事報導升溫，但部分訊息顯示衝突暫緩，市場對美國與伊朗達成協議的希望，促使國際油價出現回跌。
-3.  **全球經濟成長趨緩：** 日本工業生產數據下修，世界銀行預警全球經濟成長恐面臨自疫情以來最嚴峻的挑戰，地緣衝突被視為主要衝擊。
-4.  **政策性援助：** 亞洲開發銀行提供40億美元融資，旨在協助部分國家應對中東衝突帶來的經濟影響，有助於區域穩定。
-
-【具體總結】
-在AI題材持續發酵下，相關供應鏈及資料中心基礎設施概念股表現強勁，資金持續關注其廣泛應用潛力。然全球經濟面臨下行風險，日本製造業數據疲軟與世界銀行對全球成長的悲觀預期，為市場增添不確定性。中東地緣政治雖緊張，但短期情勢趨緩促使油價走跌，緩和部分通膨壓力。國際組織的財政援助有助於緩解區域衝突影響，整體而言，市場呈現AI主題熱絡與總體經濟逆風並存的複雜格局。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】11 則  🟢高信心
+【AI熱潮】8 則  🟢高信心
+  ▸ Nasdaq-100 rebalance: CoreWeave and Rocket Lab added; Zscale
+    https://seekingalpha.com/news/4602843-nasdaq-100-rebalance-coreweave-and-rocket-lab-added-zscaler-and-charter-removed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ We asked AI to predict the 2026 World Cup winner. It picked 
     https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories
-  ▸ 華城股東會／總經理許逸德：AIDC變壓器在手訂單逾200億元
-    https://money.udn.com/money/story/5612/9562240
-  ▸ 國泰金每股配息3.5元，早盤攻高105.5元，集團多元AI應用全面深化
-    https://tw.stock.yahoo.com/news/%E5%9C%8B%E6%B3%B0%E9%87%91%E6%AF%8F%E8%82%A1%E9%85%8D%E6%81%AF3-5%E5%85%83-%E6%97%A9%E7%9B%A4%E6%94%BB%E9%AB%98105-5%E5%85%83-%E9%9B%86%E5%9C%98%E5%A4%9A%E5%85%83ai%E6%87%89%E7%94%A8%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96-050449112.html
+  ▸ 美商鄧白氏：「台灣 AI 動能亞洲領先」
+    https://money.udn.com/money/story/5612/9562680
 
-【戰爭升溫】7 則  🟢高信心
-  ▸ US confirms third strike on Indian-crewed tankers this week
-    https://www.investing.com/news/commodities-news/us-confirms-third-strike-on-indiancrewed-tankers-this-week-4737673
-  ▸ Asia FX mixed as traders assess Iran peace prospects; rupee 
-    https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906
-  ▸ Oil extends losses as Trump calls off planned strikes on Ira
-    https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-calls-off-planned-strikes-on-iran-4738771
-
-【油價下降】4 則  🟢高信心
-  ▸ Oil extends losses as Trump calls off planned strikes on Ira
-    https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-calls-off-planned-strikes-on-iran-4738771
-  ▸ Oil prices fall on hopes of U.S.-Iran deal despite Tehran pu
-    https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html
-  ▸ Oil tanker CEO sees Hormuz ship traffic quickly increasing i
-    https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html
-
-【景氣轉弱】3 則  🟢高信心
-  ▸ Japan's industrial output growth revised lower to 0.5% in Ap
-    https://seekingalpha.com/news/4602838-japan-industrial-output-growth-revised-lower-to-05-in-april-amid-middle-east-supply-chain-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Pimco is warning about a spike in defaults — How it says inc
-    https://www.cnbc.com/2026/06/11/pimco-is-warning-about-a-spike-in-defaults-how-to-position-portfolios.html
-  ▸ 世銀：美伊戰爭衝擊　全球經濟成長恐新冠以來最糟
-    https://tw.stock.yahoo.com/news/%E4%B8%96%E9%8A%80-%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E8%A1%9D%E6%93%8A-%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E6%81%90%E6%96%B0%E5%86%A0%E4%BB%A5%E4%BE%86%E6%9C%80%E7%B3%9F-040032650.html
-
-【政策補助】3 則  🟢高信心
+【政策補助】2 則  🟢高信心
   ▸ Foster children are getting their own version of ‘Trump acco
     https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories
-  ▸ 他全國單一自住房拿不到1%優稅 原來漏掉這細節
-    https://money.udn.com/money/story/5612/9562206
-  ▸ 亞洲開發銀行提供40億美元融資，助部分國家應對中東衝突影響
-    https://tw.stock.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E9%96%8B%E7%99%BC%E9%8A%80%E8%A1%8C%E6%8F%90%E4%BE%9B40%E5%84%84%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B3%87-%E5%8A%A9%E9%83%A8%E5%88%86%E5%9C%8B%E5%AE%B6%E6%87%89%E5%B0%8D%E4%B8%AD%E6%9D%B1%E8%A1%9D%E7%AA%81%E5%BD%B1%E9%9F%BF-042021806.html
+  ▸ Nearly 7 million student loan borrowers remain in defunct Bi
+    https://www.cnbc.com/2026/06/11/student-loan-borrowers-save-plan.html
 
-【通膨上升】3 則  🟢高信心
-  ▸ Wholesale prices rose 1.1% in May, more than expected, on su
-    https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html
-  ▸ Energy prices take center stage as the ECB prepares to decid
-    https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html
+【通膨上升】2 則  🟢高信心
   ▸ Gold slumps to 6-month low even as inflation fears rise. Her
     https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html
+  ▸ Food prices continue to rise. 8 money moves to cut costs at 
+    https://www.cnbc.com/select/how-to-save-money-on-groceries/
 
-【升息】2 則  🟢高信心
-  ▸ ECB hikes interest rates for first time since 2023 as Iran w
-    https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html
-  ▸ 國際金價半年重挫逾兩成 FED升息預期與地緣政治夾擊
-    https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E9%87%91%E5%83%B9%E5%8D%8A%E5%B9%B4%E9%87%8D%E6%8C%AB%E9%80%BE%E5%85%A9%E6%88%90-fed%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E8%88%87%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E5%A4%BE%E6%93%8A-042618727.html
+【戰爭升溫】2 則  🟢高信心
+  ▸ Iran threatens Elon Musk's companies in Middle East: Iranian
+    https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html
+  ▸ 中東戰爭後續影響嚴重，德國央行行長稱ECB擬7月再次升息
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%88%AD%E5%BE%8C%E7%BA%8C%E5%BD%B1%E9%9F%BF%E5%9A%B4%E9%87%8D-%E5%BE%B7%E5%9C%8B%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%B7%E7%A8%B1ecb%E6%93%AC7%E6%9C%88%E5%86%8D%E6%AC%A1%E5%8D%87%E6%81%AF-052211527.html
 
-【航運運價上升】1 則  🟡單篇
-  ▸ Oil tanker CEO sees Hormuz ship traffic quickly increasing i
-    https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html
+【油價下降】1 則  🟡單篇
+  ▸ Asian equities surge, crude plummets as easing Middle East t
+    https://seekingalpha.com/news/4602827-asian-equities-surge-crude-plummets-as-easing-middle-east-tensions-spark-risk-on-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【升息】1 則  🟡單篇
+  ▸ 中東戰爭後續影響嚴重，德國央行行長稱ECB擬7月再次升息
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%88%AD%E5%BE%8C%E7%BA%8C%E5%BD%B1%E9%9F%BF%E5%9A%B4%E9%87%8D-%E5%BE%B7%E5%9C%8B%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%B7%E7%A8%B1ecb%E6%93%AC7%E6%9C%88%E5%86%8D%E6%AC%A1%E5%8D%87%E6%81%AF-052211527.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 中歐貿易摩擦升溫　中國重申開放、馬克宏呼籲協調
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%AD%90%E8%B2%BF%E6%98%93%E6%91%A9%E6%93%A6%E5%8D%87%E6%BA%AB-%E4%B8%AD%E5%9C%8B%E9%87%8D%E7%94%B3%E9%96%8B%E6%94%BE-%E9%A6%AC%E5%85%8B%E5%AE%8F%E5%91%BC%E7%B1%B2%E5%8D%94%E8%AA%BF-051615390.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
-10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +3.8  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +3.8  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -5.2  電子零組件｜景氣轉弱、通膨上升
- 2. 2327.TW      -5.2  電子零組件｜景氣轉弱、通膨上升
- 3. 3037.TW      -5.2  電子零組件｜景氣轉弱、通膨上升
- 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 2515.TW      -3.0  建材營造｜升息
- 7. 5534.TW      -3.0  建材營造｜升息
- 8. 2504.TW      -3.0  建材營造｜升息
+ 1. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 2. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 3. 2515.TW      -2.1  建材營造｜升息
+ 4. 5534.TW      -2.1  建材營造｜升息
+ 5. 2504.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
