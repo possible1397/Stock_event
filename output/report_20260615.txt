@@ -1,106 +1,76 @@
 📊 事件驅動選股日報 2026-06-15
 ════════════════════════════════
-掃描 117 則新聞  |  偵測 9 個事件
+掃描 120 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-*   **AI產業熱潮不減**：晶片、大型語言模型與AI新創生態系持續受市場追捧，顯示資金對AI領域的高度關注。
-*   **全球經濟顯露疲態**：債務市場違約風險升高、部分地區預售屋讓價，以及主要國家就業數據示警，反映景氣放緩跡象。
-*   **貨幣政策持續觀望**：主要央行在升息路徑上呈現分歧，部分維持利率不變，市場關注其對經濟的影響。
-*   **地緣政治風險猶存**：國際間衝突與制裁行動不斷，儘管有外交溝通跡象，但仍為全球供應鏈與市場帶來不確定性。
-*   **油價顯著下跌**：因美國與伊朗潛在協議的消息，油價大幅走低，有助於緩解全球通膨壓力。
-
-【具體總結】：
-今日盤勢呈現多空交織，AI熱潮持續引領科技板塊，資金積極流入晶片與相關新創領域。同時，油價因地緣政治降溫預期而下跌，有助於舒緩通膨壓力並提振整體市場信心。然而，全球景氣轉弱的跡象，包括債務違約風險及房市降溫，加上主要央行貨幣政策的謹慎態度，仍為整體盤勢帶來不確定性。市場可能呈現結構性行情，資金向具成長動能的AI相關產業集中，但對總體經濟風險保持警惕。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ ByteDance weighs chips from Iluvatar CoreX and Baidu's Kunlu
-    https://seekingalpha.com/news/4603160-bytedance-weighs-chips-from-iluvatar-corex-and-baidus-kunlunxin-to-power-ai---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Zhipu AI shares surge after JPMorgan sharply hikes price tar
-    https://www.investing.com/news/stock-market-news/zhipu-ai-shares-surge-after-jpmorgan-sharply-hikes-price-target-4741176
-  ▸ Google孵創計畫擴大挹注資源　加速台灣AI新創發展
-    https://money.udn.com/money/story/11162/9567306
-
-【景氣轉弱】5 則  🟢高信心
-  ▸ Defaults in debt markets are starting again, warns Pimco. He
-    https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories
-  ▸ 撐不到管制鬆綁 今年首季新北市這5區預售屋讓價了
-    https://money.udn.com/money/story/10871/9567266
-  ▸ 南韓「最大硬傷」慘輸台灣！同為晶片強權 就業數據卻遭狠甩
-    https://tw.stock.yahoo.com/news/%E5%8D%97%E9%9F%93-%E6%9C%80%E5%A4%A7%E7%A1%AC%E5%82%B7-%E6%85%98%E8%BC%B8%E5%8F%B0%E7%81%A3-%E5%90%8C%E7%82%BA%E6%99%B6%E7%89%87%E5%BC%B7%E6%AC%8A-%E5%B0%B1%E6%A5%AD%E6%95%B8%E6%93%9A%E5%8D%BB%E9%81%AD%E7%8B%A0%E7%94%A9-043753782.html
-
-【升息】5 則  🟢高信心
-  ▸ SpaceX shows investors still want moonshots. The Fed may tes
-    https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories
-  ▸ Bank of England governor defends bond holdings reduction
-    https://www.investing.com/news/economy-news/bank-of-england-governor-defends-bond-holdings-reduction-93CH-4741177
-  ▸ Bank of England to keep rates on hold after ECB hike
-    https://www.investing.com/news/economy-news/bank-of-england-to-keep-rates-on-hold-after-ecb-hike-4741175
+【AI熱潮】8 則  🟢高信心
+  ▸ 華航首創貨運 AI 客服領航台灣航空物流數位新里程碑
+    https://money.udn.com/money/story/10871/9567510
+  ▸ 鴻海合作法商施耐德　布局次世代AI資料中心
+    https://money.udn.com/money/story/11162/9567507
+  ▸ 復華創新指數傘型基金將於6月22日募集 聚焦全球金融、AI 及台股
+    https://money.udn.com/money/story/11162/9567491
 
 【戰爭升溫】4 則  🟢高信心
-  ▸ Renault partners with Thales to develop military vehicle in 
-    https://www.investing.com/news/stock-market-news/renault-partners-with-thales-to-develop-military-vehicle-in-new-defence-project-4741174
+  ▸ Trump heads to G7 summit in France after reaching deal to en
+    https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html
   ▸ Putin, Zelenskyy speak with Trump by phone as drone strikes 
     https://www.cnbc.com/2026/06/14/putin-zelenskyy-talk-with-trump-by-phone-drones-kill-2-in-russia.html
   ▸ UK forces board sanctioned Russian shadow fleet oil tanker
     https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html
 
-【油價下降】2 則  🟢高信心
-  ▸ Asian equities and U.S. futures rally on US-Iran peace break
-    https://seekingalpha.com/news/4603157-asian-equities-and-us-futures-rally-on-us-iran-peace-breakthrough-crude-oil-plunges-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Stock futures jump, oil prices fall as Trump says U.S. has r
-    https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories
+【升息】2 則  🟢高信心
+  ▸ SpaceX 上市後 本周除了觀察 FOMC 會議之外、還要注意什麼？
+    https://money.udn.com/money/story/11162/9567214
+  ▸ 全球基金撤出日本超長債，憂日銀升息太慢推高殖利率風險
+    https://tw.stock.yahoo.com/news/%E5%85%A8%E7%90%83%E5%9F%BA%E9%87%91%E6%92%A4%E5%87%BA%E6%97%A5%E6%9C%AC%E8%B6%85%E9%95%B7%E5%82%B5-%E6%86%82%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E5%A4%AA%E6%85%A2%E6%8E%A8%E9%AB%98%E6%AE%96%E5%88%A9%E7%8E%87%E9%A2%A8%E9%9A%AA-070118640.html
 
-【美元貶值】2 則  🟢高信心
-  ▸ Asia FX climbs, dollar dips on US-Iran truce; key central ba
-    https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168
-  ▸ 人幣中間價續寫逾40個月高，離岸價升破6.76
-    https://tw.stock.yahoo.com/news/%E4%BA%BA%E5%B9%A3%E4%B8%AD%E9%96%93%E5%83%B9%E7%BA%8C%E5%AF%AB%E9%80%BE40%E5%80%8B%E6%9C%88%E9%AB%98-%E9%9B%A2%E5%B2%B8%E5%83%B9%E5%8D%87%E7%A0%B46-76-040800623.html
+【油價上升】1 則  🟡單篇
+  ▸ UK forces board sanctioned Russian shadow fleet oil tanker
+    https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html
 
-【政策補助】2 則  🟢高信心
-  ▸ 朝野立委爭取軍公教勞國保費免計所得 財政部：性質與退休金不同
-    https://money.udn.com/money/story/10871/9567158
-  ▸ 「新青安2.0」傳貸款額度衝1500萬元 立委點3大漏洞 財長回應了
-    https://tw.stock.yahoo.com/news/%E3%80%8C%E6%96%B0%E9%9D%92%E5%AE%8920%E3%80%8D%E5%82%B3%E8%B2%B8%E6%AC%BE%E9%A1%8D%E5%BA%A6%E8%A1%9D1500%E8%90%AC%E5%85%83-%E7%AB%8B%E5%A7%94%E9%BB%9E3%E5%A4%A7%E6%BC%8F%E6%B4%9E-%E8%B2%A1%E9%95%B7%E5%9B%9E%E6%87%89%E4%BA%86-044028905.html
+【景氣轉弱】1 則  🟡單篇
+  ▸ 美股估值指標遠超網路泡沫時期 專家示警市場波動風險升高
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%BC%B0%E5%80%BC%E6%8C%87%E6%A8%99%E9%81%A0%E8%B6%85%E7%B6%B2%E8%B7%AF%E6%B3%A1%E6%B2%AB%E6%99%82%E6%9C%9F-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%E5%B8%82%E5%A0%B4%E6%B3%A2%E5%8B%95%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-065153421.html
 
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 美國擴大強迫勞動關稅 韓國鋼鐵供應鏈首當其衝
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%93%B4%E5%A4%A7%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95%E9%97%9C%E7%A8%85-%E9%9F%93%E5%9C%8B%E9%8B%BC%E9%90%B5%E4%BE%9B%E6%87%89%E9%8F%88%E9%A6%96%E7%95%B6%E5%85%B6%E8%A1%9D-042100161.html
+【通膨上升】1 則  🟡單篇
+  ▸ 台北生活成本超越東京！王世堅轟稅制「重富人輕庶民」 籲坐月子也能抵稅
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E8%B6%85%E8%B6%8A%E6%9D%B1%E4%BA%AC%EF%BC%81%E7%8E%8B%E4%B8%96%E5%A0%85%E8%BD%9F%E7%A8%85%E5%88%B6%E3%80%8C%E9%87%8D%E5%AF%8C%E4%BA%BA%E8%BC%95%E5%BA%B6%E6%B0%91%E3%80%8D-%E7%B1%B2%E5%9D%90%E6%9C%88%E5%AD%90%E4%B9%9F%E8%83%BD%E6%8A%B5%E7%A8%85-063859991.html
 
-【記憶體漲價】1 則  🟡單篇
-  ▸ 華邦電受惠記憶體長週期，Flash產品亦具領先優勢
-    https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%8F%97%E6%83%A0%E8%A8%98%E6%86%B6%E9%AB%94%E9%95%B7%E9%80%B1%E6%9C%9F-flash%E7%94%A2%E5%93%81%E4%BA%A6%E5%85%B7%E9%A0%98%E5%85%88%E5%84%AA%E5%8B%A2-041600287.html
+【政策補助】1 則  🟡單篇
+  ▸ 台北生活成本超越東京！王世堅轟稅制「重富人輕庶民」 籲坐月子也能抵稅
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E8%B6%85%E8%B6%8A%E6%9D%B1%E4%BA%AC%EF%BC%81%E7%8E%8B%E4%B8%96%E5%A0%85%E8%BD%9F%E7%A8%85%E5%88%B6%E3%80%8C%E9%87%8D%E5%AF%8C%E4%BA%BA%E8%BC%95%E5%BA%B6%E6%B0%91%E3%80%8D-%E7%B1%B2%E5%9D%90%E6%9C%88%E5%AD%90%E4%B9%9F%E8%83%BD%E6%8A%B5%E7%A8%85-063859991.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 2. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 3. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
-10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +6.9  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +6.9  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2330.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 2. 2454.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 3. 2303.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 4. 3711.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 5. 2515.TW      -3.0  建材營造｜升息
- 6. 5534.TW      -3.0  建材營造｜升息
- 7. 2504.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2344.TW      -2.6  半導體/記憶體｜AI熱潮、景氣轉弱
+10. 2515.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
