@@ -1,83 +1,60 @@
 📊 事件驅動選股日報 2026-06-17
 ════════════════════════════════
-掃描 124 則新聞  |  偵測 6 個事件
+掃描 126 則新聞  |  偵測 4 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】：
-1.  **AI熱潮持續**：市場資金重新聚焦於特定AI相關科技巨頭（如「MANGOS」），同時關注歐洲對美國AI主導地位的潛在擔憂，預示AI板塊內部可能出現輪動。
-2.  **美中科技管制拉鋸**：美國雖暫緩將部分中國AI企業列入黑名單，但對AI晶片輸中管制仍將加嚴，台灣亦將配合修法，顯示科技貿易戰仍是產業鏈的關鍵變數。
-3.  **地緣政治推升油價**：中東地緣政治緊張情勢未解，加上荷莫茲海峽潛在風險，推升國際油價上漲壓力，可能進一步影響通膨與全球經濟穩定。
-4.  **國際政策與資金流向**：國際間政策性補助與債務減免計畫持續推進，G7承諾協助開發中國家，可能影響全球資金流向及不同經濟體系的穩定性。
+1.  **AI技術與相關需求**持續強勁，日本出口數據增長反映全球科技產品需求旺盛，但G7國家間的「AI保護主義」浮現，可能引發新的貿易摩擦，影響未來供應鏈佈局。
+2.  **記憶體產業景氣**明顯復甦，上游供應商指出訂單與獲利顯著改善，預示半導體週期有望走出低谷。
+3.  **原油市場供應增加**，受伊朗油輪恢復出口影響，預期將為全球油價帶來下行壓力。
+4.  **地緣政治與貿易壁壘**，特別是圍繞AI領域的保護主義，成為國際貿易新焦點，可能影響全球科技公司的發展策略。
 
-【具體總結】：
-今日市場焦點集中於AI科技巨頭的板塊輪動與美中科技管制的拉鋸。儘管美國在部分AI企業黑名單上略有緩衝，但對AI晶片出口管制的緊縮趨勢不變，為相關產業鏈帶來不確定性。同時，中東地緣政治緊張情勢持續推升油價，加劇全球通膨壓力。在全球經濟面臨多重挑戰下，各國政策性補助與債務減免措施，將引導資金的風險偏好與流向。整體而言，市場呈現機會與風險並存的複雜局面。
+【具體總結】
+今日盤勢受多重因素交織影響。AI與記憶體產業的強勁需求與復甦趨勢，預計將持續支撐科技板塊表現，相關供應鏈有望吸引資金動能。然而，G7國家的AI保護主義可能為高科技領域帶來新的貿易不確定性。同時，伊朗原油供應增加導致的油價下行，雖有助於舒緩通膨壓力，但也可能影響能源相關產業表現。市場焦點將放在科技成長性、原物料價格波動及國際貿易政策的變化。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】15 則  🟢高信心
-  ▸ Wall Street can’t stop talking about ‘MANGOS’ stocks as the 
-    https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453?mod=mw_rss_topstories
-  ▸ Tesla booted from the ‘Magnificent Seven’ by a top fund mana
-    https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec?mod=mw_rss_topstories
-  ▸ Europe frets about U.S. AI as tech world flocks to France fo
-    https://www.investing.com/news/stock-market-news/europe-frets-about-us-ai-as-tech-world-flocks-to-france-for-g7-vivatech-4746481
-
-【關稅/貿易戰】3 則  🟢高信心
-  ▸ Exclusive-US holds off blacklisting China’s DeepSeek, more t
-    https://www.investing.com/news/economy-news/exclusiveus-holds-offblacklisting-chinas-deepseek-more-than-100-firms-deemed-security-risks-sources-say-4746216
-  ▸ U.S. holds off blacklisting China's DeepSeek, more than 100 
-    https://www.cnbc.com/2026/06/17/us-deepseek-blacklist-cxmt-national-security-risks-.html
-  ▸ AI晶片輸中管制加嚴　經長：已著手修法會盡快處理
-    https://money.udn.com/money/story/11162/9571934
-
-【油價上升】2 則  🟢高信心
-  ▸ Oil may move through the Strait of Hormuz first, leaving fer
-    https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories
-  ▸ ‘Outsized upside’ could be around the corner for these divid
-    https://www.cnbc.com/2026/06/16/outsized-upside-could-be-ahead-for-these-dividend-payers-morgan-stanley-says.html
-
-【戰爭升溫】2 則  🟢高信心
-  ▸ Has Trump achieved his goals in the war with Iran?
-    https://www.investing.com/news/world-news/has-trump-achieved-his-goals-in-the-war-with-iran-4746480
-  ▸ Three Iranian tankers exit U.S. blockade for first time in m
-    https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html
-
-【政策補助】2 則  🟢高信心
-  ▸ Exclusive-Iran deal includes $300 billion fund, more than ha
-    https://www.investing.com/news/stock-market-news/exclusiveiran-deal-includes-300-billion-fund-more-than-half-of-which-already-committed-source-says-4745500
-  ▸ G7領袖承諾加強行動　協助開發中國家減輕債務負擔
-    https://tw.stock.yahoo.com/news/g7%E9%A0%98%E8%A2%96%E6%89%BF%E8%AB%BE%E5%8A%A0%E5%BC%B7%E8%A1%8C%E5%8B%95-%E5%8D%94%E5%8A%A9%E9%96%8B%E7%99%BC%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%B8%9B%E8%BC%95%E5%82%B5%E5%8B%99%E8%B2%A0%E6%93%94-040255170.html
-
-【記憶體漲價】2 則  🟢高信心
+【AI熱潮】3 則  🟢高信心
+  ▸ CNBC Daily Open: AI protectionism opens new front for G7
+    https://www.cnbc.com/2026/06/17/cnbc-daily-open-ai-protectionism-opens-new-front-for-g7.html
   ▸ Japan May exports grow at fastest pace in over three years, 
     https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html
-  ▸ 宏碁陳俊聖：記憶體等零件漲價趨緩 下半年 PC 市場有三種情境
-    https://money.udn.com/money/story/11162/9571921
+  ▸ Databricks sales growth tops 80%, but margin are shrinking f
+    https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Three Iranian tankers exit U.S. blockade for first time in m
+    https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html
+  ▸ These stocks should outperform as the Iran deal is finalized
+    https://www.cnbc.com/2026/06/16/these-stocks-should-outperform-as-the-iran-deal-is-finalized-says-ubs.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ CNBC Daily Open: AI protectionism opens new front for G7
+    https://www.cnbc.com/2026/06/17/cnbc-daily-open-ai-protectionism-opens-new-front-for-g7.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 最上游的逆襲！ 「這產業」沉寂2年 董座出牌了：比去年好非常多
+    https://tw.stock.yahoo.com/news/%E6%9C%80%E4%B8%8A%E6%B8%B8%E7%9A%84%E9%80%86%E8%A5%B2-%E9%80%99%E7%94%A2%E6%A5%AD-%E6%B2%89%E5%AF%822%E5%B9%B4-%E8%91%A3%E5%BA%A7%E5%87%BA%E7%89%8C%E4%BA%86-%E6%AF%94%E5%8E%BB%E5%B9%B4%E5%A5%BD%E9%9D%9E%E5%B8%B8%E5%A4%9A-062400287.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
- 2. 8917.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
- 3. 2344.TW      +3.6  半導體/記憶體｜AI熱潮、關稅/貿易戰
- 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 9. 3576.TWO     +2.5  綠能｜政策補助
-10. 6443.TW      +2.5  綠能｜政策補助
+ 1. 2344.TW      +3.4  半導體/記憶體｜AI熱潮、關稅/貿易戰
+ 2. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 7. 2603.TW      +2.5  交通運輸及航運｜油價下降
+ 8. 2609.TW      +2.5  交通運輸及航運｜油價下降
+ 9. 2615.TW      +2.5  交通運輸及航運｜油價下降
+10. 2618.TW      +2.5  交通運輸及航運｜油價下降
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 6505.TW      -2.5  油電燃氣｜油價下降
+ 2. 8917.TW      -2.5  油電燃氣｜油價下降
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
