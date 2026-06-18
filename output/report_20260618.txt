@@ -1,0 +1,76 @@
+📊 事件驅動選股日報 2026-06-18
+════════════════════════════════
+掃描 128 則新聞  |  偵測 6 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】16 則  🟢高信心
+  ▸ JPMorgan blocks Hong Kong staff from using Anthropic AI tool
+    https://www.investing.com/news/stock-market-news/jpmorgan-blocks-hong-kong-staff-from-using-anthropic-ai-tools-ft-93CH-4748973
+  ▸ Jim Cramer says this chipmaker is still a buy after soaring 
+    https://www.cnbc.com/2026/06/17/jim-cramer-intel.html
+  ▸ CEOs of Anthropic and Google DeepMind call for U.S.-led AI c
+    https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
+
+【升息】5 則  🟢高信心
+  ▸ Morning Bid: Warsh debut raises rate-hike stakes
+    https://www.investing.com/news/economy-news/morning-bid-warsh-debut-raises-ratehike-stakes-4748976
+  ▸ Chairman Warsh abstains from giving rate forecast as several
+    https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html
+  ▸ 2-year Treasury yield rockets higher as many Fed officials s
+    https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html
+
+【油價下降】5 則  🟢高信心
+  ▸ Oil down 2% after US, Iran sign ceasefire agreement
+    https://www.investing.com/news/commodities-news/oil-slips-again-as-us-iran-sign-peace-deal-4748827
+  ▸ 華航7月起調降航空貨運燃油附加費，降幅估逾兩成
+    https://tw.stock.yahoo.com/news/%E8%8F%AF%E8%88%AA7%E6%9C%88%E8%B5%B7%E8%AA%BF%E9%99%8D%E8%88%AA%E7%A9%BA%E8%B2%A8%E9%81%8B%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E9%99%8D%E5%B9%85%E4%BC%B0%E9%80%BE%E5%85%A9%E6%88%90-050111169.html
+  ▸ IEA稱航油短缺憂慮緩解，美歐煉廠增產與出口升溫補缺口
+    https://tw.stock.yahoo.com/news/iea%E7%A8%B1%E8%88%AA%E6%B2%B9%E7%9F%AD%E7%BC%BA%E6%86%82%E6%85%AE%E7%B7%A9%E8%A7%A3-%E7%BE%8E%E6%AD%90%E7%85%89%E5%BB%A0%E5%A2%9E%E7%94%A2%E8%88%87%E5%87%BA%E5%8F%A3%E5%8D%87%E6%BA%AB%E8%A3%9C%E7%BC%BA%E5%8F%A3-040936808.html
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ Trump says Apple to work with Intel to manufacture chips in 
+    https://www.investing.com/news/stock-market-news/trump-says-apple-to-work-with-intel-to-manufacture-chips-in-us-4748975
+  ▸ Trump says Apple agreed to work with Intel to make chips in 
+    https://www.investing.com/news/stock-market-news/trump-says-apple-agreed-to-work-with-intel-to-make-chips-in-the-us-4748977
+  ▸ 立委陳亭妃：韓國同意台灣芒果關稅優惠延至8/15
+    https://tw.stock.yahoo.com/news/%E7%AB%8B%E5%A7%94%E9%99%B3%E4%BA%AD%E5%A6%83-%E9%9F%93%E5%9C%8B%E5%90%8C%E6%84%8F%E5%8F%B0%E7%81%A3%E8%8A%92%E6%9E%9C%E9%97%9C%E7%A8%85%E5%84%AA%E6%83%A0%E5%BB%B6%E8%87%B38-15-043803599.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ Did Warsh and Vance just open the door to higher inflation?
+    https://www.marketwatch.com/story/did-warsh-and-vance-just-open-the-door-to-higher-inflation-d81396fb?mod=mw_rss_topstories
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ 應對經濟困境 古巴共產黨批准改革方案開放更多私人投資
+    https://tw.news.yahoo.com/%E6%87%89%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%9B%B0%E5%A2%83-%E5%8F%A4%E5%B7%B4%E5%85%B1%E7%94%A2%E9%BB%A8%E6%89%B9%E5%87%86%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88%E9%96%8B%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%A7%81%E4%BA%BA%E6%8A%95%E8%B3%87-041923665.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2603.TW      +2.5  交通運輸及航運｜油價下降
+ 7. 2609.TW      +2.5  交通運輸及航運｜油價下降
+ 8. 2615.TW      +2.5  交通運輸及航運｜油價下降
+ 9. 2618.TW      +2.5  交通運輸及航運｜油價下降
+10. 2880.TW      +2.0  金融｜升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2330.TW      -2.9  半導體｜AI熱潮、升息
+ 5. 2454.TW      -2.9  半導體｜AI熱潮、升息
+ 6. 2303.TW      -2.9  半導體｜AI熱潮、升息
+ 7. 2344.TW      -2.9  半導體｜AI熱潮、升息
+ 8. 3711.TW      -2.9  半導體｜AI熱潮、升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
