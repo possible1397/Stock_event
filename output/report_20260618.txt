@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-06-18
 ════════════════════════════════
-掃描 128 則新聞  |  偵測 6 個事件
+掃描 127 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,69 +8,85 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】16 則  🟢高信心
-  ▸ JPMorgan blocks Hong Kong staff from using Anthropic AI tool
-    https://www.investing.com/news/stock-market-news/jpmorgan-blocks-hong-kong-staff-from-using-anthropic-ai-tools-ft-93CH-4748973
-  ▸ Jim Cramer says this chipmaker is still a buy after soaring 
-    https://www.cnbc.com/2026/06/17/jim-cramer-intel.html
-  ▸ CEOs of Anthropic and Google DeepMind call for U.S.-led AI c
-    https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html
+【AI熱潮】13 則  🟢高信心
+  ▸ Rumble gets 22,000 Nvidia chips, but the video company’s CEO
+    https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories
+  ▸ It’s ‘unavoidable’: Apple says it will be forced to raise pr
+    https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories
+  ▸ JPMorgan blocks Anthropic AI access for Hong Kong staff: rep
+    https://seekingalpha.com/news/4604629-jpmorgan-blocks-anthropic-ai-access-for-hong-kong-staff-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Boeing secures $17.9M air force deal to sustain material sup
+    https://seekingalpha.com/news/4604641-boeing-secures-179m-air-force-deal-to-sustain-material-supply-chains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Ukraine’s Azov fighters were forced from Mariupol. Now they’
+    https://www.investing.com/news/world-news/ukraines-azov-fighters-were-forced-from-mariupol-now-theyre-hitting-back-4748997
+  ▸ German growth hit by Iran war energy shock, IMK says
+    https://www.investing.com/news/economy-news/german-growth-hit-by-iran-war-energy-shock-imk-says-4748995
 
 【升息】5 則  🟢高信心
-  ▸ Morning Bid: Warsh debut raises rate-hike stakes
-    https://www.investing.com/news/economy-news/morning-bid-warsh-debut-raises-ratehike-stakes-4748976
-  ▸ Chairman Warsh abstains from giving rate forecast as several
-    https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html
-  ▸ 2-year Treasury yield rockets higher as many Fed officials s
-    https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html
+  ▸ Stock futures rise as Fed hints at possible rate hike in 202
+    https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html
+  ▸ Treasury 2-year yield post-Fed spike 'exaggerated' or is the
+    https://www.cnbc.com/2026/06/18/2-year-treasury-yields-rise-fed-holds-rates-warsh-first-meeting.html
+  ▸ Jeffrey Gundlach says Fed's Warsh is not going to be the 'ea
+    https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html
 
-【油價下降】5 則  🟢高信心
-  ▸ Oil down 2% after US, Iran sign ceasefire agreement
-    https://www.investing.com/news/commodities-news/oil-slips-again-as-us-iran-sign-peace-deal-4748827
-  ▸ 華航7月起調降航空貨運燃油附加費，降幅估逾兩成
-    https://tw.stock.yahoo.com/news/%E8%8F%AF%E8%88%AA7%E6%9C%88%E8%B5%B7%E8%AA%BF%E9%99%8D%E8%88%AA%E7%A9%BA%E8%B2%A8%E9%81%8B%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E9%99%8D%E5%B9%85%E4%BC%B0%E9%80%BE%E5%85%A9%E6%88%90-050111169.html
-  ▸ IEA稱航油短缺憂慮緩解，美歐煉廠增產與出口升溫補缺口
-    https://tw.stock.yahoo.com/news/iea%E7%A8%B1%E8%88%AA%E6%B2%B9%E7%9F%AD%E7%BC%BA%E6%86%82%E6%85%AE%E7%B7%A9%E8%A7%A3-%E7%BE%8E%E6%AD%90%E7%85%89%E5%BB%A0%E5%A2%9E%E7%94%A2%E8%88%87%E5%87%BA%E5%8F%A3%E5%8D%87%E6%BA%AB%E8%A3%9C%E7%BC%BA%E5%8F%A3-040936808.html
-
-【關稅/貿易戰】3 則  🟢高信心
-  ▸ Trump says Apple to work with Intel to manufacture chips in 
-    https://www.investing.com/news/stock-market-news/trump-says-apple-to-work-with-intel-to-manufacture-chips-in-us-4748975
-  ▸ Trump says Apple agreed to work with Intel to make chips in 
-    https://www.investing.com/news/stock-market-news/trump-says-apple-agreed-to-work-with-intel-to-make-chips-in-the-us-4748977
-  ▸ 立委陳亭妃：韓國同意台灣芒果關稅優惠延至8/15
-    https://tw.stock.yahoo.com/news/%E7%AB%8B%E5%A7%94%E9%99%B3%E4%BA%AD%E5%A6%83-%E9%9F%93%E5%9C%8B%E5%90%8C%E6%84%8F%E5%8F%B0%E7%81%A3%E8%8A%92%E6%9E%9C%E9%97%9C%E7%A8%85%E5%84%AA%E6%83%A0%E5%BB%B6%E8%87%B38-15-043803599.html
-
-【通膨上升】1 則  🟡單篇
+【通膨上升】4 則  🟢高信心
+  ▸ It’s ‘unavoidable’: Apple says it will be forced to raise pr
+    https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories
   ▸ Did Warsh and Vance just open the door to higher inflation?
     https://www.marketwatch.com/story/did-warsh-and-vance-just-open-the-door-to-higher-inflation-d81396fb?mod=mw_rss_topstories
+  ▸ UK wages grow 3.4% on year in three months to April
+    https://www.investing.com/news/economy-news/uk-wages-grow-34-on-year-in-three-months-to-april-4749001
 
-【景氣轉弱】1 則  🟡單篇
-  ▸ 應對經濟困境 古巴共產黨批准改革方案開放更多私人投資
-    https://tw.news.yahoo.com/%E6%87%89%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%9B%B0%E5%A2%83-%E5%8F%A4%E5%B7%B4%E5%85%B1%E7%94%A2%E9%BB%A8%E6%89%B9%E5%87%86%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88%E9%96%8B%E6%94%BE%E6%9B%B4%E5%A4%9A%E7%A7%81%E4%BA%BA%E6%8A%95%E8%B3%87-041923665.html
+【景氣轉弱】2 則  🟢高信心
+  ▸ German growth hit by Iran war energy shock, IMK says
+    https://www.investing.com/news/economy-news/german-growth-hit-by-iran-war-energy-shock-imk-says-4748995
+  ▸ 巨大通過配息1.8元，董座稱庫存去化進入尾聲，市場逐步回歸正常
+    https://tw.stock.yahoo.com/news/%E5%B7%A8%E5%A4%A7%E9%80%9A%E9%81%8E%E9%85%8D%E6%81%AF1-8%E5%85%83-%E8%91%A3%E5%BA%A7%E7%A8%B1%E5%BA%AB%E5%AD%98%E5%8E%BB%E5%8C%96%E9%80%B2%E5%85%A5%E5%B0%BE%E8%81%B2-%E5%B8%82%E5%A0%B4%E9%80%90%E6%AD%A5%E5%9B%9E%E6%AD%B8%E6%AD%A3%E5%B8%B8-061816145.html
+
+【油價上升】2 則  🟢高信心
+  ▸ German growth hit by Iran war energy shock, IMK says
+    https://www.investing.com/news/economy-news/german-growth-hit-by-iran-war-energy-shock-imk-says-4748995
+  ▸ China to return as major oil buyer in August, JPMorgan says,
+    https://www.cnbc.com/2026/06/18/china-crude-oil-imports-rebound-jpmorgan-petrochina-lg-chem.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 鄰屋打通為自住使用 北市稅處：符合條件仍可享優稅
+    https://money.udn.com/money/story/10871/9574662
+  ▸ 2100億無人載具特別條例將全數用於採購 以國內產制為主
+    https://money.udn.com/money/story/5612/9574427
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 台南芒果盛產外銷傳好消息 韓國關稅5%優惠延長至8月15日
+    https://money.udn.com/money/story/10871/9574532
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 6. 2603.TW      +2.5  交通運輸及航運｜油價下降
- 7. 2609.TW      +2.5  交通運輸及航運｜油價下降
- 8. 2615.TW      +2.5  交通運輸及航運｜油價下降
- 9. 2618.TW      +2.5  交通運輸及航運｜油價下降
-10. 2880.TW      +2.0  金融｜升息
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2515.TW      -3.0  建材營造｜升息
- 2. 5534.TW      -3.0  建材營造｜升息
- 3. 2504.TW      -3.0  建材營造｜升息
- 4. 2330.TW      -2.9  半導體｜AI熱潮、升息
- 5. 2454.TW      -2.9  半導體｜AI熱潮、升息
- 6. 2303.TW      -2.9  半導體｜AI熱潮、升息
- 7. 2344.TW      -2.9  半導體｜AI熱潮、升息
- 8. 3711.TW      -2.9  半導體｜AI熱潮、升息
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.1  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -3.1  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -3.1  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
