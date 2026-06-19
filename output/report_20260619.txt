@@ -1,0 +1,116 @@
+📊 事件驅動選股日報 2026-06-19
+════════════════════════════════
+掃描 129 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+
+1.  **AI熱潮與風險並存：** AI產業持續推動經濟成長與台美合作深化，但台灣經濟高度依賴AI恐增加出口集中風險。
+2.  **全球緊縮壓力升高：** 國際市場預期美國聯準會將維持鷹派貨幣政策，台灣短率亦見攀升，顯示全球資金環境趨於保守。
+3.  **景氣下行疑慮浮現：** 全球IT產業成長動能放緩，加上美國經濟結構失衡及私部門活動減弱的警告，增添市場對經濟前景的擔憂。
+4.  **政府政策多元支持：** 各國政府陸續推出學生貸款減免、戰略產業補助及不動產刺激措施，試圖穩定經濟或扶持特定產業。
+5.  **地緣政治緊張持續：** 中東與俄烏衝突情勢未見緩解，軍事開支需求增加，可能持續對能源供應及全球穩定構成影響。
+
+**【具體總結】**
+
+AI熱潮持續推動台灣經濟成長與台美合作，但全球IT產業放緩及出口集中風險預示景氣下行壓力。國際貨幣政策預期偏向緊縮，台灣短率亦見攀升，反映資金成本上揚。儘管政府政策試圖支撐戰略產業與不動產市場，中東及俄烏地緣政治風險仍高。綜合來看，市場焦點雖仍在AI與特定政策扶持產業，然全球經濟放緩、資金趨緊及地緣衝突因素可能增加整體盤勢的波動性。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】6 則  🟢高信心
+  ▸ Amazon investigating engineers who criticized AI data center
+    https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html
+  ▸ 美眾議員拜會數發部 台美深化 AI、資安與通訊韌性合作
+    https://money.udn.com/money/story/11162/9576589
+  ▸ 台灣高經濟成長率下 隱藏 AI 撐起榮景後的出口集中風險
+    https://money.udn.com/money/story/10871/9576577
+
+【升息】5 則  🟢高信心
+  ▸ Markets are set for a much more hawkish Warsh Fed than expec
+    https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html
+  ▸ Kalshi traders see greater than 50% odds the Fed will hike r
+    https://www.cnbc.com/2026/06/18/kalshi-traders-see-greater-than-50percent-odds-the-fed-will-hike-rates-this-year.html
+  ▸ 短率攀升至4% 央行:特定資金需求由市場機制調節
+    https://money.udn.com/money/story/11162/9576503
+
+【政策補助】4 則  🟢高信心
+  ▸ Trump administration temporarily cuts student loan interest 
+    https://www.cnbc.com/2026/06/18/trump-student-loan-autopay-interest-rate-discount.html
+  ▸ 臺銀力挺六大核心戰略產業 榮獲金管會優等銀行肯定
+    https://money.udn.com/money/story/10871/9576489
+  ▸ 央行釋放鬆訊號、百億案潮齊發、新青安2.0擴大加碼 下半年房市3場硬仗同步開打｜房地產週報
+    https://tw.stock.yahoo.com/news/%E5%A4%AE%E8%A1%8C%E9%87%8B%E6%94%BE%E9%AC%86%E8%A8%8A%E8%99%9F%E3%80%81%E7%99%BE%E5%84%84%E6%A1%88%E6%BD%AE%E9%BD%8A%E7%99%BC%E3%80%81%E6%96%B0%E9%9D%92%E5%AE%8920%E6%93%B4%E5%A4%A7%E5%8A%A0%E7%A2%BC-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%88%BF%E5%B8%823%E5%A0%B4%E7%A1%AC%E4%BB%97%E5%90%8C%E6%AD%A5%E9%96%8B%E6%89%93%EF%BD%9C%E6%88%BF%E5%9C%B0%E7%94%A2%E9%80%B1%E5%A0%B1-042914169.html
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ Indian IT stocks slump up to 7% as Accenture cuts revenue ou
+    https://www.cnbc.com/2026/06/19/india-it-stocks-fall-accenture-cuts-revenue-forecast.html
+  ▸ Bears step up bets against high-yield sector, shaking up bon
+    https://www.cnbc.com/2026/06/18/bears-step-up-bets-against-high-yield-sector-shaking-up-bond-traders.html
+  ▸ 美股危險了？華爾街警告：美國經濟結構失衡、私部門放緩恐引發股市震盪風險
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%8D%B1%E9%9A%AA%E4%BA%86-%E8%8F%AF%E7%88%BE%E8%A1%97%E8%AD%A6%E5%91%8A-%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%B5%90%E6%A7%8B%E5%A4%B1%E8%A1%A1-%E7%A7%81%E9%83%A8%E9%96%80%E6%94%BE%E7%B7%A9%E6%81%90%E5%BC%95%E7%99%BC%E8%82%A1%E5%B8%82%E9%9C%87%E7%9B%AA%E9%A2%A8%E9%9A%AA-041003166.html
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ 快訊／美伊原定今會面簽約　瑞士證實已取消
+    https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E7%BE%8E%E4%BC%8A%E5%8E%9F%E5%AE%9A%E4%BB%8A%E6%9C%83%E9%9D%A2%E7%B0%BD%E7%B4%84-%E7%91%9E%E5%A3%AB%E8%AD%89%E5%AF%A6%E5%B7%B2%E5%8F%96%E6%B6%88-043541674.html
+  ▸ 美媒：五角大廈稱需800億美元支付伊朗戰爭和其他開支
+    https://tw.news.yahoo.com/%E7%BE%8E%E5%AA%92-%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88%E7%A8%B1%E9%9C%80800%E5%84%84%E7%BE%8E%E5%85%83%E6%94%AF%E4%BB%98%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%92%8C%E5%85%B6%E4%BB%96%E9%96%8B%E6%94%AF-041031878.html
+  ▸ 俄煉油廠遭襲擊　居民驚見天降黑雨
+    https://tw.news.yahoo.com/%E4%BF%84%E7%85%89%E6%B2%B9%E5%BB%A0%E9%81%AD%E8%A5%B2%E6%93%8A-%E5%B1%85%E6%B0%91%E9%A9%9A%E8%A6%8B%E5%A4%A9%E9%99%8D%E9%BB%91%E9%9B%A8-023232430.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Oil drifts lower as Strait of Hormuz reopens, focus shifts t
+    https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html
+  ▸ U.S. Navy ends blockade of Iran's ports and coastal areas
+    https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html
+
+【美元升值】2 則  🟢高信心
+  ▸ Yen slides past 161 against the dollar, nearing 40-year low 
+    https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html
+  ▸ 日圓續貶逼近40年新低 市場關注日本當局是否再度干預
+    https://tw.news.yahoo.com/%E6%97%A5%E5%9C%93%E7%BA%8C%E8%B2%B6%E9%80%BC%E8%BF%9140%E5%B9%B4%E6%96%B0%E4%BD%8E-%E5%B8%82%E5%A0%B4%E9%97%9C%E6%B3%A8%E6%97%A5%E6%9C%AC%E7%95%B6%E5%B1%80%E6%98%AF%E5%90%A6%E5%86%8D%E5%BA%A6%E5%B9%B2%E9%A0%90-025446740.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ South Korea's Kospi extends record run as Asia markets open 
+    https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html
+  ▸ 蘋果坦承記憶體漲價「無可避免」 美光飆近9% 德銀看旺供不應求至2028年
+    https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E5%9D%A6%E6%89%BF%E8%A8%98%E6%86%B6%E9%AB%94%E6%BC%B2%E5%83%B9-%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D-%E7%BE%8E%E5%85%89%E9%A3%86%E8%BF%919-%E5%BE%B7%E9%8A%80%E7%9C%8B%E6%97%BA%E4%BE%9B%E4%B8%8D%E6%87%89%E6%B1%82%E8%87%B32028%E5%B9%B4-021003132.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 蕭副總統：盼朝野支持無人機條例 打造非紅供應鏈
+    https://tw.news.yahoo.com/%E8%95%AD%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%9B%BC%E6%9C%9D%E9%87%8E%E6%94%AF%E6%8C%81%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B-%E6%89%93%E9%80%A0%E9%9D%9E%E7%B4%85%E4%BE%9B%E6%87%89%E9%8F%88-044708159.html
+  ▸ 最先進EUV偷渡大陸？ASML不忍了：曝1超狂鐵證打臉川普政府
+    https://tw.stock.yahoo.com/news/%E6%9C%80%E5%85%88%E9%80%B2euv%E5%81%B7%E6%B8%A1%E5%A4%A7%E9%99%B8-asml%E4%B8%8D%E5%BF%8D%E4%BA%86-%E6%9B%9D1%E8%B6%85%E7%8B%82%E9%90%B5%E8%AD%89%E6%89%93%E8%87%89%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C-041627851.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ 通膨壓力與 Fed 態度轉鷹 金價迎來修正
+    https://money.udn.com/money/story/11162/9576396
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 2. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 3. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -3.5  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -3.5  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -3.5  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2515.TW      -3.0  建材營造｜升息
+ 5. 5534.TW      -3.0  建材營造｜升息
+ 6. 2504.TW      -3.0  建材營造｜升息
+ 7. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 8. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
