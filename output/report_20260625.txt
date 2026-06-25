@@ -1,0 +1,121 @@
+📊 事件驅動選股日報 2026-06-25
+════════════════════════════════
+掃描 123 則新聞  |  偵測 11 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+*   **AI與記憶體熱潮延續**：AI需求持續飆升，帶動SK Hynix等記憶體大廠積極擴張及估值提升，並推升記憶體產品價格，使相關供應鏈成為市場焦點。
+*   **中東地緣政治風險與油價**：中東地區戰事升溫，但國際原油供應增加，導致油價下跌，緩和了市場對能源通膨的擔憂。
+*   **全球經濟景氣面臨挑戰**：韓國IPO市場表現不佳，台灣民眾消費態度保守且購屋壓力升高，顯示部分區域景氣可能面臨轉弱壓力。
+*   **AI產業內部競爭與風險**：AI公司間的競爭加劇，例如Anthropic對Alibaba的指控，凸顯AI快速發展下潛在的版權與商業倫理議題。
+
+**【具體總結】**
+今日盤勢受AI與記憶體產業的強勁需求支撐，相關科技硬體及半導體類股持續吸引資金目光。儘管中東地緣政治風險升溫，但油價下跌為市場帶來一絲喘息空間，部分抵銷了地緣政治的不確定性。然而，全球部分區域經濟數據呈現景氣轉弱跡象，消費動能受抑，可能使資金在追逐高成長AI題材的同時，對整體經濟前景保持審慎態度，資金流向將更趨於集中與選擇性。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】13 則  🟢高信心
+  ▸ SK Hynix targets $29 billion US listing as AI demand surges
+    https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing-4757533
+  ▸ Inside India newsletter: Meet the humans teaching robots to 
+    https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html
+  ▸ Anthropic accuses Alibaba of campaign to 'brazenly' and 'ill
+    https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html
+
+【記憶體漲價】9 則  🟢高信心
+  ▸ SK Hynix targets $29 billion US listing as AI demand surges
+    https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing-4757533
+  ▸ SK Hynix surges 12% after Micron earnings; blockbuster Nasda
+    https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html
+  ▸ Micron is tech's new margin king as memory crisis pushes com
+    https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Trump, Republican senator engage in shouting match over Iran
+    https://www.investing.com/news/world-news/israel-stands-firm-on-troops-in-southern-lebanon-as-rubio-seeks-to-sell-peace-deal-in-middle-east-4758419
+  ▸ Rocket Lab, Lockheed Martin among the partners in SpaceX’s m
+    https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories
+  ▸ Iran declares new Hormuz route 'unacceptable and dangerous,'
+    https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html
+
+【油價下降】5 則  🟢高信心
+  ▸ Oil extends decline on rising Middle East supply
+    https://www.investing.com/news/commodities-news/oil-extends-decline-on-rising-middle-east-supply-4759698
+  ▸ Gas prices aren’t falling fast enough for Trump. Here’s when
+    https://www.marketwatch.com/story/gas-prices-arent-falling-fast-enough-for-trump-heres-when-drivers-can-expect-more-relief-57db7038?mod=mw_rss_topstories
+  ▸ Oil prices erase wartime gains as supply concerns ease with 
+    https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ South Korea’s IPO bust clouds equity markets as Chaebol stru
+    https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html
+  ▸ 拚命存錢卻不敢花！台灣三明治女生7成有固定儲蓄半數有經濟壓力
+    https://tw.stock.yahoo.com/news/%E6%8B%9A%E5%91%BD%E5%AD%98%E9%8C%A2%E5%8D%BB%E4%B8%8D%E6%95%A2%E8%8A%B1%EF%BC%81%E5%8F%B0%E7%81%A3%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%B3%E7%94%9F7%E6%88%90%E6%9C%89%E5%9B%BA%E5%AE%9A%E5%84%B2%E8%93%84%E5%8D%8A%E6%95%B8%E6%9C%89%E7%B6%93%E6%BF%9F%E5%A3%93%E5%8A%9B-035624345.html
+  ▸ 購屋門檻增，Q1小資房貸族核准量探歷史新低，平均貸款金額逼近900萬
+    https://tw.stock.yahoo.com/news/%E8%B3%BC%E5%B1%8B%E9%96%80%E6%AA%BB%E5%A2%9E-q1%E5%B0%8F%E8%B3%87%E6%88%BF%E8%B2%B8%E6%97%8F%E6%A0%B8%E5%87%86%E9%87%8F%E6%8E%A2%E6%AD%B7%E5%8F%B2%E6%96%B0%E4%BD%8E-%E5%B9%B3%E5%9D%87%E8%B2%B8%E6%AC%BE%E9%87%91%E9%A1%8D%E9%80%BC%E8%BF%91900%E8%90%AC-035037745.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ These hidden PCE triggers could force a Fed rate hike — and 
+    https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories
+  ▸ 美國國內機票首季漲4.7% 油價衝擊墊高航空票價
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%85%A7%E6%A9%9F%E7%A5%A8%E9%A6%96%E5%AD%A3%E6%BC%B24-7-%E6%B2%B9%E5%83%B9%E8%A1%9D%E6%93%8A%E5%A2%8A%E9%AB%98%E8%88%AA%E7%A9%BA%E7%A5%A8%E5%83%B9-043250870.html
+  ▸ 暑假打工潮2》基本時薪196元不夠用？逾7成學生喊吃不消 外食變貴最有感
+    https://tw.stock.yahoo.com/news/%E6%9A%91%E5%81%87%E6%89%93%E5%B7%A5%E6%BD%AE2%E3%80%8B%E5%9F%BA%E6%9C%AC%E6%99%82%E8%96%AA196%E5%85%83%E4%B8%8D%E5%A4%A0%E7%94%A8%EF%BC%9F%E9%80%BE7%E6%88%90%E5%AD%B8%E7%94%9F%E5%96%8A%E5%90%83%E4%B8%8D%E6%B6%88-%E5%A4%96%E9%A3%9F%E8%AE%8A%E8%B2%B4%E6%9C%80%E6%9C%89%E6%84%9F-034613618.html
+
+【升息】2 則  🟢高信心
+  ▸ These hidden PCE triggers could force a Fed rate hike — and 
+    https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories
+  ▸ Apollo示警，油價下跌不代表美國通膨舒緩，聯準會恐很快升息
+    https://tw.stock.yahoo.com/news/apollo%E7%A4%BA%E8%AD%A6-%E6%B2%B9%E5%83%B9%E4%B8%8B%E8%B7%8C%E4%B8%8D%E4%BB%A3%E8%A1%A8%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%86%A8%E8%88%92%E7%B7%A9-%E8%81%AF%E6%BA%96%E6%9C%83%E6%81%90%E5%BE%88%E5%BF%AB%E5%8D%87%E6%81%AF-035109035.html
+
+【航運運價上升】2 則  🟢高信心
+  ▸ Iran declares new Hormuz route 'unacceptable and dangerous,'
+    https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html
+  ▸ 捷迅股東會／完成董事改選 孫鋼銀看旺海空運：AI 出貨熱潮延續至年底
+    https://money.udn.com/money/story/5612/9587476
+
+【政策補助】2 則  🟢高信心
+  ▸ Federal student loans have a new interest rate discount — he
+    https://www.cnbc.com/2026/06/24/student-loan-borrowers-interest-rate-discount.html
+  ▸ 育兒家庭減稅大利多 未成年子女免稅額增50%、婚育家庭再享房地稅優惠
+    https://money.udn.com/money/story/10871/9587620
+
+【美元升值】2 則  🟢高信心
+  ▸ 新台幣午盤貶9.8分　暫收31.849元
+    https://money.udn.com/money/story/10871/9587604
+  ▸ 股匯脫鉤！新台幣貶逾1角逼近31.9大關 專家：不排除會跌破32元
+    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E8%84%AB%E9%89%A4%EF%BC%81%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6%E9%80%BE1%E8%A7%92%E9%80%BC%E8%BF%91319%E5%A4%A7%E9%97%9C-%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E6%9C%83%E8%B7%8C%E7%A0%B432%E5%85%83-043539961.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 避免貿易戰  中歐貿易投資磋商機制首次會議將登場
+    https://tw.stock.yahoo.com/news/%E9%81%BF%E5%85%8D%E8%B2%BF%E6%98%93%E6%88%B0-%E4%B8%AD%E6%AD%90%E8%B2%BF%E6%98%93%E6%8A%95%E8%B3%87%E7%A3%8B%E5%95%86%E6%A9%9F%E5%88%B6%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0%E5%B0%87%E7%99%BB%E5%A0%B4-034546089.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -5.8  電子零組件｜記憶體漲價、景氣轉弱
+ 2. 2327.TW      -5.8  電子零組件｜記憶體漲價、景氣轉弱
+ 3. 3037.TW      -5.8  電子零組件｜記憶體漲價、景氣轉弱
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 2515.TW      -3.0  建材營造｜升息
+ 7. 5534.TW      -3.0  建材營造｜升息
+ 8. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
