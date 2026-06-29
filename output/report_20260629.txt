@@ -1,119 +1,78 @@
 📊 事件驅動選股日報 2026-06-29
 ════════════════════════════════
-掃描 116 則新聞  |  偵測 11 個事件
+掃描 119 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI熱潮持續發燒**：全球各國政府與科技巨頭（如三星、惠普）積極投入AI超級專案與平台整合，推動AI相關技術及應用發展。
-2.  **地緣政治緊張升溫**：中東地區衝突頻傳，儘管偶有緩和跡象，但地緣風險仍未解除，致使國際油價持續攀升。
-3.  **全球經濟面臨逆風**：汽車銷售（尤其在中國及美國市場）出現衰退，加上整體經濟脆弱性與債務問題，引發市場對全球景氣放緩的擔憂。
-4.  **政府政策提供支撐**：各國政府透過醫療補助（如肥胖藥物納保）及對新創產業的投資計畫，為特定產業或區域提供支持。
-
-【具體總結】：
-今日盤勢在AI熱潮的持續帶動下，相關科技股仍為市場焦點。然而，中東地緣政治緊張推升國際油價，加上全球汽車市場銷售不佳及整體經濟轉弱的跡象，增添了市場的不確定性與避險情緒。儘管部分政府政策為特定領域帶來利好，但整體資金動向可能呈現板塊輪動與觀望並存的局面，投資人需審慎評估成長動能與潛在風險。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】22 則  🟢高信心
-  ▸ South Korean President to unveil AI mega projects; Samsung, 
-    https://seekingalpha.com/news/4607917-south-korean-president-to-unveil-ai-mega-projects-samsung-sk-hynix-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ HP to use OpenAI’s Frontier platform to update how it works
-    https://seekingalpha.com/news/4607916-hp-to-use-openais-frontier-platform-to-update-how-it-works?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】17 則  🟢高信心
   ▸ Your health insurer shouldn’t decide your treatment plan. Th
     https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories
+  ▸ Google limits Meta’s use of its Gemini AI models, FT reports
+    https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html
+  ▸ Debt, AI boom and economic fragilities raise global risks, B
+    https://www.cnbc.com/2026/06/28/debt-ai-boom-and-economic-fragilities-raise-global-risks-bis-says.html
 
-【景氣轉弱】6 則  🟢高信心
-  ▸ Toyota sales fall for fourth month in May as declines in Chi
-    https://www.investing.com/news/stock-market-news/toyota-sales-fall-for-fourth-month-in-may-as-declines-in-china-us-and-middle-east-weigh-4764215
+【景氣轉弱】4 則  🟢高信心
   ▸ A 'perfect storm' points to a much smaller U.S. auto market 
     https://www.cnbc.com/2026/06/28/us-auto-market.html
   ▸ Debt, AI boom and economic fragilities raise global risks, B
     https://www.cnbc.com/2026/06/28/debt-ai-boom-and-economic-fragilities-raise-global-risks-bis-says.html
+  ▸ 台股成交量罕見沒破兆元！4個月最低 專家曝「2類人」不願表態
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%88%90%E4%BA%A4%E9%87%8F%E7%BD%95%E8%A6%8B%E6%B2%92%E7%A0%B4%E5%85%86%E5%85%83%EF%BC%814%E5%80%8B%E6%9C%88%E6%9C%80%E4%BD%8E-%E5%B0%88%E5%AE%B6%E6%9B%9D%E3%80%8C2%E9%A1%9E%E4%BA%BA%E3%80%8D%E4%B8%8D%E9%A1%98%E8%A1%A8%E6%85%8B-062602799.html
 
-【戰爭升溫】6 則  🟢高信心
-  ▸ Asia stocks adrift as Middle East worries meet rate-hike bet
-    https://www.investing.com/news/economy-news/stocks-adrift-oil-up-as-usiran-halt-renewed-attacks-4764197
-  ▸ U.S., Iran pause hostilities as Hormuz shipping resumes afte
-    https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html
-  ▸ Oil jumps back above $70 as fresh U.S.-Iran clashes reignite
-    https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html
-
-【政策補助】4 則  🟢高信心
-  ▸ Seniors in Medicare are about to get landmark obesity drug c
-    https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html
-  ▸ 受惠美光進駐! 苗栗銅鑼普發現金 一家十口爽領8.5萬
-    https://tw.stock.yahoo.com/news/%E5%8F%97%E6%83%A0%E7%BE%8E%E5%85%89%E9%80%B2%E9%A7%90-%E8%8B%97%E6%A0%97%E9%8A%85%E9%91%BC%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%91-%E5%AE%B6%E5%8D%81%E5%8F%A3%E7%88%BD%E9%A0%988-5%E8%90%AC-042802645.html
-  ▸ 經部創投新創計畫放寬資格 4年目標衝百億投資
-    https://tw.news.yahoo.com/%E7%B6%93%E9%83%A8%E5%89%B5%E6%8A%95%E6%96%B0%E5%89%B5%E8%A8%88%E7%95%AB%E6%94%BE%E5%AF%AC%E8%B3%87%E6%A0%BC-4%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A1%9D%E7%99%BE%E5%84%84%E6%8A%95%E8%B3%87-040450865.html
-
-【油價上升】3 則  🟢高信心
+【油價上升】2 則  🟢高信心
   ▸ Oil prices, stock futures inch higher as U.S. and Iran repor
     https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories
-  ▸ Oil jumps back above $70 as fresh U.S.-Iran clashes reignite
-    https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html
-  ▸ 《油》中東地緣風險未解　街口投信：留意油價低檔反彈契機
-    https://tw.stock.yahoo.com/news/%E6%B2%B9-%E4%B8%AD%E6%9D%B1%E5%9C%B0%E7%B7%A3%E9%A2%A8%E9%9A%AA%E6%9C%AA%E8%A7%A3-%E8%A1%97%E5%8F%A3%E6%8A%95%E4%BF%A1-%E7%95%99%E6%84%8F%E6%B2%B9%E5%83%B9%E4%BD%8E%E6%AA%94%E5%8F%8D%E5%BD%88%E5%A5%91%E6%A9%9F-041549849.html
+  ▸ 中東地緣風險未解 街口投信：留意油價低檔反彈契機
+    https://money.udn.com/money/story/11162/9595342
 
 【記憶體漲價】2 則  🟢高信心
   ▸ Micron is about to be more profitable than any U.S. company 
     https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories
-  ▸ Lenovo falls to one-month low after warning AI will keep mem
-    https://www.investing.com/news/stock-market-news/lenovo-sees-memory-prices-settling-at-a-permanently-higher-level-as-ai-demand-resh-4764214
-
-【關稅/貿易戰】2 則  🟢高信心
-  ▸ China widens Japan export curbs, targeting drone makers, nuc
-    https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html
-  ▸ 本周美股五大觀察變數 Fed 談話、非農就業與川普關稅成焦點
-    https://money.udn.com/money/story/11162/9595151
-
-【美元貶值】2 則  🟢高信心
-  ▸ If you think China needs to dethrone U.S. dollar, you don't 
-    https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html
-  ▸ 印尼實施新制，天然資源出口商必須將其所有出口外匯匯回
-    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E5%AF%A6%E6%96%BD%E6%96%B0%E5%88%B6-%E5%A4%A9%E7%84%B6%E8%B3%87%E6%BA%90%E5%87%BA%E5%8F%A3%E5%95%86%E5%BF%85%E9%A0%88%E5%B0%87%E5%85%B6%E6%89%80%E6%9C%89%E5%87%BA%E5%8F%A3%E5%A4%96%E5%8C%AF%E5%8C%AF%E5%9B%9E-040000972.html
-
-【航運運價上升】2 則  🟢高信心
-  ▸ 另類AI受惠股，長榮航今年貨運AI占比4-5成，急單價沒有最高、只有更高
-    https://tw.stock.yahoo.com/news/%E5%8F%A6%E9%A1%9Eai%E5%8F%97%E6%83%A0%E8%82%A1-%E9%95%B7%E6%A6%AE%E8%88%AA%E4%BB%8A%E5%B9%B4%E8%B2%A8%E9%81%8Bai%E5%8D%A0%E6%AF%944-5%E6%88%90-%E6%80%A5%E5%96%AE%E5%83%B9%E6%B2%92%E6%9C%89%E6%9C%80%E9%AB%98-%E5%8F%AA%E6%9C%89%E6%9B%B4%E9%AB%98-041632981.html
-  ▸ AI伺服器帶旺空運　長榮航：包機、急單同步加溫
-    https://tw.stock.yahoo.com/news/ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%B8%B6%E6%97%BA%E7%A9%BA%E9%81%8B-%E9%95%B7%E6%A6%AE%E8%88%AA-%E5%8C%85%E6%A9%9F-%E6%80%A5%E5%96%AE%E5%90%8C%E6%AD%A5%E5%8A%A0%E6%BA%AB-041320009.html
-
-【升息】1 則  🟡單篇
-  ▸ Asia stocks adrift as Middle East worries meet rate-hike bet
-    https://www.investing.com/news/economy-news/stocks-adrift-oil-up-as-usiran-halt-renewed-attacks-4764197
+  ▸ 美光季報優於預期 記憶體漲價考驗輝達蘋果AI利潤
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E5%AD%A3%E5%A0%B1%E5%84%AA%E6%96%BC%E9%A0%90%E6%9C%9F-%E8%A8%98%E6%86%B6%E9%AB%94%E6%BC%B2%E5%83%B9%E8%80%83%E9%A9%97%E8%BC%9D%E9%81%94%E8%98%8B%E6%9E%9Cai%E5%88%A9%E6%BD%A4-054512783.html
 
 【通膨上升】1 則  🟡單篇
-  ▸ America can't get enough of protein. The dairy industry can'
-    https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html
+  ▸ 通膨壓力與升息預期籠罩 金價下挫 但各國央行增持意願創紀錄
+    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B%E8%88%87%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E7%B1%A0%E7%BD%A9-%E9%87%91%E5%83%B9%E4%B8%8B%E6%8C%AB-%E4%BD%86%E5%90%84%E5%9C%8B%E5%A4%AE%E8%A1%8C%E5%A2%9E%E6%8C%81%E6%84%8F%E9%A1%98%E5%89%B5%E7%B4%80%E9%8C%84-053003422.html
+
+【升息】1 則  🟡單篇
+  ▸ 通膨壓力與升息預期籠罩 金價下挫 但各國央行增持意願創紀錄
+    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B%E8%88%87%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E7%B1%A0%E7%BD%A9-%E9%87%91%E5%83%B9%E4%B8%8B%E6%8C%AB-%E4%BD%86%E5%90%84%E5%9C%8B%E5%A4%AE%E8%A1%8C%E5%A2%9E%E6%8C%81%E6%84%8F%E9%A1%98%E5%89%B5%E7%B4%80%E9%8C%84-053003422.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 國民黨團擬提無人機條例 藍委：預算2,400億元可能性高
+    https://money.udn.com/money/story/5612/9595197
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
- 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
- 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
- 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
- 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +4.8  油電燃氣｜油價上升、通膨上升
+ 2. 8917.TW      +4.8  油電燃氣｜油價上升、通膨上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2408.TW      +2.5  記憶體｜記憶體漲價
+ 9. 3260.TW      +2.5  記憶體｜記憶體漲價
+10. 2344.TW      +2.1  半導體/記憶體｜AI熱潮、景氣轉弱
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -4.5  電子零組件｜景氣轉弱、記憶體漲價
- 2. 2327.TW      -4.5  電子零組件｜景氣轉弱、記憶體漲價
- 3. 3037.TW      -4.5  電子零組件｜景氣轉弱、記憶體漲價
- 4. 2330.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 5. 2454.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 6. 2303.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 7. 3711.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 8. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
- 9. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
-10. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2317.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -5.4  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2603.TW      -3.0  交通運輸及航運｜油價上升
+ 5. 2609.TW      -3.0  交通運輸及航運｜油價上升
+ 6. 2615.TW      -3.0  交通運輸及航運｜油價上升
+ 7. 2618.TW      -3.0  交通運輸及航運｜油價上升
+ 8. 2515.TW      -2.1  建材營造｜升息
+ 9. 5534.TW      -2.1  建材營造｜升息
+10. 2504.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
