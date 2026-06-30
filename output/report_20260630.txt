@@ -1,0 +1,106 @@
+📊 事件驅動選股日報 2026-06-30
+════════════════════════════════
+掃描 125 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **AI熱潮持續：** AI應用帶動中國製造業活動擴張，並持續激勵科技股表現，如Tesla股價上漲及Salesforce在AI領域的投資併購。
+2.  **美元走強與匯率壓力：** 美元表現強勁，引發亞洲貨幣競貶，日圓跌至40年新低，新台幣亦承壓失守31.9元關卡。
+3.  **油價回落緩解通膨：** 油價快速下跌，有助於減輕全球通膨壓力，並可能影響歐洲央行等主要央行的貨幣政策決策步調。
+4.  **政策支持特定產業：** 儘管部分經濟數據顯示景氣有轉弱跡象，但美國FDA對藥廠的補助及台灣健保擴大給付、都更專案等政策，為醫藥生技與都更建設產業帶來支撐。
+
+【具體總結】
+今日盤勢受AI熱潮持續推動科技及相關製造業增長所支撐，市場風險偏好仍圍繞在成長型題材。然而，美元的強勢導致亞洲貨幣普遍走弱，特別是日圓的劇烈貶值，為全球匯市帶來高度不確定性與操作複雜度。同時，油價回落則有助於緩解通膨疑慮，可能為未來貨幣政策提供調整空間。儘管整體經濟展望存在部分放緩訊號，政策支持下的醫藥生技與特定建設產業則表現出韌性，顯示市場資金在多元因素下尋找機會。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】22 則  🟢高信心
+  ▸ China factory activity returns to expansion riding AI global
+    https://www.investing.com/news/economy-news/chinas-factory-activity-expands-in-june-on-hightech-exports-4766820
+  ▸ Tesla’s stock rips higher after a long-awaited update to sel
+    https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories
+  ▸ Salesforce is on an AI buying spree, but Wall Street still h
+    https://www.cnbc.com/2026/06/29/salesforce-is-on-an-ai-buying-spree-but-wall-street-still-has-its-doubts.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Most Americans have no idea how close we just came to financ
+    https://www.marketwatch.com/story/most-americans-have-no-idea-how-close-we-just-came-to-financial-chaos-50c0b33c?mod=mw_rss_topstories
+  ▸ 愛山林股東會》房市降溫仍迎交屋潮！董座祝文宇：今年、明年交屋案幾乎沒銷售問題
+    https://tw.stock.yahoo.com/news/%E6%84%9B%E5%B1%B1%E6%9E%97%E8%82%A1%E6%9D%B1%E6%9C%83%E3%80%8B%E6%88%BF%E5%B8%82%E9%99%8D%E6%BA%AB%E4%BB%8D%E8%BF%8E%E4%BA%A4%E5%B1%8B%E6%BD%AE%EF%BC%81%E8%91%A3%E5%BA%A7%E7%A5%9D%E6%96%87%E5%AE%87%EF%BC%9A%E4%BB%8A%E5%B9%B4%E3%80%81%E6%98%8E%E5%B9%B4%E4%BA%A4%E5%B1%8B%E6%A1%88%E5%B9%BE%E4%B9%8E%E6%B2%92%E9%8A%B7%E5%94%AE%E5%95%8F%E9%A1%8C-043308198.html
+  ▸ 愛山林股東會》董座祝文宇：大家都跑去炒股票！代銷很辛苦 房地產長期一定增值
+    https://tw.stock.yahoo.com/news/%E6%84%9B%E5%B1%B1%E6%9E%97%E8%82%A1%E6%9D%B1%E6%9C%83%E3%80%8B%E8%91%A3%E5%BA%A7%E7%A5%9D%E6%96%87%E5%AE%87%EF%BC%9A%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%B7%91%E5%8E%BB%E7%82%92%E8%82%A1%E7%A5%A8%EF%BC%81%E4%BB%A3%E9%8A%B7%E5%BE%88%E8%BE%9B%E8%8B%A6-%E6%88%BF%E5%9C%B0%E7%94%A2%E9%95%B7%E6%9C%9F%E4%B8%80%E5%AE%9A%E5%A2%9E%E5%80%BC-040442442.html
+
+【政策補助】4 則  🟢高信心
+  ▸ Eli Lilly, Regeneron among first companies selected for FDA 
+    https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html
+  ▸ HER2早期乳癌健保擴大給付 7月起接軌國際治療指引
+    https://tw.stock.yahoo.com/news/her2%E6%97%A9%E6%9C%9F%E4%B9%B3%E7%99%8C%E5%81%A5%E4%BF%9D%E6%93%B4%E5%A4%A7%E7%B5%A6%E4%BB%98-7%E6%9C%88%E8%B5%B7%E6%8E%A5%E8%BB%8C%E5%9C%8B%E9%9A%9B%E6%B2%BB%E7%99%82%E6%8C%87%E5%BC%95-034611673.html
+  ▸ 海砂屋重建新契機 新北580專案兩社區公告招商
+    https://money.udn.com/money/story/10871/9597408
+
+【油價下降】3 則  🟢高信心
+  ▸ Surprisingly quick oil price retreat eases urgency for ECB t
+    https://www.investing.com/news/economy-news/surprisingly-quick-oil-price-retreat-eases-urgency-for-ecb-to-act-sources-say-4766842
+  ▸ Oil falls as investors focus on potential Iran-US talks in D
+    https://www.investing.com/news/commodities-news/oil-falls-as-investors-focus-on-potential-iranus-talks-in-doha-4766794
+  ▸ Oil prices near pre-war levels  —  but persistent supply ris
+    https://www.cnbc.com/2026/06/29/strait-of-hormuz-shipping-iran-oil-war-us.html
+
+【美元升值】3 則  🟢高信心
+  ▸ Japanese yen sinks to 40-year low, keeping intervention risk
+    https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html
+  ▸ 日圓摔慘了！創40年新低 日本財相：準備採取行動
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E5%9C%93%E6%91%94%E6%85%98%E4%BA%86-%E5%89%B540%E5%B9%B4%E6%96%B0%E4%BD%8E-%E6%97%A5%E6%9C%AC%E8%B2%A1%E7%9B%B8-%E6%BA%96%E5%82%99%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95-035500292.html
+  ▸ 股匯不同調 新台幣午盤失守31.9元
+    https://money.udn.com/money/story/10871/9597455
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ CNBC's The China Connection newsletter: U.S.-China tech riva
+    https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html
+  ▸ China widens Japan export curbs, targeting drone makers, nuc
+    https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html
+  ▸ 涉嫌出口AI伺服器至中港澳？是方：倘內部人員事涉不法 將嚴懲不貸
+    https://money.udn.com/money/story/5612/9597386
+
+【通膨上升】2 則  🟢高信心
+  ▸ Value stocks beat growth when inflation is high. Here are 13
+    https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories
+  ▸ Citi Wealth warns investors to move out of excess cash becau
+    https://www.cnbc.com/2026/06/29/citi-wealth-warns-investors-to-move-out-of-excess-cash-because-of-hot-inflation.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ Trump’s weekend Iran strikes keep sparking Monday stock rall
+    https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories
+
+【升息】1 則  🟡單篇
+  ▸ 季底資金需求升溫，港幣隔夜Hibor飆至1月以來新高
+    https://tw.stock.yahoo.com/news/%E5%AD%A3%E5%BA%95%E8%B3%87%E9%87%91%E9%9C%80%E6%B1%82%E5%8D%87%E6%BA%AB-%E6%B8%AF%E5%B9%A3%E9%9A%94%E5%A4%9Chibor%E9%A3%86%E8%87%B31%E6%9C%88%E4%BB%A5%E4%BE%86%E6%96%B0%E9%AB%98-035258308.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2880.TW      +2.8  金融｜戰爭升溫、升息
+ 7. 2881.TW      +2.8  金融｜戰爭升溫、升息
+ 8. 2882.TW      +2.8  金融｜戰爭升溫、升息
+ 9. 2884.TW      +2.8  金融｜戰爭升溫、升息
+10. 2886.TW      +2.8  金融｜戰爭升溫、升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
+ 2. 2327.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
+ 3. 3037.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
+ 4. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+ 6. 2515.TW      -2.1  建材營造｜升息
+ 7. 5534.TW      -2.1  建材營造｜升息
+ 8. 2504.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
