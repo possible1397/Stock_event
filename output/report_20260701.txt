@@ -1,0 +1,117 @@
+📊 事件驅動選股日報 2026-07-01
+════════════════════════════════
+掃描 124 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+*   AI熱潮延燒，南韓晶片出口強勁增長，美國放寬AI模型出口管制，有利AI產業發展。
+*   全球景氣轉弱警訊浮現，部分分析指公開上市公司財報示警，台灣車市預期下修。
+*   通膨壓力伴隨地緣政治緊張，國際油價及部分能源商品價格走高。
+*   各國政府推動關鍵產業補助與戰略投資，包括太空科技與工業5G建設。
+
+【具體總結】：
+今日市場動態呈現多重拉鋸。AI強勁需求持續推動科技與半導體相關產業表現，然而全球景氣放緩警訊、部分地區通膨壓力以及地緣政治推升的能源成本，恐對整體市場氛圍造成潛在壓力。資金流向可能在追逐AI成長潛力的同時，也關注總體經濟變化與避險需求，並留意各國政府對戰略產業的政策支持動向。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】26 則  🟢高信心
+  ▸ South Korea’s exports surge by most since 1978 on robust chi
+    https://www.investing.com/news/stock-market-news/south-koreas-exports-surge-by-most-since-1978-on-robust-chip-demand-93CH-4769441
+  ▸ US lifts export controls on Anthropic's Claude Fable 5, Myth
+    https://seekingalpha.com/news/4608709-us-lifts-export-controls-on-anthropics-claude-fable-5-mythos-5-models?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Anthropic says Trump admin has lifted export controls on Cla
+    https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html
+
+【景氣轉弱】6 則  🟢高信心
+  ▸ Analysis-In a warning sign, analysis shows publicly traded c
+    https://www.investing.com/news/economy-news/analysisin-a-warning-sign-analysis-shows-publicly-traded-credit-funds-are-unprofitable-4769436
+  ▸ This threat to the chip rally has surged to its highest leve
+    https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories
+  ▸ 和泰車：今年新車市場下修至43萬輛　下半年市況看佳
+    https://money.udn.com/money/story/10871/9599943
+
+【通膨上升】3 則  🟢高信心
+  ▸ Indonesia’s June annual inflation accelerates to 3.34%
+    https://www.investing.com/news/economy-news/indonesias-june-annual-inflation-accelerates-to-334-4769439
+  ▸ LNG market disruption may continue for months as a top produ
+    https://www.cnbc.com/2026/07/01/qatarenergy-extend-force-majeure-september-italys-edison-iran-war-.html
+  ▸ Big egg producers settle price inflation probe with DOJ for 
+    https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html
+
+【政策補助】3 則  🟢高信心
+  ▸ Mitsubishi Electric wins JAXA subsidy for full digital satel
+    https://seekingalpha.com/news/4608706-mitsubishi-electric-wins-jaxa-subsidy-for-full-digital-satellite-payload?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 立委批利衝法流於形式 要求清查5年投資補助案
+    https://tw.stock.yahoo.com/news/%E7%AB%8B%E5%A7%94%E6%89%B9%E5%88%A9%E8%A1%9D%E6%B3%95%E6%B5%81%E6%96%BC%E5%BD%A2%E5%BC%8F-%E8%A6%81%E6%B1%82%E6%B8%85%E6%9F%A55%E5%B9%B4%E6%8A%95%E8%B3%87%E8%A3%9C%E5%8A%A9%E6%A1%88-042212087.html
+  ▸ 陸：到2030年建設5萬張工業5G專網
+    https://tw.stock.yahoo.com/news/%E9%99%B8-%E5%88%B02030%E5%B9%B4%E5%BB%BA%E8%A8%AD5%E8%90%AC%E5%BC%B5%E5%B7%A5%E6%A5%AD5g%E5%B0%88%E7%B6%B2-035600655.html
+
+【油價上升】3 則  🟢高信心
+  ▸ Iran says it is selling oil at 20% premium as end of U.S. bl
+    https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html
+  ▸ LNG market disruption may continue for months as a top produ
+    https://www.cnbc.com/2026/07/01/qatarenergy-extend-force-majeure-september-italys-edison-iran-war-.html
+  ▸ 伊朗戰爭推升需求，美國4月石油產量與出口量雙創新高
+    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%8E%A8%E5%8D%87%E9%9C%80%E6%B1%82-%E7%BE%8E%E5%9C%8B4%E6%9C%88%E7%9F%B3%E6%B2%B9%E7%94%A2%E9%87%8F%E8%88%87%E5%87%BA%E5%8F%A3%E9%87%8F%E9%9B%99%E5%89%B5%E6%96%B0%E9%AB%98-040558580.html
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ Trump's massive defense budget, depleted war machine, spark 
+    https://www.cnbc.com/2026/06/30/trump-trillion-dollar-defense-budget-missile-contracts.html
+  ▸ 美傳擬在黎以部署地面部隊監督停火，三方框架進入強制履約階段
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B3%E6%93%AC%E5%9C%A8%E9%BB%8E%E4%BB%A5%E9%83%A8%E7%BD%B2%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E7%9B%A3%E7%9D%A3%E5%81%9C%E7%81%AB-%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6%E9%80%B2%E5%85%A5%E5%BC%B7%E5%88%B6%E5%B1%A5%E7%B4%84%E9%9A%8E%E6%AE%B5-043640309.html
+  ▸ 伊朗戰爭推升需求，美國4月石油產量與出口量雙創新高
+    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%8E%A8%E5%8D%87%E9%9C%80%E6%B1%82-%E7%BE%8E%E5%9C%8B4%E6%9C%88%E7%9F%B3%E6%B2%B9%E7%94%A2%E9%87%8F%E8%88%87%E5%87%BA%E5%8F%A3%E9%87%8F%E9%9B%99%E5%89%B5%E6%96%B0%E9%AB%98-040558580.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ South Korea’s exports surge by most since 1978 on robust chi
+    https://www.investing.com/news/stock-market-news/south-koreas-exports-surge-by-most-since-1978-on-robust-chip-demand-93CH-4769441
+  ▸ 美首季PC出貨量年減7%為10季最遜，記憶體漲價與升級潮退燒夾擊需求
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%A6%96%E5%AD%A3pc%E5%87%BA%E8%B2%A8%E9%87%8F%E5%B9%B4%E6%B8%9B7-%E7%82%BA10%E5%AD%A3%E6%9C%80%E9%81%9C-%E8%A8%98%E6%86%B6%E9%AB%94%E6%BC%B2%E5%83%B9%E8%88%87%E5%8D%87%E7%B4%9A%E6%BD%AE%E9%80%80%E7%87%92%E5%A4%BE%E6%93%8A%E9%9C%80%E6%B1%82-043643678.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Nike results top estimates even as China sales drop 12%; ret
+    https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html
+  ▸ 關稅遲遲不定 車市龍頭和泰車下修全年總銷量至43萬台
+    https://money.udn.com/money/story/10871/9599833
+
+【升息】2 則  🟢高信心
+  ▸ Where to find top CD yields in the second half as Fed policy
+    https://www.cnbc.com/2026/06/30/find-4percent-cd-yields-as-fed-policy-remains-murky.html
+  ▸ 交易員加碼聯邦基金利率期貨空頭部位，冒險押注聯準會7月升息
+    https://tw.stock.yahoo.com/news/%E4%BA%A4%E6%98%93%E5%93%A1%E5%8A%A0%E7%A2%BC%E8%81%AF%E9%82%A6%E5%9F%BA%E9%87%91%E5%88%A9%E7%8E%87%E6%9C%9F%E8%B2%A8%E7%A9%BA%E9%A0%AD%E9%83%A8%E4%BD%8D-%E5%86%92%E9%9A%AA%E6%8A%BC%E6%B3%A8%E8%81%AF%E6%BA%96%E6%9C%837%E6%9C%88%E5%8D%87%E6%81%AF-041409568.html
+
+【美元升值】1 則  🟡單篇
+  ▸ Yen slides to new 40-year low while Dow futures ease after s
+    https://www.cnbc.com/2026/06/30/stock-market-today-live-updates.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
