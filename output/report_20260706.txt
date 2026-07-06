@@ -1,0 +1,101 @@
+📊 事件驅動選股日報 2026-07-06
+════════════════════════════════
+掃描 115 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **AI產業熱度不減但板塊輪動：** AI需求前景仍獲機構看好，但市場焦點從記憶體等特定領域轉向AI電源等次級供應鏈，且Nvidia部分高階AI系統發貨時程可能延後。
+2.  **美元強勢與亞幣承壓：** 美元指數走強，亞洲主要貨幣如日圓、台幣皆面臨貶值壓力，其中台幣因外資賣股匯出而重貶，創下近期新低。
+3.  **全球利率維持高檔：** 美國房貸及定存利率居高不下，日本20年期公債殖利率刷新30年高點，顯示全球利率環境仍偏緊俏。
+4.  **台股修正壓力顯著：** 台股面臨大幅回檔，尤以高價股跌勢劇烈，市場資金快速輪動，反映投資人對經濟景氣與市場前景的擔憂情緒。
+5.  **油價受供給增加影響：** OPEC+決定提高產出目標，導致國際油價呈現下跌趨勢。
+
+【具體總結】
+今日市場受美元走強及外資匯出影響，台股經歷顯著修正，高價股尤其承壓，反映投資人對全球經濟前景的審慎態度。AI產業雖維持強勁需求，但部分硬體延遲發貨且資金流向如電源供應等次領域。同時，全球利率持續高位，油價因供給增加而下滑，顯示多重因素交織下的避險情緒與資金板塊輪動。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】7 則  🟢高信心
+  ▸ Nomura says fears of AI memory demand slowdown are overstate
+    https://www.investing.com/news/stock-market-news/nomura-says-fears-of-ai-memory-demand-slowdown-are-overstated-4775518
+  ▸ 焦點股：太陽能逆變器去中化受惠者，全漢搶攻AI電源領域商機，股價觸及漲停
+    https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E5%A4%AA%E9%99%BD%E8%83%BD%E9%80%86%E8%AE%8A%E5%99%A8%E5%8E%BB%E4%B8%AD%E5%8C%96%E5%8F%97%E6%83%A0%E8%80%85-%E5%85%A8%E6%BC%A2%E6%90%B6%E6%94%BBai%E9%9B%BB%E6%BA%90%E9%A0%98%E5%9F%9F%E5%95%86%E6%A9%9F-%E8%82%A1%E5%83%B9%E8%A7%B8%E5%8F%8A%E6%BC%B2%E5%81%9C-033053352.html
+  ▸ Nvidia's next-gen AI rack system delayed to 2028 on manufact
+    https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
+
+【美元升值】4 則  🟢高信心
+  ▸ Asia FX muted, yen on intervention watch as dollar recoups r
+    https://www.investing.com/news/forex-news/asia-fx-muted-yen-on-intervention-watch-as-dollar-recoups-recent-losses-4775524
+  ▸ 〈台幣〉外資賣股匯出壓力未止 早盤重貶逾1.4角破32元大關 創4月以來新低
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%B9%A3-%E5%A4%96%E8%B3%87%E8%B3%A3%E8%82%A1%E5%8C%AF%E5%87%BA%E5%A3%93%E5%8A%9B%E6%9C%AA%E6%AD%A2-%E6%97%A9%E7%9B%A4%E9%87%8D%E8%B2%B6%E9%80%BE1-4%E8%A7%92%E7%A0%B432%E5%85%83%E5%A4%A7%E9%97%9C-%E5%89%B54%E6%9C%88%E4%BB%A5%E4%BE%86%E6%96%B0%E4%BD%8E-034804024.html
+  ▸ Yen to extend historic slump, while AI and energy 'supply bu
+    https://www.cnbc.com/2026/07/06/yen-slump-dollar-currencies-ai-energy.html
+
+【升息】3 則  🟢高信心
+  ▸ Mortgage and refinance interest rates today, Sunday, July 5:
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-5-rates-way-up-since-last-week-100000265.html
+  ▸ Best CD rates today, Sunday, July 5, 2026: Lock in up to 4.1
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html
+  ▸ 日本20年期國債殖利率盤中升至3.785%，刷新30年高點
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC20%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E7%9B%A4%E4%B8%AD%E5%8D%87%E8%87%B33-785-%E5%88%B7%E6%96%B030%E5%B9%B4%E9%AB%98%E9%BB%9E-042005845.html
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ 【Hot台股】台股跳水近千點翻黑...網求「不玩了 把錢還我」 分析師看法出爐
+    https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E5%8F%B0%E8%82%A1%E8%B7%B3%E6%B0%B4%E8%BF%91%E5%8D%83%E9%BB%9E%E7%BF%BB%E9%BB%91%E7%B6%B2%E6%B1%82%E3%80%8C%E4%B8%8D%E7%8E%A9%E4%BA%86-%E6%8A%8A%E9%8C%A2%E9%82%84%E6%88%91%E3%80%8D-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-032945039.html
+  ▸ 千金股大逃殺！股王股后等15檔盤中重挫逾半根停板 分析師揭原因
+    https://tw.stock.yahoo.com/news/%E5%8D%83%E9%87%91%E8%82%A1%E5%A4%A7%E9%80%83%E6%AE%BA%EF%BC%81%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%AD%8915%E6%AA%94%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%8A%E6%A0%B9%E5%81%9C%E6%9D%BF-%E5%88%86%E6%9E%90%E5%B8%AB%E6%8F%AD%E5%8E%9F%E5%9B%A0-032555792.html
+  ▸ 【台股盤中】台股開高走低翻黑震盪逾900點　資金快速輪動
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-%E5%8F%B0%E8%82%A1%E9%96%8B%E9%AB%98%E8%B5%B0%E4%BD%8E%E7%BF%BB%E9%BB%91%E9%9C%87%E7%9B%AA%E9%80%BE900%E9%BB%9E-%E8%B3%87%E9%87%91%E5%BF%AB%E9%80%9F%E8%BC%AA%E5%8B%95-032521070.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Oil drifts down after OPEC+ agrees to raise output targets
+    https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506
+  ▸ Asian shares slip as earnings loom, oil weighed by supply
+    https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508
+
+【政策補助】2 則  🟢高信心
+  ▸ 台鐵推大學生優惠車票 7月20日開賣、最低5折
+    https://money.udn.com/money/story/10871/9609622
+  ▸ 中研院院士會議登場 賴總統挺經費、陳建仁拚國家隊
+    https://money.udn.com/money/story/11162/9609468
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Nomura says fears of AI memory demand slowdown are overstate
+    https://www.investing.com/news/stock-market-news/nomura-says-fears-of-ai-memory-demand-slowdown-are-overstated-4775518
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ Russian attack on Kyiv kills seven, hits apartments, other b
+    https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-missile-attack-officials-say-4775500
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 〈焦點股〉慧洋-KY 6月獲利年增爆30倍 漲逾半根停板歡呼
+    https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E6%85%A7%E6%B4%8B-ky-6%E6%9C%88%E7%8D%B2%E5%88%A9%E5%B9%B4%E5%A2%9E%E7%88%8630%E5%80%8D-%E6%BC%B2%E9%80%BE%E5%8D%8A%E6%A0%B9%E5%81%9C%E6%9D%BF%E6%AD%A1%E5%91%BC-034158717.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 2. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 3. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -3.8  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -3.8  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -3.8  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2515.TW      -3.0  建材營造｜升息
+ 5. 5534.TW      -3.0  建材營造｜升息
+ 6. 2504.TW      -3.0  建材營造｜升息
+ 7. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 8. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
