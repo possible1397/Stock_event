@@ -1,85 +1,63 @@
 📊 事件驅動選股日報 2026-07-08
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 9 個事件
+掃描 122 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI產業熱潮續燒：** AI技術發展從軟體平台（GPT-5.6獲批）到硬體晶片（Zhipu AI研發）全面推進，相關新創企業（Momenta）加速IPO進程，顯示資金持續關注AI領域。
-2.  **地緣政治風險升溫：** 美國對伊朗的軍事行動與制裁重啟，導致中東局勢緊張，推升國際原油價格，並促使資金轉向黃金等避險資產。
-3.  **原油價格上漲：** 受中東衝突升級影響，國際油價持續走高，可能引發通膨擔憂，並促使美國司法部關注汽油價格異常波動。
-4.  **記憶體市場表現分歧：** 記憶體價格上漲趨勢確立，為產業帶來利多，但主要晶片製造商股價表現出現分歧，顯示市場對短期波動仍有觀望。
-5.  **政策性支持多元：** 各國政府推出多項政策補助與發展計畫，從區域產業升級、青年購屋到關鍵礦物生產，旨在引導投資方向並穩定特定領域。
-
-【具體總結】：
-今日盤勢受多重因素牽引，呈現複雜格局。AI題材仍是市場主軸，吸引資金持續湧入相關軟硬體與新創領域。然而，中東地緣政治風險顯著升高，帶動國際油價上揚，引發通膨隱憂，並促使部分資金流向避險資產。記憶體產業雖有漲價利多支撐，但晶片股表現仍存波動。同時，多國政府政策性支持，試圖引導資金流向特定產業，或穩定民生需求，為市場提供結構性支撐。整體而言，市場在科技成長動能與地緣政治風險間拉鋸。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】15 則  🟢高信心
-  ▸ OpenAI gets US approval for broad GPT-5.6 rollout, Axios rep
-    https://www.investing.com/news/stock-market-news/openai-gets-us-approval-for-broad-gpt56-rollout-axios-reports-4780650
-  ▸ Zhipu AI jumps on report it is exploring custom AI chip for 
-    https://www.investing.com/news/stock-market-news/zhipu-ai-jumps-on-report-it-is-exploring-custom-ai-chip-for-glm-models-4780649
-  ▸ Momenta港股IPO籌58.9億港元，7月8日掛牌，科技上市潮升溫
-    https://tw.stock.yahoo.com/news/momenta%E6%B8%AF%E8%82%A1ipo%E7%B1%8C58-9%E5%84%84%E6%B8%AF%E5%85%83-7%E6%9C%888%E6%97%A5%E6%8E%9B%E7%89%8C-%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%BD%AE%E5%8D%87%E6%BA%AB-034102749.html
+【AI熱潮】13 則  🟢高信心
+  ▸ Samsung boots up mass production of advanced storage for Nvi
+    https://seekingalpha.com/news/4612130-samsung-boots-up-mass-production-of-advanced-storage-for-nvidias-vera-rubin-ai-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ OpenAI set to launch GPT-5.6 Sol, Terra, and Luna globally t
+    https://seekingalpha.com/news/4612126-openai-set-to-launch-gpt-56-sol-terra-and-luna-globally-this-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Penguin Solutions signals ~30% FY2027 net sales and EPS grow
+    https://seekingalpha.com/news/4612124-penguin-solutions-signals-30-percent-fy2027-net-sales-and-eps-growth-as-it-raises-fy2026-eps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【戰爭升溫】10 則  🟢高信心
-  ▸ US launches new strikes on Iran after reinstating oil sancti
-    https://www.investing.com/news/commodities-news/ship-hit-in-hormuz-as-millions-march-for-ayatollah-iran-says-no-talks-unless-trump-halts-threats-4778531
-  ▸ Oil climbs, bonds slide on Mideast hostilities
-    https://www.investing.com/news/economy-news/oil-jumps-and-bonds-dip-as-us-strikes-iran-4780549
-  ▸ Gold prices steady with Iran risks, Fed minutes in focus
-    https://www.investing.com/news/commodities-news/gold-prices-steady-with-iran-risks-fed-minutes-in-focus-4780645
+【戰爭升溫】4 則  🟢高信心
+  ▸ U.S. completes strikes on multiple Iranian targets after Hor
+    https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html
+  ▸ China's rare missile test will push wary Asia-Pacific countr
+    https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html
+  ▸ Iran targets sites in Bahrain, Kuwait after wave of US strik
+    https://www.investing.com/news/commodities-news/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes-4780656
 
-【油價上升】7 則  🟢高信心
-  ▸ US launches new strikes on Iran after reinstating oil sancti
-    https://www.investing.com/news/commodities-news/ship-hit-in-hormuz-as-millions-march-for-ayatollah-iran-says-no-talks-unless-trump-halts-threats-4778531
-  ▸ Oil climbs, bonds slide on Mideast hostilities
-    https://www.investing.com/news/economy-news/oil-jumps-and-bonds-dip-as-us-strikes-iran-4780549
-  ▸ 美國司法部促各州查汽油哄抬價 稱油價波動非勾結藉口
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E4%BF%83%E5%90%84%E5%B7%9E%E6%9F%A5%E6%B1%BD%E6%B2%B9%E5%93%84%E6%8A%AC%E5%83%B9-%E7%A8%B1%E6%B2%B9%E5%83%B9%E6%B3%A2%E5%8B%95%E9%9D%9E%E5%8B%BE%E7%B5%90%E8%97%89%E5%8F%A3-034551017.html
+【記憶體漲價】2 則  🟢高信心
+  ▸ Samsung boots up mass production of advanced storage for Nvi
+    https://seekingalpha.com/news/4612130-samsung-boots-up-mass-production-of-advanced-storage-for-nvidias-vera-rubin-ai-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ The case for S&P 500 8,000 and sticking with Micron, tech, a
+    https://www.cnbc.com/2026/07/07/the-case-for-sp-500-8000-and-sticking-with-micron-per-trivariate.html
 
-【政策補助】5 則  🟢高信心
-  ▸ 2026亞資高峰論壇》高雄亞灣專區成果超預期 羅達生：打造留財引資示範基地
-    https://tw.stock.yahoo.com/news/2026%E4%BA%9E%E8%B3%87%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%AB%98%E9%9B%84%E4%BA%9E%E7%81%A3%E5%B0%88%E5%8D%80%E6%88%90%E6%9E%9C%E8%B6%85%E9%A0%90%E6%9C%9F-%E7%BE%85%E9%81%94%E7%94%9F-%E6%89%93%E9%80%A0%E7%95%99%E8%B2%A1%E5%BC%95%E8%B3%87%E7%A4%BA%E7%AF%84%E5%9F%BA%E5%9C%B0-031900364.html
-  ▸ 新青安2.0兩周內拍板！財長莊翠雲鬆口：收入年齡會設限、婚育家庭差異化設計納考量
-    https://tw.stock.yahoo.com/news/%E6%96%B0%E9%9D%92%E5%AE%8920%E5%85%A9%E5%91%A8%E5%85%A7%E6%8B%8D%E6%9D%BF%EF%BC%81%E8%B2%A1%E9%95%B7%E8%8E%8A%E7%BF%A0%E9%9B%B2%E9%AC%86%E5%8F%A3%EF%BC%9A%E6%94%B6%E5%85%A5%E5%B9%B4%E9%BD%A1%E6%9C%83%E8%A8%AD%E9%99%90%E3%80%81%E5%A9%9A%E8%82%B2%E5%AE%B6%E5%BA%AD%E5%B7%AE%E7%95%B0%E5%8C%96%E8%A8%AD%E8%A8%88%E7%B4%8D%E8%80%83%E9%87%8F-030449770.html
-  ▸ Peabody Energy wins DoE grant to boost rare earth production
-    https://seekingalpha.com/news/4612119-peabody-energy-wins-doe-grant-to-boost-rare-earth-production-at-wyoming-coal-mines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【油價上升】1 則  🟡單篇
+  ▸ Asian stocks mixed as chip selloff weighs; HK tech rallies a
+    https://seekingalpha.com/news/4612128-asian-stocks-mixed-as-chip-selloff-weighs-hk-tech-rallies-and-oil-jumps-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【記憶體漲價】3 則  🟢高信心
-  ▸ 三星狂賺股價反跳水 台積電下週恐步後塵
-    https://tw.news.yahoo.com/%E4%B8%89%E6%98%9F%E7%8B%82%E8%B3%BA%E8%82%A1%E5%83%B9%E5%8F%8D%E8%B7%B3%E6%B0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E9%80%B1%E6%81%90%E6%AD%A5%E5%BE%8C%E5%A1%B5-034021447.html
-  ▸ 低接買盤進場，韓國晶片股急彈，三星、SK海力士一度各漲逾3%及7%
-    https://tw.stock.yahoo.com/news/%E4%BD%8E%E6%8E%A5%E8%B2%B7%E7%9B%A4%E9%80%B2%E5%A0%B4-%E9%9F%93%E5%9C%8B%E6%99%B6%E7%89%87%E8%82%A1%E6%80%A5%E5%BD%88-%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB-%E5%BA%A6%E5%90%84%E6%BC%B2%E9%80%BE3-032254021.html
-  ▸ 台股Q3轉「震盪市」，10檔百億台股ETF買氣強，聚焦IC設計＋記憶體
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1q3%E8%BD%89-%E9%9C%87%E7%9B%AA%E5%B8%82-10%E6%AA%94%E7%99%BE%E5%84%84%E5%8F%B0%E8%82%A1etf%E8%B2%B7%E6%B0%A3%E5%BC%B7-%E8%81%9A%E7%84%A6ic%E8%A8%AD%E8%A8%88-%E8%A8%98%E6%86%B6%E9%AB%94-031247490.html
-
-【景氣轉弱】2 則  🟢高信心
-  ▸ Traders on Kalshi think the Nasdaq-100 will end 2026 above 3
-    https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html
-  ▸ Chip stocks sell off after Samsung earnings fall short of hi
-    https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html
+【景氣轉弱】1 則  🟡單篇
+  ▸ South Korea’s KOSPI set to enter bear market as Samsung rout
+    https://www.investing.com/news/stock-market-news/south-koreas-kospi-set-to-enter-bear-market-as-samsung-rout-deepens-4780663
 
 【升息】1 則  🟡單篇
-  ▸ Gold prices steady with Iran risks, Fed minutes in focus
-    https://www.investing.com/news/commodities-news/gold-prices-steady-with-iran-risks-fed-minutes-in-focus-4780645
+  ▸ Asia FX: Yen hovers near 40-year low, kiwi jumps after RBNZ 
+    https://www.investing.com/news/forex-news/asia-fx-yen-hovers-near-40year-low-kiwi-jumps-after-rbnz-hike-4780661
 
-【通膨上升】1 則  🟡單篇
-  ▸ 巴威逼近！量販、超市、超商全面備戰 蔬果備貨最高增2.4倍
-    https://money.udn.com/money/story/10871/9614196
+【美元升值】1 則  🟡單篇
+  ▸ Asia FX: Yen hovers near 40-year low, kiwi jumps after RBNZ 
+    https://www.investing.com/news/forex-news/asia-fx-yen-hovers-near-40year-low-kiwi-jumps-after-rbnz-hike-4780661
 
 【關稅/貿易戰】1 則  🟡單篇
-  ▸ Chinese lidar maker with Nvidia ties accused of being cyber 
-    https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html
+  ▸ China chip stocks rally on report Apple seeks domestic memor
+    https://www.investing.com/news/stock-market-news/china-chip-stocks-rally-on-report-apple-seeks-domestic-memory-supplier-4780659
+
+【政策補助】1 則  🟡單篇
+  ▸ 勞動部陪伴青年創業者 打造品牌新商機
+    https://money.udn.com/money/story/11162/9614604
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 1. 6505.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
  3. 2880.TW      +3.4  金融｜戰爭升溫、升息
  4. 2881.TW      +3.4  金融｜戰爭升溫、升息
  5. 2882.TW      +3.4  金融｜戰爭升溫、升息
@@ -91,16 +69,15 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -4.1  電子零組件｜記憶體漲價、景氣轉弱
- 6. 2327.TW      -4.1  電子零組件｜記憶體漲價、景氣轉弱
- 7. 3037.TW      -4.1  電子零組件｜記憶體漲價、景氣轉弱
- 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2515.TW      -2.1  建材營造｜升息
+ 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -2.1  建材營造｜升息
+ 8. 5534.TW      -2.1  建材營造｜升息
+ 9. 2504.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
