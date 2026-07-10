@@ -1,111 +1,76 @@
 📊 事件驅動選股日報 2026-07-10
 ════════════════════════════════
-掃描 134 則新聞  |  偵測 10 個事件
+掃描 133 則新聞  |  偵測 6 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI熱潮持續延燒，但評價趨於謹慎：** AI技術應用廣泛，從企業效率提升到特定硬體需求（如AI晶片）皆見其影響，但其經濟效益實現速度與幅度引發市場關注。
-2.  **全球景氣轉弱擔憂升溫：** 市場對全球景氣轉弱與潛在衰退風險的擔憂浮現，部分觀點更將AI報酬不如預期視為潛在觸發因子，並與歷史性金融事件進行比較。
-3.  **通膨壓力持續，利率政策受關注：** 多國通膨壓力持續存在，房價及生活成本攀升。同時，日本央行升息預期及全球未來利率走向，持續影響匯率與固定收益市場。
-4.  **各國政府政策引導資金：** 各國政府透過政策措施引導國內投資、推動能源自主及實施稅務減免，以應對經濟挑戰或支持特定產業發展。
-
-【具體總結】：
-今日盤勢在AI熱潮持續延燒的同時，亦面臨對其經濟效益實現速度與廣度的審慎評估。市場對全球景氣轉弱、潛在衰退及通膨壓力升溫的擔憂浮現，尤其在房價與生活成本攀升之際。各國央行利率政策（如日本升息預期）及政府的各項補助與引導性政策，將持續牽動資金流向與產業板塊輪動。投資者需留意科技創新、宏觀經濟數據與政策走向的多重影響。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
+【AI熱潮】8 則  🟢高信心
+  ▸ Asian equities gain as AI tech optimism overshadows renewed 
+    https://seekingalpha.com/news/4612796-asian-equities-gain-as-ai-tech-optimism-overshadows-renewed-iran-tensions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ OpenAI, Google sold AI model access to China-linked blacklis
+    https://seekingalpha.com/news/4612802-openai-google-sold-ai-model-access-to-china-linked-blacklisted-group---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ A junior employee saved this company six figures using AI. H
     https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories
-  ▸ Meta’s stock rebounds as agentic AI coding and custom chips 
-    https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories
-  ▸ A slower AI payoff risks tipping the economy into recession,
-    https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories
 
-【景氣轉弱】6 則  🟢高信心
+【景氣轉弱】4 則  🟢高信心
   ▸ The dot-com crash was a $5 trillion blip. Why the next finan
     https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories
   ▸ A slower AI payoff risks tipping the economy into recession,
     https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories
-  ▸ AI報酬若不如預期 恐將經濟推向衰退？
-    https://tw.stock.yahoo.com/news/ai%E5%A0%B1%E9%85%AC%E8%8B%A5%E4%B8%8D%E5%A6%82%E9%A0%90%E6%9C%9F-%E6%81%90%E5%B0%87%E7%B6%93%E6%BF%9F%E6%8E%A8%E5%90%91%E8%A1%B0%E9%80%80-033012011.html
+  ▸ Why the world’s best-performing stock market this year fell 
+    https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html
 
-【升息】3 則  🟢高信心
-  ▸ Best CD rates today, Thursday, July 9, 2026: Lock in up to 4
-    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-9-2026-lock-in-up-to-410-apy-100000260.html
-  ▸ 日銀可能升息？日圓兌美元止跌回升
-    https://money.udn.com/money/story/10871/9619521
+【戰爭升溫】3 則  🟢高信心
+  ▸ Kitron reports 72% revenue jump on defense sector demand
+    https://www.investing.com/news/stock-market-news/kitron-reports-72-revenue-jump-on-defense-sector-demand-93CH-4785327
+  ▸ U.S. to continue 'technical talks' with Iran after Trump sai
+    https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html
+  ▸ India ramps up missile sales in Indo-Pacific as China’s asse
+    https://www.cnbc.com/2026/07/10/india-missiles-brahmos-indonesia-china.html
+
+【升息】2 則  🟢高信心
+  ▸ Fed minutes expose deep divide over interest-rate outlook
+    https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html
   ▸ Kalshi traders see roughly 50% odds of a rate hike in 2026 a
     https://www.cnbc.com/2026/07/09/kalshi-traders-see-roughly-50percent-odds-of-a-rate-hike-in-2026-as-fed-is-split-on-policy.html
 
-【政策補助】3 則  🟢高信心
-  ▸ Japan encourages GPIF to boost domestic investment
-    https://www.investing.com/news/economy-news/japan-encourages-gpif-to-boost-domestic-investment-4785277
-  ▸ 印尼啟動B50生質柴油　拚能源自主減柴油進口
-    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E5%95%9F%E5%8B%95b50%E7%94%9F%E8%B3%AA%E6%9F%B4%E6%B2%B9-%E6%8B%9A%E8%83%BD%E6%BA%90%E8%87%AA%E4%B8%BB%E6%B8%9B%E6%9F%B4%E6%B2%B9%E9%80%B2%E5%8F%A3-041643001.html
-  ▸ 巴威颱風來襲！「9大稅目」減稅總表、申請規定一次看
-    https://tw.stock.yahoo.com/news/%E5%B7%B4%E5%A8%81%E9%A2%B1%E9%A2%A8%E4%BE%86%E8%A5%B2%EF%BC%81%E3%80%8C9%E5%A4%A7%E7%A8%85%E7%9B%AE%E3%80%8D%E6%B8%9B%E7%A8%85%E7%B8%BD%E8%A1%A8%E3%80%81%E7%94%B3%E8%AB%8B%E8%A6%8F%E5%AE%9A%E4%B8%80%E6%AC%A1%E7%9C%8B-033750203.html
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ U.S. aircraft import probe: Security concerns raised, but Tr
+    https://seekingalpha.com/news/4612805-us-aircraft-import-probe-security-concerns-raised-but-trump-administration-avoids-new-tariffs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【通膨上升】3 則  🟢高信心
-  ▸ 曼谷生活成本大反轉！西裝鞋子貴到全球第一
-    https://tw.news.yahoo.com/%E6%9B%BC%E8%B0%B7%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E5%A4%A7%E5%8F%8D%E8%BD%89-%E8%A5%BF%E8%A3%9D%E9%9E%8B%E5%AD%90%E8%B2%B4%E5%88%B0%E5%85%A8%E7%90%83%E7%AC%AC-034508193.html
-  ▸ June home sales disappoint as prices reach an all-time high
-    https://www.cnbc.com/2026/07/09/june-home-sales-prices.html
-  ▸ Palo Alto CEO Arora says AI pricing needs to fall 90% as tok
-    https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html
-
-【美元貶值】2 則  🟢高信心
-  ▸ Japanese yen surges on pension investment plan, dollar loses
-    https://www.investing.com/news/forex-news/japanese-yen-surges-on-pension-investment-plan-dollar-loses-ground-4785287
+【政策補助】1 則  🟡單篇
   ▸ Japan signals pension push into domestic assets, sparking ra
     https://www.investing.com/news/economy-news/japan-will-not-convey-in-advance-preference-on-boj-policy-minister-says-4785240
 
-【戰爭升溫】2 則  🟢高信心
-  ▸ U.S. to continue 'technical talks' with Iran after Trump sai
-    https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html
-  ▸ Kalshi traders think gas prices will stay higher for longer 
-    https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 歐盟對中國客車輕型貨車輪胎  徵最高45.3%反傾銷稅
-    https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%AE%A2%E8%BB%8A%E8%BC%95%E5%9E%8B%E8%B2%A8%E8%BB%8A%E8%BC%AA%E8%83%8E-%E5%BE%B5%E6%9C%80%E9%AB%9845-3-%E5%8F%8D%E5%82%BE%E9%8A%B7%E7%A8%85-041639974.html
-
-【航運運價上升】1 則  🟡單篇
-  ▸ 寫3大新高！華航上半年營收破1200億元大關 AI助攻空運年增五成
-    https://tw.stock.yahoo.com/news/%E5%AF%AB3%E5%A4%A7%E6%96%B0%E9%AB%98%EF%BC%81%E8%8F%AF%E8%88%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E7%A0%B41200%E5%84%84%E5%85%83%E5%A4%A7%E9%97%9C-ai%E5%8A%A9%E6%94%BB%E7%A9%BA%E9%81%8B%E5%B9%B4%E5%A2%9E%E4%BA%94%E6%88%90-033348089.html
-
-【油價上升】1 則  🟡單篇
-  ▸ Kalshi traders think gas prices will stay higher for longer 
-    https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html
-
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
- 2. 8917.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 8. 2002.TW      +3.4  鋼鐵｜通膨上升、美元貶值
- 9. 2006.TW      +3.4  鋼鐵｜通膨上升、美元貶值
-10. 2007.TW      +3.4  鋼鐵｜通膨上升、美元貶值
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2330.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 2. 2454.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 3. 2303.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 4. 2344.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 5. 3711.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 6. 2317.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
- 7. 2327.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
- 8. 3037.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
- 9. 2515.TW      -3.0  建材營造｜升息
-10. 5534.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫
+ 2. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫
+ 3. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫
+ 4. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -3.0  建材營造｜升息
+ 8. 5534.TW      -3.0  建材營造｜升息
+ 9. 2504.TW      -3.0  建材營造｜升息
+10. 2330.TW      -2.7  半導體｜AI熱潮、景氣轉弱
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
