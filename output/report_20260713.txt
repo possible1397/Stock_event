@@ -1,29 +1,29 @@
 📊 事件驅動選股日報 2026-07-13
 ════════════════════════════════
-掃描 117 則新聞  |  偵測 10 個事件
+掃描 116 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-1.  【重點提要】
-    *   **AI熱潮持續：** AI相關企業仍是推動股市上漲的主力，同時引發對就業市場的潛在衝擊與產業發展影響。
-    *   **中東地緣政治升溫：** 伊朗與美國間的衝突加劇，導致原油價格跳漲，並對全球股市期貨構成壓力。
-    *   **景氣轉弱跡象浮現：** 美國科技業裁員與中國房地產企業債務危機顯示部分經濟領域面臨下行風險。
-    *   **油價與美元雙雙走強：** 受地緣政治與避險需求推動，國際油價與美元同步上揚，可能進一步推升通膨壓力並影響其他資產。
+【重點提要】
+1.  **AI熱潮續燃，但焦點擴散**：AI相關技術與應用持續推動市場情緒，尤其台積電等先進封裝供應鏈擴大投資，預示產業前景仍強勁。
+2.  **地緣政治升溫，油價上漲**：中東地區衝突加劇，伊朗相關消息導致國際油價顯著跳漲，引發市場對供應鏈與通膨的擔憂。
+3.  **通膨壓力持續**：全球多地通膨數據及預期顯示物價上漲壓力未減，消費者生活成本增加，可能影響實質消費力。
+4.  **亞洲股市顯著修正，景氣擔憂浮現**：韓國KOSPI指數暴跌觸發熔斷，科技股如海力士重挫，配合高盛警告科技股風險，顯示市場對部分資產估值及未來景氣轉弱的擔憂升高。
 
-2.  【具體總結】
-    今日盤勢呈現多空交錯格局。一方面，AI概念股持續為市場提供主要動能，驅動部分科技板塊上漲。另一方面，中東地緣政治緊張升級，推升國際油價，連同美元走強與殖利率攀升，加劇市場對通膨壓力及資金避險的擔憂，導致美股期貨承壓。此外，科技業裁員與中國房市的債務問題，亦顯示全球經濟面臨部分逆風，資金可能在成長性與避險資產間流動，整體市場保持謹慎。
+【具體總結】
+當前市場呈現多空交錯格局。雖然AI產業熱潮持續為科技股提供支撐，並帶動相關供應鏈投資動能，但中東地緣政治衝突升溫導致油價上漲，加劇了全球通膨壓力。此外，部分亞洲股市經歷顯著修正，特別是科技板塊，加上對景氣放緩的擔憂，可能促使資金流向避險資產或具防禦性的板塊，整體市場波動性預期將會加劇。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】15 則  🟢高信心
+【AI熱潮】9 則  🟢高信心
   ▸ The stock-market rally now hinges more on AI than oil
     https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories
+  ▸ TSMC to add three advanced packaging plants in Taiwan's Chia
+    https://seekingalpha.com/news/4613083-tsmc-to-add-three-advanced-packaging-plants-in-taiwans-chiayi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Mark Cuban has strong words on AI companies and job losses
     https://finance.yahoo.com/technology/ai/articles/mark-cuban-strong-words-ai-140700495.html
-  ▸ Brookfield nears Hudson Square deal as AI firms fuel Manhatt
-    https://seekingalpha.com/news/4613078-brookfield-nears-hudson-square-deal-as-ai-firms-fuel-manhattan-office-revival-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
 【戰爭升溫】7 則  🟢高信心
   ▸ Oil prices jump over 3% after Iran declares Strait of Hormuz
@@ -33,81 +33,70 @@
   ▸ Iran expands attacks on Gulf states after US strikes, says S
     https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310
 
-【景氣轉弱】5 則  🟢高信心
-  ▸ Majority of U.S. workers support an AI wealth fund as tech l
-    https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html
-  ▸ Burnout, frustration and heartbreak: Amazon layoffs take the
-    https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html
-  ▸ 債務壓力未解，萬科上半年虧損恐擴大至150億元人民幣
-    https://tw.stock.yahoo.com/news/%E5%82%B5%E5%8B%99%E5%A3%93%E5%8A%9B%E6%9C%AA%E8%A7%A3-%E8%90%AC%E7%A7%91%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%99%A7%E6%90%8D%E6%81%90%E6%93%B4%E5%A4%A7%E8%87%B3150%E5%84%84%E5%85%83%E4%BA%BA%E6%B0%91%E5%B9%A3-032439231.html
-
-【油價上升】3 則  🟢高信心
+【油價上升】4 則  🟢高信心
   ▸ Oil prices jump over 3% after Iran declares Strait of Hormuz
     https://www.investing.com/news/commodities-news/oil-prices-jump-over-3-after-iran-declares-strait-of-hormuz-closed-4787390
+  ▸ Iran expands attacks on Gulf states after US strikes, says S
+    https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310
   ▸ Oil prices rise, stock futures dip after latest flare-up of 
     https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories
-  ▸ 油價飆、美元強、殖利率攀升，金價下檔風險升高
-    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86-%E7%BE%8E%E5%85%83%E5%BC%B7-%E6%AE%96%E5%88%A9%E7%8E%87%E6%94%80%E5%8D%87-%E9%87%91%E5%83%B9%E4%B8%8B%E6%AA%94%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-031420016.html
 
-【美元升值】3 則  🟢高信心
-  ▸ Strong dollar, weak bond market: Investors favor greenback a
-    https://seekingalpha.com/news/4613075-strong-dollar-weak-bond-market-investors-favor-greenback-as-fed-tightening-bets-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ 油價飆、美元強、殖利率攀升，金價下檔風險升高
-    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86-%E7%BE%8E%E5%85%83%E5%BC%B7-%E6%AE%96%E5%88%A9%E7%8E%87%E6%94%80%E5%8D%87-%E9%87%91%E5%83%B9%E4%B8%8B%E6%AA%94%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-031420016.html
-  ▸ 美元狂飆2大貨幣慘崩！美債淪「資金棄嬰」爆出大危機
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E7%8B%82%E9%A3%862%E5%A4%A7%E8%B2%A8%E5%B9%A3%E6%85%98%E5%B4%A9-%E7%BE%8E%E5%82%B5%E6%B7%AA-%E8%B3%87%E9%87%91%E6%A3%84%E5%AC%B0-%E7%88%86%E5%87%BA%E5%A4%A7%E5%8D%B1%E6%A9%9F-030701238.html
-
-【通膨上升】2 則  🟢高信心
+【通膨上升】3 則  🟢高信心
   ▸ BOJ may raise growth forecast, maintain vigilance to inflati
     https://www.investing.com/news/economy-news/boj-may-raise-growth-forecast-maintain-vigilance-to-inflation-risk-sources-say-4787383
   ▸ 'Funflation' hits home: Why staying in isn't the cost-saver 
     https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html
+  ▸ 中研院上修今年 CPI 至1.95% 逾六成民眾憂生活成本大增
+    https://money.udn.com/money/story/10871/9624401
 
-【升息】2 則  🟢高信心
-  ▸ Best CD rates today, Sunday, July 12, 2026: Lock in up to 4.
-    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-12-2026-lock-in-up-to-410-apy-100000577.html
-  ▸ Strong dollar, weak bond market: Investors favor greenback a
-    https://seekingalpha.com/news/4613075-strong-dollar-weak-bond-market-investors-favor-greenback-as-fed-tightening-bets-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【景氣轉弱】3 則  🟢高信心
+  ▸ Burnout, frustration and heartbreak: Amazon layoffs take the
+    https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html
+  ▸ KOSPI午後暴跌8%、觸發全面熔斷停市20分鐘，海力士急瀉逾12%成殺盤核心
+    https://tw.stock.yahoo.com/news/kospi%E5%8D%88%E5%BE%8C%E6%9A%B4%E8%B7%8C8-%E8%A7%B8%E7%99%BC%E5%85%A8%E9%9D%A2%E7%86%94%E6%96%B7%E5%81%9C%E5%B8%8220%E5%88%86%E9%90%98-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%80%A5%E7%80%89%E9%80%BE12-%E6%88%90%E6%AE%BA%E7%9B%A4%E6%A0%B8%E5%BF%83-044826699.html
+  ▸ 債市正向美股發出警報！高盛警告：市場風險遭低估、科技股恐迎修正
+    https://tw.stock.yahoo.com/news/%E5%82%B5%E5%B8%82%E6%AD%A3%E5%90%91%E7%BE%8E%E8%82%A1%E7%99%BC%E5%87%BA%E8%AD%A6%E5%A0%B1-%E9%AB%98%E7%9B%9B%E8%AD%A6%E5%91%8A-%E5%B8%82%E5%A0%B4%E9%A2%A8%E9%9A%AA%E9%81%AD%E4%BD%8E%E4%BC%B0-%E7%A7%91%E6%8A%80%E8%82%A1%E6%81%90%E8%BF%8E%E4%BF%AE%E6%AD%A3-040622723.html
 
-【記憶體漲價】2 則  🟢高信心
-  ▸ AI ASIC 與記憶體需求驅動 第2季台灣 IC 設計業營收估年增11.8%
-    https://money.udn.com/money/story/5612/9624123
-  ▸ 記憶體價格翻倍衝擊組裝電腦市場 雲端遊戲成玩家新選擇
-    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E7%BF%BB%E5%80%8D%E8%A1%9D%E6%93%8A%E7%B5%84%E8%A3%9D%E9%9B%BB%E8%85%A6%E5%B8%82%E5%A0%B4-%E9%9B%B2%E7%AB%AF%E9%81%8A%E6%88%B2%E6%88%90%E7%8E%A9%E5%AE%B6%E6%96%B0%E9%81%B8%E6%93%87-034423596.html
+【降息】1 則  🟡單篇
+  ▸ Mortgage and refinance interest rates today, Sunday, July 12
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-12-2026-mostly-down-from-last-week-100000227.html
+
+【政策補助】1 則  🟡單篇
+  ▸ Student loan borrowers on new RAP plan can lose key benefits
+    https://www.cnbc.com/2026/07/12/student-loans-rap-late-payment.html
 
 【關稅/貿易戰】1 則  🟡單篇
-  ▸ EU ministers to debate curbing trade with Israeli settlement
-    https://www.investing.com/news/world-news/eu-ministers-to-debate-curbing-trade-with-israeli-settlements-4787388
+  ▸ 大陸科技變強了！金融巨鱷籲美國面對「現實」 缺少台灣晶片下場慘
+    https://tw.stock.yahoo.com/news/%E5%A4%A7%E9%99%B8%E7%A7%91%E6%8A%80%E8%AE%8A%E5%BC%B7%E4%BA%86-%E9%87%91%E8%9E%8D%E5%B7%A8%E9%B1%B7%E7%B1%B2%E7%BE%8E%E5%9C%8B%E9%9D%A2%E5%B0%8D-%E7%8F%BE%E5%AF%A6-%E7%BC%BA%E5%B0%91%E5%8F%B0%E7%81%A3%E6%99%B6%E7%89%87%E4%B8%8B%E5%A0%B4%E6%85%98-044712777.html
 
-【航運運價上升】1 則  🟡單篇
-  ▸ SCFI 結束連10漲 法人：留意第3季旺季修正風險
-    https://money.udn.com/money/story/5612/9623830
+【記憶體漲價】1 則  🟡單篇
+  ▸ 現貨價還要噴？ 3大外資喊買南亞科 目標最高看到650
+    https://tw.stock.yahoo.com/news/%E7%8F%BE%E8%B2%A8%E5%83%B9%E9%82%84%E8%A6%81%E5%99%B4-3%E5%A4%A7%E5%A4%96%E8%B3%87%E5%96%8A%E8%B2%B7%E5%8D%97%E4%BA%9E%E7%A7%91-%E7%9B%AE%E6%A8%99%E6%9C%80%E9%AB%98%E7%9C%8B%E5%88%B0650-044200214.html
 
 ▲ 買進信號
 ────────────────────────────────
  1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
  2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2344.TW      +3.9  半導體/記憶體｜AI熱潮、景氣轉弱
+ 4. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 9. 2330.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+10. 2454.TW      +2.1  半導體｜AI熱潮、景氣轉弱
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -5.5  電子零組件｜景氣轉弱、通膨上升
- 2. 2327.TW      -5.5  電子零組件｜景氣轉弱、通膨上升
- 3. 3037.TW      -5.5  電子零組件｜景氣轉弱、通膨上升
- 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2515.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
