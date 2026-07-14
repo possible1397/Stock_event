@@ -1,0 +1,117 @@
+📊 事件驅動選股日報 2026-07-14
+════════════════════════════════
+掃描 128 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  AI熱潮持續推動相關產業發展，並帶動部分國家貿易數據及晶圓代工龍頭展望，科技類股表現相對強勁。
+2.  全球景氣面臨下行壓力，智慧型手機出貨量減少，多國股市面臨較大修正，尤其傳產、電子、金融產業普遍承壓。
+3.  中東地緣政治風險急遽升高，導致國際原油價格大幅上漲逾9%，引發通膨擔憂。
+4.  主要央行持續關注通膨，市場對聯準會7月升息預期升高，部分國家央行已重啟升息循環。
+
+【具體總結】：
+今日市場呈現多空交雜格局。AI產業的強勁表現為科技股注入動能，但全球經濟放緩、智慧型手機出貨下降，以及多國股市顯著回檔，顯示整體景氣面臨挑戰。此外，中東地緣政治緊張推升原油價格，加劇通膨隱憂，進而強化了主要央行可能繼續升息的預期。資金在AI題材與避險需求間擺盪，整體盤勢恐持續震盪，投資人對總體經濟數據及地緣政治發展將保持高度關注。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】26 則  🟢高信心
+  ▸ Softbank Corp partners with AI firm Sierra for agentic custo
+    https://www.investing.com/news/stock-market-news/softbank-corp-partners-with-ai-firm-sierra-for-agentic-customer-support-4789675
+  ▸ China’s June trade tops forecasts buoyed by AI boom
+    https://www.investing.com/news/economy-news/chinas-june-trade-tops-forecasts-buoyed-by-ai-boom-4789667
+  ▸ TSMC seen riding AI boom to fifth straight quarter of record
+    https://www.investing.com/news/stock-market-news/tsmc-seen-riding-ai-boom-to-fifth-straight-quarter-of-record-profit-4789672
+
+【景氣轉弱】15 則  🟢高信心
+  ▸ Analysis-Inside South Korea’s world-beating bear market
+    https://www.investing.com/news/stock-market-news/analysisinside-south-koreas-worldbeating-bear-market-4789669
+  ▸ 市調機構：記憶體供應趨緊 第2季全球智慧型手機出貨量年減11%
+    https://money.udn.com/money/story/5612/9626452
+  ▸ 電金傳產齊跌　台股盤中挫跌1500點摜破44000點
+    https://money.udn.com/money/story/11162/9626321
+
+【戰爭升溫】8 則  🟢高信心
+  ▸ Crude oil soars more than 9% as Trump reimposes Hormuz block
+    https://seekingalpha.com/news/4613406-crude-oil-soars-more-than-9-as-trump-reimposes-hormuz-blockade-resumes-military-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ The U.S. is maxing out its strategic oil reserves as Trump v
+    https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories
+  ▸ 美國經濟展現韌性及中東情勢添變數 投資級債維持強勁流入
+    https://money.udn.com/money/story/11162/9626003
+
+【油價上升】7 則  🟢高信心
+  ▸ Crude oil soars more than 9% as Trump reimposes Hormuz block
+    https://seekingalpha.com/news/4613406-crude-oil-soars-more-than-9-as-trump-reimposes-hormuz-blockade-resumes-military-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ The U.S. is maxing out its strategic oil reserves as Trump v
+    https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories
+  ▸ Oil gains over 2% as Mideast tensions and Hormuz toll prospe
+    https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html
+
+【升息】5 則  🟢高信心
+  ▸ Waller says Fed shouldn't 'fight the last war' on inflation 
+    https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html
+  ▸ A July rate hike from the Fed? The odds are rising
+    https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html
+  ▸ 韓國央行週四料逾三年首度升息，年底前政策利率上看3%
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E5%A4%AE%E8%A1%8C%E9%80%B1%E5%9B%9B%E6%96%99%E9%80%BE%E4%B8%89%E5%B9%B4%E9%A6%96%E5%BA%A6%E5%8D%87%E6%81%AF-%E5%B9%B4%E5%BA%95%E5%89%8D%E6%94%BF%E7%AD%96%E5%88%A9%E7%8E%87%E4%B8%8A%E7%9C%8B3-032400864.html
+
+【政策補助】4 則  🟢高信心
+  ▸ US government rescinds $10 billion freeze for 5 states gover
+    https://www.investing.com/news/politics-news/us-government-rescinds-10-billion-freeze-for-5-states-governed-by-democrats-4789671
+  ▸ Psychedelic drugmakers could get boost from HHS, VA memorand
+    https://seekingalpha.com/news/4613407-psychedelic-drugmakers-could-get-boost-hhs-va-memorandum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 餐飲業者留才攬才 勞動部發布指引助攻
+    https://money.udn.com/money/story/10871/9626457
+
+【通膨上升】3 則  🟢高信心
+  ▸ India's inflation accelerates to 4.38% in June, exceeding fo
+    https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html
+  ▸ 'Funflation' hits home: Why staying in isn't the cost-saver 
+    https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html
+  ▸ Waller says Fed shouldn't 'fight the last war' on inflation 
+    https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Nvidia halves Asia buyer list in China chip crackdown, FT re
+    https://www.investing.com/news/stock-market-news/nvidia-halves-asia-buyer-list-in-china-chip-crackdown-ft-reports-4789676
+  ▸ China exports in June jump at fastest pace since 2021 as AI 
+    https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ Hapag-Lloyd raises full-year earnings outlook but sees high 
+    https://seekingalpha.com/news/4613403-hapag-lloyd-raises-full-year-earnings-outlook-but-sees-high-degree-of-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 市調機構：記憶體供應趨緊 第2季全球智慧型手機出貨量年減11%
+    https://money.udn.com/money/story/5612/9626452
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2330.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
