@@ -1,114 +1,92 @@
 📊 事件驅動選股日報 2026-07-15
 ════════════════════════════════
-掃描 130 則新聞  |  偵測 11 個事件
+掃描 128 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】
-1.  AI產業持續保持強勁動能，相關企業營收預期樂觀，AI晶片新創亦受關注，顯示市場對AI技術的投資熱度不減。
-2.  全球通膨數據顯示物價漲幅趨緩，有助於緩解市場對貨幣緊縮的憂慮，對風險性資產形成潛在支撐。
-3.  然而，部分企業獲利預警及中國經濟成長放緩，為整體經濟前景帶來不確定性，需留意景氣轉弱的訊號。
-4.  美國與伊朗地緣政治緊張升溫，推升國際原油價格，能源成本面臨上漲壓力，恐對通膨產生新的推動作用。
-
-【具體總結】
-今日盤勢呈現多空交雜。AI領域的樂觀預期與產業動能，持續為科技板塊提供支撐。通膨數據的降溫，亦有助於緩解市場對未來利率政策的擔憂。然而，地緣政治緊張導致的油價上漲，加上中國經濟成長不如預期與部分企業的獲利預警，可能對整體市場情緒構成壓力。資金流向或將在成長型科技股與防禦性產業之間尋求平衡，並持續關注宏觀經濟數據與國際情勢變化。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】26 則  🟢高信心
-  ▸ Phoenix Education projects fiscal 2026 net revenue of $1.02B
-    https://seekingalpha.com/news/4613803-phoenix-education-projects-fiscal-2026-net-revenue-of-1_02b-1_025b-while-outlining-openai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Aehr projects $130M-$150M fiscal 2027 revenue as AI and sili
-    https://seekingalpha.com/news/4613802-aehr-projects-130m-150m-fiscal-2027-revenue-as-ai-and-silicon-photonics-demand-drives-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ AI chip startups FuriosaAI, Nuvacore, d-Matrix pursue major 
-    https://www.investing.com/news/stock-market-news/ai-chip-startups-furiosaai-nuvacore-dmatrix-pursue-major-funding-rounds-at-higher-valuations-the-information-93CH-4792130
+【AI熱潮】12 則  🟢高信心
+  ▸ The AI boom just found two new winners: Goldman Sachs and JP
+    https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html
+  ▸ Caution warranted on this red hot AI cloud data stock that's
+    https://www.cnbc.com/2026/07/14/red-hot-ai-cloud-data-stock-now-priced-for-perfection-says-todd-gordon.html
+  ▸ Jim Cramer says concerns about AI market froth are overblown
+    https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html
 
-【景氣轉弱】9 則  🟢高信心
+【戰爭升溫】9 則  🟢高信心
+  ▸ Brace for $4 gas again: How U.S.-Iran tensions are threateni
+    https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories
+  ▸ Oil prices rise as hostilities worsen in the Middle East
+    https://www.investing.com/news/commodities-news/oil-rises-after-usiran-hostilities-flare-again-with-strikes-on-energy-targets-4792080
+  ▸ Asia FX subdued as markets parse soft China GDP, M.East tens
+    https://www.investing.com/news/stock-market-news/asian-fx-mixed-as-yuan-outperforms-after-china-data-yen-steadies-near-40year-low-4792136
+
+【景氣轉弱】8 則  🟢高信心
   ▸ What IBM’s profit warning means: Hardware is ‘eating everyon
     https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories
-  ▸ China new home prices decline at slower pace in June
-    https://www.investing.com/news/economic-indicators/china-june-new-home-prices-fall-at-slower-pace-4792105
-  ▸ China’s second-quarter economic growth misses market forecas
-    https://www.investing.com/news/economy-news/chinas-secondquarter-economic-growth-misses-market-forecast-4792126
+  ▸ China’s Q2 GDP growth cools to 3-1/2-year low, structural im
+    https://www.investing.com/news/economy-news/chinas-q2-gdp-growth-slows-to-43-yy-misses-market-forecast-4792122
+  ▸ Asia FX subdued as markets parse soft China GDP, M.East tens
+    https://www.investing.com/news/stock-market-news/asian-fx-mixed-as-yuan-outperforms-after-china-data-yen-steadies-near-40year-low-4792136
 
-【戰爭升溫】5 則  🟢高信心
-  ▸ Silver prices today, Tuesday, July 14, 2026: Prices fall to 
-    https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-14-2026-prices-fall-to-dec-25-levels-as-iran-conflict-intensifies-121947723.html
-  ▸ Senate Democrats block defense bill over escalating Iran con
-    https://seekingalpha.com/news/4613795-senate-democrats-block-defense-bill-over-escalating-iran-conflict?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【油價上升】5 則  🟢高信心
   ▸ Brace for $4 gas again: How U.S.-Iran tensions are threateni
     https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories
-
-【通膨下降】5 則  🟢高信心
-  ▸ Consumer prices rose 3.5% annually in June, less than expect
-    https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html
-  ▸ Stock futures are flat after soft inflation reading lifts ma
-    https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html
-  ▸ Social Security cost-of-living adjustment estimate for 2027 
-    https://www.cnbc.com/2026/07/14/social-security-cola-in-2027-cooling-inflation-lowers-estimate.html
-
-【油價上升】3 則  🟢高信心
-  ▸ Brace for $4 gas again: How U.S.-Iran tensions are threateni
-    https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories
-  ▸ Oil rises as U.S. continues to strike Iran, reinstates naval
+  ▸ Oil prices rise as hostilities worsen in the Middle East
+    https://www.investing.com/news/commodities-news/oil-rises-after-usiran-hostilities-flare-again-with-strikes-on-energy-targets-4792080
+  ▸ Oil rises after another round of U.S. strikes against Iran, 
     https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html
-  ▸ Oil prices rise as U.S. launches new Iran airstrikes, while 
-    https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html
 
-【升息】2 則  🟢高信心
+【通膨上升】4 則  🟢高信心
+  ▸ Your monthly Netflix bill is up 29% in just over a year. Cri
+    https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories
   ▸ Warsh pledges Fed policy 'regime change' to rid inflation 't
     https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html
-  ▸ 鉅亨投資雷達》日本升息循環啟動，投資機會怎麼看？
-    https://tw.stock.yahoo.com/news/%E9%89%85%E4%BA%A8%E6%8A%95%E8%B3%87%E9%9B%B7%E9%81%94-%E6%97%A5%E6%9C%AC%E5%8D%87%E6%81%AF%E5%BE%AA%E7%92%B0%E5%95%9F%E5%8B%95-%E6%8A%95%E8%B3%87%E6%A9%9F%E6%9C%83%E6%80%8E%E9%BA%BC%E7%9C%8B-024107573.html
+  ▸ Consumer prices rose 3.5% annually in June, less than expect
+    https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html
 
 【記憶體漲價】2 則  🟢高信心
-  ▸ Barclays believes SK Hynix's U.S. shares can double. Here's 
-    https://www.cnbc.com/2026/07/14/barclays-believes-sk-hynixs-us-shares-can-double-heres-why.html
-  ▸ 擴產陷三大瓶頸！美銀：SK海力士2028年新增產能恐僅為原先規劃的六分之一
-    https://tw.stock.yahoo.com/news/%E6%93%B4%E7%94%A2%E9%99%B7%E4%B8%89%E5%A4%A7%E7%93%B6%E9%A0%B8-%E7%BE%8E%E9%8A%80-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB2028%E5%B9%B4%E6%96%B0%E5%A2%9E%E7%94%A2%E8%83%BD%E6%81%90%E5%83%85%E7%82%BA%E5%8E%9F%E5%85%88%E8%A6%8F%E5%8A%83%E7%9A%84%E5%85%AD%E5%88%86%E4%B9%8B-025005331.html
+  ▸ CoreWeave eyes derivatives to hedge memory chip price risks:
+    https://seekingalpha.com/news/4613809-coreweave-eyes-derivatives-to-hedge-memory-chip-price-risks-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 蔚來入股長鑫科技，認購IPO戰略配售，攜手打造中國車用DRAM供應鏈
+    https://tw.stock.yahoo.com/news/%E8%94%9A%E4%BE%86%E5%85%A5%E8%82%A1%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80-%E8%AA%8D%E8%B3%BCipo%E6%88%B0%E7%95%A5%E9%85%8D%E5%94%AE-%E6%94%9C%E6%89%8B%E6%89%93%E9%80%A0%E4%B8%AD%E5%9C%8B%E8%BB%8A%E7%94%A8dram%E4%BE%9B%E6%87%89%E9%8F%88-041204147.html
 
-【政策補助】1 則  🟡單篇
-  ▸ 影／赴亞洲台灣商會會議開幕 卓榮泰：未來加碼預算讓中小微企業升級
-    https://money.udn.com/money/story/11162/9628757
+【升息】1 則  🟡單篇
+  ▸ Warsh pledges Fed policy 'regime change' to rid inflation 't
+    https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html
 
 【關稅/貿易戰】1 則  🟡單篇
   ▸ U.S. trade official says 'very few' Nvidia H200 AI chips hav
     https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html
 
-【美元貶值】1 則  🟡單篇
-  ▸ 中間價創41個月新高淡化GDP偏弱衝擊，人民幣早盤升破6.77關口
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%89%B541%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98%E6%B7%A1%E5%8C%96gdp%E5%81%8F%E5%BC%B1%E8%A1%9D%E6%93%8A-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%97%A9%E7%9B%A4%E5%8D%87%E7%A0%B46-77%E9%97%9C%E5%8F%A3-024233260.html
-
-【航運運價上升】1 則  🟡單篇
-  ▸ 散裝中小型船租金仍居高檔；台航Q2獲利看好
-    https://tw.stock.yahoo.com/news/%E6%95%A3%E8%A3%9D%E4%B8%AD%E5%B0%8F%E5%9E%8B%E8%88%B9%E7%A7%9F%E9%87%91%E4%BB%8D%E5%B1%85%E9%AB%98%E6%AA%94-%E5%8F%B0%E8%88%AAq2%E7%8D%B2%E5%88%A9%E7%9C%8B%E5%A5%BD-023300781.html
-
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +4.7  油電燃氣｜戰爭升溫、通膨下降
- 2. 8917.TW      +4.7  油電燃氣｜戰爭升溫、通膨下降
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
- 7. 2515.TW      -3.0  建材營造｜升息
- 8. 5534.TW      -3.0  建材營造｜升息
- 9. 2504.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
