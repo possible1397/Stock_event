@@ -1,0 +1,120 @@
+📊 事件驅動選股日報 2026-07-16
+════════════════════════════════
+掃描 126 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+**今日盤勢與焦點速報**
+
+1.  **【重點提要】**
+    *   AI熱潮持續主導市場焦點，驅動科技股表現，然對實質獲利的關注度提升。
+    *   地緣政治衝突升溫，推升國際油價與農產品期貨，加劇全球通膨壓力。
+    *   多國央行持續緊縮貨幣政策，導致利率上揚，影響房貸市場與消費動能。
+    *   全球經濟數據顯示成長放緩跡象，尤其中國經濟增速創下近年新低。
+    *   資金面關注：市場融資買股水位攀升，可能為後市帶來波動性。
+
+2.  **【具體總結】**
+    今日盤勢受多重複雜因素交織。AI題材仍是市場主要驅動力，吸引大量資金關注科技產業，但投資者對實際獲利能力的要求正逐步提高。與此同時，地緣政治風險推升能源及農產品價格，強化全球通膨預期，促使多國央行維持緊縮貨幣政策。在經濟成長放緩、消費動能疲弱以及市場槓桿水位攀升的背景下，整體市場情緒偏向謹慎，資金可能在追求成長與規避風險之間擺盪，預期波動性將會增加。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】18 則  🟢高信心
+  ▸ AI is so big, it’s now impossible for investors to avoid
+    https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories
+  ▸ Alibaba and Baidu shares jump in Hong Kong on Apple AI partn
+    https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html
+  ▸ Jim Cramer says he needs 'cold hard' proof that AI is paying
+    https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html
+
+【油價上升】7 則  🟢高信心
+  ▸ Oil stockpiles running dangerously low as Hormuz shuts again
+    https://seekingalpha.com/news/4614322-oil-stockpiles-close-to-running-on-empty-as-hormuz-shuts-again-traders-warn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ United Airlines gets hit by a $6 billion added-fuel-cost hea
+    https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories
+  ▸ Renewed Hormuz hostilities drive ECB rates rethink amid ‘ext
+    https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html
+
+【升息】7 則  🟢高信心
+  ▸ Renewed Hormuz hostilities drive ECB rates rethink amid ‘ext
+    https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html
+  ▸ Bank of Korea raises rates to 2.75% in first hike in over th
+    https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html
+  ▸ Mortgage rates rise to highest level in nearly a year, causi
+    https://www.cnbc.com/2026/07/15/mortgage-rates-rise-to-highest-level-in-nearly-a-year.html
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Trump calls out General Dynamics on submarines amid push on 
+    https://seekingalpha.com/news/4614320-trump-calls-out-general-dynamics-on-submarines-amid-push-on-defense-contractors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Wheat futures surge as escalating Russia-Ukraine war threate
+    https://seekingalpha.com/news/4614318-wheat-futures-surge-as-escalating-russia-ukraine-war-threatens-black-sea-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Eos Energy surges after winning Golden Dome contract from Pe
+    https://seekingalpha.com/news/4614316-eos-energy-surges-after-winning-golden-dome-contract-from-pentagon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ World Cup gave bars and restaurants a needed boost as consum
+    https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html
+  ▸ China posts slowest quarterly growth since 2022 as investmen
+    https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html
+  ▸ Buying stock with borrowed money reaches level of past marke
+    https://www.cnbc.com/2026/07/15/buying-stock-with-borrowed-money-reaches-level-of-past-market-tops.html
+
+【政策補助】5 則  🟢高信心
+  ▸ China posts slowest quarterly growth since 2022 as investmen
+    https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html
+  ▸ Public Service Loan Forgiveness has new rules — 3 changes bo
+    https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html
+  ▸ 青安3.0拍板 李同榮：政策七大迷失 變「限制成家」專案
+    https://money.udn.com/money/story/10871/9631287
+
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ US imposes 25% tariff on some goods from Brazil
+    https://www.investing.com/news/economy-news/us-imposes-25-tariff-on-some-goods-from-brazil-4794624
+  ▸ 美貿易代表格里爾稱，中國遵守稀土協議情況「並不完美」
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8%E6%A0%BC%E9%87%8C%E7%88%BE%E7%A8%B1-%E4%B8%AD%E5%9C%8B%E9%81%B5%E5%AE%88%E7%A8%80%E5%9C%9F%E5%8D%94%E8%AD%B0%E6%83%85%E6%B3%81-%E4%B8%A6%E4%B8%8D%E5%AE%8C%E7%BE%8E-032822568.html
+  ▸ 美貿易代表格里爾稱，美國將宣布對巴西301條款調查最終行動
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8%E6%A0%BC%E9%87%8C%E7%88%BE%E7%A8%B1-%E7%BE%8E%E5%9C%8B%E5%B0%87%E5%AE%A3%E5%B8%83%E5%B0%8D%E5%B7%B4%E8%A5%BF301%E6%A2%9D%E6%AC%BE%E8%AA%BF%E6%9F%A5%E6%9C%80%E7%B5%82%E8%A1%8C%E5%8B%95-031936852.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ Your Netflix bill is up 29% in just over a year. It’s time f
+    https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories
+  ▸ You are missing the bond deal of the decade — and it is guar
+    https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories
+  ▸ 韓國央行聲明稱，通膨高於目標且內外需強勁，必要時支持進一步升息
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E5%A4%AE%E8%A1%8C%E8%81%B2%E6%98%8E%E7%A8%B1-%E9%80%9A%E8%86%A8%E9%AB%98%E6%96%BC%E7%9B%AE%E6%A8%99%E4%B8%94%E5%85%A7%E5%A4%96%E9%9C%80%E5%BC%B7%E5%8B%81-%E5%BF%85%E8%A6%81%E6%99%82%E6%94%AF%E6%8C%81%E9%80%B2-%E6%AD%A5%E5%8D%87%E6%81%AF-031844041.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ The trucking market is tighter than it’s been in years — but
+    https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories
+
+【美元升值】1 則  🟡單篇
+  ▸ 韓國擬透過外匯基金，購買SK海力士ADR發行籌集美元，防止韓元波動
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%93%AC%E9%80%8F%E9%81%8E%E5%A4%96%E5%8C%AF%E5%9F%BA%E9%87%91-%E8%B3%BC%E8%B2%B7sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E7%99%BC%E8%A1%8C%E7%B1%8C%E9%9B%86%E7%BE%8E%E5%85%83-%E9%98%B2%E6%AD%A2%E9%9F%93%E5%85%83%E6%B3%A2%E5%8B%95-032340098.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -3.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 6. 2327.TW      -3.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 7. 3037.TW      -3.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 8. 2515.TW      -3.0  建材營造｜升息
+ 9. 5534.TW      -3.0  建材營造｜升息
+10. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
