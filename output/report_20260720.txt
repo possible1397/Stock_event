@@ -1,83 +1,68 @@
 📊 事件驅動選股日報 2026-07-20
 ════════════════════════════════
-掃描 121 則新聞  |  偵測 10 個事件
+掃描 121 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  AI熱潮持續吸引資金，但部分地區與投資者開始重新評估，亞洲AI競爭者也正浮現。
-2.  地緣政治緊張推升國際油價，突破關鍵水準，對全球能源及運輸供應鏈造成壓力。
-3.  全球經濟景氣轉弱訊號浮現，部分關鍵產業（如半導體、汽車銷售）表現疲軟，市場波動加劇。
-4.  各國政府持續推出產業與消費補助政策，旨在扶植特定產業（如綠能、中小企業）並刺激內需。
-
-【具體總結】：
-今日盤勢受AI熱潮與地緣政治緊張的雙重影響。AI概念股仍是市場焦點，但投資者對其估值有所重新評估。同時，中東戰事升溫導致國際油價上漲，加劇通膨擔憂並推升運輸成本。在全球景氣轉弱的訊號下，科技業與消費市場面臨逆風，市場波動度隨之升高。儘管政府積極透過政策補助支撐特定產業，整體市場情緒仍顯謹慎，資金在成長題材與避險標的間擺盪。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】13 則  🟢高信心
-  ▸ Can the ‘Magnificent Seven’ save a stock market that might b
-    https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories
-  ▸ Alibaba stock rockets as new Qwen model threatens global riv
-    https://seekingalpha.com/news/4615135-alibaba-stock-rockets-as-new-qwen-model-threatens-global-rivals-chasing-anthropics-fable-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Asia stocks mixed as investors reassess AI bets; S Korea sli
-    https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-investors-reassess-ai-bets-s-korea-slides-china-outperforms-4799782
+【AI熱潮】14 則  🟢高信心
+  ▸ Analysis-Could AI chip boom make ASML Europe’s first trillio
+    https://www.investing.com/news/stock-market-news/analysiscould-ai-chip-boom-make-asml-europes-first-trilliondollar-firm-4799801
+  ▸ Morning Bid: Rising oil, yields rain on AI party
+    https://www.investing.com/news/economy-news/morning-bid-rising-oil-yields-rain-on-ai-party-4799795
+  ▸ TSMC is accelerating Arizona factory buildout to capitalize 
+    https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
 
-【戰爭升溫】10 則  🟢高信心
+【戰爭升溫】8 則  🟢高信心
+  ▸ Oil prices rise, stock futures flat as fighting between U.S.
+    https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories
   ▸ Mortgage and refinance interest rates today, Sunday, July 19
     https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html
+  ▸ Gold steadies as investors weigh Fed outlook against escalat
+    https://www.investing.com/news/commodities-news/gold-steadies-near-4000-as-iran-conflict-keeps-fed-inflation-fears-in-focus-4799771
+
+【油價上升】4 則  🟢高信心
   ▸ Oil prices rise, stock futures flat as fighting between U.S.
     https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories
-  ▸ Asia FX: Won outperforms on reform plans as dollar steadies,
-    https://www.investing.com/news/forex-news/asia-fx-won-outperforms-on-reform-plans-as-dollar-steadies-yen-trade-thins-4799784
-
-【景氣轉弱】7 則  🟢高信心
-  ▸ Major car dealer cuts 40% of its locations, issues serious w
-    https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html
-  ▸ 費半陷熊市、韓股去槓桿拖累台股 非投等債高票息優勢可望成避震器
-    https://money.udn.com/money/story/10871/9638769
-  ▸ 【Hot台股】大盤上下震盪逾1100點 網喊「到底是V還是A？」分析師：止跌訊號還沒出現
-    https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E5%A4%A7%E7%9B%A4%E4%B8%8A%E4%B8%8B%E9%9C%87%E7%9B%AA%E9%80%BE1100%E9%BB%9E-%E7%B6%B2%E5%96%8A%E3%80%8C%E5%88%B0%E5%BA%95%E6%98%AFv%E9%82%84%E6%98%AFa%EF%BC%9F%E3%80%8D%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E6%AD%A2%E8%B7%8C%E8%A8%8A%E8%99%9F%E9%82%84%E6%B2%92%E5%87%BA%E7%8F%BE-034403692.html
-
-【政策補助】6 則  🟢高信心
-  ▸ 台南歸仁沙崙智慧綠能科學城166廠進駐 破90%已成投資首選
-    https://money.udn.com/money/story/11162/9638804
-  ▸ 政府灑千億元助攻中小微型企業 華碩、微星攜手軟體業者問診開藥方
-    https://money.udn.com/money/story/5612/9638300
-  ▸ 2026冷氣補助倒數最高省5千！不只分離式冷氣、窗型冷氣也能請：出風口選對才省電…節能家電申請攻略
-    https://tw.stock.yahoo.com/news/2026%E5%86%B7%E6%B0%A3%E8%A3%9C%E5%8A%A9%E5%80%92%E6%95%B8%E6%9C%80%E9%AB%98%E7%9C%815%E5%8D%83%EF%BC%81%E4%B8%8D%E5%8F%AA%E5%88%86%E9%9B%A2%E5%BC%8F%E5%86%B7%E6%B0%A3%E3%80%81%E7%AA%97%E5%9E%8B%E5%86%B7%E6%B0%A3%E4%B9%9F%E8%83%BD%E8%AB%8B%EF%BC%9A%E5%87%BA%E9%A2%A8%E5%8F%A3%E9%81%B8%E5%B0%8D%E6%89%8D%E7%9C%81%E9%9B%BB%E7%AF%80%E8%83%BD%E5%AE%B6%E9%9B%BB%E7%94%B3%E8%AB%8B%E6%94%BB%E7%95%A5-034800415.html
-
-【油價上升】5 則  🟢高信心
-  ▸ Oil prices rise, stock futures flat as fighting between U.S.
-    https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories
+  ▸ Morning Bid: Rising oil, yields rain on AI party
+    https://www.investing.com/news/economy-news/morning-bid-rising-oil-yields-rain-on-ai-party-4799795
   ▸ Brent breaches $90 as Middle East risks mount with U.S-Iran 
     https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html
-  ▸ 美伊戰事 全球能源、運輸鏈再度拉警報 貨櫃三雄Q3營運有撐
-    https://money.udn.com/money/story/10871/9637882
 
-【升息】2 則  🟢高信心
+【升息】3 則  🟢高信心
   ▸ Best CD rates today, Sunday, July 19, 2026: Lock in up to 4.
     https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-19-2026-lock-in-up-to-410-apy-100000814.html
   ▸ Mortgage and refinance interest rates today, Sunday, July 19
     https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-19-2026-rates-moved-higher-last-week-as-iranian-conflict-escalated-100000829.html
+  ▸ Morning Bid: Rising oil, yields rain on AI party
+    https://www.investing.com/news/economy-news/morning-bid-rising-oil-yields-rain-on-ai-party-4799795
 
-【航運運價上升】1 則  🟡單篇
-  ▸ 美伊戰事 全球能源、運輸鏈再度拉警報 貨櫃三雄Q3營運有撐
-    https://money.udn.com/money/story/10871/9637882
+【景氣轉弱】2 則  🟢高信心
+  ▸ Major car dealer cuts 40% of its locations, issues serious w
+    https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html
+  ▸ China's central bank keeps benchmark rates unchanged as prop
+    https://seekingalpha.com/news/4615140-chinas-central-bank-keeps-benchmark-rates-unchanged-as-property-sector-drags-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【記憶體漲價】1 則  🟡單篇
-  ▸ 記憶體豪賭拚擴產！專家揭三巨頭在下大棋：這次真的不一樣
-    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%B1%AA%E8%B3%AD%E6%8B%9A%E6%93%B4%E7%94%A2-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%89%E5%B7%A8%E9%A0%AD%E5%9C%A8%E4%B8%8B%E5%A4%A7%E6%A3%8B-%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E4%B8%8D-%E6%A8%A3-035600296.html
-
-【美元升值】1 則  🟡單篇
-  ▸ 全球最大黃金ETF光環失色 GLD資金流出近150億美元
-    https://tw.stock.yahoo.com/news/%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%BB%83%E9%87%91etf%E5%85%89%E7%92%B0%E5%A4%B1%E8%89%B2-gld%E8%B3%87%E9%87%91%E6%B5%81%E5%87%BA%E8%BF%91150%E5%84%84%E7%BE%8E%E5%85%83-030813065.html
+【政策補助】2 則  🟢高信心
+  ▸ Asia markets rise as China support measures lift sentiment
+    https://seekingalpha.com/news/4615139-asia-markets-rise-as-china-support-measures-lift-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 經部因應美國關稅四大支持產業措施 金屬製品業、機械設備業受惠最多
+    https://money.udn.com/money/story/10871/9638901
 
 【通膨上升】1 則  🟡單篇
-  ▸ 西歐熱浪引爆冷卻需求 電價飆升恐加劇燃料供應短缺
-    https://tw.stock.yahoo.com/news/%E8%A5%BF%E6%AD%90%E7%86%B1%E6%B5%AA%E5%BC%95%E7%88%86%E5%86%B7%E5%8D%BB%E9%9C%80%E6%B1%82-%E9%9B%BB%E5%83%B9%E9%A3%86%E5%8D%87%E6%81%90%E5%8A%A0%E5%8A%87%E7%87%83%E6%96%99%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA-030147334.html
+  ▸ Housing costs is the top political issue for young voters, C
+    https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Kimi K3 引爆「傑文斯悖論」 花旗直指反而是記憶體需求的利多催化劑
+    https://money.udn.com/money/story/11162/9638940
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 經部因應美國關稅四大支持產業措施 金屬製品業、機械設備業受惠最多
+    https://money.udn.com/money/story/10871/9638901
 
 ▲ 買進信號
 ────────────────────────────────
@@ -94,13 +79,13 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -5.6  電子零組件｜景氣轉弱、航運運價上升
- 2. 2327.TW      -5.6  電子零組件｜景氣轉弱、航運運價上升
- 3. 3037.TW      -5.6  電子零組件｜景氣轉弱、航運運價上升
- 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.6  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.6  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.6  電子零組件｜景氣轉弱、通膨上升
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 10. 2515.TW      -3.0  建材營造｜升息
