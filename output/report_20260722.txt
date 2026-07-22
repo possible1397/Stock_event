@@ -1,0 +1,119 @@
+📊 事件驅動選股日報 2026-07-22
+════════════════════════════════
+掃描 130 則新聞  |  偵測 11 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **AI熱潮延續：** 人工智慧產業動能強勁，相關供應鏈及周邊股票表現亮眼，產業擴張與投資計畫持續進行。
+2.  **景氣風險警示：** 主要金融機構對市場低估風險發出警告，建議投資人留意短期避險資產，以因應潛在經濟轉弱跡象。
+3.  **地緣政治與油價：** 中東地緣政治緊張推升國際油價，對部分區域經濟體造成貨幣貶值壓力，各國積極尋求能源供應多元化。
+4.  **政策補助挑戰：** 政府補貼政策持續推出，但部分方案在運用上遭遇規範挑戰，可能產生非預期效果或影響市場公平性。
+
+**【具體總結】**
+今日市場焦點仍集中在AI產業的強勁表現，相關類股帶動整體市場氣氛。然而，主要金融機構對景氣轉弱及市場風險的警示，加上地緣政治緊張推升國際油價，促使部分資金轉向避險資產。儘管科技股在地緣政治緊張下仍展現韌性，但政府補助政策的潛在副作用亦值得關注。整體而言，市場呈現樂觀與謹慎並存的複雜局面，資金流向將在成長題材與風險規避間擺盪。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】23 則  🟢高信心
+  ▸ Super Micro’s stock soars as its margins unexpectedly double
+    https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories
+  ▸ Forget Nvidia. These 5 S&P 500 stocks are quietly going all 
+    https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories
+  ▸ Nvidia supplier Wistron launches $700 million Texas factory 
+    https://www.investing.com/news/stock-market-news/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production-4804610
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ Jamie Dimon says markets underestimate risks and he wouldn't
+    https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html
+  ▸ The worst dotcom bubble investing mistakes are coming for yo
+    https://www.cnbc.com/2026/07/21/market-bubble-stock-risks-investing-mistakes.html
+  ▸ 摩根大通CEO戴蒙警示股債市風險 短期美債成投資人避險首選
+    https://tw.stock.yahoo.com/news/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9Aceo%E6%88%B4%E8%92%99%E8%AD%A6%E7%A4%BA%E8%82%A1%E5%82%B5%E5%B8%82%E9%A2%A8%E9%9A%AA-%E7%9F%AD%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%88%90%E6%8A%95%E8%B3%87%E4%BA%BA%E9%81%BF%E9%9A%AA%E9%A6%96%E9%81%B8-031307142.html
+
+【政策補助】4 則  🟢高信心
+  ▸ Coal group urges Trump administration to provide financing h
+    https://seekingalpha.com/news/4616277-coal-group-urges-trump-administration-to-provide-financing-help?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Pakistan seeks $10 billion in US backstop facility to boost 
+    https://www.investing.com/news/economy-news/exclusivepakistan-seeks-10-billion-in-us-backstop-facility-to-boost-reserves-source-says-4804036
+  ▸ 青安3.0拿去二胎、炒股 財政部坦言：無法過嚴管制傷財產權
+    https://tw.stock.yahoo.com/news/%E9%9D%92%E5%AE%893-0%E6%8B%BF%E5%8E%BB%E4%BA%8C%E8%83%8E-%E7%82%92%E8%82%A1-%E8%B2%A1%E6%94%BF%E9%83%A8%E5%9D%A6%E8%A8%80-%E7%84%A1%E6%B3%95%E9%81%8E%E5%9A%B4%E7%AE%A1%E5%88%B6%E5%82%B7%E8%B2%A1%E7%94%A2%E6%AC%8A-032334336.html
+
+【油價上升】3 則  🟢高信心
+  ▸ Why energy stocks still look so cheap, even after their big 
+    https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories
+  ▸ 韓國政府確保至9月底原油供應無虞，紅海航道若受阻將尋找替代航路
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%A2%BA%E4%BF%9D%E8%87%B39%E6%9C%88%E5%BA%95%E5%8E%9F%E6%B2%B9%E4%BE%9B%E6%87%89%E7%84%A1%E8%99%9E-%E7%B4%85%E6%B5%B7%E8%88%AA%E9%81%93%E8%8B%A5%E5%8F%97%E9%98%BB%E5%B0%87%E5%B0%8B%E6%89%BE%E6%9B%BF%E4%BB%A3%E8%88%AA%E8%B7%AF-034002681.html
+  ▸ 油價飆升＋天氣風險，菲律賓披索兌美元盤中連三貶，追平紀錄低點
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87-%E5%A4%A9%E6%B0%A3%E9%A2%A8%E9%9A%AA-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8A%AB%E7%B4%A2%E5%85%8C%E7%BE%8E%E5%85%83%E7%9B%A4%E4%B8%AD%E9%80%A3%E4%B8%89%E8%B2%B6-%E8%BF%BD%E5%B9%B3%E7%B4%80%E9%8C%84%E4%BD%8E%E9%BB%9E-031436077.html
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ Pro stock pickers cannot beat simple math — war in the Middl
+    https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories
+  ▸ 韓國政府確保至9月底原油供應無虞，紅海航道若受阻將尋找替代航路
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%A2%BA%E4%BF%9D%E8%87%B39%E6%9C%88%E5%BA%95%E5%8E%9F%E6%B2%B9%E4%BE%9B%E6%87%89%E7%84%A1%E8%99%9E-%E7%B4%85%E6%B5%B7%E8%88%AA%E9%81%93%E8%8B%A5%E5%8F%97%E9%98%BB%E5%B0%87%E5%B0%8B%E6%89%BE%E6%9B%BF%E4%BB%A3%E8%88%AA%E8%B7%AF-034002681.html
+  ▸ 美股無視地緣政治緊張強勁反彈 科技股領漲
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%84%A1%E8%A6%96%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%B7%8A%E5%BC%B5%E5%BC%B7%E5%8B%81%E5%8F%8D%E5%BD%88-%E7%A7%91%E6%8A%80%E8%82%A1%E9%A0%98%E6%BC%B2-033850516.html
+
+【美元升值】3 則  🟢高信心
+  ▸ 日圓貶破163 創40年低點 財務大臣放話暗示干預
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E5%9C%93%E8%B2%B6%E7%A0%B4163-%E5%89%B540%E5%B9%B4%E4%BD%8E%E9%BB%9E-%E8%B2%A1%E5%8B%99%E5%A4%A7%E8%87%A3%E6%94%BE%E8%A9%B1%E6%9A%97%E7%A4%BA%E5%B9%B2%E9%A0%90-032300690.html
+  ▸ 油價飆升＋天氣風險，菲律賓披索兌美元盤中連三貶，追平紀錄低點
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87-%E5%A4%A9%E6%B0%A3%E9%A2%A8%E9%9A%AA-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8A%AB%E7%B4%A2%E5%85%8C%E7%BE%8E%E5%85%83%E7%9B%A4%E4%B8%AD%E9%80%A3%E4%B8%89%E8%B2%B6-%E8%BF%BD%E5%B9%B3%E7%B4%80%E9%8C%84%E4%BD%8E%E9%BB%9E-031436077.html
+  ▸ 日圓跌破163成鍋蓋效應，人民幣連二彈後翻空，CNY和CNH失守6.77
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E5%9C%93%E8%B7%8C%E7%A0%B4163%E6%88%90%E9%8D%8B%E8%93%8B%E6%95%88%E6%87%89-%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%80%A3%E4%BA%8C%E5%BD%88%E5%BE%8C%E7%BF%BB%E7%A9%BA-cny%E5%92%8Ccnh%E5%A4%B1%E5%AE%886-77-025106224.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ Why Micron and other chip stocks are bouncing back so strong
+    https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories
+  ▸ 良率決定獲利！全球記憶體三巨頭正式開啟HBM4良率競爭 戰場重心回歸HBM
+    https://tw.stock.yahoo.com/news/%E8%89%AF%E7%8E%87%E6%B1%BA%E5%AE%9A%E7%8D%B2%E5%88%A9-%E5%85%A8%E7%90%83%E8%A8%98%E6%86%B6%E9%AB%94%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%95%9Fhbm4%E8%89%AF%E7%8E%87%E7%AB%B6%E7%88%AD-%E6%88%B0%E5%A0%B4%E9%87%8D%E5%BF%83%E5%9B%9E%E6%AD%B8hbm-025004004.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Trump plans steep tariffs on generic drugs starting in 2028 
+    https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html
+  ▸ White House teases new trade action 'soon' as it works to re
+    https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html
+
+【升息】1 則  🟡單篇
+  ▸ JPMorgan's Jamie Dimon made bearish call on treasury bond ma
+    https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 韓國政府確保至9月底原油供應無虞，紅海航道若受阻將尋找替代航路
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%A2%BA%E4%BF%9D%E8%87%B39%E6%9C%88%E5%BA%95%E5%8E%9F%E6%B2%B9%E4%BE%9B%E6%87%89%E7%84%A1%E8%99%9E-%E7%B4%85%E6%B5%B7%E8%88%AA%E9%81%93%E8%8B%A5%E5%8F%97%E9%98%BB%E5%B0%87%E5%B0%8B%E6%89%BE%E6%9B%BF%E4%BB%A3%E8%88%AA%E8%B7%AF-034002681.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ 台積電2027年晶片代工將漲價 最高10%衝擊電子產品售價
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB2027%E5%B9%B4%E6%99%B6%E7%89%87%E4%BB%A3%E5%B7%A5%E5%B0%87%E6%BC%B2%E5%83%B9-%E6%9C%80%E9%AB%9810-%E8%A1%9D%E6%93%8A%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81%E5%94%AE%E5%83%B9-032356116.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.8  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +7.8  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.2  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -4.2  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -4.2  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2603.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2609.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 6. 2615.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 7. 2618.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
