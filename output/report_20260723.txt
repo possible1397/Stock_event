@@ -1,120 +1,85 @@
 📊 事件驅動選股日報 2026-07-23
 ════════════════════════════════
-掃描 125 則新聞  |  偵測 11 個事件
+掃描 130 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  AI產業動能持續，大型科技公司資本支出龐大，伺服器與相關硬體需求不減，但市場短期仍有震盪可能。
-2.  中東地緣政治風險升溫，國際油價走高至六週新高，加劇通膨擔憂，市場對聯準會升息預期增強。
-3.  全球貿易摩擦與關稅議題持續，美國針對中國汽車及未來藥品關稅提出討論，凸顯供應鏈與跨國投資風險。
-
-【具體總結】：
-今日盤勢受多重因素影響。AI熱潮儘管出現短期回調，但大型科技公司持續的資本支出預示其長期動能不變，支撐相關硬體產業。然而，中東地緣政治緊張推升油價，加劇通膨壓力，提升了市場對聯準會可能升息的預期。同時，持續的貿易戰與關稅威脅也為全球供應鏈帶來不確定性。資金可能在成長與避險資產間流動，市場呈現波動格局。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】30 則  🟢高信心
-  ▸ Yes, the AI stock selloff looks terrifying. But it might act
-    https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories
-  ▸ Alphabet signals $195B-$205B 2026 CapEx while expanding thir
-    https://seekingalpha.com/news/4617114-alphabet-signals-195b-205b-2026-capex-while-expanding-third-party-capacity-as-a-bridge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Exclusive-Intel, AMD sign long-term server CPU deals with Ch
-    https://www.investing.com/news/stock-market-news/exclusiveintel-amd-sign-longterm-server-cpu-deals-with-chinese-clients-as-prices-surge-sources-say-4807453
-
-【戰爭升溫】9 則  🟢高信心
-  ▸ The bull market faces higher likelihood of a Fed rate hike a
-    https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories
-  ▸ Global oil prices settle at 6-week high after topping $95 a 
-    https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories
-  ▸ US military completes 12th straight night of strikes on Iran
-    https://www.investing.com/news/commodities-news/us-military-completes-12th-straight-night-of-strikes-on-iran-4807452
-
-【關稅/貿易戰】9 則  🟢高信心
-  ▸ Trump plans generic drug tariffs from 2028 with two-year del
-    https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html
-  ▸ Senate panel advances China auto bill that could bar Mercede
-    https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html
-  ▸ 台美未簽租稅協定 企業赴美設倉、派員服務兩大風險一次看
-    https://money.udn.com/money/story/10871/9645779
+【AI熱潮】18 則  🟢高信心
+  ▸ Asian markets mixed as AI tech rally offsets surging oil pri
+    https://seekingalpha.com/news/4617130-asian-markets-mixed-as-ai-tech-rally-offsets-surging-oil-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Nokia Q2 profit beat on AI demand
+    https://www.investing.com/news/stock-market-news/nokia-q2-profit-beat-on-ai-demand-4807480
+  ▸ Nokia Q2 net sales rise 9% on AI and cloud demand
+    https://www.investing.com/news/company-news/nokia-q2-net-sales-rise-9-on-ai-and-cloud-demand-93CH-4807479
 
 【油價上升】5 則  🟢高信心
-  ▸ Global oil prices settle at 6-week high after topping $95 a 
-    https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories
+  ▸ Asian markets mixed as AI tech rally offsets surging oil pri
+    https://seekingalpha.com/news/4617130-asian-markets-mixed-as-ai-tech-rally-offsets-surging-oil-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Oil prices climb after tanker struck off Saudi Arabia, Trump
     https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html
   ▸ Analysis: Iran war energy shock hits the U.S. economy as gas
     https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html
 
-【升息】3 則  🟢高信心
-  ▸ The bull market faces higher likelihood of a Fed rate hike a
-    https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories
-  ▸ Kevin Warsh has homed in on three key phrases. How Fed watch
-    https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html
-  ▸ 美元高檔震盪壓抑金價 市場關注聯準會動向和中東局勢
-    https://money.udn.com/money/story/11162/9645786
+【戰爭升溫】5 則  🟢高信心
+  ▸ Oil prices climb after tanker struck off Saudi Arabia, Trump
+    https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html
+  ▸ Analysis: Iran war energy shock hits the U.S. economy as gas
+    https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html
+  ▸ Trump vows to bomb Iran's bridges, power plants if it shoots
+    https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html
 
-【景氣轉弱】3 則  🟢高信心
-  ▸ The Treasury market touches a worrying milestone not seen si
-    https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories
-  ▸ 台股崩跌就睡不著！她建議保守派：買這2檔就好
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%B0%B1%E7%9D%A1%E4%B8%8D%E8%91%97-%E5%A5%B9%E5%BB%BA%E8%AD%B0%E4%BF%9D%E5%AE%88%E6%B4%BE-%E8%B2%B7%E9%80%992%E6%AA%94%E5%B0%B1%E5%A5%BD-024620787.html
-  ▸ 〈台股開盤〉台積電無力指數開高走低 下跌逾100點失守45000點大關
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%84%A1%E5%8A%9B%E6%8C%87%E6%95%B8%E9%96%8B%E9%AB%98%E8%B5%B0%E4%BD%8E-%E4%B8%8B%E8%B7%8C%E9%80%BE100%E9%BB%9E%E5%A4%B1%E5%AE%8845000%E9%BB%9E%E5%A4%A7%E9%97%9C-024342473.html
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ Trump plans generic drug tariffs from 2028 with two-year del
+    https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html
+  ▸ Senate panel advances China auto bill that could bar Mercede
+    https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html
+  ▸ 布局美國市場別踩雷 台企設倉及派員赴美恐有被課稅、拒入境風險
+    https://money.udn.com/money/story/10871/9646111
 
-【美元升值】3 則  🟢高信心
-  ▸ 美元高檔震盪壓抑金價 市場關注聯準會動向和中東局勢
-    https://money.udn.com/money/story/11162/9645786
-  ▸ 美銀行業擬參與日本5,500億美元赴美投資，助填補長期美元融資缺口
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%8A%80%E8%A1%8C%E6%A5%AD%E6%93%AC%E5%8F%83%E8%88%87%E6%97%A5%E6%9C%AC5-500%E5%84%84%E7%BE%8E%E5%85%83%E8%B5%B4%E7%BE%8E%E6%8A%95%E8%B3%87-%E5%8A%A9%E5%A1%AB%E8%A3%9C%E9%95%B7%E6%9C%9F%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B3%87%E7%BC%BA%E5%8F%A3-033518058.html
-  ▸ 美銀維持新台幣年底預測32元，靜待股利季結束、股市壓力趨緩
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%8A%80%E7%B6%AD%E6%8C%81%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%B9%B4%E5%BA%95%E9%A0%90%E6%B8%AC32%E5%85%83-%E9%9D%9C%E5%BE%85%E8%82%A1%E5%88%A9%E5%AD%A3%E7%B5%90%E6%9D%9F-%E8%82%A1%E5%B8%82%E5%A3%93%E5%8A%9B%E8%B6%A8%E7%B7%A9-024353725.html
+【升息】1 則  🟡單篇
+  ▸ Australia jobs surge above forecasts in June, bolstering RBA
+    https://www.investing.com/news/economic-indicators/australia-jobs-surge-above-forecasts-in-june-unemployment-rate-holds-steady-4807379
 
-【政策補助】2 則  🟢高信心
-  ▸ 國發會取經北海道東川町　地方創生30年人口增兩成
-    https://money.udn.com/money/story/10871/9645902
-  ▸ 日本政府斥逾3,800億日圓扶植Noetra，採購2.75萬顆輝達Rubin晶片
-    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%96%A5%E9%80%BE3-800%E5%84%84%E6%97%A5%E5%9C%93%E6%89%B6%E6%A4%8Dnoetra-%E6%8E%A1%E8%B3%BC2-75%E8%90%AC%E9%A1%86%E8%BC%9D%E9%81%94rubin%E6%99%B6%E7%89%87-032630130.html
-
-【航運運價上升】1 則  🟡單篇
-  ▸ Houthis deploy missiles and drones to attack ships in southe
-    https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html
-
-【通膨上升】1 則  🟡單篇
-  ▸ 日本央行名義有效匯率指數創新低，日圓全面性疲軟引發通膨警訊
-    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%90%8D%E7%BE%A9%E6%9C%89%E6%95%88%E5%8C%AF%E7%8E%87%E6%8C%87%E6%95%B8%E5%89%B5%E6%96%B0%E4%BD%8E-%E6%97%A5%E5%9C%93%E5%85%A8%E9%9D%A2%E6%80%A7%E7%96%B2%E8%BB%9F%E5%BC%95%E7%99%BC%E9%80%9A%E8%86%A8%E8%AD%A6%E8%A8%8A-031816927.html
+【景氣轉弱】1 則  🟡單篇
+  ▸ IBM lowers full-year forecast after earnings warning
+    https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html
 
 【記憶體漲價】1 則  🟡單篇
-  ▸ 投資沒有降溫！貝萊德：AI晶片跌過頭了 看好SanDisk、Micron迎反彈
-    https://tw.stock.yahoo.com/news/%E6%8A%95%E8%B3%87%E6%B2%92%E6%9C%89%E9%99%8D%E6%BA%AB-%E8%B2%9D%E8%90%8A%E5%BE%B7-ai%E6%99%B6%E7%89%87%E8%B7%8C%E9%81%8E%E9%A0%AD%E4%BA%86-%E7%9C%8B%E5%A5%BDsandisk-micron%E8%BF%8E%E5%8F%8D%E5%BD%88-024006695.html
+  ▸ 市調：記憶體價格飆漲衝擊PC產業　第2季出貨年減4%
+    https://money.udn.com/money/story/11162/9646088
+
+【政策補助】1 則  🟡單篇
+  ▸ 國發會取經北海道東川町　地方創生30年人口增兩成
+    https://money.udn.com/money/story/10871/9645902
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 1. 6505.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -3.7  電子零組件｜關稅/貿易戰、景氣轉弱
- 6. 2327.TW      -3.7  電子零組件｜關稅/貿易戰、景氣轉弱
- 7. 3037.TW      -3.7  電子零組件｜關稅/貿易戰、景氣轉弱
- 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2515.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -2.1  建材營造｜升息
+ 8. 5534.TW      -2.1  建材營造｜升息
+ 9. 2504.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
