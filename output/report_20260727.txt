@@ -1,95 +1,94 @@
 📊 事件驅動選股日報 2026-07-27
 ════════════════════════════════
-掃描 119 則新聞  |  偵測 10 個事件
+掃描 120 則新聞  |  偵測 11 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-*   **AI熱潮持續擴散：** AI應用與數位轉型需求推動SiC市場增長，但AI助長的網路資安風險亦受關注。
-*   **全球景氣與升息疑慮：** 消費信心微幅下滑，加上聯準會利率決議的不確定性，引發市場對科技與成長股的潛在賣壓擔憂。
-*   **中東地緣政治降溫：** 美伊戰事暫歇，國際油價開盤重挫5%，有助於緩解通膨壓力並帶動股債市場短期反彈。
-*   **國內政策補助：** 綜所稅首批退稅入帳及青安房貸等政策措施陸續推行，有望提振部分內需消費與房市動能。
-
-【具體總結】：
-今日市場情緒呈現多空交雜。AI產業動能仍強勁，但全球景氣轉弱與聯準會升息的不確定性，為整體市場帶來顯著的觀望壓力，尤其科技及成長股面臨考驗。然而，中東地緣政治緊張緩和導致油價回落，以及國內政策性補助的陸續發放，則為部分資金帶來喘息空間或提供內需支撐。在多重因素交織下，預期市場將持續震盪，資金可能在追求成長與規避風險間擺盪。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】10 則  🟢高信心
-  ▸ 日企數位轉型陷長年困境 BluePort與TDA結盟助推AI應用
-    https://tw.stock.yahoo.com/news/%E6%97%A5%E4%BC%81%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E9%99%B7%E9%95%B7%E5%B9%B4%E5%9B%B0%E5%A2%83-blueport%E8%88%87tda%E7%B5%90%E7%9B%9F%E5%8A%A9%E6%8E%A8ai%E6%87%89%E7%94%A8-035825982.html
-  ▸ 高密度功率需求起飛，2034年SiC市場規模達227億美元，成長18.6%
-    https://tw.stock.yahoo.com/news/%E9%AB%98%E5%AF%86%E5%BA%A6%E5%8A%9F%E7%8E%87%E9%9C%80%E6%B1%82%E8%B5%B7%E9%A3%9B-2034%E5%B9%B4sic%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E9%81%94227%E5%84%84%E7%BE%8E%E5%85%83-%E6%88%90%E9%95%B718-6-032811024.html
-  ▸ AI助長勒索攻擊 數發部籲企業落實四大應變措施
-    https://tw.news.yahoo.com/ai%E5%8A%A9%E9%95%B7%E5%8B%92%E7%B4%A2%E6%94%BB%E6%93%8A-%E6%95%B8%E7%99%BC%E9%83%A8%E7%B1%B2%E4%BC%81%E6%A5%AD%E8%90%BD%E5%AF%A6%E5%9B%9B%E5%A4%A7%E6%87%89%E8%AE%8A%E6%8E%AA%E6%96%BD-031944184.html
+【AI熱潮】13 則  🟢高信心
+  ▸ South Korea's Naver rallies after Nvidia unveils $1B strateg
+    https://seekingalpha.com/news/4618558-south-koreas-naver-rallies-after-nvidia-unveils-1b-strategic-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Nvidia said to be in talks on $250B backstop for OpenAI data
+    https://seekingalpha.com/news/4618559-nvidia-said-to-be-in-talks-on-250b-backstop-for-openai-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Synopsys unveils agentic AI advancements powered by Nvidia t
+    https://seekingalpha.com/news/4618557-synopsys-unveils-agentic-ai-advancements-powered-by-nvidia-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【景氣轉弱】10 則  🟢高信心
-  ▸ 台股震盪拖累投資信心 7月消費信心微降
-    https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E6%8B%96%E7%B4%AF%E6%8A%95%E8%B3%87%E4%BF%A1%E5%BF%83-7%E6%9C%88%E6%B6%88%E8%B2%BB%E4%BF%A1%E5%BF%83%E5%BE%AE%E9%99%8D-033639621.html
-  ▸ 台股「再跌5千點」最慘劇本曝光！本周就有2大生死關卡
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1-%E5%86%8D%E8%B7%8C5%E5%8D%83%E9%BB%9E-%E6%9C%80%E6%85%98%E5%8A%87%E6%9C%AC%E6%9B%9D%E5%85%89-%E6%9C%AC%E5%91%A8%E5%B0%B1%E6%9C%892%E5%A4%A7%E7%94%9F%E6%AD%BB%E9%97%9C%E5%8D%A1-033041268.html
-  ▸ 四年暴虧24億！「老牌塑化廠」宣布停產止血 股價慘跌停
-    https://tw.stock.yahoo.com/news/%E5%9B%9B%E5%B9%B4%E6%9A%B4%E8%99%A724%E5%84%84-%E8%80%81%E7%89%8C%E5%A1%91%E5%8C%96%E5%BB%A0-%E5%AE%A3%E5%B8%83%E5%81%9C%E7%94%A2%E6%AD%A2%E8%A1%80-%E8%82%A1%E5%83%B9%E6%85%98%E8%B7%8C%E5%81%9C-033000653.html
+【景氣轉弱】9 則  🟢高信心
+  ▸ Africa facing $10-$20 billion economic hit from ’super’ El N
+    https://www.investing.com/news/stock-market-news/africa-facing-1020-billion-economic-hit-from-super-el-nino-afdb-climate-chief-warns-4812843
+  ▸ RBI to hold rates through 2026 as growth risks outweigh infl
+    https://www.investing.com/news/economy-news/rbi-to-hold-rates-through-2026-as-growth-risks-outweigh-inflation-4812962
+  ▸ After 80 stores close, 63-year-old chain gives Chapter 11 wa
+    https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html
 
-【升息】7 則  🟢高信心
-  ▸ 科技巨頭財報季撞上Fed利率決議　美股面臨關鍵考驗
-    https://tw.stock.yahoo.com/news/%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E8%B2%A1%E5%A0%B1%E5%AD%A3%E6%92%9E%E4%B8%8Afed%E5%88%A9%E7%8E%87%E6%B1%BA%E8%AD%B0-%E7%BE%8E%E8%82%A1%E9%9D%A2%E8%87%A8%E9%97%9C%E9%8D%B5%E8%80%83%E9%A9%97-034746533.html
-  ▸ 股災季來了？ 施俊吉示警Fed若升息：台股 AI 概念股成提款機
-    https://tw.stock.yahoo.com/news/%E8%82%A1%E7%81%BD%E5%AD%A3%E4%BE%86%E4%BA%86-%E6%96%BD%E4%BF%8A%E5%90%89%E7%A4%BA%E8%AD%A6fed%E8%8B%A5%E5%8D%87%E6%81%AF-%E5%8F%B0%E8%82%A1-ai-%E6%A6%82%E5%BF%B5%E8%82%A1%E6%88%90%E6%8F%90%E6%AC%BE%E6%A9%9F-030922865.html
-  ▸ Fed本週升息？市場預期兩極化  華許棄前瞻指引引爆不確定性
-    https://tw.stock.yahoo.com/news/fed%E6%9C%AC%E9%80%B1%E5%8D%87%E6%81%AF-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E5%85%A9%E6%A5%B5%E5%8C%96-%E8%8F%AF%E8%A8%B1%E6%A3%84%E5%89%8D%E7%9E%BB%E6%8C%87%E5%BC%95%E5%BC%95%E7%88%86%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-030006716.html
-
-【政策補助】6 則  🟢高信心
-  ▸ 365萬戶報稅族搶先領！綜所稅首批退稅612億元7/31入帳
-    https://tw.stock.yahoo.com/news/365%E8%90%AC%E6%88%B6%E5%A0%B1%E7%A8%85%E6%97%8F%E6%90%B6%E5%85%88%E9%A0%98%EF%BC%81%E7%B6%9C%E6%89%80%E7%A8%85%E9%A6%96%E6%89%B9%E9%80%80%E7%A8%85612%E5%84%84%E5%85%83731%E5%85%A5%E5%B8%B3-035154208.html
-  ▸ 健康服務深入社宅！新北推免費健檢、癌篩　預計2236戶受惠
-    https://tw.stock.yahoo.com/news/%E5%81%A5%E5%BA%B7%E6%9C%8D%E5%8B%99%E6%B7%B1%E5%85%A5%E7%A4%BE%E5%AE%85%EF%BC%81%E6%96%B0%E5%8C%97%E6%8E%A8%E5%85%8D%E8%B2%BB%E5%81%A5%E6%AA%A2%E3%80%81%E7%99%8C%E7%AF%A9-%E9%A0%90%E8%A8%882236%E6%88%B6%E5%8F%97%E6%83%A0-033100097.html
-  ▸ 〈房產〉青安3.0 8月登場 北市申貸總價門檻3500萬元以下以文山區最好買
-    https://tw.stock.yahoo.com/news/%E6%88%BF%E7%94%A2-%E9%9D%92%E5%AE%893-0-8%E6%9C%88%E7%99%BB%E5%A0%B4-%E5%8C%97%E5%B8%82%E7%94%B3%E8%B2%B8%E7%B8%BD%E5%83%B9%E9%96%80%E6%AA%BB3500%E8%90%AC%E5%85%83%E4%BB%A5%E4%B8%8B%E4%BB%A5%E6%96%87%E5%B1%B1%E5%8D%80%E6%9C%80%E5%A5%BD%E8%B2%B7-031127475.html
-
-【油價下降】5 則  🟢高信心
-  ▸ 美伊戰火暫歇！中東供應風險降溫 油價今開盤重挫5% 股債金連動反彈
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%81%AB%E6%9A%AB%E6%AD%87-%E4%B8%AD%E6%9D%B1%E4%BE%9B%E6%87%89%E9%A2%A8%E9%9A%AA%E9%99%8D%E6%BA%AB-%E6%B2%B9%E5%83%B9%E4%BB%8A%E9%96%8B%E7%9B%A4%E9%87%8D%E6%8C%AB5-%E8%82%A1%E5%82%B5%E9%87%91%E9%80%A3%E5%8B%95%E5%8F%8D%E5%BD%88-030031302.html
-  ▸ Oil slides as Trump pauses Iran strikes, easing supply fears
-    https://seekingalpha.com/news/4618507-oil-slides-as-trump-pauses-iran-strikes-easing-supply-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Oil prices sink, stock futures rally as U.S. and Iran pause 
-    https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories
-
-【關稅/貿易戰】4 則  🟢高信心
-  ▸ 印尼加強金屬出口檢查 稀土、鈾成分受關注恐牽動全球供應鏈
-    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E5%8A%A0%E5%BC%B7%E9%87%91%E5%B1%AC%E5%87%BA%E5%8F%A3%E6%AA%A2%E6%9F%A5-%E7%A8%80%E5%9C%9F-%E9%88%BE%E6%88%90%E5%88%86%E5%8F%97%E9%97%9C%E6%B3%A8%E6%81%90%E7%89%BD%E5%8B%95%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88-040200202.html
-  ▸ 快時尚Shein首季虧損9900萬美元 關稅衝擊香港IPO前景
-    https://tw.stock.yahoo.com/news/%E5%BF%AB%E6%99%82%E5%B0%9Ashein%E9%A6%96%E5%AD%A3%E8%99%A7%E6%90%8D9900%E8%90%AC%E7%BE%8E%E5%85%83-%E9%97%9C%E7%A8%85%E8%A1%9D%E6%93%8A%E9%A6%99%E6%B8%AFipo%E5%89%8D%E6%99%AF-033300841.html
-  ▸ SA Asks: How will Trump's new tariffs impact the EU trade de
-    https://seekingalpha.com/news/4618505-sa-asks-how-will-trumps-new-tariffs-impact-the-eu-trade-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【戰爭升溫】2 則  🟢高信心
-  ▸ Russia strikes Kyiv, other Ukraine cities; Russian-held area
-    https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820
+【戰爭升溫】4 則  🟢高信心
+  ▸ Myanmar military escalates civilian killings, monitor warns,
+    https://www.investing.com/news/world-news/myanmar-military-escalates-civilian-killings-monitor-warns-amid-diplomatic-push-4812954
+  ▸ Morning Bid: Markets dare to hope as US, Iran put war on hol
+    https://www.investing.com/news/economy-news/morning-bid-markets-dare-to-hope-as-us-iran-put-war-on-hold-4812957
   ▸ Ukraine strikes Iranian vessels in Caspian Sea, Tehran accus
     https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html
 
-【美元貶值】1 則  🟡單篇
-  ▸ Gold rises on weaker dollar; traders weigh Middle East pause
-    https://www.investing.com/news/commodities-news/gold-rises-on-weaker-dollar-traders-weigh-middle-east-pause-fed-outlook-4812946
+【升息】4 則  🟢高信心
+  ▸ Mortgage and refinance interest rates today, Sunday, July 26
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-26-2026-rates-up-since-last-week-100000833.html
+  ▸ Best CD rates today, Sunday, July 26, 2026: Lock in up to 4.
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-26-2026-lock-in-up-to-420-apy-100000233.html
+  ▸ What more expensive corporate debt could mean for the AI bui
+    https://www.cnbc.com/2026/07/26/what-more-expensive-corporate-debt-could-mean-for-the-ai-buildout.html
+
+【油價下降】4 則  🟢高信心
+  ▸ Asian equities rally as easing Middle East tensions send oil
+    https://seekingalpha.com/news/4618512-asian-equities-rally-ass-easing-middle-east-tensions-send-oil-lower-kospi-lags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Oil prices sink, stock futures rally as U.S. and Iran pause 
+    https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories
+  ▸ Oil slides 5% as Iran reportedly signals halt to attacks if 
+    https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html
+
+【政策補助】4 則  🟢高信心
+  ▸ 房仲：北市符合青安3.0門檻物件　平均屋齡35.8年
+    https://money.udn.com/money/story/10871/9653375
+  ▸ 經部推企業深度節能省下132.4億度電 已有5.2萬家中小企業參與
+    https://money.udn.com/money/story/11162/9653328
+  ▸ How AI wealth could be distributed to all Americans
+    https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ Dodla Dairy Q1 FY27 slides: record revenue meets margin sque
+    https://www.investing.com/news/company-news/dodla-dairy-q1-fy27-slides-record-revenue-meets-margin-squeeze-93CH-4812969
+  ▸ Earnings call transcript: Dodla Dairy posts record Q1 2026 r
+    https://www.investing.com/news/transcripts/earnings-call-transcript-dodla-dairy-posts-record-q1-2026-revenue-as-margins-narrow-93CH-4812961
+  ▸ Singapore tightens monetary policy in surprise move as risin
+    https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Why Trump's new tariff blitz is very different this time rou
+    https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html
+  ▸ Shein flags tariff hits after posting quarterly loss ahead o
+    https://www.cnbc.com/2026/07/26/shein-reveals-key-financials-ahead-of-hong-kong-ipo.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 新台幣午盤貶3.7分　暫收32.395元
+    https://money.udn.com/money/story/10871/9653290
 
 【記憶體漲價】1 則  🟡單篇
   ▸ China memory chipmaker CXMT skyrockets 500% in blockbuster S
     https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html
 
-【通膨上升】1 則  🟡單篇
-  ▸ Singapore tightens monetary policy in surprise move as risin
-    https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html
+【航運運價上升】1 則  🟡單篇
+  ▸ 伊朗聲稱攔截6艘船舶，荷姆茲航運未復常，能源供應風險仍存
+    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E8%81%B2%E7%A8%B1%E6%94%94%E6%88%AA6%E8%89%98%E8%88%B9%E8%88%B6-%E8%8D%B7%E5%A7%86%E8%8C%B2%E8%88%AA%E9%81%8B%E6%9C%AA%E5%BE%A9%E5%B8%B8-%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89%E9%A2%A8%E9%9A%AA%E4%BB%8D%E5%AD%98-051920066.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 2. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 3. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
  6. 2382.TW      +3.0  AI伺服器｜AI熱潮
  7. 2356.TW      +3.0  AI伺服器｜AI熱潮
  8. 2308.TW      +3.0  AI伺服器｜AI熱潮
@@ -98,16 +97,16 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2330.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 2. 2454.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 3. 2303.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 4. 3711.TW      -4.4  半導體｜AI熱潮、景氣轉弱
- 5. 2515.TW      -3.0  建材營造｜升息
- 6. 5534.TW      -3.0  建材營造｜升息
- 7. 2504.TW      -3.0  建材營造｜升息
- 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 2317.TW      -3.0  電子零組件｜景氣轉弱、關稅/貿易戰
+ 1. 2317.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 2515.TW      -3.0  建材營造｜升息
+ 7. 5534.TW      -3.0  建材營造｜升息
+ 8. 2504.TW      -3.0  建材營造｜升息
+ 9. 2330.TW      -2.1  半導體｜AI熱潮、景氣轉弱
+10. 2454.TW      -2.1  半導體｜AI熱潮、景氣轉弱
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
