@@ -1,0 +1,108 @@
+📊 事件驅動選股日報 2026-07-28
+════════════════════════════════
+掃描 130 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【重點提要】
+1.  AI熱潮持續，Nvidia及AI基礎設施供應商受關注，但部分AI相關金融產品已出現潛在壓力。
+2.  全球經濟顯現疲軟跡象，美國股指期貨下滑，南韓KOSPI指數大跌，半導體產業面臨賣壓。
+3.  通膨壓力仍存，促使部分央行持續評估緊縮貨幣政策，新加坡已意外升息。
+4.  借貸成本居高不下，美國學生貸款違約率上升，顯示消費者財務壓力增加。
+5.  原油價格因地緣政治緊張局勢暫緩而下跌，或有助於緩解部分通膨壓力。
+
+【具體總結】
+今日全球市場呈現多空交織的局面。AI領域的熱度持續，Nvidia與基礎設施投資仍受青睞，但同時有跡象顯示AI相關資產可能面臨風險。全球經濟放緩的訊號日益明確，導致股市（尤其亞洲）與半導體產業承壓。各國央行因應持續的通膨壓力，可能維持偏緊的貨幣政策，推升借貸成本並影響消費者支出。然而，國際油價的回落，有望為居高不下的通膨帶來一定程度的緩解。整體而言，市場在產業結構性機會與總體經濟逆風中尋求新的平衡點。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】22 則  🟢高信心
+  ▸ Navitas projects $13.5M Q3 revenue while targeting AI infras
+    https://seekingalpha.com/news/4619098-navitas-projects-13_5m-q3-revenue-while-targeting-ai-infrastructure-at-more-than-1-3-of-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Nvidia’s potential new deal with OpenAI would revive a spook
+    https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories
+  ▸ More cracks emerge in AI-related bonds as Meta, Microsoft ea
+    https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories
+
+【景氣轉弱】9 則  🟢高信心
+  ▸ U.S. stock futures slip, South Korea's Kospi plunges over 8%
+    https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html
+  ▸ Shares of SK Hynix plunge 10% in Seoul as semiconductor sell
+    https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html
+  ▸ Student loan default is rising: 3 ways to start paying down 
+    https://www.cnbc.com/select/smart-ways-to-chip-away-at-student-loan-balance/
+
+【升息】7 則  🟢高信心
+  ▸ RBA’s chief unsure if more rate hikes needed to tame inflati
+    https://www.investing.com/news/economy-news/rbas-chief-unsure-if-more-rate-hikes-needed-to-tame-inflation-4815416
+  ▸ Best CD rates today, Monday, July 27, 2026: Lock in up to 4.
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html
+  ▸ HELOC and home equity loan rates today, Monday, July 27, 202
+    https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ RBA’s chief unsure if more rate hikes needed to tame inflati
+    https://www.investing.com/news/economy-news/rbas-chief-unsure-if-more-rate-hikes-needed-to-tame-inflation-4815416
+  ▸ Yields are surging on these inflation-protected bonds. How t
+    https://www.cnbc.com/2026/07/27/yields-are-surging-on-these-inflation-protected-bonds-how-to-use-them.html
+  ▸ Singapore tightens monetary policy in surprise move as risin
+    https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html
+
+【油價下降】3 則  🟢高信心
+  ▸ Oil prices drop more than 2% as a pause in U.S.-Iran hostili
+    https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html
+  ▸ From 'oil' to 'shock',  here's what Kalshi traders expect Fe
+    https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html
+  ▸ Oil prices slide, Brent crude below $90 as pause to U.S.-Ira
+    https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ CNBC's The China Connection newsletter: A U.S.-China debate 
+    https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html
+  ▸ 川普新關稅政策　美國貿易代表稱不致衝擊經濟
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E6%96%B0%E9%97%9C%E7%A8%85%E6%94%BF%E7%AD%96-%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8%E7%A8%B1%E4%B8%8D%E8%87%B4%E8%A1%9D%E6%93%8A%E7%B6%93%E6%BF%9F-031245670.html
+  ▸ 快時尚巨擘Shein因關稅轉盈為虧 美歐貿易政策衝擊全球電商
+    https://tw.stock.yahoo.com/news/%E5%BF%AB%E6%99%82%E5%B0%9A%E5%B7%A8%E6%93%98shein%E5%9B%A0%E9%97%9C%E7%A8%85%E8%BD%89%E7%9B%88%E7%82%BA%E8%99%A7-%E7%BE%8E%E6%AD%90%E8%B2%BF%E6%98%93%E6%94%BF%E7%AD%96%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E9%9B%BB%E5%95%86-030830523.html
+
+【美元升值】3 則  🟢高信心
+  ▸ 新台幣貶逾1角失守32.4元 台股同步走弱 外資真跑了？
+    https://money.udn.com/money/story/10871/9655252
+  ▸ 披索貶至歷史新低，菲律賓央行小幅干預匯市
+    https://tw.stock.yahoo.com/news/%E6%8A%AB%E7%B4%A2%E8%B2%B6%E8%87%B3%E6%AD%B7%E5%8F%B2%E6%96%B0%E4%BD%8E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A4%AE%E8%A1%8C%E5%B0%8F%E5%B9%85%E5%B9%B2%E9%A0%90%E5%8C%AF%E5%B8%82-033409315.html
+  ▸ 股匯雙殺！新台幣貶1.45角、跌破32.4元 專家：不排除回測32.5元「楊金龍防線」
+    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6145%E8%A7%92%E3%80%81%E8%B7%8C%E7%A0%B4324%E5%85%83-%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E5%9B%9E%E6%B8%AC325%E5%85%83%E3%80%8C%E6%A5%8A%E9%87%91%E9%BE%8D%E9%98%B2%E7%B7%9A%E3%80%8D-024622174.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 綜所稅首批退稅7/31入帳　總金額612億元
+    https://money.udn.com/money/story/10871/9655272
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ 伊朗戰爭後首次會面  尼坦雅胡訪白宮見川普
+    https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BE%8C%E9%A6%96%E6%AC%A1%E6%9C%83%E9%9D%A2-%E5%B0%BC%E5%9D%A6%E9%9B%85%E8%83%A1%E8%A8%AA%E7%99%BD%E5%AE%AE%E8%A6%8B%E5%B7%9D%E6%99%AE-024358717.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 2. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 3. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2317.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 5. 2327.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 6. 3037.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 7. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 8. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
