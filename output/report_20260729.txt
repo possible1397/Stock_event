@@ -1,0 +1,117 @@
+📊 事件驅動選股日報 2026-07-29
+════════════════════════════════
+掃描 126 則新聞  |  偵測 11 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **地緣政治緊張升高**：中東地區衝突加劇，導致國際油價上漲，市場對全球經濟供應鏈及通膨壓力增加關注。
+2.  **亞洲股市顯著修正**：受地緣政治與景氣轉弱影響，韓國KOSPI指數觸及熔斷，台股亦大幅下挫失守重要關卡，顯示亞洲市場面臨較大賣壓。
+3.  **美元強勢與新興市場貨幣承壓**：美元指數走強，使得包括印尼盾、新台幣及人民幣在內的多個亞洲貨幣面臨貶值壓力及資金外流挑戰。
+4.  **AI熱潮面臨多重考驗**：AI技術雖推動企業效率提升，但產業同時面臨地緣政治限制（如對中國機器人與逆變器禁令）及對勞動市場的潛在影響，呈現多空交雜局面。
+
+**【具體總結】**
+今日全球市場受多重負面因素影響。中東地緣政治緊張推升國際油價，加劇全球通膨預期，並對供應鏈穩定性構成威脅。受此影響，亞洲主要股市呈現顯著修正，其中韓國與台灣市場均出現大幅下跌，反映景氣轉弱的擔憂及避險情緒升高。資金流向方面，美元走強導致多數新興市場貨幣承壓，顯示國際資本正加速回流美元資產。儘管AI技術持續發展，但相關產業同時面臨地緣政治限制與市場重新評估的挑戰。整體而言，市場避險情緒濃厚，面臨壓力。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】15 則  🟢高信心
+  ▸ The Dow jumps as the AI trade wobbles. Plus, a portfolio nam
+    https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html
+  ▸ Trump administration to ban new Chinese robots and inverters
+    https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html
+  ▸ Visa is cutting 7% of employees in efficiency push as AI res
+    https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html
+
+【景氣轉弱】11 則  🟢高信心
+  ▸ KOSPI盤中跌幅擴至8%，今年第九度熔斷，第23次賣方Sidecar啟動
+    https://tw.stock.yahoo.com/news/kospi%E7%9B%A4%E4%B8%AD%E8%B7%8C%E5%B9%85%E6%93%B4%E8%87%B38-%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B9%9D%E5%BA%A6%E7%86%94%E6%96%B7-%E7%AC%AC23%E6%AC%A1%E8%B3%A3%E6%96%B9sidecar%E5%95%9F%E5%8B%95-033919148.html
+  ▸ 弘塑除息46元創新高！遇台股血洗慘吞跌停 苦陷貼息窘境
+    https://tw.stock.yahoo.com/news/%E5%BC%98%E5%A1%91%E9%99%A4%E6%81%AF46%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98%EF%BC%81%E9%81%87%E5%8F%B0%E8%82%A1%E8%A1%80%E6%B4%97%E6%85%98%E5%90%9E%E8%B7%8C%E5%81%9C-%E8%8B%A6%E9%99%B7%E8%B2%BC%E6%81%AF%E7%AA%98%E5%A2%83-033026622.html
+  ▸ 4萬點失守引爆停損潮！台股直逼半年線，被動元件止跌成反攻關鍵
+    https://tw.stock.yahoo.com/news/4%E8%90%AC%E9%BB%9E%E5%A4%B1%E5%AE%88%E5%BC%95%E7%88%86%E5%81%9C%E6%90%8D%E6%BD%AE-%E5%8F%B0%E8%82%A1%E7%9B%B4%E9%80%BC%E5%8D%8A%E5%B9%B4%E7%B7%9A-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E6%AD%A2%E8%B7%8C%E6%88%90%E5%8F%8D%E6%94%BB%E9%97%9C%E9%8D%B5-032123302.html
+
+【戰爭升溫】10 則  🟢高信心
+  ▸ Iran fires missiles at U.S. forces in Middle East, ending ce
+    https://www.investing.com/news/economy-news/iran-fires-missiles-at-us-forces-in-middle-east-ending-ceasefire-lull-4818361
+  ▸ US, Saudis attack Iran-backed groups in Iraq, threatening to
+    https://www.investing.com/news/world-news/us-saudis-attack-iranbacked-groups-in-iraq-threatening-to-intensify-conflict-4818547
+  ▸ Oil rises as US-Iran tension escalates after Iraq strikes, m
+    https://www.investing.com/news/commodities-news/oil-prices-rebound-by-more-than-2-a-barrel-on-prospect-of-tightening-us-crude-supplies-4818435
+
+【油價上升】5 則  🟢高信心
+  ▸ Gold prices steady ahead of Fed decision; oil rebound revive
+    https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551
+  ▸ Oil rises as US-Iran tension escalates after Iraq strikes, m
+    https://www.investing.com/news/commodities-news/oil-prices-rebound-by-more-than-2-a-barrel-on-prospect-of-tightening-us-crude-supplies-4818435
+  ▸ Oil jumps as U.S.-Iran resume strikes after a brief pause
+    https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html
+
+【美元升值】5 則  🟢高信心
+  ▸ 印尼央行加碼穩匯救印尼盾，祭多元貨幣工具吸引外資回流
+    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%B0%BC%E5%A4%AE%E8%A1%8C%E5%8A%A0%E7%A2%BC%E7%A9%A9%E5%8C%AF%E6%95%91%E5%8D%B0%E5%B0%BC%E7%9B%BE-%E7%A5%AD%E5%A4%9A%E5%85%83%E8%B2%A8%E5%B9%A3%E5%B7%A5%E5%85%B7%E5%90%B8%E5%BC%95%E5%A4%96%E8%B3%87%E5%9B%9E%E6%B5%81-034134145.html
+  ▸ 股利匯出、外資賣超夾擊，新台幣恐創11年來最疲弱7月表現
+    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%88%A9%E5%8C%AF%E5%87%BA-%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%A4%BE%E6%93%8A-%E6%96%B0%E5%8F%B0%E5%B9%A3%E6%81%90%E5%89%B511%E5%B9%B4%E4%BE%86%E6%9C%80%E7%96%B2%E5%BC%B17%E6%9C%88%E8%A1%A8%E7%8F%BE-033030529.html
+  ▸ 中間價升破6.79創42個月高位，CNY與CNH逆勢追低、退守6.78關口
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%8D%87%E7%A0%B46-79%E5%89%B542%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-cny%E8%88%87cnh%E9%80%86%E5%8B%A2%E8%BF%BD%E4%BD%8E-%E9%80%80%E5%AE%886-78%E9%97%9C%E5%8F%A3-031931018.html
+
+【通膨上升】2 則  🟢高信心
+  ▸ Gold prices steady ahead of Fed decision; oil rebound revive
+    https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551
+  ▸ 通膨壓力未歇！南韓央行：有機會進一步升息
+    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B%E6%9C%AA%E6%AD%87-%E5%8D%97%E9%9F%93%E5%A4%AE%E8%A1%8C-%E6%9C%89%E6%A9%9F%E6%9C%83%E9%80%B2-%E6%AD%A5%E5%8D%87%E6%81%AF-031600590.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Trump: New tariffs 'doing the same thing' as the ones struck
+    https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html
+  ▸ Trump administration to ban new Chinese robots and inverters
+    https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html
+
+【升息】2 則  🟢高信心
+  ▸ 日本最低工資有望穩步成長，助力BOJ升息路徑
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E6%9C%89%E6%9C%9B%E7%A9%A9%E6%AD%A5%E6%88%90%E9%95%B7-%E5%8A%A9%E5%8A%9Bboj%E5%8D%87%E6%81%AF%E8%B7%AF%E5%BE%91-032029960.html
+  ▸ 通膨壓力未歇！南韓央行：有機會進一步升息
+    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B%E6%9C%AA%E6%AD%87-%E5%8D%97%E9%9F%93%E5%A4%AE%E8%A1%8C-%E6%9C%89%E6%A9%9F%E6%9C%83%E9%80%B2-%E6%AD%A5%E5%8D%87%E6%81%AF-031600590.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ SK Hynix shares fall as exponential earnings growth fails to
+    https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 從閉眼買都漲，到好地段才有價值…青安3.0真正考驗：買得低不如買得對！房市想回春得看「2條件」
+    https://tw.news.yahoo.com/%E5%BE%9E%E9%96%89%E7%9C%BC%E8%B2%B7%E9%83%BD%E6%BC%B2-%E5%88%B0%E5%A5%BD%E5%9C%B0%E6%AE%B5%E6%89%8D%E6%9C%89%E5%83%B9%E5%80%BC-%E9%9D%92%E5%AE%893-0%E7%9C%9F%E6%AD%A3%E8%80%83%E9%A9%97-%E8%B2%B7%E5%BE%97%E4%BD%8E%E4%B8%8D%E5%A6%82%E8%B2%B7%E5%BE%97%E5%B0%8D-030713026.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ Werner outlines Dedicated revenue per truck per week up 3% t
+    https://seekingalpha.com/news/4620020-werner-outlines-dedicated-revenue-per-truck-per-week-up-3-percent-to-5-percent-and-lifts-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -4.4  電子零組件｜景氣轉弱、通膨上升
+ 4. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
