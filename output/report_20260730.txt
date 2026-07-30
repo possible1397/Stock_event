@@ -1,0 +1,115 @@
+📊 事件驅動選股日報 2026-07-30
+════════════════════════════════
+掃描 127 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  AI產業持續擴大投資與需求，科技巨頭展現強勁獲利與資本支出動能。
+2.  中東地緣政治風險升溫，美國對伊朗發動攻擊，帶動國際油價飆破90美元。
+3.  全球通膨壓力未減，消費者面臨成本上升，部分商品（如食用油）供應風險浮現。
+4.  主要股市面臨修正壓力，美股與台股均出現顯著下跌，市場對景氣放緩擔憂加劇。
+
+【具體總結】：
+今日盤勢呈現多空交織格局。儘管AI相關產業持續受惠於強勁的需求與投資熱潮，科技巨頭財報表現亮眼，但中東地緣政治緊張情勢急劇升溫，直接推升國際油價，並加劇全球通膨壓力。在通膨與戰爭陰影下，主要股市普遍承受賣壓，投資人對經濟前景的擔憂加劇。資金動向可能呈現防禦性操作，尋求避險資產或具備明確成長性的產業，整體市場情緒偏向謹慎。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】17 則  🟢高信心
+  ▸ Zuckerberg lays out Meta's AI capacity dilemma: What to sell
+    https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html
+  ▸ Microsoft jumps 8% as it boosts capital spending plans, citi
+    https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
+  ▸ Samsung Electronics second-quarter operating profit beats es
+    https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html
+
+【戰爭升溫】9 則  🟢高信心
+  ▸ U.S. strikes Iran after surprise missile attack, dashing hop
+    https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html
+  ▸ Brent oil jumps back above $90 after Trump threatens to hit 
+    https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html
+  ▸ Why the USO oil ETF is a better buy than crude futures as th
+    https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories
+
+【通膨上升】5 則  🟢高信心
+  ▸ Back-to-school costs are squeezing families. Here's the chea
+    https://www.cnbc.com/select/how-to-finance-back-to-school-costs/
+  ▸ Fed meeting recap: Warsh says Fed won't hesitate to stop inf
+    https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html
+  ▸ 南僑：食用油有缺貨風險 籲深化「食安五環」
+    https://money.udn.com/money/story/10871/9659304
+
+【油價上升】5 則  🟢高信心
+  ▸ Brent oil jumps back above $90 after Trump threatens to hit 
+    https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html
+  ▸ Why the USO oil ETF is a better buy than crude futures as th
+    https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories
+  ▸ U.S. strikes dozens of targets in Iran after intercepting mi
+    https://www.investing.com/news/economy-news/us-begins-strikes-on-iran-after-trump-vows-forceful-response-4822215
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Here are the last times the Dow dropped by 1,000 points and 
+    https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html
+  ▸ 美股下挫費半摔逾5%　法人估台股打底時間拉長
+    https://money.udn.com/money/story/11162/9659664
+  ▸ 台股兩天暴殺3500點國安基金救不救？ 操盤手阮清華說話了
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%85%A9%E5%A4%A9%E6%9A%B4%E6%AE%BA3500%E9%BB%9E%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E6%95%91%E4%B8%8D%E6%95%91%EF%BC%9F-%E6%93%8D%E7%9B%A4%E6%89%8B%E9%98%AE%E6%B8%85%E8%8F%AF%E8%AA%AA%E8%A9%B1%E4%BA%86-025554486.html
+
+【升息】3 則  🟢高信心
+  ▸ Another bank raised its CD rate to 4%. Where to lock in the 
+    https://www.cnbc.com/2026/07/29/another-bank-raised-its-cd-rate-to-4percent-where-to-lock-in-the-best-yields.html
+  ▸ Fed meeting recap: Warsh says Fed won't hesitate to stop inf
+    https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html
+  ▸ 香港金管局在聯準會決議後發出利率風險警告，籲留意借貸與投資風險
+    https://tw.stock.yahoo.com/news/%E9%A6%99%E6%B8%AF%E9%87%91%E7%AE%A1%E5%B1%80%E5%9C%A8%E8%81%AF%E6%BA%96%E6%9C%83%E6%B1%BA%E8%AD%B0%E5%BE%8C%E7%99%BC%E5%87%BA%E5%88%A9%E7%8E%87%E9%A2%A8%E9%9A%AA%E8%AD%A6%E5%91%8A-%E7%B1%B2%E7%95%99%E6%84%8F%E5%80%9F%E8%B2%B8%E8%88%87%E6%8A%95%E8%B3%87%E9%A2%A8%E9%9A%AA-030138605.html
+
+【記憶體漲價】3 則  🟢高信心
+  ▸ Qualcomm to raise prices during memory crunch as chipmaker i
+    https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html
+  ▸ Qualcomm’s stock falls as memory woes weigh on earnings
+    https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories
+  ▸ 〈財報〉成也AI敗也AI！三星半導體狂賺 手機業務首見虧損
+    https://tw.stock.yahoo.com/news/%E8%B2%A1%E5%A0%B1-%E6%88%90%E4%B9%9Fai%E6%95%97%E4%B9%9Fai-%E4%B8%89%E6%98%9F%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%8B%82%E8%B3%BA-%E6%89%8B%E6%A9%9F%E6%A5%AD%E5%8B%99%E9%A6%96%E8%A6%8B%E8%99%A7%E6%90%8D-023943382.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ China threatens retaliation against U.S. humanoid robot ban,
+    https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html
+
+【政策補助】1 則  🟡單篇
+  ▸ 因應人道危機 古巴政府鬆綁私營部門與進口管制
+    https://tw.news.yahoo.com/%E5%9B%A0%E6%87%89%E4%BA%BA%E9%81%93%E5%8D%B1%E6%A9%9F-%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C%E9%AC%86%E7%B6%81%E7%A7%81%E7%87%9F%E9%83%A8%E9%96%80%E8%88%87%E9%80%B2%E5%8F%A3%E7%AE%A1%E5%88%B6-024044721.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 中間價升至42個月高點，CNY盤中連二升，CNH突破6.76阻力後回貶
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%8D%87%E8%87%B342%E5%80%8B%E6%9C%88%E9%AB%98%E9%BB%9E-cny%E7%9B%A4%E4%B8%AD%E9%80%A3%E4%BA%8C%E5%8D%87-cnh%E7%AA%81%E7%A0%B46-76%E9%98%BB%E5%8A%9B%E5%BE%8C%E5%9B%9E%E8%B2%B6-023216776.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.8  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -4.8  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -4.8  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
