@@ -1,0 +1,96 @@
+📊 事件驅動選股日報 2026-07-31
+════════════════════════════════
+掃描 131 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+*   全球AI產業熱度持續，韓國政府宣布設立20兆韓元AI戰略基金，顯示政策面積極支持相關技術發展與國內市場穩定。
+*   美元維持強勢，導致日圓與韓圜面臨貶值壓力，兩國當局已啟動聯合干預，引發市場對匯率波動的高度關注。
+*   中國擬推出「十五五」擴大內需方案，透過宏觀政策刺激消費與物價回升，旨在穩定經濟增長。
+*   日本央行在維持利率不變的同時，示警通膨有上行風險並上調GDP預估，暗示未來貨幣政策仍具彈性。
+*   市場出現企業內部人士警示訊號，部分公司如Rivian也縮減支出計畫，反映對全球經濟前景的謹慎情緒。
+
+【具體總結】：
+今日盤勢主要受政策導向與匯率波動影響。AI產業在全球獲得政府資金支持，預期相關概念股仍為市場焦點。同時，強勢美元與日韓聯合干預行動，將使外匯市場持續動盪，並可能影響亞洲貨幣政策走向。中國與日本的宏觀政策，一為刺激內需與通膨，一為預警通膨上行，顯示各國經濟基本面與政策目標存在差異。儘管有政策支撐，部分企業發出的景氣轉弱訊號，提醒投資人仍需謹慎評估總體經濟風險。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】21 則  🟢高信心
+  ▸ Implosion of Situational Awareness hedge fund has Wall Stree
+    https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories
+  ▸ Can credit cards survive AI shopping? Why Mastercard’s CEO s
+    https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories
+  ▸ 韓國擬設20兆韓元AI戰略基金，首度開放投資國內資產穩定市場
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%93%AC%E8%A8%AD20%E5%85%86%E9%9F%93%E5%85%83ai%E6%88%B0%E7%95%A5%E5%9F%BA%E9%87%91-%E9%A6%96%E5%BA%A6%E9%96%8B%E6%94%BE%E6%8A%95%E8%B3%87%E5%9C%8B%E5%85%A7%E8%B3%87%E7%94%A2%E7%A9%A9%E5%AE%9A%E5%B8%82%E5%A0%B4-034611696.html
+
+【美元升值】4 則  🟢高信心
+  ▸ IMF指導方針下，ING：日本或需連續三日干預以提振日圓
+    https://tw.stock.yahoo.com/news/imf%E6%8C%87%E5%B0%8E%E6%96%B9%E9%87%9D%E4%B8%8B-ing-%E6%97%A5%E6%9C%AC%E6%88%96%E9%9C%80%E9%80%A3%E7%BA%8C%E4%B8%89%E6%97%A5%E5%B9%B2%E9%A0%90%E4%BB%A5%E6%8F%90%E6%8C%AF%E6%97%A5%E5%9C%93-032222989.html
+  ▸ Rare Japan-Korea joint intervention shakes up yen and won
+    https://www.investing.com/news/economy-news/rare-japankorea-joint-intervention-shakes-up-yen-and-won-4826726
+  ▸ Yen remains under pressure after BOJ kept rates unchanged
+    https://www.investing.com/news/economy-news/yen-weakens-after-interventionled-surge-ahead-of-boj-policy-decision-4826616
+
+【政策補助】3 則  🟢高信心
+  ▸ 韓國擬設20兆韓元AI戰略基金，首度開放投資國內資產穩定市場
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%93%AC%E8%A8%AD20%E5%85%86%E9%9F%93%E5%85%83ai%E6%88%B0%E7%95%A5%E5%9F%BA%E9%87%91-%E9%A6%96%E5%BA%A6%E9%96%8B%E6%94%BE%E6%8A%95%E8%B3%87%E5%9C%8B%E5%85%A7%E8%B3%87%E7%94%A2%E7%A9%A9%E5%AE%9A%E5%B8%82%E5%A0%B4-034611696.html
+  ▸ 中國擬推「十五五」擴大內需方案，宏觀政策加力促物價回升
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8-%E5%8D%81%E4%BA%94%E4%BA%94-%E6%93%B4%E5%A4%A7%E5%85%A7%E9%9C%80%E6%96%B9%E6%A1%88-%E5%AE%8F%E8%A7%80%E6%94%BF%E7%AD%96%E5%8A%A0%E5%8A%9B%E4%BF%83%E7%89%A9%E5%83%B9%E5%9B%9E%E5%8D%87-033554480.html
+  ▸ 臺南創新公辦都更招商 打造城市發展新典範
+    https://money.udn.com/money/story/10871/9662340
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Corporate insiders are sending warning signals about the sto
+    https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories
+  ▸ Rivian reduces 2026 spending plans, narrows earnings guidanc
+    https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html
+
+【通膨上升】2 則  🟢高信心
+  ▸ 中國擬推「十五五」擴大內需方案，宏觀政策加力促物價回升
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8-%E5%8D%81%E4%BA%94%E4%BA%94-%E6%93%B4%E5%A4%A7%E5%85%A7%E9%9C%80%E6%96%B9%E6%A1%88-%E5%AE%8F%E8%A7%80%E6%94%BF%E7%AD%96%E5%8A%A0%E5%8A%9B%E4%BF%83%E7%89%A9%E5%83%B9%E5%9B%9E%E5%8D%87-033554480.html
+  ▸ 日銀8比1按兵不動但示警通膨上行，上調今明兩年GDP估值0.1個百分點
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E9%8A%808%E6%AF%941%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95%E4%BD%86%E7%A4%BA%E8%AD%A6%E9%80%9A%E8%86%A8%E4%B8%8A%E8%A1%8C-%E4%B8%8A%E8%AA%BF%E4%BB%8A%E6%98%8E%E5%85%A9%E5%B9%B4gdp%E4%BC%B0%E5%80%BC0-1%E5%80%8B%E7%99%BE%E5%88%86%E9%BB%9E-032057923.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ South Korea reviews near-shootdown of US military drone near
+    https://www.investing.com/news/world-news/south-korea-reviews-nearshootdown-of-us-military-drone-near-border-4826722
+
+【升息】1 則  🟡單篇
+  ▸ Best CD rates today, Thursday, July 30, 2026: Lock in up to 
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-30-2026-lock-in-up-to-415-apy-with-a-14-month-cd-100000132.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Trump says sanctions bill should include tariffs on Iran, de
+    https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +4.7  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +4.7  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2880.TW      +2.8  金融｜戰爭升溫、升息
+ 9. 2881.TW      +2.8  金融｜戰爭升溫、升息
+10. 2882.TW      +2.8  金融｜戰爭升溫、升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 4. 2603.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 5. 2609.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 6. 2615.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 7. 2618.TW      -2.1  交通運輸及航運｜戰爭升溫
+ 8. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
