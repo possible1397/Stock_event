@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>事件驅動選股日報 2026-08-03</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+  background: #f5f6fa; color: #2c3e50; padding: 20px;
+}
+.container { max-width: 960px; margin: 0 auto; }
+h1 { font-size: 1.5rem; border-bottom: 3px solid #3498db; padding-bottom: 10px; margin-bottom: 6px; }
+h2 { font-size: 1.05rem; margin: 28px 0 8px; color: #34495e; }
+.meta { color: #888; font-size: .85rem; margin-bottom: 16px; }
+.stat-bar {
+  display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;
+}
+.stat {
+  background: #fff; border-radius: 10px; padding: 14px 22px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.08); text-align: center; flex: 1; min-width: 100px;
+}
+.stat strong { display: block; font-size: 2rem; color: #3498db; line-height: 1.1; }
+.stat.red  strong { color: #e74c3c; }
+.stat.blue strong { color: #2980b9; }
+table {
+  width: 100%; border-collapse: collapse; background: #fff;
+  border-radius: 10px; overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,.08);
+}
+th {
+  background: #2c3e50; color: #fff; padding: 10px 12px;
+  font-size: .82rem; text-align: left;
+}
+td { padding: 10px 12px; border-bottom: 1px solid #f0f0f0; font-size: .87rem; vertical-align: top; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: #fafbfc; }
+.center { text-align: center; }
+.red  { color: #c0392b; font-weight: bold; }
+.blue { color: #2980b9; font-weight: bold; }
+.badge {
+  display: inline-block; padding: 2px 8px; border-radius: 4px;
+  font-size: .75rem; font-weight: bold;
+}
+.badge.green  { background: #d5f5e3; color: #1e8449; }
+.badge.orange { background: #fdebd0; color: #d35400; }
+.news-list {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 6px;
+}
+.news-list li { line-height: 1.4; }
+.news-list a {
+  color: #2980b9; text-decoration: none; font-weight: 500;
+}
+.news-list a:hover { text-decoration: underline; }
+.url-text {
+  font-size: .72rem; color: #aaa; word-break: break-all;
+}
+.chart-box {
+  background: #fff; border-radius: 10px; padding: 20px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-top: 8px;
+}
+.ai-summary-box {
+  background: #eaf2f8; border-left: 5px solid #2980b9; 
+  border-radius: 8px; padding: 16px 20px; margin-bottom: 20px;
+  font-size: .95rem; line-height: 1.6;
+}
+.ai-summary-box h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+footer {
+  margin-top: 40px; font-size: .78rem; color: #bbb; text-align: center; padding: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>📊 事件驅動選股日報</h1>
+<p class="meta">2026-08-03 &nbsp;·&nbsp; 自動掃描</p>
+
+<div class="stat-bar">
+  <div class="stat"><strong>119</strong>則新聞</div>
+  <div class="stat"><strong>9</strong>個事件</div>
+  <div class="stat red"><strong>15</strong>買進信號</div>
+  <div class="stat blue"><strong>15</strong>賣出信號</div>
+</div>
+
+<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>**今日盤勢與焦點速報**<br><br>1.  **【重點提要】**<br>    *   AI概念股呈現高檔震盪，Nvidia經歷回調，但阿里巴巴推出新模型與邊緣AI應用擴展，顯示產業發展多元。<br>    *   亞洲股市普遍承壓，韓國KOSPI指數大跌，反映全球景氣轉弱的疑慮及勞動力市場面臨的挑戰。<br>    *   聯準會升息預期持續，促使資金流入金融類股，定存利率維持高檔對儲蓄者具吸引力。<br>    *   AI需求強勁，帶動記憶體價格上漲，相關概念股在盤中表現突出。<br>    *   美日兩國聯手干預外匯市場，推升日圓及其他亞洲貨幣匯率，美元相對走貶。<br><br>2.  **【具體總結】**<br>    今日市場呈現多空交織格局，AI板塊在部分龍頭股修正下高檔震盪，但新技術進展與邊緣AI應用仍提供成長動能。在記憶體價格因AI需求走強的同時，亞洲股市普遍受經濟下行壓力影響而回落。此外，市場對聯準會升息的預期，引導資金轉向金融類股避險。美元則在美日聯手干預下走貶，推升部分亞洲貨幣。整體而言，資金流向趨於審慎，尋求價值防禦與特定受惠產業的機會。</p></div>
+
+<!-- 事件表格 -->
+<h2>🔍 偵測到的事件 &amp; 新聞來源</h2>
+<table>
+  <tr>
+    <th>事件</th>
+    <th style="text-align:center;width:60px">則數</th>
+    <th style="text-align:center;width:80px">信心</th>
+    <th>相關新聞（點標題可看原文）</th>
+  </tr>
+  
+        <tr>
+          <td><strong>AI熱潮</strong></td>
+          <td class="center">12</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://www.investing.com/news/stock-market-news/nvidia-has-fallen-sharply-from-2026-highs-is-the-stock-now-an-attractive-buy-93CH-4829756" target="_blank" rel="noopener">Nvidia has fallen sharply from 2026 highs. Is the stock now </a><br><span class="url-text">https://www.investing.com/news/stock-market-news/nvidia-has-fallen-sharply-from-2026-highs-is-the-stock-now-an-attractive-buy-93CH-4829756</span></li><li><a href="https://www.investing.com/news/stock-market-news/alibaba-unveils-qwen-38max-ai-model-shares-jump-4829755" target="_blank" rel="noopener">Alibaba unveils Qwen 3.8-MAX AI model; shares jump</a><br><span class="url-text">https://www.investing.com/news/stock-market-news/alibaba-unveils-qwen-38max-ai-model-shares-jump-4829755</span></li><li><a href="https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E9%82%8A%E7%B7%A3ai%E5%A0%B4%E5%9F%9F%E6%8C%81%E7%BA%8C%E6%93%B4%E5%A4%A7-%E5%AE%9C%E9%BC%8E%E5%8D%8A%E5%B9%B4%E7%B7%9A%E9%9C%87%E7%9B%AA%E5%BE%85%E6%94%BB-035654600.html" target="_blank" rel="noopener">焦點股：邊緣AI場域持續擴大，宜鼎半年線震盪待攻</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E9%82%8A%E7%B7%A3ai%E5%A0%B4%E5%9F%9F%E6%8C%81%E7%BA%8C%E6%93%B4%E5%A4%A7-%E5%AE%9C%E9%BC%8E%E5%8D%8A%E5%B9%B4%E7%B7%9A%E9%9C%87%E7%9B%AA%E5%BE%85%E6%94%BB-035654600.html</span></li><li><a href="https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E7%B7%AF%E7%A9%8Eq3%E9%80%B2%E5%85%A5%E8%B5%B7%E9%A3%9B%E6%9C%9F-%E7%BE%8E%E7%B3%BB%E5%A4%96%E8%B3%87%E5%96%8A%E8%90%AC%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9-%E8%82%A1%E5%83%B9%E6%BC%B2%E5%81%9C%E5%86%8D%E5%89%B5%E6%96%B0%E5%A4%A9%E5%83%B9-032510316.html" target="_blank" rel="noopener">焦點股：緯穎Q3進入起飛期，美系外資喊萬元目標價，股價漲停再創新天價</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E7%B7%AF%E7%A9%8Eq3%E9%80%B2%E5%85%A5%E8%B5%B7%E9%A3%9B%E6%9C%9F-%E7%BE%8E%E7%B3%BB%E5%A4%96%E8%B3%87%E5%96%8A%E8%90%AC%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9-%E8%82%A1%E5%83%B9%E6%BC%B2%E5%81%9C%E5%86%8D%E5%89%B5%E6%96%B0%E5%A4%A9%E5%83%B9-032510316.html</span></li><li><a href="https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88-%E8%A8%AD%E5%B0%88%E8%B2%AC%E5%B0%8F%E7%B5%84%E5%9A%B4%E7%AE%A1ai%E6%B7%B1%E5%81%BD%E8%88%87%E9%9D%9E%E6%B3%95%E5%85%A7%E5%AE%B9-030830667.html" target="_blank" rel="noopener">歐盟人工智能法案生效 設專責小組嚴管AI深偽與非法內容</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88-%E8%A8%AD%E5%B0%88%E8%B2%AC%E5%B0%8F%E7%B5%84%E5%9A%B4%E7%AE%A1ai%E6%B7%B1%E5%81%BD%E8%88%87%E9%9D%9E%E6%B3%95%E5%85%A7%E5%AE%B9-030830667.html</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>景氣轉弱</strong></td>
+          <td class="center">6</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://www.investing.com/news/stock-market-news/asia-stocks-retreat-as-kospi-sinks-4-ai-selloff-outweighs-iran-optimism-4829761" target="_blank" rel="noopener">Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs </a><br><span class="url-text">https://www.investing.com/news/stock-market-news/asia-stocks-retreat-as-kospi-sinks-4-ai-selloff-outweighs-iran-optimism-4829761</span></li><li><a href="https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html" target="_blank" rel="noopener">An exam leak in India exposed a Gen Z jobs crisis that goes </a><br><span class="url-text">https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html</span></li><li><a href="https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html" target="_blank" rel="noopener">Why people are dropping out of the workforce and not looking</a><br><span class="url-text">https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html</span></li><li><a href="https://money.udn.com/money/story/10871/9667267" target="_blank" rel="noopener">「四貸同堂」警訊浮現 李同榮：借錢炒股若失控恐釀兩大風險</a><br><span class="url-text">https://money.udn.com/money/story/10871/9667267</span></li><li><a href="https://money.udn.com/money/story/10871/9667243" target="_blank" rel="noopener">無薪假升溫再回3,026人 金屬機電工業增200多人</a><br><span class="url-text">https://money.udn.com/money/story/10871/9667243</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>升息</strong></td>
+          <td class="center">4</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories" target="_blank" rel="noopener">Investors are rotating into financial stocks. The Fed’s next</a><br><span class="url-text">https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories</span></li><li><a href="https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories" target="_blank" rel="noopener">Financial stocks are crushing it. These charts show why the </a><br><span class="url-text">https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories</span></li><li><a href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-2-2026-lock-in-up-to-410-apy-100000506.html" target="_blank" rel="noopener">Best CD rates today, Sunday, August 2, 2026: Lock in up to 4</a><br><span class="url-text">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-2-2026-lock-in-up-to-410-apy-100000506.html</span></li><li><a href="https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E7%B1%A0%E7%BD%A9-%E7%BE%8E%E8%82%A1%E7%9F%AD%E6%9C%9F%E4%BC%B0%E5%80%BC%E6%89%BF%E5%A3%93-030731513.html" target="_blank" rel="noopener">聯準會升息預期籠罩 美股短期估值承壓</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E7%B1%A0%E7%BD%A9-%E7%BE%8E%E8%82%A1%E7%9F%AD%E6%9C%9F%E4%BC%B0%E5%80%BC%E6%89%BF%E5%A3%93-030731513.html</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>記憶體漲價</strong></td>
+          <td class="center">4</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E6%8E%A8%E9%AB%98%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC-%E4%BA%9E%E6%B4%B2%E6%B6%88%E8%B2%BB%E6%80%A7%E8%A3%9D%E7%BD%AE%E5%B8%82%E5%A0%B4%E9%9D%A2%E8%87%A8%E8%AE%8A%E9%9D%A9-030608704.html" target="_blank" rel="noopener">AI需求推高記憶體價格 亞洲消費性裝置市場面臨變革</a><br><span class="url-text">https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E6%8E%A8%E9%AB%98%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC-%E4%BA%9E%E6%B4%B2%E6%B6%88%E8%B2%BB%E6%80%A7%E8%A3%9D%E7%BD%AE%E5%B8%82%E5%A0%B4%E9%9D%A2%E8%87%A8%E8%AE%8A%E9%9D%A9-030608704.html</span></li><li><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-cpo-%E8%A8%98%E6%86%B6%E9%AB%94%E8%88%87%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%BC%B7%E6%94%BB-030403169.html" target="_blank" rel="noopener">【台股盤中】CPO、記憶體與被動元件強攻</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-cpo-%E8%A8%98%E6%86%B6%E9%AB%94%E8%88%87%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%BC%B7%E6%94%BB-030403169.html</span></li><li><a href="https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%88%B7-%E6%8E%92%E6%BC%B2%E5%81%9C-%E9%A6%96%E9%81%B8%E9%80%99%E6%AA%94-%E5%B0%88%E5%AE%B6%E6%9B%9D%E5%A4%A7%E6%B3%A2%E6%AE%B5%E5%90%83%E8%82%89%E6%99%82%E6%A9%9F%E9%BB%9E-030042237.html" target="_blank" rel="noopener">記憶體刷一排漲停「首選這檔」專家曝大波段吃肉時機點</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%88%B7-%E6%8E%92%E6%BC%B2%E5%81%9C-%E9%A6%96%E9%81%B8%E9%80%99%E6%AA%94-%E5%B0%88%E5%AE%B6%E6%9B%9D%E5%A4%A7%E6%B3%A2%E6%AE%B5%E5%90%83%E8%82%89%E6%99%82%E6%A9%9F%E9%BB%9E-030042237.html</span></li><li><a href="https://money.udn.com/money/story/11162/9667146" target="_blank" rel="noopener">台股開低翻紅漲逾600點　CPO、記憶體與被動元件強攻</a><br><span class="url-text">https://money.udn.com/money/story/11162/9667146</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>美元貶值</strong></td>
+          <td class="center">3</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%97%A5%E8%81%AF%E6%89%8B%E5%B9%B2%E9%A0%90%E6%8E%A8%E5%8D%87%E4%BA%9E%E6%B4%B2%E8%B2%A8%E5%B9%A3-%E4%BA%BA%E6%B0%91%E5%B9%A3%E7%9B%A4%E5%88%9D%E5%8D%87%E7%A0%B46-75%E8%87%B342%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-030005866.html" target="_blank" rel="noopener">美日聯手干預推升亞洲貨幣，人民幣盤初升破6.75至42個月高位</a><br><span class="url-text">https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%97%A5%E8%81%AF%E6%89%8B%E5%B9%B2%E9%A0%90%E6%8E%A8%E5%8D%87%E4%BA%9E%E6%B4%B2%E8%B2%A8%E5%B9%A3-%E4%BA%BA%E6%B0%91%E5%B9%A3%E7%9B%A4%E5%88%9D%E5%8D%87%E7%A0%B46-75%E8%87%B342%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-030005866.html</span></li><li><a href="https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html" target="_blank" rel="noopener">Why the U.S. stepped in after decades to prop up Japan's yen</a><br><span class="url-text">https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html</span></li><li><a href="https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html" target="_blank" rel="noopener">U.S., Japan confirm coordinated yen intervention, signal rea</a><br><span class="url-text">https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>戰爭升溫</strong></td>
+          <td class="center">2</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html" target="_blank" rel="noopener">Investors scored on Iran war's oil market boom. Staying long</a><br><span class="url-text">https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html</span></li><li><a href="https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html" target="_blank" rel="noopener">Ukrainian drones kill two in Russia, strike Wildberries ware</a><br><span class="url-text">https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>油價上升</strong></td>
+          <td class="center">2</td>
+          <td class="center"><span class="badge green">高信心</span></td>
+          <td><ul class="news-list"><li><a href="https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html" target="_blank" rel="noopener">Investors scored on Iran war's oil market boom. Staying long</a><br><span class="url-text">https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html</span></li><li><a href="https://money.udn.com/money/story/10871/9667171" target="_blank" rel="noopener">航空燃油漲價 國籍航空9日起調升燃油附加費短程30美元、長程78美元</a><br><span class="url-text">https://money.udn.com/money/story/10871/9667171</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>通膨上升</strong></td>
+          <td class="center">1</td>
+          <td class="center"><span class="badge orange">單篇</span></td>
+          <td><ul class="news-list"><li><a href="https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html" target="_blank" rel="noopener">Why flights are so expensive and will likely stay that way</a><br><span class="url-text">https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html</span></li></ul></td>
+        </tr>
+        <tr>
+          <td><strong>政策補助</strong></td>
+          <td class="center">1</td>
+          <td class="center"><span class="badge orange">單篇</span></td>
+          <td><ul class="news-list"><li><a href="https://money.udn.com/money/story/10871/9667114" target="_blank" rel="noopener">台南捷運藍線將動工 平實營區房價站穩6字頭</a><br><span class="url-text">https://money.udn.com/money/story/10871/9667114</span></li></ul></td>
+        </tr>
+</table>
+
+<!-- 事件熱度圖 -->
+<h2>📈 事件熱度圖</h2>
+<div class="chart-box" style="height:320px">
+  <canvas id="chartEvents"></canvas>
+</div>
+
+<!-- 買進信號 -->
+<h2>▲ 買進信號 TOP 15</h2>
+<table>
+  <tr>
+    <th style="width:36px">#</th>
+    <th>代號</th>
+    <th style="text-align:center;width:70px">評分</th>
+    <th>產業</th>
+    <th>事件來源</th>
+    <th style="text-align:center;width:60px">信心</th>
+  </tr>
+  
+            <tr>
+              <td class="center">1</td>
+              <td><strong>6505.TW</strong></td>
+              <td class="center red">+7.8</td>
+              <td>油電燃氣</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">90%</td>
+            </tr>
+            <tr>
+              <td class="center">2</td>
+              <td><strong>8917.TW</strong></td>
+              <td class="center red">+7.8</td>
+              <td>油電燃氣</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">90%</td>
+            </tr>
+            <tr>
+              <td class="center">3</td>
+              <td><strong>2880.TW</strong></td>
+              <td class="center red">+4.0</td>
+              <td>金融</td>
+              <td>升息、戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">4</td>
+              <td><strong>2881.TW</strong></td>
+              <td class="center red">+4.0</td>
+              <td>金融</td>
+              <td>升息、戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">5</td>
+              <td><strong>2882.TW</strong></td>
+              <td class="center red">+4.0</td>
+              <td>金融</td>
+              <td>升息、戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">6</td>
+              <td><strong>2884.TW</strong></td>
+              <td class="center red">+4.0</td>
+              <td>金融</td>
+              <td>升息、戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">7</td>
+              <td><strong>2886.TW</strong></td>
+              <td class="center red">+4.0</td>
+              <td>金融</td>
+              <td>升息、戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">8</td>
+              <td><strong>2382.TW</strong></td>
+              <td class="center red">+3.0</td>
+              <td>AI伺服器</td>
+              <td>AI熱潮</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">9</td>
+              <td><strong>2356.TW</strong></td>
+              <td class="center red">+3.0</td>
+              <td>AI伺服器</td>
+              <td>AI熱潮</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">10</td>
+              <td><strong>2308.TW</strong></td>
+              <td class="center red">+3.0</td>
+              <td>AI伺服器</td>
+              <td>AI熱潮</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">11</td>
+              <td><strong>3017.TW</strong></td>
+              <td class="center red">+3.0</td>
+              <td>AI伺服器</td>
+              <td>AI熱潮</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">12</td>
+              <td><strong>6669.TWO</strong></td>
+              <td class="center red">+3.0</td>
+              <td>AI伺服器</td>
+              <td>AI熱潮</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">13</td>
+              <td><strong>2002.TW</strong></td>
+              <td class="center red">+2.9</td>
+              <td>鋼鐵</td>
+              <td>美元貶值、通膨上升</td>
+              <td class="center">85%</td>
+            </tr>
+            <tr>
+              <td class="center">14</td>
+              <td><strong>2006.TW</strong></td>
+              <td class="center red">+2.9</td>
+              <td>鋼鐵</td>
+              <td>美元貶值、通膨上升</td>
+              <td class="center">85%</td>
+            </tr>
+            <tr>
+              <td class="center">15</td>
+              <td><strong>2007.TW</strong></td>
+              <td class="center red">+2.9</td>
+              <td>鋼鐵</td>
+              <td>美元貶值、通膨上升</td>
+              <td class="center">85%</td>
+            </tr>
+</table>
+
+<!-- 賣出信號 -->
+<h2>▼ 賣出信號 TOP 15</h2>
+<table>
+  <tr>
+    <th style="width:36px">#</th>
+    <th>代號</th>
+    <th style="text-align:center;width:70px">評分</th>
+    <th>產業</th>
+    <th>事件來源</th>
+    <th style="text-align:center;width:60px">信心</th>
+  </tr>
+  
+            <tr>
+              <td class="center">1</td>
+              <td><strong>2603.TW</strong></td>
+              <td class="center blue">-6.0</td>
+              <td>交通運輸及航運</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">2</td>
+              <td><strong>2609.TW</strong></td>
+              <td class="center blue">-6.0</td>
+              <td>交通運輸及航運</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">3</td>
+              <td><strong>2615.TW</strong></td>
+              <td class="center blue">-6.0</td>
+              <td>交通運輸及航運</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">4</td>
+              <td><strong>2618.TW</strong></td>
+              <td class="center blue">-6.0</td>
+              <td>交通運輸及航運</td>
+              <td>戰爭升溫、油價上升</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">5</td>
+              <td><strong>2317.TW</strong></td>
+              <td class="center blue">-5.4</td>
+              <td>電子零組件</td>
+              <td>景氣轉弱、記憶體漲價</td>
+              <td class="center">90%</td>
+            </tr>
+            <tr>
+              <td class="center">6</td>
+              <td><strong>2327.TW</strong></td>
+              <td class="center blue">-5.4</td>
+              <td>電子零組件</td>
+              <td>景氣轉弱、記憶體漲價</td>
+              <td class="center">90%</td>
+            </tr>
+            <tr>
+              <td class="center">7</td>
+              <td><strong>3037.TW</strong></td>
+              <td class="center blue">-5.4</td>
+              <td>電子零組件</td>
+              <td>景氣轉弱、記憶體漲價</td>
+              <td class="center">90%</td>
+            </tr>
+            <tr>
+              <td class="center">8</td>
+              <td><strong>2330.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>半導體</td>
+              <td>AI熱潮、景氣轉弱</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">9</td>
+              <td><strong>2454.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>半導體</td>
+              <td>AI熱潮、景氣轉弱</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">10</td>
+              <td><strong>2303.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>半導體</td>
+              <td>AI熱潮、景氣轉弱</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">11</td>
+              <td><strong>3711.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>半導體</td>
+              <td>AI熱潮、景氣轉弱</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">12</td>
+              <td><strong>2515.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>建材營造</td>
+              <td>升息</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">13</td>
+              <td><strong>5534.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>建材營造</td>
+              <td>升息</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">14</td>
+              <td><strong>2504.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>建材營造</td>
+              <td>升息</td>
+              <td class="center">100%</td>
+            </tr>
+            <tr>
+              <td class="center">15</td>
+              <td><strong>2901.TW</strong></td>
+              <td class="center blue">-3.0</td>
+              <td>休閒娛樂</td>
+              <td>戰爭升溫</td>
+              <td class="center">100%</td>
+            </tr>
+</table>
+
+<!-- 信號強度圖 -->
+<h2>📉 信號強度分布</h2>
+<div class="chart-box" style="height:420px">
+  <canvas id="chartSignals"></canvas>
+</div>
+
+<footer>由事件驅動選股系統自動產生 &nbsp;·&nbsp; 2026-08-03<br>本報告僅供參考，不構成投資建議</footer>
+
+</div><!-- /container -->
+
+<script>
+// 事件熱度圖
+(function() {
+  const ctx = document.getElementById('chartEvents').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ["政策補助", "通膨上升", "油價上升", "戰爭升溫", "美元貶值", "記憶體漲價", "升息", "景氣轉弱", "AI熱潮"],
+      datasets: [{
+        label: '新聞則數',
+        data:   [1, 1, 2, 2, 3, 4, 4, 6, 12],
+        backgroundColor: ["rgba(243,156,18,0.8)", "rgba(243,156,18,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)", "rgba(46,204,113,0.8)"],
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: {
+          label: ctx => ctx.parsed.x + ' 則新聞'
+        }}
+      },
+      scales: {
+        x: { beginAtZero: true, ticks: { stepSize: 1 } },
+        y: { ticks: { font: { size: 13 } } }
+      }
+    }
+  });
+})();
+
+// 信號強度圖
+(function() {
+  const ctx = document.getElementById('chartSignals').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ["2330.TW", "2886.TW", "2884.TW", "2882.TW", "2881.TW", "2880.TW", "3037.TW", "2327.TW", "2317.TW", "2618.TW", "2615.TW", "2609.TW", "2603.TW", "8917.TW", "6505.TW"],
+      datasets: [{
+        label: '信號分數',
+        data:   [-3.0, 4.0, 4.0, 4.0, 4.0, 4.0, -5.44, -5.44, -5.44, -6.0, -6.0, -6.0, -6.0, 7.79, 7.79],
+        backgroundColor: ["rgba(52,152,219,0.8)", "rgba(231,76,60,0.8)", "rgba(231,76,60,0.8)", "rgba(231,76,60,0.8)", "rgba(231,76,60,0.8)", "rgba(231,76,60,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(52,152,219,0.8)", "rgba(231,76,60,0.8)", "rgba(231,76,60,0.8)"],
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: {
+          label: ctx => (ctx.parsed.x > 0 ? '買進 ' : '賣出 ') + ctx.parsed.x.toFixed(1)
+        }}
+      },
+      scales: {
+        x: { ticks: { callback: v => (v > 0 ? '+' : '') + v } },
+        y: { ticks: { font: { size: 12 } } }
+      }
+    }
+  });
+})();
+</script>
+</body>
+</html>
