@@ -1,0 +1,115 @@
+📊 事件驅動選股日報 2026-08-04
+════════════════════════════════
+掃描 136 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  AI技術熱潮延燒，持續推升相關企業獲利及營運效率，為科技股注入動能。
+2.  全球高利率環境持續，美元維持強勢，對部分貨幣（如日圓）構成壓力。
+3.  中東地緣政治風險升溫，市場避險情緒上升，黃金價格受支撐。
+4.  全球經濟顯露放緩跡象，消費動能受考驗，並伴隨潛在的去槓桿風險。
+
+【具體總結】：
+今日盤勢呈現多空交錯。AI熱潮持續推動科技股表現，吸引部分資金動能。然而，全球高利率環境及美元強勢對非美貨幣構成壓力，並與中東地緣政治風險共同推升市場避險情緒。此外，全球經濟成長放緩跡象及潛在的去槓桿風險，可能增加整體市場的不確定性與波動性，導致部分資金流向相對保守的避險資產。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】13 則  🟢高信心
+  ▸ Palantir’s stock climbs after earnings, as AI drives turboch
+    https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories
+  ▸ AI is helping Grab ship products 3 times faster, CFO says, a
+    https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html
+  ▸ CNBC's The China Connection newsletter: AI wins come with an
+    https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html
+
+【升息】7 則  🟢高信心
+  ▸ Best CD rates today, Monday, August 3, 2026: Lock in up to 4
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html
+  ▸ Best high-yield savings interest rates today, Monday, August
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html
+  ▸ HELOC and home equity loan rates today, Monday, August 3, 20
+    https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html
+
+【美元升值】5 則  🟢高信心
+  ▸ 美日近千億美元護日圓效果漸退，廣場協議2.0難敵利差與債務困局
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%97%A5%E8%BF%91%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E8%AD%B7%E6%97%A5%E5%9C%93%E6%95%88%E6%9E%9C%E6%BC%B8%E9%80%80-%E5%BB%A3%E5%A0%B4%E5%8D%94%E8%AD%B02-0%E9%9B%A3%E6%95%B5%E5%88%A9%E5%B7%AE%E8%88%87%E5%82%B5%E5%8B%99%E5%9B%B0%E5%B1%80-025716932.html
+  ▸ 基本面極為不利，日圓升勢恐曇花一現
+    https://tw.stock.yahoo.com/news/%E5%9F%BA%E6%9C%AC%E9%9D%A2%E6%A5%B5%E7%82%BA%E4%B8%8D%E5%88%A9-%E6%97%A5%E5%9C%93%E5%8D%87%E5%8B%A2%E6%81%90%E6%9B%87%E8%8A%B1-%E7%8F%BE-025012326.html
+  ▸ 三菱日聯：美國支持日本穩匯率有助於舒緩解美債拋壓
+    https://tw.stock.yahoo.com/news/%E4%B8%89%E8%8F%B1%E6%97%A5%E8%81%AF-%E7%BE%8E%E5%9C%8B%E6%94%AF%E6%8C%81%E6%97%A5%E6%9C%AC%E7%A9%A9%E5%8C%AF%E7%8E%87%E6%9C%89%E5%8A%A9%E6%96%BC%E8%88%92%E7%B7%A9%E8%A7%A3%E7%BE%8E%E5%82%B5%E6%8B%8B%E5%A3%93-024441694.html
+
+【戰爭升溫】4 則  🟢高信心
+  ▸ Status of US-Iran talks uncertain as ship struck in Hormuz
+    https://www.investing.com/news/commodities-news/status-of-usiran-talks-uncertain-as-ship-struck-in-hormuz-4832765
+  ▸ Analysis-How Iran is widening its pressure campaign to force
+    https://www.investing.com/news/commodities-news/analysishow-iran-is-widening-its-pressure-campaign-to-force-us-concessions-4830217
+  ▸ Gold prices today, Monday, August 3, 2026: Gold prices open 
+    https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Tourism price wars threaten to dim a rare bright spot in Chi
+    https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html
+  ▸ The signs you're living paycheck to paycheck — and the tools
+    https://www.cnbc.com/select/what-is-living-paycheck-to-paycheck/
+  ▸ AI基金爆倉、韓股崩跌，德銀示警全球去槓桿風險恐更頻繁上演
+    https://tw.stock.yahoo.com/news/ai%E5%9F%BA%E9%87%91%E7%88%86%E5%80%89-%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C-%E5%BE%B7%E9%8A%80%E7%A4%BA%E8%AD%A6%E5%85%A8%E7%90%83%E5%8E%BB%E6%A7%93%E6%A1%BF%E9%A2%A8%E9%9A%AA%E6%81%90%E6%9B%B4%E9%A0%BB%E7%B9%81%E4%B8%8A%E6%BC%94-025736836.html
+
+【油價上升】3 則  🟢高信心
+  ▸ Status of US-Iran talks uncertain as ship struck in Hormuz
+    https://www.investing.com/news/commodities-news/status-of-usiran-talks-uncertain-as-ship-struck-in-hormuz-4832765
+  ▸ Trump says Exxon and Chevron made 'too much money' off high 
+    https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html
+  ▸ 高盛估中東石油供應衝擊持續，陸原油進口或繼續低於正常水準
+    https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E4%BC%B0%E4%B8%AD%E6%9D%B1%E7%9F%B3%E6%B2%B9%E4%BE%9B%E6%87%89%E8%A1%9D%E6%93%8A%E6%8C%81%E7%BA%8C-%E9%99%B8%E5%8E%9F%E6%B2%B9%E9%80%B2%E5%8F%A3%E6%88%96%E7%B9%BC%E7%BA%8C%E4%BD%8E%E6%96%BC%E6%AD%A3%E5%B8%B8%E6%B0%B4%E6%BA%96-032051457.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Twenty five states sue Trump administration over latest glob
+    https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html
+  ▸ 美25州聯手轟川普關稅　要求停徵、退還稅款
+    https://tw.news.yahoo.com/%E7%BE%8E25%E5%B7%9E%E8%81%AF%E6%89%8B%E8%BD%9F%E5%B7%9D%E6%99%AE%E9%97%9C%E7%A8%85-%E8%A6%81%E6%B1%82%E5%81%9C%E5%BE%B5-%E9%80%80%E9%82%84%E7%A8%85%E6%AC%BE-031237575.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 營養午餐不只免費  何欣純推「2380六星級」升級政策
+    https://tw.news.yahoo.com/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E4%B8%8D%E5%8F%AA%E5%85%8D%E8%B2%BB-%E4%BD%95%E6%AC%A3%E7%B4%94%E6%8E%A8-2380%E5%85%AD%E6%98%9F%E7%B4%9A-%E5%8D%87%E7%B4%9A%E6%94%BF%E7%AD%96-034100695.html
+  ▸ 補助難敵買氣降溫 桃園電動機車市售比6年大減逾8成
+    https://money.udn.com/money/story/10871/9669269
+
+【通膨上升】1 則  🟡單篇
+  ▸ Manufacturing survey shows inflation worries 'worse than pan
+    https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 存儲三巨頭明年產能傳售罄，AI需求推升供應短缺與價格高檔常態化
+    https://tw.stock.yahoo.com/news/%E5%AD%98%E5%84%B2%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%98%8E%E5%B9%B4%E7%94%A2%E8%83%BD%E5%82%B3%E5%94%AE%E7%BD%84-ai%E9%9C%80%E6%B1%82%E6%8E%A8%E5%8D%87%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA%E8%88%87%E5%83%B9%E6%A0%BC%E9%AB%98%E6%AA%94%E5%B8%B8%E6%85%8B%E5%8C%96-030151155.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2515.TW      -3.0  建材營造｜升息
+ 6. 5534.TW      -3.0  建材營造｜升息
+ 7. 2504.TW      -3.0  建材營造｜升息
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2317.TW      -3.0  電子零組件｜景氣轉弱、關稅/貿易戰
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
