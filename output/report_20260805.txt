@@ -1,0 +1,103 @@
+📊 事件驅動選股日報 2026-08-05
+════════════════════════════════
+掃描 128 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【重點提要】
+1.  AI技術應用持續擴大，帶動部分產業增長，但相關供應鏈正受美中貿易摩擦升級的挑戰。
+2.  美中貿易戰持續升溫，尤其在半導體及AI光學元件領域，促使企業評估供應鏈多元化策略。
+3.  全球通膨壓力居高不下，各國央行持續關注物價上漲風險，並影響貨幣政策走向。
+4.  市場對經濟前景轉弱的擔憂浮現，部分投資者開始關注金融市場的潛在風險。
+
+【具體總結】
+今日盤勢主要受AI技術推進與美中貿易戰升級的雙重影響。AI雖為部分產業帶來成長動能，但相關供應鏈正面臨地緣政治風險。同時，全球通膨壓力未減，促使各國央行在貨幣政策上維持審慎態度。在這些宏觀因素交織下，市場對景氣轉弱的擔憂漸增，可能引導資金流向趨於保守，並更加關注具備供應鏈韌性或避險特性的標的。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】19 則  🟢高信心
+  ▸ Upstart’s AI upgrades pay off, as a pickup in loan growth he
+    https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories
+  ▸ China AI optical stocks fall on report U.S. weighs ban on da
+    https://www.investing.com/news/stock-market-news/china-ai-optical-stocks-fall-on-report-us-weighs-ban-on-data-center-components-4836355
+  ▸ Pinterest Q2 2026 slides: AI drives growth, UCAN accelerates
+    https://www.investing.com/news/company-news/pinterest-q2-2026-slides-ai-drives-growth-ucan-accelerates-93CH-4836352
+
+【關稅/貿易戰】10 則  🟢高信心
+  ▸ Exclusive-Samsung, SK Hynix test Chinese chip tools as hedge
+    https://www.investing.com/news/stock-market-news/exclusivesamsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-risks-4836340
+  ▸ China AI optical stocks fall on report U.S. weighs ban on da
+    https://www.investing.com/news/stock-market-news/china-ai-optical-stocks-fall-on-report-us-weighs-ban-on-data-center-components-4836355
+  ▸ Samsung, SK Hynix test Chinese chip tools amid U.S. curbs ri
+    https://www.investing.com/news/stock-market-news/samsung-sk-hynix-test-chinese-chip-tools-amid-us-curbs-risk--reuters-4836354
+
+【通膨上升】5 則  🟢高信心
+  ▸ So what’s the plan to bring down inflation? The new Fed chai
+    https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories
+  ▸ BOJ debated mounting price risks even upon hiking rates in J
+    https://www.investing.com/news/economy-news/boj-debated-mounting-price-risks-even-upon-hiking-rates-in-june-minutes-show-4836319
+  ▸ 房東才最恐怖！蜘蛛人紐約恐連套房都租不起
+    https://tw.news.yahoo.com/%E6%88%BF%E6%9D%B1%E6%89%8D%E6%9C%80%E6%81%90%E6%80%96-%E8%9C%98%E8%9B%9B%E4%BA%BA%E7%B4%90%E7%B4%84%E6%81%90%E9%80%A3%E5%A5%97%E6%88%BF%E9%83%BD%E7%A7%9F%E4%B8%8D%E8%B5%B7-024319332.html
+
+【升息】3 則  🟢高信心
+  ▸ BOJ debated mounting price risks even upon hiking rates in J
+    https://www.investing.com/news/economy-news/boj-debated-mounting-price-risks-even-upon-hiking-rates-in-june-minutes-show-4836319
+  ▸ Takaichi’s fiscal push could lift growth — and Japan’s alrea
+    https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html
+  ▸ Manufacturing survey shows inflation worries 'worse than pan
+    https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ 台灣融資維持率真相？韓國做錯什麼，讓槓桿ETF變風暴中心？去槓桿風暴完全拆解
+    https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87%E7%9C%9F%E7%9B%B8%EF%BC%9F%E9%9F%93%E5%9C%8B%E5%81%9A%E9%8C%AF%E4%BB%80%E9%BA%BC%EF%BC%8C%E8%AE%93%E6%A7%93%E6%A1%BFetf%E8%AE%8A%E9%A2%A8%E6%9A%B4%E4%B8%AD%E5%BF%83%EF%BC%9F%E5%8E%BB%E6%A7%93%E6%A1%BF%E9%A2%A8%E6%9A%B4%E5%AE%8C%E5%85%A8%E6%8B%86%E8%A7%A3-033226833.html
+  ▸ Michael Burry bets against rally: 'We are near a major top, 
+    https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html
+
+【政策補助】1 則  🟡單篇
+  ▸ Japan’s ruling party backs Takaichi’s costly food tax cut pl
+    https://www.investing.com/news/economy-news/japans-ruling-party-backs-takaichis-costly-food-tax-cut-plan-despite-fiscal-concerns-4836351
+
+【美元貶值】1 則  🟡單篇
+  ▸ 日圓止貶帶動亞幣重估，人民幣早盤逼近42個月高位
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E5%9C%93%E6%AD%A2%E8%B2%B6%E5%B8%B6%E5%8B%95%E4%BA%9E%E5%B9%A3%E9%87%8D%E4%BC%B0-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%97%A9%E7%9B%A4%E9%80%BC%E8%BF%9142%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-023511929.html
+
+【油價下降】1 則  🟡單篇
+  ▸ Oil prices tumble after Bessent says Strait of Hormuz deal m
+    https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 華強北 DRAM 價噴漲 現貨單周強彈14% 南亞科、華邦等受惠
+    https://money.udn.com/money/story/5612/9671038
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 捷迅：航空貨運價量齊揚
+    https://money.udn.com/money/story/5612/9670972
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2603.TW      +3.9  交通運輸及航運｜油價下降、航運運價上升
+ 2. 2609.TW      +3.9  交通運輸及航運｜油價下降、航運運價上升
+ 3. 2615.TW      +3.9  交通運輸及航運｜油價下降、航運運價上升
+ 4. 2618.TW      +3.9  交通運輸及航運｜油價下降、航運運價上升
+ 5. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+10. 2002.TW      +2.9  鋼鐵｜通膨上升、美元貶值
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -4.4  半導體｜AI熱潮、關稅/貿易戰
+ 2. 2454.TW      -4.4  半導體｜AI熱潮、關稅/貿易戰
+ 3. 2303.TW      -4.4  半導體｜AI熱潮、關稅/貿易戰
+ 4. 3711.TW      -4.4  半導體｜AI熱潮、關稅/貿易戰
+ 5. 2317.TW      -4.4  電子零組件｜關稅/貿易戰、通膨上升
+ 6. 2327.TW      -4.4  電子零組件｜關稅/貿易戰、通膨上升
+ 7. 3037.TW      -4.4  電子零組件｜關稅/貿易戰、通膨上升
+ 8. 2515.TW      -3.0  建材營造｜升息
+ 9. 5534.TW      -3.0  建材營造｜升息
+10. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
