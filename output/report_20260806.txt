@@ -1,75 +1,54 @@
 📊 事件驅動選股日報 2026-08-06
 ════════════════════════════════
-掃描 128 則新聞  |  偵測 9 個事件
+掃描 127 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  **AI熱潮持續**: AI產業表現強勁，相關科技公司營收展望樂觀，企業持續透過組織調整與投資布局AI領域，顯示市場對AI發展高度關注。
-2.  **全球景氣面臨逆風**: 多項數據顯示全球經濟景氣放緩，零售、太陽能等部分產業營收面臨壓力，凸顯終端需求疲軟跡象。
-3.  **通膨與貨幣政策謹慎**: 通膨壓力依舊存在，日本企業加薪反映成本上升，聯準會官員維持升息選項，預示主要經濟體貨幣政策仍趨謹慎。
-4.  **貿易戰與地緣政治波動**: 美中貿易緊張關係升溫，關稅與技術限制議題再起，可能影響特定供應鏈；但國際油價因地緣政治局勢緩解預期而下跌，有助於緩解能源成本。
-
-【具體總結】：
-今日市場呈現多空交雜局面。AI產業的強勁表現與積極轉型動態，持續為科技板塊提供動能，吸引資金關注。然而，全球經濟放緩的跡象，加上部分產業的疲軟表現，以及持續的通膨壓力與聯準會的謹慎論調，共同為整體大盤帶來觀望氛圍。貿易摩擦的緊張態勢雖增添不確定性，但國際油價的下跌則可能為企業與消費者帶來部分成本舒緩。資金可能持續流向具明確成長性的AI相關領域，但整體投資情緒仍需權衡宏觀經濟逆風。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】25 則  🟢高信心
-  ▸ Figma anticipates FY2026 revenue of $1.463B-$1.467B while le
-    https://seekingalpha.com/news/4627205-figma-anticipates-fy2026-revenue-of-1_463b-1_467b-while-leaning-into-investment-as-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Amtech forecasts Q4 revenue of $22.5M-$24M as CEO transition
-    https://seekingalpha.com/news/4627203-amtech-forecasts-q4-revenue-of-22_5m-24m-as-ceo-transition-advances-amid-ai-driven-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】10 則  🟢高信心
   ▸ Block slashed 40% of its workforce for AI — and its earnings
     https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories
+  ▸ Figma’s stock falls as the company’s AI push requires steep 
+    https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories
+  ▸ SpaceX’s stock falls as Wall Street gets spooked by the exte
+    https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories
 
-【景氣轉弱】10 則  🟢高信心
-  ▸ SolarEdge預警第三季疲軟 美國住宅太陽能市場挑戰加劇
-    https://tw.stock.yahoo.com/news/solaredge%E9%A0%90%E8%AD%A6%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%96%B2%E8%BB%9F-%E7%BE%8E%E5%9C%8B%E4%BD%8F%E5%AE%85%E5%A4%AA%E9%99%BD%E8%83%BD%E5%B8%82%E5%A0%B4%E6%8C%91%E6%88%B0%E5%8A%A0%E5%8A%87-031949642.html
-  ▸ 市民及旅客消費下降　香港消費市場受壓
-    https://tw.stock.yahoo.com/news/%E5%B8%82%E6%B0%91%E5%8F%8A%E6%97%85%E5%AE%A2%E6%B6%88%E8%B2%BB%E4%B8%8B%E9%99%8D-%E9%A6%99%E6%B8%AF%E6%B6%88%E8%B2%BB%E5%B8%82%E5%A0%B4%E5%8F%97%E5%A3%93-031751717.html
-  ▸ 【公告】燁茂實業 2026年7月合併營收2.29億元 年增-41.76%
-    https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%87%81%E8%8C%82%E5%AF%A6%E6%A5%AD-2026%E5%B9%B47%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B62-29%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E-025228633.html
+【景氣轉弱】9 則  🟢高信心
+  ▸ JPMorgan’s Jamie Dimon warns high market leverage could trig
+    https://seekingalpha.com/news/4627242-jpmorgans-jamie-dimon-warns-high-market-leverage-could-trigger-quick-disruption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Private companies added just 44,000 workers in July, below e
+    https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html
+  ▸ Europe is blowing up riverbeds as an extreme drought wreaks 
+    https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html
 
-【關稅/貿易戰】4 則  🟢高信心
-  ▸ 美國加徵12.5%關稅，新加坡74億美元輸美商品受衝擊
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%BE%B512-5-%E9%97%9C%E7%A8%85-%E6%96%B0%E5%8A%A0%E5%9D%A174%E5%84%84%E7%BE%8E%E5%85%83%E8%BC%B8%E7%BE%8E%E5%95%86%E5%93%81%E5%8F%97%E8%A1%9D%E6%93%8A-032702707.html
-  ▸ 傳美擬禁中國新型光模組　分析指美中難脫鉤
-    https://tw.stock.yahoo.com/news/%E5%82%B3%E7%BE%8E%E6%93%AC%E7%A6%81%E4%B8%AD%E5%9C%8B%E6%96%B0%E5%9E%8B%E5%85%89%E6%A8%A1%E7%B5%84-%E5%88%86%E6%9E%90%E6%8C%87%E7%BE%8E%E4%B8%AD%E9%9B%A3%E8%84%AB%E9%89%A4-031649073.html
-  ▸ E.l.f. Beauty sees $50 million windfall in tariff refunds as
-    https://www.cnbc.com/2026/08/05/elf-beauty-elf-q1-2027-earnings.html
+【戰爭升溫】4 則  🟢高信心
+  ▸ Pentagon to hold meeting on weapons shortfall after Trump ca
+    https://www.investing.com/news/stock-market-news/pentagon-to-hold-meeting-on-weapons-shortfall-after-trump-call-nbc-93CH-4839949
+  ▸ Oil prices slip as Iran-Oman talks fuel hopes for US-Iran pe
+    https://www.investing.com/news/commodities-news/oil-prices-slip-as-iranoman-talks-fuel-hopes-for-usiran-peace-deal-4839945
+  ▸ U.S. stock futures steady as Iran hopes persist, tech reboun
+    https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-iran-hopes-persist-tech-rebound-cools-4839943
 
-【油價下降】3 則  🟢高信心
+【油價下降】2 則  🟢高信心
   ▸ Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. in
     https://www.investing.com/news/commodities-news/oil-extends-slide-on-iranoman-hormuz-shipping-deal-us-inventory-rebound-4839947
   ▸ Oil prices slip as Iran-Oman talks fuel hopes for US-Iran pe
     https://www.investing.com/news/commodities-news/oil-prices-slip-as-iranoman-talks-fuel-hopes-for-usiran-peace-deal-4839945
-  ▸ U.S. ready to return to 'commitments,' Iran says, after Trum
-    https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html
 
-【通膨上升】3 則  🟢高信心
-  ▸ 業績堅挺＋人手短缺，日本大企業連續三年漲薪逾5%
-    https://tw.stock.yahoo.com/news/%E6%A5%AD%E7%B8%BE%E5%A0%85%E6%8C%BA-%E4%BA%BA%E6%89%8B%E7%9F%AD%E7%BC%BA-%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BC%81%E6%A5%AD%E9%80%A3%E7%BA%8C%E4%B8%89%E5%B9%B4%E6%BC%B2%E8%96%AA%E9%80%BE5-032820800.html
+【通膨上升】2 則  🟢高信心
   ▸ Fed Governor Cook says she's 'prepared to act' on rate hike 
     https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html
   ▸ Fun isn't cheap anymore. Here's how your credit card can hel
     https://www.cnbc.com/select/credit-card-perks-that-save-money-on-entertainment/
 
-【戰爭升溫】2 則  🟢高信心
-  ▸ Pentagon to hold meeting on weapons shortfall after Trump ca
-    https://www.investing.com/news/stock-market-news/pentagon-to-hold-meeting-on-weapons-shortfall-after-trump-call-nbc-93CH-4839949
-  ▸ 川普身陷「伊朗戰爭」輪迴中！謝金河揭國家未來關鍵
-    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E8%BA%AB%E9%99%B7-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%BC%AA%E8%BF%B4%E4%B8%AD-%E8%AC%9D%E9%87%91%E6%B2%B3%E6%8F%AD%E5%9C%8B%E5%AE%B6%E6%9C%AA%E4%BE%86%E9%97%9C%E9%8D%B5-025350124.html
-
-【政策補助】1 則  🟡單篇
-  ▸ 國安基金第9次護盤買8檔個股　靠台積電賺77億最多
-    https://money.udn.com/money/story/11162/9674066
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ 南亞科 DRAM 大投資 5A新廠上限3,466億元 衝刺先進製程競賽
-    https://money.udn.com/money/story/5612/9673469
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ E.l.f. Beauty sees $50 million windfall in tariff refunds as
+    https://www.cnbc.com/2026/08/05/elf-beauty-elf-q1-2027-earnings.html
+  ▸ Trump admin refunds $100 billion in 'liberation day' tariffs
+    https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html
 
 【升息】1 則  🟡單篇
   ▸ Fed Governor Cook says she's 'prepared to act' on rate hike 
@@ -90,16 +69,16 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -3.7  電子零組件｜景氣轉弱、關稅/貿易戰
- 2. 2327.TW      -3.7  電子零組件｜景氣轉弱、關稅/貿易戰
- 3. 3037.TW      -3.7  電子零組件｜景氣轉弱、關稅/貿易戰
- 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 2. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 3. 2317.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 4. 2327.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 5. 3037.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
  6. 2330.TW      -2.4  半導體｜AI熱潮、景氣轉弱
  7. 2454.TW      -2.4  半導體｜AI熱潮、景氣轉弱
  8. 2303.TW      -2.4  半導體｜AI熱潮、景氣轉弱
- 9. 3711.TW      -2.4  半導體｜AI熱潮、景氣轉弱
-10. 2515.TW      -2.1  建材營造｜升息
+ 9. 2344.TW      -2.4  半導體｜AI熱潮、景氣轉弱
+10. 3711.TW      -2.4  半導體｜AI熱潮、景氣轉弱
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
