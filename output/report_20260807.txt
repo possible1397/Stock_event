@@ -1,0 +1,99 @@
+📊 事件驅動選股日報 2026-08-07
+════════════════════════════════
+掃描 124 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **AI概念股調整壓力：** AI技術投資熱度不減，部分企業AI應用已見效益，但市場對AI相關概念股的估值出現分歧，特定市場顯示前期高速成長後的修正壓力。
+2.  **全球經濟成長放緩：** 部分地區經濟數據（如菲律賓GDP）低於預期，加上部分企業下修財測，顯示終端需求與整體經濟成長動能趨於保守。
+3.  **地緣政治與油價上漲：** 地緣政治緊張情勢升溫，市場擔憂原油供應可能中斷，推動國際油價走高，影響全球能源成本。
+4.  **通膨壓力持續：** 多地消費者物價指數（CPI）數據顯示通膨壓力仍未緩解，食物、房租等生活成本上漲，可能持續抑制消費動能與投資意願。
+
+**【具體總結】**
+綜合來看，今日市場呈現多重挑戰與機會並存的局面。AI領域在持續投入與收穫並存的同時，其前期高速增長後的市場情緒正進入調整期。全球經濟面臨成長放緩與通膨壓力持續的雙重考驗，疊加地緣政治風險推升油價，可能進一步壓縮企業獲利空間與消費動能。資金流向可能趨於謹慎，並尋求避險或受惠於原物料上漲的板塊。整體盤勢預計受上述因素影響，波動性可能增加。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】9 則  🟢高信心
+  ▸ As Alphabet burns through cash on AI, it’s turning back to t
+    https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories
+  ▸ KOSPI outlook: AI bubble in decompression after 33% drawdown
+    https://www.investing.com/news/stock-market-news/kospi-outlook-ai-bubble-in-decompression-after-33-drawdown-from-peak-93CH-4845052
+  ▸ Grindr's AI spend is paying off and its pricey new tier has 
+    https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ Trade Desk shares tumble on earnings miss and weak outlook
+    https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories
+  ▸ Philippines economy grows 2.3% in Q2, misses expectations
+    https://www.investing.com/news/stock-market-news/philippines-economy-grows-23-in-q2-misses-expectations-93CH-4845047
+  ▸ Sweetgreen cuts full-year outlook as cyclospora fears weigh 
+    https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html
+
+【油價上升】2 則  🟢高信心
+  ▸ Iran's chief negotiator accuses Trump of 'theater diplomacy'
+    https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html
+  ▸ Oil rises amid supply disruption fears following Iran's rest
+    https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ Iran's chief negotiator accuses Trump of 'theater diplomacy'
+    https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html
+  ▸ Oil rises amid supply disruption fears following Iran's rest
+    https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html
+
+【通膨上升】2 則  🟢高信心
+  ▸ 菲律賓第二季GDP增速放緩至2.3%，消費與投資受通膨打擊
+    https://tw.stock.yahoo.com/news/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%AC%AC%E4%BA%8C%E5%AD%A3gdp%E5%A2%9E%E9%80%9F%E6%94%BE%E7%B7%A9%E8%87%B32-3-%E6%B6%88%E8%B2%BB%E8%88%87%E6%8A%95%E8%B3%87%E5%8F%97%E9%80%9A%E8%86%A8%E6%89%93%E6%93%8A-024127333.html
+  ▸ 外食、房租、機票全漲！7月CPI年增2.54%　連3個月超過2%警戒線
+    https://tw.news.yahoo.com/%E5%A4%96%E9%A3%9F-%E6%88%BF%E7%A7%9F-%E6%A9%9F%E7%A5%A8%E5%85%A8%E6%BC%B2-7%E6%9C%88cpi%E5%B9%B4%E5%A2%9E2-54-140304614.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ 半導體今年營收上看1.655兆美元　記憶體增逾3倍
+    https://money.udn.com/money/story/5612/9676513
+  ▸ DRAM大缺貨 台積遭波及 手握10億美元蘋果處理器 卻無記憶體可用
+    https://money.udn.com/money/story/5612/9675997
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Beijing flips the script on the U.S. tech war — and tests th
+    https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html
+
+【升息】1 則  🟡單篇
+  ▸ 人民幣早盤龜步爬升，遊走42個月高點，Fed 9月升息預期限制升勢
+    https://tw.stock.yahoo.com/news/%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%97%A9%E7%9B%A4%E9%BE%9C%E6%AD%A5%E7%88%AC%E5%8D%87-%E9%81%8A%E8%B5%B042%E5%80%8B%E6%9C%88%E9%AB%98%E9%BB%9E-fed-9%E6%9C%88%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E9%99%90%E5%88%B6%E5%8D%87%E5%8B%A2-023946861.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 東京匯市早盤美元指數微升，日圓徘徊158.4價位，靜待美非農數據
+    https://tw.stock.yahoo.com/news/%E6%9D%B1%E4%BA%AC%E5%8C%AF%E5%B8%82%E6%97%A9%E7%9B%A4%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E5%BE%AE%E5%8D%87-%E6%97%A5%E5%9C%93%E5%BE%98%E5%BE%8A158-4%E5%83%B9%E4%BD%8D-%E9%9D%9C%E5%BE%85%E7%BE%8E%E9%9D%9E%E8%BE%B2%E6%95%B8%E6%93%9A-022711541.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.8  電子零組件｜景氣轉弱、通膨上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
