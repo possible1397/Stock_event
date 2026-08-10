@@ -1,0 +1,105 @@
+📊 事件驅動選股日報 2026-08-10
+════════════════════════════════
+掃描 114 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+*   **AI熱潮持續延燒：** 大廠加速AI戰略佈局與應用開發，帶動上游材料（如CCL）產能吃緊與潛在擴廠需求。
+*   **地緣政治風險升高：** 中東衝突情勢升溫，引發原油供應疑慮，推升國際油價走高，加劇通膨壓力。
+*   **全球通膨隱憂再起：** 除能源價格外，關鍵電子零組件（如MLCC）亦出現供給吃緊與追價現象，凸顯產業鏈瓶頸。
+*   **政府力求物價穩定：** 國內政府雖面臨台電虧損壓力，仍強調穩定電價為優先政策方向，以抑制民生通膨。
+
+**【具體總結】**
+AI題材持續引領市場目光，大型科技公司加碼佈局，並帶動特定上游零組件供應鏈吃緊。然而，中東地緣政治風險升溫推升國際油價，加上關鍵電子元件供給瓶頸，使全球通膨壓力再次浮現，投資人正謹慎觀望。國內政府則強調穩定民生電價以抑制物價。綜合來看，市場在追逐AI創新動能的同時，也將權衡地緣政治不確定性與通膨數據可能帶來的影響，資金流向可能反映對風險的審慎評估。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】14 則  🟢高信心
+  ▸ Google 調整 AI 戰略核心 Meta 大舉佈局程式開發 Agent
+    https://tw.stock.yahoo.com/news/google-%E8%AA%BF%E6%95%B4-ai-%E6%88%B0%E7%95%A5%E6%A0%B8%E5%BF%83-meta-023505909.html
+  ▸ 產能擠爆變搶料大戰！ 「這檔CCL」開盤就亮燈 大和看到600元
+    https://tw.stock.yahoo.com/news/%E7%94%A2%E8%83%BD%E6%93%A0%E7%88%86%E8%AE%8A%E6%90%B6%E6%96%99%E5%A4%A7%E6%88%B0-%E9%80%99%E6%AA%94ccl-%E9%96%8B%E7%9B%A4%E5%B0%B1%E4%BA%AE%E7%87%88-%E5%A4%A7%E5%92%8C%E7%9C%8B%E5%88%B0600%E5%85%83-020200313.html
+  ▸ 台積電傳買友達中科2廠！面板雙虎亮燈鎖漲停 分析師：轉機題材浮現
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%82%B3%E8%B2%B7%E5%8F%8B%E9%81%94%E4%B8%AD%E7%A7%912%E5%BB%A0%EF%BC%81%E9%9D%A2%E6%9D%BF%E9%9B%99%E8%99%8E%E4%BA%AE%E7%87%88%E9%8E%96%E6%BC%B2%E5%81%9C-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E8%BD%89%E6%A9%9F%E9%A1%8C%E6%9D%90%E6%B5%AE%E7%8F%BE-015648368.html
+
+【戰爭升溫】7 則  🟢高信心
+  ▸ Yemen’s Houthis attack Saudi refinery after kingdom signs de
+    https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714
+  ▸ U.S. stock futures flat as investors await inflation data, g
+    https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories
+  ▸ 美國伊朗戰事耗損軍武庫存 中俄密切關注戰略消長
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E8%80%97%E6%90%8D%E8%BB%8D%E6%AD%A6%E5%BA%AB%E5%AD%98-%E4%B8%AD%E4%BF%84%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%88%B0%E7%95%A5%E6%B6%88%E9%95%B7-022640479.html
+
+【通膨上升】5 則  🟢高信心
+  ▸ U.S. stock futures flat as investors await inflation data, g
+    https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories
+  ▸ 台電虧損嚴重10月要漲電價？經長龔明鑫回應了
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%9B%BB%E8%99%A7%E6%90%8D%E5%9A%B4%E9%87%8D10%E6%9C%88%E8%A6%81%E6%BC%B2%E9%9B%BB%E5%83%B9-%E7%B6%93%E9%95%B7%E9%BE%94%E6%98%8E%E9%91%AB%E5%9B%9E%E6%87%89%E4%BA%86-015203090.html
+  ▸ 供給吃緊 MLCC 掀追價搶料潮 國巨：愈來愈多客戶搶簽長約鎖料
+    https://money.udn.com/money/story/5612/9680827
+
+【油價上升】4 則  🟢高信心
+  ▸ U.S. stock futures little changed as Hormuz reopening doubts
+    https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793
+  ▸ U.S. stock futures flat as investors await inflation data, g
+    https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories
+  ▸ Iran denies any direct talks with U.S. on opening Strait of 
+    https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 10月電價凍漲？　經長：照顧民生穩定物價為政策方向
+    https://tw.stock.yahoo.com/news/10%E6%9C%88%E9%9B%BB%E5%83%B9%E5%87%8D%E6%BC%B2-%E7%B6%93%E9%95%B7-%E7%85%A7%E9%A1%A7%E6%B0%91%E7%94%9F%E7%A9%A9%E5%AE%9A%E7%89%A9%E5%83%B9%E7%82%BA%E6%94%BF%E7%AD%96%E6%96%B9%E5%90%91-020118761.html
+  ▸ 台電上半年虧257億元電價恐漲？龔明鑫仍喊「穩物價」：沒有選舉考量
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%9B%BB%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%99%A7257%E5%84%84%E5%85%83%E9%9B%BB%E5%83%B9%E6%81%90%E6%BC%B2%EF%BC%9F%E9%BE%94%E6%98%8E%E9%91%AB%E4%BB%8D%E5%96%8A%E3%80%8C%E7%A9%A9%E7%89%A9%E5%83%B9%E3%80%8D%EF%BC%9A%E6%B2%92%E6%9C%89%E9%81%B8%E8%88%89%E8%80%83%E9%87%8F-015808367.html
+
+【升息】1 則  🟡單篇
+  ▸ Australian shares dip as Westpac weighs on banks ahead of RB
+    https://www.investing.com/news/economy-news/australian-shares-dip-as-westpac-weighs-on-banks-ahead-of-rba-decision-4847796
+
+【美元貶值】1 則  🟡單篇
+  ▸ Dollar near two-month trough as US inflation data awaited
+    https://www.investing.com/news/economy-news/dollar-near-twomonth-trough-as-us-inflation-data-awaited-4847795
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ 【公告】中友百貨 2026年7月合併營收1.04億元 年增-18.96%
+    https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%AD%E5%8F%8B%E7%99%BE%E8%B2%A8-2026%E5%B9%B47%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B61-04%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E-020224631.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 美重拳揮向陸廠CPO！ 專家驚「事態比想像嚴重」 台廠受惠梯隊一次看
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%87%8D%E6%8B%B3%E6%8F%AE%E5%90%91%E9%99%B8%E5%BB%A0cpo-%E5%B0%88%E5%AE%B6%E9%A9%9A-%E4%BA%8B%E6%85%8B%E6%AF%94%E6%83%B3%E5%83%8F%E5%9A%B4%E9%87%8D-%E5%8F%B0%E5%BB%A0%E5%8F%97%E6%83%A0%E6%A2%AF%E9%9A%8A-%E6%AC%A1%E7%9C%8B-015600565.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 力壓台積電！南亞科華邦電狂吸金700億元雙雙漲停 分析師：攻前高在望
+    https://tw.stock.yahoo.com/news/%E5%8A%9B%E5%A3%93%E5%8F%B0%E7%A9%8D%E9%9B%BB%EF%BC%81%E5%8D%97%E4%BA%9E%E7%A7%91%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%8B%82%E5%90%B8%E9%87%91700%E5%84%84%E5%85%83%E9%9B%99%E9%9B%99%E6%BC%B2%E5%81%9C-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E6%94%BB%E5%89%8D%E9%AB%98%E5%9C%A8%E6%9C%9B-013749527.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.7  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -3.7  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -3.7  電子零組件｜通膨上升、景氣轉弱
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2330.TW      -2.6  半導體｜AI熱潮、升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
