@@ -1,0 +1,102 @@
+📊 事件驅動選股日報 2026-08-11
+════════════════════════════════
+掃描 135 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+*   AI熱潮持續：Nvidia深度整合華爾街融資，並持續帶動記憶體等相關硬體產業需求，顯示AI產業鏈資金與技術動能強勁。
+*   地緣政治緊張：中東地區（伊朗與荷姆茲海峽）戰事升溫，美國總統川普介入，引發市場對區域穩定性的擔憂。
+*   油價應聲上漲：受中東地緣政治緊張情勢影響，國際油價回升至每桶82美元以上，可能連帶引發通膨預期。
+*   高利率環境持續：儘管市場關注多方消息，但美國存款與貸款利率仍維持高點，顯示高利率環境可能長期化。
+*   貿易政策與供應鏈調整：歐盟擬對特定中國產品（如電氣鋼）設限，加上美國欲鞏固供應鏈，顯示全球貿易壁壘及供應鏈重組仍在進行。
+
+【具體總結】：
+今日盤勢受多重因素交織影響。AI領域的強勁成長動能，特別是Nvidia及其供應鏈夥伴的表現，持續為科技板塊提供支撐。然而，中東地緣政治緊張導致油價上漲，為全球經濟增添不確定性，並可能加劇通膨壓力。在高利率環境持續下，資金成本仍是企業與消費者考量重點。同時，全球貿易保護主義與供應鏈調整，也持續影響特定產業的資金流向與投資決策。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】20 則  🟢高信心
+  ▸ Nvidia teams with Wall Street firms to help finance $500 bil
+    https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories
+  ▸ Archer strikes deal with Boeing in latest bid to transform a
+    https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories
+  ▸ This Nvidia change could spell good news for Micron
+    https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Trump used military plane to leave Turkey due to Iran threat
+    https://www.investing.com/news/stock-market-news/trump-used-military-plane-to-leave-turkey-due-to-iran-threat-washington-post-93CH-4850737
+  ▸ Trump claims total control of Hormuz, demands Iran pay repar
+    https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html
+  ▸ Stock futures are steady as investors weigh Iran, Hormuz dea
+    https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html
+
+【升息】5 則  🟢高信心
+  ▸ Best CD rates today, Monday, August 10, 2026: Lock in up to 
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html
+  ▸ HELOC and home equity loan rates today, Monday, August 10, 2
+    https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-10-2026-a-19-basis-point-differential-100000351.html
+  ▸ Best high-yield savings interest rates today, Monday, August
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html
+
+【油價上升】4 則  🟢高信心
+  ▸ Trump claims total control of Hormuz, demands Iran pay repar
+    https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html
+  ▸ Trump signals shift to economic pressure as Iran hardens sta
+    https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html
+  ▸ U.S. oil rises back above $82 as doubt grows Washington and 
+    https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ US officials work to close supply chain gaps as foreign inve
+    https://www.investing.com/news/economy-news/us-officials-work-to-close-supply-chain-gaps-as-foreign-investment-grows-4850687
+  ▸ 歐盟擬限制電氣鋼進口 因應中國產品競爭壓力
+    https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B6%E9%9B%BB%E6%B0%A3%E9%8B%BC%E9%80%B2%E5%8F%A3-%E5%9B%A0%E6%87%89%E4%B8%AD%E5%9C%8B%E7%94%A2%E5%93%81%E7%AB%B6%E7%88%AD%E5%A3%93%E5%8A%9B-013529823.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ This Nvidia change could spell good news for Micron
+    https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories
+  ▸ AI需求驅動記憶體市場失衡 三大廠2027年產能提前售罄
+    https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E9%A9%85%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E5%B8%82%E5%A0%B4%E5%A4%B1%E8%A1%A1-%E4%B8%89%E5%A4%A7%E5%BB%A02027%E5%B9%B4%E7%94%A2%E8%83%BD%E6%8F%90%E5%89%8D%E5%94%AE%E7%BD%84-020213522.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ 備貨期提前 第2季全球 NB 出貨季增6.9% 下半年估成長動能放緩
+    https://money.udn.com/money/story/5612/9683583
+  ▸ 上半年平均薪資48981元 逾7成未達標 中位數僅3.9萬
+    https://tw.stock.yahoo.com/news/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B9%B3%E5%9D%87%E8%96%AA%E8%B3%8748981%E5%85%83-%E9%80%BE7%E6%88%90%E6%9C%AA%E9%81%94%E6%A8%99-%E4%B8%AD%E4%BD%8D%E6%95%B8%E5%83%853-9%E8%90%AC-015700814.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ 從24萬頭期款到千萬換屋！23歲傻買全棟最貴 桌球教練看透通膨：借未來的錢投資現在｜買房財之道
+    https://tw.stock.yahoo.com/news/%E5%BE%9E24%E8%90%AC%E9%A0%AD%E6%9C%9F%E6%AC%BE%E5%88%B0%E5%8D%83%E8%90%AC%E6%8F%9B%E5%B1%8B%EF%BC%8123%E6%AD%B2%E5%82%BB%E8%B2%B7%E5%85%A8%E6%A3%9F%E6%9C%80%E8%B2%B4-%E6%A1%8C%E7%90%83%E6%95%99%E7%B7%B4%E7%9C%8B%E9%80%8F%E9%80%9A%E8%86%A8%EF%BC%9A%E5%80%9F%E6%9C%AA%E4%BE%86%E7%9A%84%E9%8C%A2%E6%8A%95%E8%B3%87%E7%8F%BE%E5%9C%A8%EF%BD%9C%E8%B2%B7%E6%88%BF%E8%B2%A1%E4%B9%8B%E9%81%93-020700168.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.5  電子零組件｜關稅/貿易戰、記憶體漲價
+ 6. 2327.TW      -3.5  電子零組件｜關稅/貿易戰、記憶體漲價
+ 7. 3037.TW      -3.5  電子零組件｜關稅/貿易戰、記憶體漲價
+ 8. 2330.TW      -3.2  半導體｜AI熱潮、升息
+ 9. 2454.TW      -3.2  半導體｜AI熱潮、升息
+10. 2303.TW      -3.2  半導體｜AI熱潮、升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
