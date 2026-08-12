@@ -1,0 +1,104 @@
+📊 事件驅動選股日報 2026-08-12
+════════════════════════════════
+掃描 135 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI產業動能強勁**：多家AI相關企業財報表現亮眼，並上修未來展望，持續推升市場對AI科技股的投資熱度。
+2.  **地緣政治風險升高**：中東地區緊張局勢升溫，伊朗針對荷姆茲海峽的言論，導致國際原油價格與黃金等避險資產同步上漲。
+3.  **通膨壓力未解**：全球通膨擔憂持續，市場密切關注即將公布的美國消費者物價指數(CPI)，以判斷聯準會未來的利率政策走向。
+4.  **美中貿易戰延伸**：美國擴大對中國無人機的禁令，可能為台灣相關供應鏈帶來潛在轉單效益與供應鏈重組機會。
+5.  **油價上行壓力大**：地緣政治事件與美國EIA估計中東石油供應可能受擾至明年底，使得油價面臨持續上行壓力。
+
+【具體總結】：
+今日市場呈現多空交織格局。AI產業受惠於企業財報亮眼與樂觀展望，持續引導資金聚焦科技板塊。與此同時，中東地緣政治緊張推升國際油價及黃金價格，加劇通膨憂慮與避險情緒。市場正密切關注美國CPI數據，以判斷聯準會利率政策路徑。此外，美中貿易戰擴大至無人機領域，雖為特定台廠帶來轉單潛力，但也凸顯全球供應鏈重組加速。整體資金在產業動能與宏觀挑戰間尋求平衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】19 則  🟢高信心
+  ▸ CoreWeave’s stock soars as earnings show major AI momentum
+    https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories
+  ▸ Lumentum sees sales more than double as AI demand swells
+    https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories
+  ▸ Super Micro targets $65B-$72B FY 2027 revenue as it guides Q
+    https://seekingalpha.com/news/4631194-super-micro-targets-65b-72b-fy-2027-revenue-as-it-guides-q1-sales-of-14_5b-15_5b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Oil, gold prices rise as geopolitical tensions mount before 
+    https://www.investing.com/news/economy-news/oil-gold-prices-rise-as-geopolitical-tensions-mount-before-cpi-4853603
+  ▸ Gold rises near $4,400 as Hormuz doubts, CPI keep Fed path i
+    https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-hormuz-doubts-cpi-keep-fed-path-in-focus-4853602
+  ▸ U.S. oil rises above $83 a barrel as Iran says Strait of Hor
+    https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ Gold rises near $4,400 as Hormuz doubts, CPI keep Fed path i
+    https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-hormuz-doubts-cpi-keep-fed-path-in-focus-4853602
+  ▸ 房租還在漲，但「漲不太動了」！7月指數再創新高，年增率卻探50個月新低 專家曝關鍵：房東漲租底氣沒了
+    https://tw.stock.yahoo.com/news/%E6%88%BF%E7%A7%9F%E9%82%84%E5%9C%A8%E6%BC%B2%EF%BC%8C%E4%BD%86%E3%80%8C%E6%BC%B2%E4%B8%8D%E5%A4%AA%E5%8B%95%E4%BA%86%E3%80%8D%EF%BC%817%E6%9C%88%E6%8C%87%E6%95%B8%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98%EF%BC%8C%E5%B9%B4%E5%A2%9E%E7%8E%87%E5%8D%BB%E6%8E%A250%E5%80%8B%E6%9C%88%E6%96%B0%E4%BD%8E-%E5%B0%88%E5%AE%B6%E6%9B%9D%E9%97%9C%E9%8D%B5%EF%BC%9A%E6%88%BF%E6%9D%B1%E6%BC%B2%E7%A7%9F%E5%BA%95%E6%B0%A3%E6%B2%92%E4%BA%86-030000725.html
+  ▸ 美元指數三天急彈0.32%，人民幣橫盤、靜待美國CPI定調升息預期
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E4%B8%89%E5%A4%A9%E6%80%A5%E5%BD%880-32-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%A9%AB%E7%9B%A4-%E9%9D%9C%E5%BE%85%E7%BE%8E%E5%9C%8Bcpi%E5%AE%9A%E8%AA%BF%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F-023840049.html
+
+【油價上升】3 則  🟢高信心
+  ▸ Oil, gold prices rise as geopolitical tensions mount before 
+    https://www.investing.com/news/economy-news/oil-gold-prices-rise-as-geopolitical-tensions-mount-before-cpi-4853603
+  ▸ U.S. oil rises above $83 a barrel as Iran says Strait of Hor
+    https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html
+  ▸ 戰爭衝擊難消！美國EIA估中東石油供應至少受擾至明年年底
+    https://tw.stock.yahoo.com/news/%E6%88%B0%E7%88%AD%E8%A1%9D%E6%93%8A%E9%9B%A3%E6%B6%88-%E7%BE%8E%E5%9C%8Beia%E4%BC%B0%E4%B8%AD%E6%9D%B1%E7%9F%B3%E6%B2%B9%E4%BE%9B%E6%87%89%E8%87%B3%E5%B0%91%E5%8F%97%E6%93%BE%E8%87%B3%E6%98%8E%E5%B9%B4%E5%B9%B4%E5%BA%95-021018850.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 美封殺陸無人機 配備光達、熱成像等五機種全面納管 雷虎、漢翔、亞光等受惠
+    https://money.udn.com/money/story/5612/9685598
+  ▸ 美國擴大對大陸無人機禁令 台鏈想迎轉單…必備三條件
+    https://money.udn.com/money/story/5612/9685603
+
+【美元升值】2 則  🟢高信心
+  ▸ 咖哩豬排指數顯示日圓嚴重低估， Geoff Yu稱較大麥克指數更貼切
+    https://tw.stock.yahoo.com/news/%E5%92%96%E5%93%A9%E8%B1%AC%E6%8E%92%E6%8C%87%E6%95%B8%E9%A1%AF%E7%A4%BA%E6%97%A5%E5%9C%93%E5%9A%B4%E9%87%8D%E4%BD%8E%E4%BC%B0-geoff-yu%E7%A8%B1%E8%BC%83%E5%A4%A7%E9%BA%A5%E5%85%8B%E6%8C%87%E6%95%B8%E6%9B%B4%E8%B2%BC%E5%88%87-024514956.html
+  ▸ 美元指數三天急彈0.32%，人民幣橫盤、靜待美國CPI定調升息預期
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E4%B8%89%E5%A4%A9%E6%80%A5%E5%BD%880-32-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%A9%AB%E7%9B%A4-%E9%9D%9C%E5%BE%85%E7%BE%8E%E5%9C%8Bcpi%E5%AE%9A%E8%AA%BF%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F-023840049.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ 手遊支出趨勢揭曉：非遊戲應用主導成長，遊戲類營收下滑4.5%
+    https://tw.stock.yahoo.com/news/%E6%89%8B%E9%81%8A%E6%94%AF%E5%87%BA%E8%B6%A8%E5%8B%A2%E6%8F%AD%E6%9B%89-%E9%9D%9E%E9%81%8A%E6%88%B2%E6%87%89%E7%94%A8%E4%B8%BB%E5%B0%8E%E6%88%90%E9%95%B7-%E9%81%8A%E6%88%B2%E9%A1%9E%E7%87%9F%E6%94%B6%E4%B8%8B%E6%BB%914-5-024526394.html
+
+【升息】1 則  🟡單篇
+  ▸ 美元指數三天急彈0.32%，人民幣橫盤、靜待美國CPI定調升息預期
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E4%B8%89%E5%A4%A9%E6%80%A5%E5%BD%880-32-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%A9%AB%E7%9B%A4-%E9%9D%9C%E5%BE%85%E7%BE%8E%E5%9C%8Bcpi%E5%AE%9A%E8%AA%BF%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F-023840049.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 記憶體掌兵符！力積電重返70元大關躍居成交量王 南亞科衝上511元創新高
+    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E6%8E%8C%E5%85%B5%E7%AC%A6%EF%BC%81%E5%8A%9B%E7%A9%8D%E9%9B%BB%E9%87%8D%E8%BF%9470%E5%85%83%E5%A4%A7%E9%97%9C%E8%BA%8D%E5%B1%85%E6%88%90%E4%BA%A4%E9%87%8F%E7%8E%8B-%E5%8D%97%E4%BA%9E%E7%A7%91%E8%A1%9D%E4%B8%8A511%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-014518951.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 6. 2327.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 7. 3037.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
