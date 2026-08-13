@@ -1,0 +1,109 @@
+📊 事件驅動選股日報 2026-08-13
+════════════════════════════════
+掃描 133 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續延燒**：思科預期AI超級週期將帶來創紀錄業績，Lumentum股價因光學元件需求大增而飆升，美超微則給出亮眼銷售預測，顯示AI相關產業鏈仍是市場焦點，特別是伺服器及光學通訊元件領域。
+2.  **升息與通膨疑慮並存**：全球部分央行對進一步升息的可能性持開放態度，儘管消費者物價溫和上漲符合預期，但AI建置成本高昂被視為可能使聯準會抑制通膨的任務更趨複雜。
+3.  **地緣政治風險升高**：荷莫茲海峽地緣政治緊張升溫，影響航運流量並導致部分中東國家尋求替代石油運輸路線，對全球能源供應鏈構成潛在變數。
+4.  **美元貶值與避險需求**：美元指數跌破100關卡，導致人民幣、日圓等貨幣相對走強，配合通膨溫和的預期，黃金價格獲得支撐。
+
+【具體總結】：
+今日市場焦點集中於AI題材的持續發酵，相關科技硬體及光學元件供應鏈表現強勁，引導資金動向。同時，全球央行對升息的謹慎態度與溫和通膨數據，以及AI建置成本對未來通膨的潛在影響，共同塑造了貨幣政策預期。美元走弱提振了非美貨幣及黃金表現，而荷莫茲海峽的地緣政治緊張則提醒市場關注能源供應鏈的潛在風險，投資人應綜合評估這些因素。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】24 則  🟢高信心
+  ▸ Cisco sees record results from an AI ‘supercycle,’ but its s
+    https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories
+  ▸ Lumentum’s stock surges, giving a further boost to the optic
+    https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories
+  ▸ Super Micro gives a big sales forecast, but analysts wonder 
+    https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories
+
+【升息】5 則  🟢高信心
+  ▸ Best CD rates today, Wednesday, August 12, 2026: Earn up to 
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html
+  ▸ Australia central banker says rate risks are skewed higher
+    https://www.investing.com/news/economy-news/australia-central-banker-says-rate-hikes-working-as-intended-4856496
+  ▸ Where gold price is headed next as Fed rate hike and inflati
+    https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html
+
+【通膨上升】5 則  🟢高信心
+  ▸ Consumer prices rose 0.1% in July, as expected, putting the 
+    https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html
+  ▸ Where gold price is headed next as Fed rate hike and inflati
+    https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html
+  ▸ AI’s costly build-out complicates the Fed’s inflation fight
+    https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html
+
+【戰爭升溫】4 則  🟢高信心
+  ▸ ‘Hormuz remains blocked’: Iran disputes Trump claims as traf
+    https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html
+  ▸ Strait of Hormuz ship traffic near three-month low as U.S.-I
+    https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html
+  ▸ Saudi Arabia ramps up oil exports through Mediterranean pipe
+    https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html
+
+【美元貶值】3 則  🟢高信心
+  ▸ 人民幣中間價小幅下調，CNY、CNH早盤連袂走升，同步遊走6.74上方
+    https://tw.stock.yahoo.com/news/%E4%BA%BA%E6%B0%91%E5%B9%A3%E4%B8%AD%E9%96%93%E5%83%B9%E5%B0%8F%E5%B9%85%E4%B8%8B%E8%AA%BF-cny-cnh%E6%97%A9%E7%9B%A4%E9%80%A3%E8%A2%82%E8%B5%B0%E5%8D%87-%E5%90%8C%E6%AD%A5%E9%81%8A%E8%B5%B06-74%E4%B8%8A%E6%96%B9-024958793.html
+  ▸ 東京匯市早盤美元指數失守100關卡，日圓翻揚，英鎊和歐元追低
+    https://tw.stock.yahoo.com/news/%E6%9D%B1%E4%BA%AC%E5%8C%AF%E5%B8%82%E6%97%A9%E7%9B%A4%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E5%A4%B1%E5%AE%88100%E9%97%9C%E5%8D%A1-%E6%97%A5%E5%9C%93%E7%BF%BB%E6%8F%9A-%E8%8B%B1%E9%8E%8A%E5%92%8C%E6%AD%90%E5%85%83%E8%BF%BD%E4%BD%8E-024136131.html
+  ▸ 美通膨溫和、美元示弱，亞洲黃金現貨盤中上揚0.21%
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E9%80%9A%E8%86%A8%E6%BA%AB%E5%92%8C-%E7%BE%8E%E5%85%83%E7%A4%BA%E5%BC%B1-%E4%BA%9E%E6%B4%B2%E9%BB%83%E9%87%91%E7%8F%BE%E8%B2%A8%E7%9B%A4%E4%B8%AD%E4%B8%8A%E6%8F%9A0-21-021505340.html
+
+【油價上升】2 則  🟢高信心
+  ▸ ‘Hormuz remains blocked’: Iran disputes Trump claims as traf
+    https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html
+  ▸ Oil rises on worries over supply disruptions as spill near O
+    https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Half of Americans would struggle if their paycheck was a wee
+    https://www.cnbc.com/select/missing-one-week-of-pay-would-cause-half-of-americans-a-major-hardship/
+
+【政策補助】1 則  🟡單篇
+  ▸ Trump officials float cut to capital gains tax on home sales
+    https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 貨櫃三雄再起？萬海獲利狂飆近10倍　陽明Q2大賺57億
+    https://tw.stock.yahoo.com/news/%E8%B2%A8%E6%AB%83%E4%B8%89%E9%9B%84%E5%86%8D%E8%B5%B7-%E8%90%AC%E6%B5%B7%E7%8D%B2%E5%88%A9%E7%8B%82%E9%A3%86%E8%BF%9110%E5%80%8D-%E9%99%BD%E6%98%8Eq2%E5%A4%A7%E8%B3%BA57%E5%84%84-023952160.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 東陽前7月稅前獲利創同期次高　美關稅降助攻
+    https://tw.stock.yahoo.com/news/%E6%9D%B1%E9%99%BD%E5%89%8D7%E6%9C%88%E7%A8%85%E5%89%8D%E7%8D%B2%E5%88%A9%E5%89%B5%E5%90%8C%E6%9C%9F%E6%AC%A1%E9%AB%98-%E7%BE%8E%E9%97%9C%E7%A8%85%E9%99%8D%E5%8A%A9%E6%94%BB-021027599.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2002.TW      +3.4  鋼鐵｜通膨上升、美元貶值
+ 9. 2006.TW      +3.4  鋼鐵｜通膨上升、美元貶值
+10. 2007.TW      +3.4  鋼鐵｜通膨上升、美元貶值
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -4.0  半導體｜AI熱潮、升息
+ 2. 2454.TW      -4.0  半導體｜AI熱潮、升息
+ 3. 2303.TW      -4.0  半導體｜AI熱潮、升息
+ 4. 2344.TW      -4.0  半導體｜AI熱潮、升息
+ 5. 3711.TW      -4.0  半導體｜AI熱潮、升息
+ 6. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 9. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+10. 2317.TW      -3.2  電子零組件｜通膨上升、景氣轉弱
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
