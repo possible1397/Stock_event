@@ -1,121 +1,86 @@
 📊 事件驅動選股日報 2026-08-14
 ════════════════════════════════
-掃描 127 則新聞  |  偵測 11 個事件
+掃描 126 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-**【重點提要】**
-1.  **AI熱潮持續，帶動雲端運算與AI硬體供應鏈需求：** Salesforce因AI利好獲得投行青睞，Neocloud雲端客戶需求激增，鴻海、廣達等代工夥伴受惠，顯示AI投資熱度延伸至基礎設施與服務。
-2.  **記憶體報價上漲，挹注相關製造商營收動能：** Sandisk股價上漲並獲新目標價，Blaize預期營收成長，顯示記憶體市場供應吃緊，漲價趨勢有利於產業鏈上游廠商。
-3.  **地緣政治緊張推升油價，加劇全球通膨壓力：** 美伊衝突升溫導致油價漲逾5%，荷莫茲海峽航運受阻，直接推升能源成本並影響各國通膨預期。
-4.  **高能源成本恐使核心通膨居高不下，挑戰央行貨幣政策：** 日本7月核心通膨預期受能源價格影響，而AI建設的成本高昂也恐使聯準會的通膨控制更加複雜，預示央行抗通膨任務艱鉅。
-
-**【具體總結】**
-今日盤勢受科技與宏觀因素交互影響。AI熱潮與記憶體漲價為市場帶來結構性利多，資金持續關注雲端運算、AI硬體及記憶體產業鏈的成長機會。然而，地緣政治緊張導致油價顯著上揚，加劇全球通膨壓力，進而可能侵蝕消費動能並增加企業營運成本。此宏觀經濟逆風恐使整體市場面臨挑戰，央行在壓制通膨與維持經濟成長之間將面臨更複雜的權衡。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】23 則  🟢高信心
+【AI熱潮】15 則  🟢高信心
+  ▸ Dell’s stock has beaten Micron and AMD this year — and now i
+    https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories
   ▸ Salesforce’s stock gets a boost as J.P. Morgan says AI fears
     https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories
-  ▸ Ainos累積突破8.78億筆真實世界氣味與化學資料 強化ScentAI長期價值
-    https://money.udn.com/money/story/5612/9690992
-  ▸ Neocloud 新興雲端客戶大量找上門！鴻海、廣達、仁寶、和碩曝關鍵原因
-    https://money.udn.com/money/story/5612/9690612
+  ▸ LG and Nvidia partner on robotics and AI factory development
+    https://www.investing.com/news/stock-market-news/lg-and-nvidia-partner-on-robotics-and-ai-factory-development-93CH-4859670
 
-【記憶體漲價】5 則  🟢高信心
-  ▸ Sandisk’s stock is flying higher. Here are the new targets t
-    https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories
+【記憶體漲價】6 則  🟢高信心
   ▸ Blaize forecasts $40M-$43M 2026 revenue amid Starshine reser
     https://seekingalpha.com/news/4633004-blaize-forecasts-40m-43m-2026-revenue-amid-starshine-reserve-and-memory-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Sandisk’s stock is flying higher. Here are the new targets t
+    https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories
   ▸ Google 新機 Pixel 11 系列四連發 全漲價 基本款記憶體容量縮水
     https://money.udn.com/money/story/11162/9690440
 
-【通膨上升】4 則  🟢高信心
-  ▸ Japan’s July core inflation seen at 1.8% on higher energy co
-    https://www.investing.com/news/economy-news/japans-july-core-inflation-seen-at-18-on-higher-energy-costs-4859654
-  ▸ 普渡採買戰線拉長 好市多零食、泡麵與飲料成囤貨主力
-    https://money.udn.com/money/story/5612/9691048
-  ▸ AI’s costly build-out complicates the Fed’s inflation fight
-    https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html
+【政策補助】5 則  🟢高信心
+  ▸ Trump orders Navy shipbuilding overhaul and new shipyard
+    https://www.investing.com/news/stock-market-news/trump-orders-navy-shipbuilding-overhaul-and-new-shipyard-93CH-4859669
+  ▸ 培育諾貝爾獎得主 專家呼籲賴總統加碼生醫基金
+    https://money.udn.com/money/story/5612/9690450
+  ▸ 傳國民黨放行無人機預算，漢翔、亞航盤中股價奔漲停
+    https://tw.stock.yahoo.com/news/%E5%82%B3%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%94%BE%E8%A1%8C%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%A0%90%E7%AE%97-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%9B%A4%E4%B8%AD%E8%82%A1%E5%83%B9%E5%A5%94%E6%BC%B2%E5%81%9C-034314470.html
 
-【戰爭升溫】4 則  🟢高信心
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ 美祭無人機關稅　東元評估在美生產、為升無直接影響
+    https://money.udn.com/money/story/5612/9691215
+  ▸ 財部：繼續暫停對烏克蘭碳鋼鋼板課徵反傾銷稅1年
+    https://money.udn.com/money/story/5612/9691020
+  ▸ U.S. to use economic tactics on Iran 'that have never been s
+    https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html
+
+【戰爭升溫】2 則  🟢高信心
   ▸ The Iran war risks bringing the G7's fastest-growing economy
     https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html
   ▸ U.S. to use economic tactics on Iran 'that have never been s
     https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html
-  ▸ 地緣政治緊張推升油價漲逾5% 美伊互提賠償、荷莫茲海峽復航無望
-    https://tw.stock.yahoo.com/news/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%B7%8A%E5%BC%B5%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE5-%E7%BE%8E%E4%BC%8A%E4%BA%92%E6%8F%90%E8%B3%A0%E5%84%9F-%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BE%A9%E8%88%AA%E7%84%A1%E6%9C%9B-025308754.html
-
-【油價上升】3 則  🟢高信心
-  ▸ Japan’s July core inflation seen at 1.8% on higher energy co
-    https://www.investing.com/news/economy-news/japans-july-core-inflation-seen-at-18-on-higher-energy-costs-4859654
-  ▸ Gas prices are the highest on record for August. Here are th
-    https://www.cnbc.com/select/how-to-save-on-gas-with-credit-cards-and-rewards-programs/
-  ▸ 地緣政治緊張推升油價漲逾5% 美伊互提賠償、荷莫茲海峽復航無望
-    https://tw.stock.yahoo.com/news/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%B7%8A%E5%BC%B5%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE5-%E7%BE%8E%E4%BC%8A%E4%BA%92%E6%8F%90%E8%B3%A0%E5%84%9F-%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BE%A9%E8%88%AA%E7%84%A1%E6%9C%9B-025308754.html
-
-【景氣轉弱】3 則  🟢高信心
-  ▸ JD.com shares slide 9% as weak retail growth overshadows Q2 
-    https://www.investing.com/news/earnings/jdcom-shares-slide-9-as-weak-retail-growth-overshadows-q2-earnings-beat-4859653
-  ▸ 需求轉弱與供應風險拉鋸，布蘭特、紐約期油亞洲盤初陷平盤整理
-    https://tw.stock.yahoo.com/news/%E9%9C%80%E6%B1%82%E8%BD%89%E5%BC%B1%E8%88%87%E4%BE%9B%E6%87%89%E9%A2%A8%E9%9A%AA%E6%8B%89%E9%8B%B8-%E5%B8%83%E8%98%AD%E7%89%B9-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E4%BA%9E%E6%B4%B2%E7%9B%A4%E5%88%9D%E9%99%B7%E5%B9%B3%E7%9B%A4%E6%95%B4%E7%90%86-021650455.html
-  ▸ 預售市場買氣連18個月探底，6月全國揭露量僅剩高峰期二成
-    https://tw.stock.yahoo.com/news/%E9%A0%90%E5%94%AE%E5%B8%82%E5%A0%B4%E8%B2%B7%E6%B0%A3%E9%80%A318%E5%80%8B%E6%9C%88%E6%8E%A2%E5%BA%95-6%E6%9C%88%E5%85%A8%E5%9C%8B%E6%8F%AD%E9%9C%B2%E9%87%8F%E5%83%85%E5%89%A9%E9%AB%98%E5%B3%B0%E6%9C%9F%E4%BA%8C%E6%88%90-015649895.html
-
-【關稅/貿易戰】2 則  🟢高信心
-  ▸ 財部：繼續暫停對烏克蘭碳鋼鋼板課徵反傾銷稅1年
-    https://money.udn.com/money/story/5612/9691020
-  ▸ Trade court upholds Trump's closure of 'de minimis' loophole
-    https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html
 
 【美元貶值】2 則  🟢高信心
   ▸ 外資回流＋股利匯出近尾聲，摩根士丹利籲逐步布局美元兌台幣空頭
     https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%9B%9E%E6%B5%81-%E8%82%A1%E5%88%A9%E5%8C%AF%E5%87%BA%E8%BF%91%E5%B0%BE%E8%81%B2-%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E7%B1%B2%E9%80%90%E6%AD%A5%E5%B8%83%E5%B1%80%E7%BE%8E%E5%85%83%E5%85%8C%E5%8F%B0%E5%B9%A3%E7%A9%BA%E9%A0%AD-024147964.html
-  ▸ 美日再干預預期升溫，東京匯市早盤日圓止跌反彈、美元指數連二跌
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%97%A5%E5%86%8D%E5%B9%B2%E9%A0%90%E9%A0%90%E6%9C%9F%E5%8D%87%E6%BA%AB-%E6%9D%B1%E4%BA%AC%E5%8C%AF%E5%B8%82%E6%97%A9%E7%9B%A4%E6%97%A5%E5%9C%93%E6%AD%A2%E8%B7%8C%E5%8F%8D%E5%BD%88-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E9%80%A3%E4%BA%8C%E8%B7%8C-020837474.html
+  ▸ 中間價創波段新高，CNY盤中改寫42個月新高，惟CNH微貶
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%89%B5%E6%B3%A2%E6%AE%B5%E6%96%B0%E9%AB%98-cny%E7%9B%A4%E4%B8%AD%E6%94%B9%E5%AF%AB42%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E6%83%9Fcnh%E5%BE%AE%E8%B2%B6-024103859.html
 
-【航運運價上升】2 則  🟢高信心
-  ▸ 捷流閥業上半年每股盈餘3.18元，半導體及船舶需求增添營運動能
-    https://tw.stock.yahoo.com/news/%E6%8D%B7%E6%B5%81%E9%96%A5%E6%A5%AD%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%983-18%E5%85%83-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%8F%8A%E8%88%B9%E8%88%B6%E9%9C%80%E6%B1%82%E5%A2%9E%E6%B7%BB%E7%87%9F%E9%81%8B%E5%8B%95%E8%83%BD-022216129.html
-  ▸ 台驊空運獲利增 H1 EPS 3.84元 暫不分派上半年盈餘
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%A9%8A%E7%A9%BA%E9%81%8B%E7%8D%B2%E5%88%A9%E5%A2%9E-h1-eps-3-84%E5%85%83-015528201.html
+【油價上升】1 則  🟡單篇
+  ▸ Gas prices are the highest on record for August. Here are th
+    https://www.cnbc.com/select/how-to-save-on-gas-with-credit-cards-and-rewards-programs/
 
-【政策補助】1 則  🟡單篇
-  ▸ 培育諾貝爾獎得主 專家呼籲賴總統加碼生醫基金
-    https://money.udn.com/money/story/5612/9690450
-
-【升息】1 則  🟡單篇
-  ▸ 美國公債殖利率逼近 5.24% 三銀行業績兩極股民關注
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%85%AC%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%80%BC%E8%BF%91-5-24-%E4%B8%89%E9%8A%80%E8%A1%8C%E6%A5%AD%E7%B8%BE%E5%85%A9%E6%A5%B5%E8%82%A1%E6%B0%91%E9%97%9C%E6%B3%A8-015721524.html
+【通膨上升】1 則  🟡單篇
+  ▸ 近十年家戶數暴增129萬戶 竹北、烏日房價翻倍漲
+    https://tw.stock.yahoo.com/news/%E8%BF%91%E5%8D%81%E5%B9%B4%E5%AE%B6%E6%88%B6%E6%95%B8%E6%9A%B4%E5%A2%9E129%E8%90%AC%E6%88%B6-%E7%AB%B9%E5%8C%97%E3%80%81%E7%83%8F%E6%97%A5%E6%88%BF%E5%83%B9%E7%BF%BB%E5%80%8D%E6%BC%B2-035503883.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
- 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
- 3. 2002.TW      +3.4  鋼鐵｜通膨上升、美元貶值
- 4. 2006.TW      +3.4  鋼鐵｜通膨上升、美元貶值
- 5. 2007.TW      +3.4  鋼鐵｜通膨上升、美元貶值
- 6. 2880.TW      +3.4  金融｜戰爭升溫、升息
- 7. 2881.TW      +3.4  金融｜戰爭升溫、升息
- 8. 2882.TW      +3.4  金融｜戰爭升溫、升息
- 9. 2884.TW      +3.4  金融｜戰爭升溫、升息
-10. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 1. 6505.TW      +6.9  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +6.9  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2002.TW      +2.9  鋼鐵｜美元貶值、通膨上升
+ 9. 2006.TW      +2.9  鋼鐵｜美元貶值、通膨上升
+10. 2007.TW      +2.9  鋼鐵｜美元貶值、通膨上升
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -5.2  電子零組件｜記憶體漲價、通膨上升
- 2. 2327.TW      -5.2  電子零組件｜記憶體漲價、通膨上升
- 3. 3037.TW      -5.2  電子零組件｜記憶體漲價、通膨上升
- 4. 2330.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 5. 2454.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 6. 2303.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 7. 3711.TW      -4.0  半導體｜AI熱潮、景氣轉弱
- 8. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
- 9. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
-10. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
