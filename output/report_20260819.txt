@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-08-19
 ════════════════════════════════
-掃描 128 則新聞  |  偵測 10 個事件
+掃描 127 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,103 +8,78 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ Cerebras’s stock has been a post-IPO bust. Its comeback hing
-    https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories
-  ▸ AI chip stocks were riding high. Here’s why Micron and other
-    https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories
+【AI熱潮】14 則  🟢高信心
   ▸ IQIYI outlines AI-led decentralization as Q2 non-GAAP operat
     https://seekingalpha.com/news/4634596-iqiyi-outlines-ai-led-decentralization-as-q2-non-gaap-operating-loss-narrows-to-rmb-30_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 美20多歲工程師10年前重押輝達！提早退休
+    https://tw.news.yahoo.com/%E7%BE%8E20%E5%A4%9A%E6%AD%B2%E5%B7%A5%E7%A8%8B%E5%B8%AB10%E5%B9%B4%E5%89%8D%E9%87%8D%E6%8A%BC%E8%BC%9D%E9%81%94-%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91-023500149.html
+  ▸ 宇樹科技掛牌飆逾六倍，Agility場外暖身接棒，能率集團豐收可期
+    https://tw.stock.yahoo.com/news/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E6%8E%9B%E7%89%8C%E9%A3%86%E9%80%BE%E5%85%AD%E5%80%8D-agility%E5%A0%B4%E5%A4%96%E6%9A%96%E8%BA%AB%E6%8E%A5%E6%A3%92-%E8%83%BD%E7%8E%87%E9%9B%86%E5%9C%98%E8%B1%90%E6%94%B6%E5%8F%AF%E6%9C%9F-023405920.html
 
-【景氣轉弱】11 則  🟢高信心
-  ▸ Stock futures are little changed after S&P 500 posts third s
-    https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html
-  ▸ What Chinese liquor maker Moutai's slump says about the coun
-    https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html
-  ▸ 權值股走跌　台股早盤急跌近千點失守45000點
-    https://money.udn.com/money/story/5612/9700369
+【景氣轉弱】4 則  🟢高信心
+  ▸ 穆迪上修南韓成長率至3.5% 半導體出口強勁內需卻疲弱
+    https://tw.stock.yahoo.com/news/%E7%A9%86%E8%BF%AA%E4%B8%8A%E4%BF%AE%E5%8D%97%E9%9F%93%E6%88%90%E9%95%B7%E7%8E%87%E8%87%B33-5-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%87%BA%E5%8F%A3%E5%BC%B7%E5%8B%81%E5%85%A7%E9%9C%80%E5%8D%BB%E7%96%B2%E5%BC%B1-023546138.html
+  ▸ 台股千點殺盤！後市「關鍵訊號」曝光 散戶別急著殺進去
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8D%83%E9%BB%9E%E6%AE%BA%E7%9B%A4-%E5%BE%8C%E5%B8%82-%E9%97%9C%E9%8D%B5%E8%A8%8A%E8%99%9F-%E6%9B%9D%E5%85%89-%E6%95%A3%E6%88%B6%E5%88%A5%E6%80%A5%E8%91%97%E6%AE%BA%E9%80%B2%E5%8E%BB-023349371.html
+  ▸ 七夕沒人陪「股票會賠」？ 專家揭3大衝擊：考驗信仰的時候到了
+    https://tw.stock.yahoo.com/news/%E4%B8%83%E5%A4%95%E6%B2%92%E4%BA%BA%E9%99%AA-%E8%82%A1%E7%A5%A8%E6%9C%83%E8%B3%A0-%E5%B0%88%E5%AE%B6%E6%8F%AD3%E5%A4%A7%E8%A1%9D%E6%93%8A-%E8%80%83%E9%A9%97%E4%BF%A1%E4%BB%B0%E7%9A%84%E6%99%82%E5%80%99%E5%88%B0%E4%BA%86-014300270.html
 
-【升息】6 則  🟢高信心
+【升息】2 則  🟢高信心
   ▸ Mortgage and refinance rates today, Tuesday, August 18, 2026
     https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-18-2026-generally-higher-yet-the-30-year-holds-100000411.html
   ▸ Best CD rates today, Tuesday, August 18, 2026: Lock in up to
     https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-430-apy-today-on-a-16-month-cd-100000469.html
-  ▸ If AI is a bubble, could rising yields pop it?
-    https://www.cnbc.com/2026/08/18/if-ai-is-a-bubble-could-rising-yields-pop-it.html
 
-【油價上升】5 則  🟢高信心
-  ▸ Oil edges higher as Iranian attacks on ships in Strait of Ho
-    https://seekingalpha.com/news/4634591-oil-edges-higher-as-iranian-attacks-on-ships-in-strait-of-hormuz-without-us-response-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Trump says no talks scheduled with Iran as he teases action 
-    https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html
-  ▸ 中東局勢動盪推升國際油價逼近 90 美元 台灣進口成本恐受衝擊
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E6%8E%A8%E5%8D%87%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E9%80%BC%E8%BF%91-90-%E7%BE%8E%E5%85%83-%E5%8F%B0%E7%81%A3%E9%80%B2%E5%8F%A3%E6%88%90%E6%9C%AC%E6%81%90%E5%8F%97%E8%A1%9D%E6%93%8A-013425745.html
+【政策補助】2 則  🟢高信心
+  ▸ 高雄「捷運宅」4410元就能租！大寮社宅釋出384戶　申請倒數一週
+    https://tw.stock.yahoo.com/news/%E9%AB%98%E9%9B%84%E3%80%8C%E6%8D%B7%E9%81%8B%E5%AE%85%E3%80%8D4410%E5%85%83%E5%B0%B1%E8%83%BD%E7%A7%9F%EF%BC%81%E5%A4%A7%E5%AF%AE%E7%A4%BE%E5%AE%85%E9%87%8B%E5%87%BA384%E6%88%B6-%E7%94%B3%E8%AB%8B%E5%80%92%E6%95%B8%E4%B8%80%E9%80%B1-024140585.html
+  ▸ 國旅補助即起開放申請！ 最高領可4000元 申請條件一次看
+    https://tw.stock.yahoo.com/news/%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E5%8D%B3%E8%B5%B7%E9%96%8B%E6%94%BE%E7%94%B3%E8%AB%8B-%E6%9C%80%E9%AB%98%E9%A0%98%E5%8F%AF4000%E5%85%83-%E7%94%B3%E8%AB%8B%E6%A2%9D%E4%BB%B6-%E6%AC%A1%E7%9C%8B-020800344.html
 
-【戰爭升溫】4 則  🟢高信心
-  ▸ Oil edges higher as Iranian attacks on ships in Strait of Ho
-    https://seekingalpha.com/news/4634591-oil-edges-higher-as-iranian-attacks-on-ships-in-strait-of-hormuz-without-us-response-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Trump says no talks scheduled with Iran as he teases action 
-    https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html
-  ▸ 中東局勢動盪推升國際油價逼近 90 美元 台灣進口成本恐受衝擊
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E6%8E%A8%E5%8D%87%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E9%80%BC%E8%BF%91-90-%E7%BE%8E%E5%85%83-%E5%8F%B0%E7%81%A3%E9%80%B2%E5%8F%A3%E6%88%90%E6%9C%AC%E6%81%90%E5%8F%97%E8%A1%9D%E6%93%8A-013425745.html
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 長江存儲IPO輔導進入驗收階段，美國制裁與供應鏈風險受矚目
+    https://tw.stock.yahoo.com/news/%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2ipo%E8%BC%94%E5%B0%8E%E9%80%B2%E5%85%A5%E9%A9%97%E6%94%B6%E9%9A%8E%E6%AE%B5-%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E8%88%87%E4%BE%9B%E6%87%89%E9%8F%88%E9%A2%A8%E9%9A%AA%E5%8F%97%E7%9F%9A%E7%9B%AE-023955804.html
+  ▸ Google 手機組裝 要移出大陸
+    https://money.udn.com/money/story/5612/9699933
 
-【通膨上升】4 則  🟢高信心
-  ▸ Here’s the best place to hedge severe El Niño shocks to the 
-    https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html
-  ▸ U.S. government debt yields are surging at a bad time. Here'
-    https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html
-  ▸ 30-year Treasury yield tops 5.33%, new 19-year high, on infl
-    https://www.cnbc.com/2026/08/18/treasury-yields-.html
-
-【關稅/貿易戰】4 則  🟢高信心
-  ▸ Trump, Carney reportedly in talks ahead of new 50% tariffs o
-    https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html
-  ▸ 鴻海衝 CPO 加碼越南114億 墨國伺服器產能同步擴增
-    https://money.udn.com/money/story/5612/9699932
-  ▸ 鴻海據點超多 不怕地緣風險
-    https://money.udn.com/money/story/5612/9699935
-
-【美元升值】3 則  🟢高信心
-  ▸ 新台幣開盤貶1.5分　為31.96元
-    https://money.udn.com/money/story/5612/9700333
+【美元升值】2 則  🟢高信心
+  ▸ 油價上漲拖累，菲律賓披索兌美元一度貶值0.3%，跌至紀錄新低
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E6%8B%96%E7%B4%AF-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8A%AB%E7%B4%A2%E5%85%8C%E7%BE%8E%E5%85%83-%E5%BA%A6%E8%B2%B6%E5%80%BC0-3-%E8%B7%8C%E8%87%B3%E7%B4%80%E9%8C%84%E6%96%B0%E4%BD%8E-015526593.html
   ▸ 東京匯市早盤美元指數微升，日圓小升、歐元與英鎊偏軟
     https://tw.stock.yahoo.com/news/%E6%9D%B1%E4%BA%AC%E5%8C%AF%E5%B8%82%E6%97%A9%E7%9B%A4%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E5%BE%AE%E5%8D%87-%E6%97%A5%E5%9C%93%E5%B0%8F%E5%8D%87-%E6%AD%90%E5%85%83%E8%88%87%E8%8B%B1%E9%8E%8A%E5%81%8F%E8%BB%9F-014055703.html
-  ▸ 法國興業銀行稱，人民幣升破6.70空間有限，出口商結匯態勢減弱
-    https://tw.stock.yahoo.com/news/%E6%B3%95%E5%9C%8B%E8%88%88%E6%A5%AD%E9%8A%80%E8%A1%8C%E7%A8%B1-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%87%E7%A0%B46-70%E7%A9%BA%E9%96%93%E6%9C%89%E9%99%90-%E5%87%BA%E5%8F%A3%E5%95%86%E7%B5%90%E5%8C%AF%E6%85%8B%E5%8B%A2%E6%B8%9B%E5%BC%B1-012926190.html
 
-【政策補助】1 則  🟡單篇
-  ▸ 台電砸50億更新線路 重電業受惠
-    https://money.udn.com/money/story/5612/9699846
+【油價上升】1 則  🟡單篇
+  ▸ 油價上漲拖累，菲律賓披索兌美元一度貶值0.3%，跌至紀錄新低
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E6%8B%96%E7%B4%AF-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8A%AB%E7%B4%A2%E5%85%8C%E7%BE%8E%E5%85%83-%E5%BA%A6%E8%B2%B6%E5%80%BC0-3-%E8%B7%8C%E8%87%B3%E7%B4%80%E9%8C%84%E6%96%B0%E4%BD%8E-015526593.html
 
-【航運運價上升】1 則  🟡單篇
-  ▸ 荷姆茲航運風險升溫，兩大期油電子盤追高連四漲，布油向92美元挺進
-    https://tw.stock.yahoo.com/news/%E8%8D%B7%E5%A7%86%E8%8C%B2%E8%88%AA%E9%81%8B%E9%A2%A8%E9%9A%AA%E5%8D%87%E6%BA%AB-%E5%85%A9%E5%A4%A7%E6%9C%9F%E6%B2%B9%E9%9B%BB%E5%AD%90%E7%9B%A4%E8%BF%BD%E9%AB%98%E9%80%A3%E5%9B%9B%E6%BC%B2-%E5%B8%83%E6%B2%B9%E5%90%9192%E7%BE%8E%E5%85%83%E6%8C%BA%E9%80%B2-013307261.html
+【戰爭升溫】1 則  🟡單篇
+  ▸ 中東和平前景黯淡！美國官員：川普要求談判團隊暫停與伊朗接觸
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%92%8C%E5%B9%B3%E5%89%8D%E6%99%AF%E9%BB%AF%E6%B7%A1-%E7%BE%8E%E5%9C%8B%E5%AE%98%E5%93%A1-%E5%B7%9D%E6%99%AE%E8%A6%81%E6%B1%82%E8%AB%87%E5%88%A4%E5%9C%98%E9%9A%8A%E6%9A%AB%E5%81%9C%E8%88%87%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%A7%B8-014229689.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
- 2. 8917.TW      +8.6  油電燃氣｜油價上升、戰爭升溫
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 1. 6505.TW      +4.2  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +4.2  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 7. 2886.TW      +3.4  金融｜升息、戰爭升溫
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
- 2. 2609.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
- 3. 2615.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
- 4. 2618.TW      -3.9  交通運輸及航運｜油價上升、戰爭升溫
- 5. 2317.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
- 6. 2327.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
- 7. 3037.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
- 8. 2515.TW      -3.0  建材營造｜升息
- 9. 5534.TW      -3.0  建材營造｜升息
-10. 2504.TW      -3.0  建材營造｜升息
+ 1. 2603.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2515.TW      -3.0  建材營造｜升息
+ 6. 5534.TW      -3.0  建材營造｜升息
+ 7. 2504.TW      -3.0  建材營造｜升息
+ 8. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
