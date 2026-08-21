@@ -1,0 +1,127 @@
+📊 事件驅動選股日報 2026-08-21
+════════════════════════════════
+掃描 129 則新聞  |  偵測 11 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續推動**：AI需求暢旺，帶動雲端服務及AI資料中心相關產業鏈發展，成為市場焦點。
+2.  **全球景氣前景轉弱**：企業財測下修、零售業面臨逆風，顯示全球經濟成長動能減緩，市場趨於謹慎。
+3.  **地緣政治風險升溫**：中東地區緊張情勢加劇，促使國際油價上漲，並可能引發全球通膨壓力。
+4.  **美元指數走弱**：市場對美國財政政策的潛在影響有所關注，美元指數下滑，部分亞洲貨幣回彈。
+
+【具體總結】：
+綜合來看，AI相關產業的強勁需求為市場提供成長動能，吸引資金持續聚焦科技領域。然而，全球經濟前景轉弱與企業財測保守，預計將對整體市場情緒構成壓力，特別是消費性與傳統產業。同時，中東地緣政治升溫引發的油價上漲，恐加劇通膨隱憂並增加市場波動性。美元走弱則可能為部分亞洲貨幣和資產帶來喘息空間。整體資金動向預期將在成長題材與宏觀風險之間權衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】20 則  🟢高信心
+  ▸ Alibaba targets RMB 100 billion external cloud revenue by 20
+    https://seekingalpha.com/news/4635731-alibaba-targets-rmb-100-billion-external-cloud-revenue-by-2030-with-20-percent-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Neocloud stocks like CoreWeave are having a moment — and tim
+    https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories
+  ▸ AI data center outrage is showing up everywhere from ads to 
+    https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html
+
+【景氣轉弱】6 則  🟢高信心
+  ▸ Accent Group FY2026 slides: strategic reset amid retail head
+    https://www.investing.com/news/company-news/accent-group-fy2026-slides-strategic-reset-amid-retail-headwinds-93CH-4870742
+  ▸ The bond market is going to burst the stock-market bubble
+    https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories
+  ▸ Walmart stock tumbles 9% after outlook disappoints Wall Stre
+    https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Oil rises for fifth straight day as Trump promises to crush 
+    https://seekingalpha.com/news/4635733-oil-rises-for-fifth-straight-day-as-trump-promises-to-crush-irans-economy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 中東緊張＋利率風險，韓國財長稱將採取措施因應匯市波動
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E7%B7%8A%E5%BC%B5-%E5%88%A9%E7%8E%87%E9%A2%A8%E9%9A%AA-%E9%9F%93%E5%9C%8B%E8%B2%A1%E9%95%B7%E7%A8%B1%E5%B0%87%E6%8E%A1%E5%8F%96%E6%8E%AA%E6%96%BD%E5%9B%A0%E6%87%89%E5%8C%AF%E5%B8%82%E6%B3%A2%E5%8B%95-014810558.html
+  ▸ 因應中國威脅 台灣國防預算首破兆元 達 350 億美元
+    https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E4%B8%AD%E5%9C%8B%E5%A8%81%E8%84%85-%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E9%A6%96%E7%A0%B4%E5%85%86%E5%85%83-%E9%81%94-350-%E5%84%84%E7%BE%8E%E5%85%83-014738922.html
+
+【油價上升】5 則  🟢高信心
+  ▸ Oil rises for fifth straight day as Trump promises to crush 
+    https://seekingalpha.com/news/4635733-oil-rises-for-fifth-straight-day-as-trump-promises-to-crush-irans-economy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Japan headline inflation rate hits highest this year as ener
+    https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html
+  ▸ 美伊緊張局勢升溫 WTI 油價漲逾3%突破85美元
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E7%B7%8A%E5%BC%B5%E5%B1%80%E5%8B%A2%E5%8D%87%E6%BA%AB-wti-%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE3-%E7%AA%81%E7%A0%B485%E7%BE%8E%E5%85%83-013251172.html
+
+【美元貶值】4 則  🟢高信心
+  ▸ Dollar wobbles as investors balk at US Treasury’s rescue eff
+    https://www.investing.com/news/forex-news/dollar-wobbles-as-investors-balk-at-us-treasurys-rescue-efforts-4870745
+  ▸ 美元賣盤＋資金回流，韓元早盤強彈1%領漲亞幣、較6月低點反彈12%
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E8%B3%A3%E7%9B%A4-%E8%B3%87%E9%87%91%E5%9B%9E%E6%B5%81-%E9%9F%93%E5%85%83%E6%97%A9%E7%9B%A4%E5%BC%B7%E5%BD%881-%E9%A0%98%E6%BC%B2%E4%BA%9E%E5%B9%A3-%E8%BC%836%E6%9C%88%E4%BD%8E%E9%BB%9E%E5%8F%8D%E5%BD%8812-015231803.html
+  ▸ TS Lombard稱美財政部回購超長債類似殖利率曲線控制，恐削弱美元
+    https://tw.stock.yahoo.com/news/ts-lombard%E7%A8%B1%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E5%9B%9E%E8%B3%BC%E8%B6%85%E9%95%B7%E5%82%B5%E9%A1%9E%E4%BC%BC%E6%AE%96%E5%88%A9%E7%8E%87%E6%9B%B2%E7%B7%9A%E6%8E%A7%E5%88%B6-%E6%81%90%E5%89%8A%E5%BC%B1%E7%BE%8E%E5%85%83-013054174.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ Corn futures top $5 for first time in 18 months as U.S. crop
+    https://seekingalpha.com/news/4635730-corn-futures-top-5-for-first-time-in-18-months-as-us-crop-tour-points-to-tighter-supplies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Japan headline inflation rate hits highest this year as ener
+    https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html
+  ▸ 日本7月通膨加速漲　市場預期日銀10月升息
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC7%E6%9C%88%E9%80%9A%E8%86%A8%E5%8A%A0%E9%80%9F%E6%BC%B2-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E6%97%A5%E9%8A%8010%E6%9C%88%E5%8D%87%E6%81%AF-014814693.html
+
+【升息】3 則  🟢高信心
+  ▸ Stock futures are little changed after a steep sell-off spar
+    https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html
+  ▸ Yields are on the move once again. These stocks could get a 
+    https://www.cnbc.com/2026/08/20/yields-are-on-the-move-once-again-these-stocks-could-get-a-boost-if-they-keep-going-higher.html
+  ▸ 日本7月通膨加速漲　市場預期日銀10月升息
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC7%E6%9C%88%E9%80%9A%E8%86%A8%E5%8A%A0%E9%80%9F%E6%BC%B2-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E6%97%A5%E9%8A%8010%E6%9C%88%E5%8D%87%E6%81%AF-014814693.html
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ 日商味之素傳大砍大陸載板材料供貨 台廠為何老神在在？業界觀點一次看
+    https://money.udn.com/money/story/5612/9704936
+  ▸ 台塑遭點名！韓擬對固體氫氧化鈉課反傾銷稅 建議稅率38.89%比陸廠重
+    https://money.udn.com/money/story/5612/9704576
+  ▸ 德國財長指責中國無視貿易規則，應對中採取更強硬立場
+    https://tw.stock.yahoo.com/news/%E5%BE%B7%E5%9C%8B%E8%B2%A1%E9%95%B7%E6%8C%87%E8%B2%AC%E4%B8%AD%E5%9C%8B%E7%84%A1%E8%A6%96%E8%B2%BF%E6%98%93%E8%A6%8F%E5%89%87-%E6%87%89%E5%B0%8D%E4%B8%AD%E6%8E%A1%E5%8F%96%E6%9B%B4%E5%BC%B7%E7%A1%AC%E7%AB%8B%E5%A0%B4-010505953.html
+
+【政策補助】2 則  🟢高信心
+  ▸ Education Department recalculates student loan forgiveness c
+    https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html
+  ▸ 因應中國威脅 台灣國防預算首破兆元 達 350 億美元
+    https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E4%B8%AD%E5%9C%8B%E5%A8%81%E8%84%85-%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E9%A6%96%E7%A0%B4%E5%85%86%E5%85%83-%E9%81%94-350-%E5%84%84%E7%BE%8E%E5%85%83-014738922.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ Micron CEO pushes back on memory bear case. 3 key takeaways 
+    https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html
+  ▸ 重壓海力士、三星！「最純韓股ETF009829」今掛牌 蜜月行情大漲逾2％
+    https://tw.stock.yahoo.com/news/%E9%87%8D%E5%A3%93%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E4%B8%89%E6%98%9F%EF%BC%81%E3%80%8C%E6%9C%80%E7%B4%94%E9%9F%93%E8%82%A1etf009829%E3%80%8D%E4%BB%8A%E6%8E%9B%E7%89%8C-%E8%9C%9C%E6%9C%88%E8%A1%8C%E6%83%85%E5%A4%A7%E6%BC%B2%E9%80%BE2%EF%BC%85-014835085.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 台股跌勢擴大下殺300點！航運股逆勢出頭 萬海飆近5％
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C%E5%8B%A2%E6%93%B4%E5%A4%A7%E4%B8%8B%E6%AE%BA300%E9%BB%9E-%E8%88%AA%E9%81%8B%E8%82%A1%E9%80%86%E5%8B%A2%E5%87%BA%E9%A0%AD-%E8%90%AC%E6%B5%B7%E9%A3%86%E8%BF%915-010758674.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2002.TW      +3.4  鋼鐵｜美元貶值、通膨上升
+ 9. 2006.TW      +3.4  鋼鐵｜美元貶值、通膨上升
+10. 2007.TW      +3.4  鋼鐵｜美元貶值、通膨上升
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -5.0  半導體｜AI熱潮、景氣轉弱
+ 2. 2454.TW      -5.0  半導體｜AI熱潮、景氣轉弱
+ 3. 2303.TW      -5.0  半導體｜AI熱潮、景氣轉弱
+ 4. 3711.TW      -5.0  半導體｜AI熱潮、景氣轉弱
+ 5. 2317.TW      -5.0  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -5.0  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -5.0  電子零組件｜景氣轉弱、通膨上升
+ 8. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+ 9. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+10. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
