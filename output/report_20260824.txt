@@ -1,94 +1,86 @@
 📊 事件驅動選股日報 2026-08-24
 ════════════════════════════════
-掃描 111 則新聞  |  偵測 10 個事件
+掃描 111 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】：
-1.  AI熱潮持續引領市場關注，然投資機構對其展望看法呈現分歧。
-2.  地緣政治風險與貿易摩擦加劇，包括中東制裁、網路攻擊及美加關稅僵局。
-3.  各國政府政策積極引導產業發展，包括生醫創投及AI基礎建設補助。
-4.  聯準會會議紀要偏鷹派，然市場對未來升息預期有所降溫，歐洲經濟示現穩定。
+1.  **AI熱潮持續但分歧：** AI概念股仍為市場焦點，但高盛指出對沖基金與共同基金對AI股的投資策略已出現分歧，顯示資金布局可能趨於複雜。Nvidia被視為AI繁榮的核心，而阿里巴巴等科技巨頭也積極投入資金擴大AI投資。
+2.  **地緣政治風險升溫：** 中東緊張局勢加劇，美國警告「經濟D日」，伊朗威脅中斷石油運輸，恐對全球能源供應造成衝擊。同時，無人系統與軍工產業因應地緣政治變化而受到關注。
+3.  **貿易摩擦再起：** 美加關稅談判破裂，預示兩國貿易關係可能面臨挑戰。儘管美中科技戰持續，部分半導體大廠如三星、SK海力士仍逆勢擴大在中國舊廠的投資，反映供應鏈策略的多元考量。
+4.  **貨幣政策前景不明：** 市場正密切關注即將舉行的傑克遜霍爾研討會，分析師預警若央行官員重申原有立場，恐引發長債市場波動，進而影響房貸利率與整體借貸成本。
+5.  **政府政策支持：** 各國政府持續透過政策工具，包括對中小微企業提供振興貸款、社會福利補貼，以及國際援助等，對特定產業或區域經濟提供支撐。
 
-【具體總結】：
-今日盤勢受多重因素影響，呈現複雜格局。AI題材持續為市場注入動能，但投資機構對其展望看法分歧。與此同時，地緣政治衝突（如中東制裁、網路攻擊）及美加貿易僵局，增添了全球經濟的不確定性，可能引發避險需求。儘管聯準會會議紀錄顯示鷹派立場，但市場對未來升息預期降溫，加上政府對特定產業（生醫、AI基建）的政策支持，可能引導資金在成長型產業與防禦性資產間進行佈局，預期市場波動將持續。
+【具體總結】
+今日盤勢受多重因素交織影響，呈現複雜局面。AI概念股雖仍具熱度，但法人機構投資策略的分歧，顯示市場在追逐高成長的同時也存有謹慎觀望。地緣政治緊張，特別是中東衝突與能源供應威脅，加上美加貿易摩擦加劇，可能推升市場避險情緒。同時，貨幣政策的不確定性將牽動利率與債市走向，影響資金配置。整體而言，市場資金可能在特定科技題材與避險資產間流動，預期盤勢將呈現波動，部分具備防禦或特定政策支持的產業或具避險性質的商品可能獲得較多關注。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】13 則  🟢高信心
+【AI熱潮】11 則  🟢高信心
   ▸ Hedge funds and mutual funds split on the AI trade - Goldman
     https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Nvidia is the beating heart of the AI boom and the stock mar
     https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories
-  ▸ After 10 years at United, CEO Scott Kirby is thinking big ab
-    https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html
+  ▸ Alibaba to raise $10 bln via share placement to fund AI expa
+    https://www.investing.com/news/stock-market-news/alibaba-to-raise-10-bln-via-share-placement-to-fund-ai-expansion-4872557
 
-【戰爭升溫】7 則  🟢高信心
-  ▸ Treasury Secretary to announce Iran sanctions as Tehran dism
-    https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html
-  ▸ Small UK power generator shut down after cyberattack linked 
-    https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html
-  ▸ Norway to give more than $9 billion to Ukraine in 2027
-    https://www.cnbc.com/2026/08/23/norway-to-give-more-than-9-billion-to-ukraine-in-2027.html
-
-【政策補助】5 則  🟢高信心
-  ▸ 生醫業界籲設百億創投基金
-    https://money.udn.com/money/story/5612/9709494
-  ▸ 美財政部回購政策刺激 比特幣飆漲逾 20% 突破 7.7 萬美元
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E5%9B%9E%E8%B3%BC%E6%94%BF%E7%AD%96%E5%88%BA%E6%BF%80-%E6%AF%94%E7%89%B9%E5%B9%A3%E9%A3%86%E6%BC%B2%E9%80%BE-20-%E7%AA%81%E7%A0%B4-7-014109828.html
-  ▸ AI建設浪潮助攻，國產新竹廠大啖桃竹苗大矽谷方案紅利
-    https://tw.stock.yahoo.com/news/ai%E5%BB%BA%E8%A8%AD%E6%B5%AA%E6%BD%AE%E5%8A%A9%E6%94%BB-%E5%9C%8B%E7%94%A2%E6%96%B0%E7%AB%B9%E5%BB%A0%E5%A4%A7%E5%95%96%E6%A1%83%E7%AB%B9%E8%8B%97%E5%A4%A7%E7%9F%BD%E8%B0%B7%E6%96%B9%E6%A1%88%E7%B4%85%E5%88%A9-013357090.html
+【戰爭升溫】5 則  🟢高信心
+  ▸ US vows ’economic D-Day’ as Iran threatens to halt all oil e
+    https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522
+  ▸ 中東3國成立「伊斯蘭的北約」陳冲憂「亞洲航母真空」匯率陰謀論
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B13%E5%9C%8B%E6%88%90%E7%AB%8B%E3%80%8C%E4%BC%8A%E6%96%AF%E8%98%AD%E7%9A%84%E5%8C%97%E7%B4%84%E3%80%8D%E9%99%B3%E5%86%B2%E6%86%82%E3%80%8C%E4%BA%9E%E6%B4%B2%E8%88%AA%E6%AF%8D%E7%9C%9F%E7%A9%BA%E3%80%8D%E5%8C%AF%E7%8E%87%E9%99%B0%E8%AC%80%E8%AB%96-025124371.html
+  ▸ 永虹先進三階段發展無人系統任務生態系 歐系軍工業到訪
+    https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%99%B9%E5%85%88%E9%80%B2%E4%B8%89%E9%9A%8E%E6%AE%B5%E7%99%BC%E5%B1%95%E7%84%A1%E4%BA%BA%E7%B3%BB%E7%B5%B1%E4%BB%BB%E5%8B%99%E7%94%9F%E6%85%8B%E7%B3%BB-%E6%AD%90%E7%B3%BB%E8%BB%8D%E5%B7%A5%E6%A5%AD%E5%88%B0%E8%A8%AA-021208375.html
 
 【關稅/貿易戰】4 則  🟢高信心
   ▸ Stock futures flat as U.S. and Canada appear headed for trad
     https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories
-  ▸ 加拿大總理誓言對美實施對等關稅 美加貿易談判破裂
-    https://tw.stock.yahoo.com/news/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E8%AA%93%E8%A8%80%E5%B0%8D%E7%BE%8E%E5%AF%A6%E6%96%BD%E5%B0%8D%E7%AD%89%E9%97%9C%E7%A8%85-%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82-013512054.html
-  ▸ 美加貿易談判破局　華府與渥太華言語互砍
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E8%AB%87%E5%88%A4%E7%A0%B4%E5%B1%80-%E8%8F%AF%E5%BA%9C%E8%88%87%E6%B8%A5%E5%A4%AA%E8%8F%AF%E8%A8%80%E8%AA%9E%E4%BA%92%E7%A0%8D-013126492.html
+  ▸ 美中科技戰難擋：三星、SK海力士逆勢擴大中國舊廠投資
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E6%88%B0%E9%9B%A3%E6%93%8B-%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%80%86%E5%8B%A2%E6%93%B4%E5%A4%A7%E4%B8%AD%E5%9C%8B%E8%88%8A%E5%BB%A0%E6%8A%95%E8%B3%87-021124189.html
+  ▸ 美加關稅談判破局 凌晨1點！川普發飆了
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%8A%A0%E9%97%9C%E7%A8%85%E8%AB%87%E5%88%A4%E7%A0%B4%E5%B1%80-%E5%87%8C%E6%99%A81%E9%BB%9E-%E5%B7%9D%E6%99%AE%E7%99%BC%E9%A3%86%E4%BA%86-020734196.html
 
 【升息】3 則  🟢高信心
   ▸ Mortgage and refinance interest rates today, Sunday, August 
     https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-23-2026-higher-than-last-weekend-as-prime-selling-season-wraps-up-100000382.html
   ▸ Best CD rates today, Sunday, August 23, 2026: Lock in up to 
     https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-23-2026-lock-in-up-to-435-apy-100000353.html
-  ▸ 聯準會會議紀錄顯鷹派 市場對升息預期降溫 歐洲經濟回穩
-    https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84%E9%A1%AF%E9%B7%B9%E6%B4%BE-%E5%B8%82%E5%A0%B4%E5%B0%8D%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E9%99%8D%E6%BA%AB-%E6%AD%90%E6%B4%B2%E7%B6%93%E6%BF%9F%E5%9B%9E%E7%A9%A9-011701350.html
+  ▸ 傑克遜霍爾演說在即，分析師示警，華許若老調重彈恐引爆長債跌勢
+    https://tw.stock.yahoo.com/news/%E5%82%91%E5%85%8B%E9%81%9C%E9%9C%8D%E7%88%BE%E6%BC%94%E8%AA%AA%E5%9C%A8%E5%8D%B3-%E5%88%86%E6%9E%90%E5%B8%AB%E7%A4%BA%E8%AD%A6-%E8%8F%AF%E8%A8%B1%E8%8B%A5%E8%80%81%E8%AA%BF%E9%87%8D%E5%BD%88%E6%81%90%E5%BC%95%E7%88%86%E9%95%B7%E5%82%B5%E8%B7%8C%E5%8B%A2-022118022.html
+
+【政策補助】3 則  🟢高信心
+  ▸ My son does not work, yet pays $500 for Affordable Care Act 
+    https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories
+  ▸ 財部：中小暨微型企業振興方案　累計核貸近2.28兆元
+    https://tw.stock.yahoo.com/news/%E8%B2%A1%E9%83%A8-%E4%B8%AD%E5%B0%8F%E6%9A%A8%E5%BE%AE%E5%9E%8B%E4%BC%81%E6%A5%AD%E6%8C%AF%E8%88%88%E6%96%B9%E6%A1%88-%E7%B4%AF%E8%A8%88%E6%A0%B8%E8%B2%B8%E8%BF%912-28%E5%85%86%E5%85%83-023450833.html
+  ▸ Norway to give more than $9 billion to Ukraine in 2027
+    https://www.cnbc.com/2026/08/23/norway-to-give-more-than-9-billion-to-ukraine-in-2027.html
 
 【景氣轉弱】3 則  🟢高信心
-  ▸ 亞洲鋼廠減產 鋼市利多 中鋼、新光鋼正向看待後市
-    https://money.udn.com/money/story/10871/9709497
-  ▸ 高盛示警！中國若不推強力刺激措施，經濟恐陷結構性危機
-    https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E7%A4%BA%E8%AD%A6-%E4%B8%AD%E5%9C%8B%E8%8B%A5%E4%B8%8D%E6%8E%A8%E5%BC%B7%E5%8A%9B%E5%88%BA%E6%BF%80%E6%8E%AA%E6%96%BD-%E7%B6%93%E6%BF%9F%E6%81%90%E9%99%B7%E7%B5%90%E6%A7%8B%E6%80%A7%E5%8D%B1%E6%A9%9F-011953302.html
-  ▸ 高盛估中國Q3經濟增速降至4%，市場寬鬆預期升溫
-    https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E4%BC%B0%E4%B8%AD%E5%9C%8Bq3%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%80%9F%E9%99%8D%E8%87%B34-%E5%B8%82%E5%A0%B4%E5%AF%AC%E9%AC%86%E9%A0%90%E6%9C%9F%E5%8D%87%E6%BA%AB-010527803.html
+  ▸ ‘She looked into COBRA’: My friend was laid off and lost her
+    https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories
+  ▸ Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of 
+    https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535
+  ▸ 沃爾瑪暴跌10%「美國消費崩了」？ 阮慕驊揭背後警訊
+    https://tw.stock.yahoo.com/news/%E6%B2%83%E7%88%BE%E7%91%AA%E6%9A%B4%E8%B7%8C10-%E7%BE%8E%E5%9C%8B%E6%B6%88%E8%B2%BB%E5%B4%A9%E4%BA%86-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD%E8%83%8C%E5%BE%8C%E8%AD%A6%E8%A8%8A-022700044.html
 
-【美元貶值】2 則  🟢高信心
-  ▸ 新台幣開盤升2.8分　為31.82元
-    https://money.udn.com/money/story/5612/9709882
-  ▸ 國際油價上漲 台幣升值助抵銷 中油台塑國內油價連四週凍漲
-    https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2-%E5%8F%B0%E5%B9%A3%E5%8D%87%E5%80%BC%E5%8A%A9%E6%8A%B5%E9%8A%B7-%E4%B8%AD%E6%B2%B9%E5%8F%B0%E5%A1%91%E5%9C%8B%E5%85%A7%E6%B2%B9%E5%83%B9%E9%80%A3%E5%9B%9B%E9%80%B1%E5%87%8D%E6%BC%B2-011513749.html
+【油價上升】1 則  🟡單篇
+  ▸ US vows ’economic D-Day’ as Iran threatens to halt all oil e
+    https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522
 
-【油價上升】2 則  🟢高信心
-  ▸ 美揚言祭空前金融攻勢　伊朗警告切斷波斯灣石油出口
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%8F%9A%E8%A8%80%E7%A5%AD%E7%A9%BA%E5%89%8D%E9%87%91%E8%9E%8D%E6%94%BB%E5%8B%A2-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%88%87%E6%96%B7%E6%B3%A2%E6%96%AF%E7%81%A3%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%8F%A3-014930208.html
-  ▸ 國際油價上漲 台幣升值助抵銷 中油台塑國內油價連四週凍漲
-    https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2-%E5%8F%B0%E5%B9%A3%E5%8D%87%E5%80%BC%E5%8A%A9%E6%8A%B5%E9%8A%B7-%E4%B8%AD%E6%B2%B9%E5%8F%B0%E5%A1%91%E5%9C%8B%E5%85%A7%E6%B2%B9%E5%83%B9%E9%80%A3%E5%9B%9B%E9%80%B1%E5%87%8D%E6%BC%B2-011513749.html
-
-【通膨上升】1 則  🟡單篇
-  ▸ 三年多首見 矽晶圓要漲價10% 環球晶、台勝科、合晶喜迎紅利
-    https://money.udn.com/money/story/5612/9709531
+【美元升值】1 則  🟡單篇
+  ▸ 中間價微幅下調，CNY、CNH早盤小貶，退守6.72元上方
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%96%93%E5%83%B9%E5%BE%AE%E5%B9%85%E4%B8%8B%E8%AA%BF-cny-cnh%E6%97%A9%E7%9B%A4%E5%B0%8F%E8%B2%B6-%E9%80%80%E5%AE%886-72%E5%85%83%E4%B8%8A%E6%96%B9-023033266.html
 
 【航運運價上升】1 則  🟡單篇
-  ▸ 貨櫃三雄全寫今年新高！萬海單月漲贏前七月7倍股價 陽明從虧錢變大賺
-    https://tw.stock.yahoo.com/news/%E8%B2%A8%E6%AB%83%E4%B8%89%E9%9B%84%E5%85%A8%E5%AF%AB%E4%BB%8A%E5%B9%B4%E6%96%B0%E9%AB%98%EF%BC%81%E8%90%AC%E6%B5%B7%E5%96%AE%E6%9C%88%E6%BC%B2%E8%B4%8F%E5%89%8D%E4%B8%83%E6%9C%887%E5%80%8D%E8%82%A1%E5%83%B9-%E9%99%BD%E6%98%8E%E5%BE%9E%E8%99%A7%E9%8C%A2%E8%AE%8A%E5%A4%A7%E8%B3%BA-015854487.html
+  ▸ SCFI 連四漲 法人中立評價維持不動
+    https://money.udn.com/money/story/5612/9710074
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 1. 6505.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
  3. 2880.TW      +4.0  金融｜戰爭升溫、升息
  4. 2881.TW      +4.0  金融｜戰爭升溫、升息
  5. 2882.TW      +4.0  金融｜戰爭升溫、升息
@@ -100,16 +92,16 @@
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2330.TW      -5.0  半導體｜AI熱潮、關稅/貿易戰
- 2. 2454.TW      -5.0  半導體｜AI熱潮、關稅/貿易戰
- 3. 2303.TW      -5.0  半導體｜AI熱潮、關稅/貿易戰
- 4. 2344.TW      -5.0  半導體｜AI熱潮、關稅/貿易戰
- 5. 3711.TW      -5.0  半導體｜AI熱潮、關稅/貿易戰
- 6. 2603.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2609.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 8. 2615.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
- 9. 2618.TW      -3.9  交通運輸及航運｜戰爭升溫、油價上升
-10. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 2515.TW      -3.0  建材營造｜升息
+ 8. 5534.TW      -3.0  建材營造｜升息
+ 9. 2504.TW      -3.0  建材營造｜升息
+10. 2330.TW      -2.1  半導體｜AI熱潮、關稅/貿易戰
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
