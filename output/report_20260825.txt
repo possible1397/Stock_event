@@ -1,106 +1,94 @@
 📊 事件驅動選股日報 2026-08-25
 ════════════════════════════════
-掃描 136 則新聞  |  偵測 9 個事件
+掃描 134 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  **【重點提要】**
-    *   美加貿易關係緊張升級，美國擬對加拿大汽車關稅提高至50%，加幣匯率承壓。
-    *   AI技術發展及應用持續受關注，相關工具、服務與資安解決方案市場動能強勁。
-    *   全球經濟景氣轉弱疑慮加劇，亞洲股市普遍出現大幅修正，市場波動性升高。
-    *   美國對伊朗制裁升級，地緣政治緊張情勢增溫，原油及能源相關產業可能受影響。
-    *   全球通膨壓力持續，消費者債務升高，市場關注聯準會對通膨的態度及黃金價格走勢。
-
-2.  **【具體總結】**
-    今日市場受到多重負面因素衝擊，包括美加貿易戰升溫、地緣政治緊張情勢，以及全球經濟景氣放緩的普遍擔憂，導致亞洲主要股市普遍重挫，投資者避險情緒濃厚。儘管AI技術發展持續為科技產業提供成長動能，但宏觀經濟逆風和通膨壓力仍限制了整體市場的樂觀氛圍。資金流向呈現保守，避險資產如黃金受到青睞，整體盤勢面臨較大賣壓。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【關稅/貿易戰】5 則  🟢高信心
-  ▸ Trump says U.S. will hike Canada auto tariffs to 50% as trad
-    https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html
-  ▸ U.S. Trade Rep Greer blames Canada for failed tariff talks: 
-    https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html
+【AI熱潮】10 則  🟢高信心
+  ▸ SpaceX plans to put Nvidia-powered AI satellites in orbit ne
+    https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories
+  ▸ It’s time to bet big on Nvidia’s stock, says this analyst wh
+    https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories
+  ▸ A股波動無需過度擔心，市場專家稱資產安全與科技創新仍是有力支撐
+    https://tw.stock.yahoo.com/news/a%E8%82%A1%E6%B3%A2%E5%8B%95%E7%84%A1%E9%9C%80%E9%81%8E%E5%BA%A6%E6%93%94%E5%BF%83-%E5%B8%82%E5%A0%B4%E5%B0%88%E5%AE%B6%E7%A8%B1%E8%B3%87%E7%94%A2%E5%AE%89%E5%85%A8%E8%88%87%E7%A7%91%E6%8A%80%E5%89%B5%E6%96%B0%E4%BB%8D%E6%98%AF%E6%9C%89%E5%8A%9B%E6%94%AF%E6%92%90-023412799.html
+
+【關稅/貿易戰】6 則  🟢高信心
+  ▸ Ford’s $3 billion Canadian bet is getting caught in trade-wa
+    https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories
   ▸ 'They asked too much': Canadian dollar slides as Ottawa and 
     https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html
+  ▸ 美國施壓韓企赴美建記憶體廠，800兆韓元Honam半導體聚落添變數
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%96%BD%E5%A3%93%E9%9F%93%E4%BC%81%E8%B5%B4%E7%BE%8E%E5%BB%BA%E8%A8%98%E6%86%B6%E9%AB%94%E5%BB%A0-800%E5%85%86%E9%9F%93%E5%85%83honam%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%81%9A%E8%90%BD%E6%B7%BB%E8%AE%8A%E6%95%B8-023659864.html
 
-【AI熱潮】5 則  🟢高信心
-  ▸ CNBC's The China Connection newsletter: Robots need help lea
-    https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html
-  ▸ AI工具貫穿培訓流程 Skillable優化實驗室學習體驗
-    https://tw.stock.yahoo.com/news/ai%E5%B7%A5%E5%85%B7%E8%B2%AB%E7%A9%BF%E5%9F%B9%E8%A8%93%E6%B5%81%E7%A8%8B-skillable%E5%84%AA%E5%8C%96%E5%AF%A6%E9%A9%97%E5%AE%A4%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97-013557867.html
-  ▸ 零壹劍指AI、資安商機，看好擴產效應帶動四大領域同步成長
-    https://tw.stock.yahoo.com/news/%E9%9B%B6%E5%A3%B9%E5%8A%8D%E6%8C%87ai-%E8%B3%87%E5%AE%89%E5%95%86%E6%A9%9F-%E7%9C%8B%E5%A5%BD%E6%93%B4%E7%94%A2%E6%95%88%E6%87%89%E5%B8%B6%E5%8B%95%E5%9B%9B%E5%A4%A7%E9%A0%98%E5%9F%9F%E5%90%8C%E6%AD%A5%E6%88%90%E9%95%B7-010446927.html
-
-【景氣轉弱】5 則  🟢高信心
-  ▸ 經濟 K 型分化 業界憂心
-    https://money.udn.com/money/story/5612/9711758
-  ▸ 亞股殺聲隆隆！日經崩逾900點、韓股殺4.3%
-    https://tw.news.yahoo.com/%E4%BA%9E%E8%82%A1%E6%AE%BA%E8%81%B2%E9%9A%86%E9%9A%86-%E6%97%A5%E7%B6%93%E5%B4%A9%E9%80%BE900%E9%BB%9E-%E9%9F%93%E8%82%A1%E6%AE%BA4-3-015007169.html
-  ▸ 【Yahoo早盤】台股一度下殺逾500點失守月線 分析師萬相和揭「關鍵防線」
-    https://tw.stock.yahoo.com/news/%E3%80%90yahoo%E6%97%A9%E7%9B%A4%E3%80%91%E5%8F%B0%E8%82%A1%E4%B8%80%E5%BA%A6%E4%B8%8B%E6%AE%BA%E9%80%BE500%E9%BB%9E%E5%A4%B1%E5%AE%88%E6%9C%88%E7%B7%9A-%E5%88%86%E6%9E%90%E5%B8%AB%E8%90%AC%E7%9B%B8%E5%92%8C%E6%8F%AD%E3%80%8C%E9%97%9C%E9%8D%B5%E9%98%B2%E7%B7%9A%E3%80%8D-014603955.html
-
-【戰爭升溫】3 則  🟢高信心
-  ▸ Trump admin unveils anti-Iran global sanctions plan, signals
-    https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html
+【戰爭升溫】4 則  🟢高信心
+  ▸ 歐洲股市盤整，地緣政治風險與關鍵數據牽動市場神經
+    https://tw.stock.yahoo.com/news/%E6%AD%90%E6%B4%B2%E8%82%A1%E5%B8%82%E7%9B%A4%E6%95%B4-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E9%A2%A8%E9%9A%AA%E8%88%87%E9%97%9C%E9%8D%B5%E6%95%B8%E6%93%9A%E7%89%BD%E5%8B%95%E5%B8%82%E5%A0%B4%E7%A5%9E%E7%B6%93-023935605.html
+  ▸ 黃金投機買盤三週急掃222億美元，創逾十年新高
+    https://tw.stock.yahoo.com/news/%E9%BB%83%E9%87%91%E6%8A%95%E6%A9%9F%E8%B2%B7%E7%9B%A4%E4%B8%89%E9%80%B1%E6%80%A5%E6%8E%83222%E5%84%84%E7%BE%8E%E5%85%83-%E5%89%B5%E9%80%BE%E5%8D%81%E5%B9%B4%E6%96%B0%E9%AB%98-021004842.html
   ▸ U.S. to unveil 'greatest financial offensive' against Iran a
     https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html
-  ▸ Trump’s oil and gas stocks gained up to $15.5 million amid I
-    https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html
 
-【通膨上升】3 則  🟢高信心
-  ▸ Singapore inflation hits highest in nearly two years, but un
-    https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html
-  ▸ 美國通膨數據、聯準會主席演說前夕 黃金攀至三個月高點
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%86%A8%E6%95%B8%E6%93%9A-%E8%81%AF%E6%BA%96%E6%9C%83%E4%B8%BB%E5%B8%AD%E6%BC%94%E8%AA%AA%E5%89%8D%E5%A4%95-%E9%BB%83%E9%87%91%E6%94%80%E8%87%B3%E4%B8%89%E5%80%8B%E6%9C%88%E9%AB%98%E9%BB%9E-014925856.html
-  ▸ 通膨與物價上漲夾擊 美國信用卡債務逼近歷史高點
-    https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E8%88%87%E7%89%A9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%A4%BE%E6%93%8A-%E7%BE%8E%E5%9C%8B%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%82%B5%E5%8B%99%E9%80%BC%E8%BF%91%E6%AD%B7%E5%8F%B2%E9%AB%98%E9%BB%9E-010456181.html
-
-【油價上升】2 則  🟢高信心
-  ▸ Trump’s oil and gas stocks gained up to $15.5 million amid I
-    https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html
-  ▸ 兩大期油亞洲電子盤初止跌小彈，布油回升至92.50美元
-    https://tw.stock.yahoo.com/news/%E5%85%A9%E5%A4%A7%E6%9C%9F%E6%B2%B9%E4%BA%9E%E6%B4%B2%E9%9B%BB%E5%AD%90%E7%9B%A4%E5%88%9D%E6%AD%A2%E8%B7%8C%E5%B0%8F%E5%BD%88-%E5%B8%83%E6%B2%B9%E5%9B%9E%E5%8D%87%E8%87%B392-50%E7%BE%8E%E5%85%83-012218543.html
-
-【美元貶值】1 則  🟡單篇
-  ▸ Dollar struggles for traction as markets weigh Iran sanction
-    https://www.investing.com/news/economy-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks-4874390
-
-【升息】1 則  🟡單篇
+【升息】3 則  🟢高信心
+  ▸ Best CD rates today, Monday, August 24, 2026: Lock in up to 
+    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-24-2026-lock-in-up-to-435-apy-100000203.html
+  ▸ Best high-yield savings interest rates today, Monday, August
+    https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html
   ▸ How to get a low auto loan and mortgage rate when bond yield
     https://www.cnbc.com/select/how-to-get-a-low-auto-loan-mortgage-rate-with-high-bond-yields/
 
+【油價下降】2 則  🟢高信心
+  ▸ Bessent’s sweeping sanctions against Iran send oil prices to
+    https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories
+  ▸ 美對伊朗新制裁恐擾供應 國際油價週一應聲走跌
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%96%B0%E5%88%B6%E8%A3%81%E6%81%90%E6%93%BE%E4%BE%9B%E6%87%89-%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E9%80%B1-%E6%87%89%E8%81%B2%E8%B5%B0%E8%B7%8C-023131764.html
+
+【美元貶值】2 則  🟢高信心
+  ▸ 美元匯價走弱，亞洲黃金現貨盤中上揚0.35%，市場聚焦Fed動向
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E5%8C%AF%E5%83%B9%E8%B5%B0%E5%BC%B1-%E4%BA%9E%E6%B4%B2%E9%BB%83%E9%87%91%E7%8F%BE%E8%B2%A8%E7%9B%A4%E4%B8%AD%E4%B8%8A%E6%8F%9A0-35-%E5%B8%82%E5%A0%B4%E8%81%9A%E7%84%A6fed%E5%8B%95%E5%90%91-020223455.html
+  ▸ 東京匯市早盤美元指數回落至98.96，歐元、英鎊反彈
+    https://tw.stock.yahoo.com/news/%E6%9D%B1%E4%BA%AC%E5%8C%AF%E5%B8%82%E6%97%A9%E7%9B%A4%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B8%E5%9B%9E%E8%90%BD%E8%87%B398-96-%E6%AD%90%E5%85%83-%E8%8B%B1%E9%8E%8A%E5%8F%8D%E5%BD%88-020024877.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ ‘She looked into COBRA’: My friend was laid off and lost her
+    https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories
+
 【政策補助】1 則  🟡單篇
-  ▸ 頂溪站周邊大變身！公辦都更案成功招商　將蓋4棟大樓、地下直通捷運
-    https://tw.stock.yahoo.com/news/%E9%A0%82%E6%BA%AA%E7%AB%99%E5%91%A8%E9%82%8A%E5%A4%A7%E8%AE%8A%E8%BA%AB%EF%BC%81%E5%85%AC%E8%BE%A6%E9%83%BD%E6%9B%B4%E6%A1%88%E6%88%90%E5%8A%9F%E6%8B%9B%E5%95%86-%E5%B0%87%E8%93%8B4%E6%A3%9F%E5%A4%A7%E6%A8%93%E3%80%81%E5%9C%B0%E4%B8%8B%E7%9B%B4%E9%80%9A%E6%8D%B7%E9%81%8B-013603863.html
+  ▸ Bessent could tap near $1 trillion Treasury General Account 
+    https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ Singapore inflation hits highest in nearly two years, but un
+    https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
- 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
- 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
- 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
- 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2330.TW      -3.5  半導體｜關稅/貿易戰、AI熱潮
- 6. 2454.TW      -3.5  半導體｜關稅/貿易戰、AI熱潮
- 7. 2303.TW      -3.5  半導體｜關稅/貿易戰、AI熱潮
- 8. 2344.TW      -3.5  半導體｜關稅/貿易戰、AI熱潮
- 9. 3711.TW      -3.5  半導體｜關稅/貿易戰、AI熱潮
-10. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2330.TW      -4.6  半導體｜AI熱潮、關稅/貿易戰
+ 2. 2454.TW      -4.6  半導體｜AI熱潮、關稅/貿易戰
+ 3. 2303.TW      -4.6  半導體｜AI熱潮、關稅/貿易戰
+ 4. 2344.TW      -4.6  半導體｜AI熱潮、關稅/貿易戰
+ 5. 3711.TW      -4.6  半導體｜AI熱潮、關稅/貿易戰
+ 6. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 7. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 8. 2515.TW      -3.0  建材營造｜升息
+ 9. 5534.TW      -3.0  建材營造｜升息
+10. 2504.TW      -3.0  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
