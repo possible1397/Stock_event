@@ -1,76 +1,60 @@
 📊 事件驅動選股日報 2026-08-27
 ════════════════════════════════
-掃描 134 則新聞  |  偵測 9 個事件
+掃描 133 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-1.  【重點提要】：
-    *   **AI熱潮強勁延續：** 輝達（Nvidia）財報超預期，大幅提振市場對AI產業的信心，相關晶片與雲端資安（如CrowdStrike）類股表現強勁。
-    *   **通膨壓力未減：** 歐洲天然氣儲備下降及部分地區核心通膨數據顯示物價上漲壓力持續，可能導致能源價格進一步走高。
-    *   **全球升息循環持續：** 韓國央行連續升息，加上公債殖利率上揚，反映主要國家央行為抑制通膨而維持緊縮的貨幣政策。
-    *   **地緣政治風險升溫：** 國際高層就區域衝突發出警告，中東地區亦有斡旋動作，為全球經濟增添不確定性。
-    *   **部分經濟體成長趨緩：** 中國工業利潤增長放緩，顯示全球部分主要經濟體面臨景氣下行壓力。
-
-2.  【具體總結】：
-    今日市場資金流向呈現明顯分化。AI產業的強勁表現，尤其是在重量級企業財報利多加持下，持續引領科技板塊上漲，顯示市場對AI前景的高度樂觀。然而，這股樂觀情緒面臨著多重挑戰，包括持續高漲的通膨壓力、全球央行為此而採取的緊縮貨幣政策（推升利率），以及日益升高的地緣政治緊張局勢。此外，中國等主要經濟體成長放緩的跡象，也為整體景氣展望蒙上陰影，投資人在追逐特定主題之餘，仍需謹慎評估總體經濟風險。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】28 則  🟢高信心
-  ▸ OpenAI releases report on AI hack; nearly 700 agents attacke
-    https://seekingalpha.com/news/4637300-openai-releases-report-on-ai-hack-nearly-700-agents-attacked-hugging-face?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】13 則  🟢高信心
+  ▸ Georgia Power wins regulatory approval for OpenAI supply dea
+    https://seekingalpha.com/news/4637425-georgia-power-wins-regulatory-approval-for-openai-supply-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ Nvidia jumps 7% after blockbuster earnings boost AI confiden
     https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
-  ▸ CrowdStrike jumps 11% on record second quarter as 'Mythos mo
-    https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html
+  ▸ OpenAI releases sweeping report on Hugging Face AI agent hac
+    https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html
 
-【通膨上升】6 則  🟢高信心
-  ▸ Republicans are dismissing affordability. That could be a pr
-    https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html
-  ▸ Europe’s gas stores are running low — and prices could top 1
-    https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html
-  ▸ Bank of Korea delivers back-to-back rate hikes as core infla
-    https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html
+【通膨上升】5 則  🟢高信心
+  ▸ More work needs to be done to bring down inflation, Kansas C
+    https://seekingalpha.com/news/4637430-more-work-needs-to-be-done-to-bring-down-inflation-kansas-city-feds-schmid-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Silver price today, Wednesday, August 26, 2026:  Silver pric
+    https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html
+  ▸ Fed’s preferred inflation gauge shows core prices rose 3.3% 
+    https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html
 
-【升息】6 則  🟢高信心
-  ▸ Treasury yields are running hot. Here are opportunities for 
-    https://www.cnbc.com/2026/08/26/treasury-yields-are-running-hot-where-to-find-solid-income-now.html
-  ▸ Bank of Korea delivers back-to-back rate hikes as core infla
-    https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html
+【升息】3 則  🟢高信心
+  ▸ More work needs to be done to bring down inflation, Kansas C
+    https://seekingalpha.com/news/4637430-more-work-needs-to-be-done-to-bring-down-inflation-kansas-city-feds-schmid-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Mortgage and refinance interest rates today, Thursday, Augus
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-fixed-rates-rise-51-arm-falls-100000669.html
   ▸ Best CD rates today, Thursday, August 27, 2026: Lock in up t
     https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-27-2026-lock-in-up-to-430-apy-with-a-16-month-or-18-month-cd-100000374.html
 
-【戰爭升溫】3 則  🟢高信心
-  ▸ CIA chief reportedly warned Russia not to attack NATO
-    https://seekingalpha.com/news/4637294-cia-chief-warned-russia-not-to-attack-nato?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ U.S. considers fresh round of tariffs on semiconductors, rep
+    https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html
+  ▸ 新纖：台灣稅率有利輸美　下半年營運優於去年同期
+    https://money.udn.com/money/story/5612/9718210
+  ▸ Bond jitters, AI demand and tariff threats. Inside the new d
+    https://www.marketwatch.com/story/bond-jitters-ai-demand-and-tariff-threats-inside-the-new-darling-of-the-hard-asset-trade-copper-944fb585?mod=mw_rss_topstories
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ Kioxia and Sandisk to invest over $31B in Japan
+    https://seekingalpha.com/news/4637427-kioxia-and-sandisk-to-invest-over-31b-in-japan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 宜鼎 AI 營收占比衝破4成 簡川勝：DRAM 價格只會抬頭、不會低頭
+    https://money.udn.com/money/story/5612/9718369
+
+【戰爭升溫】2 則  🟢高信心
   ▸ CIA chief John Ratcliffe reportedly made secretive Moscow tr
     https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html
   ▸ Qatari PM heads to Iran to 'de-escalate tensions' as tanker 
     https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html
 
-【景氣轉弱】2 則  🟢高信心
-  ▸ China industrial profits growth cools to slowest in seven mo
-    https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html
-  ▸ 房市管制該鬆了？海悅總座籲「住滿15年」換屋貸8成 豪宅門檻也該調
-    https://tw.stock.yahoo.com/news/%E6%88%BF%E5%B8%82%E7%AE%A1%E5%88%B6%E8%A9%B2%E9%AC%86%E4%BA%86%EF%BC%9F%E6%B5%B7%E6%82%85%E7%B8%BD%E5%BA%A7%E7%B1%B2%E3%80%8C%E4%BD%8F%E6%BB%BF15%E5%B9%B4%E3%80%8D%E6%8F%9B%E5%B1%8B%E8%B2%B88%E6%88%90-%E8%B1%AA%E5%AE%85%E9%96%80%E6%AA%BB%E4%B9%9F%E8%A9%B2%E8%AA%BF-090550562.html
-
 【油價上升】1 則  🟡單篇
-  ▸ Qatari PM heads to Iran to 'de-escalate tensions' as tanker 
-    https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 美加貿易緊張催生「加拿大製造」平台 流量激增助本土品牌
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E7%B7%8A%E5%BC%B5%E5%82%AC%E7%94%9F-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A3%BD%E9%80%A0-%E5%B9%B3%E5%8F%B0-%E6%B5%81%E9%87%8F%E6%BF%80%E5%A2%9E%E5%8A%A9%E6%9C%AC%E5%9C%9F%E5%93%81%E7%89%8C-094909850.html
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ 輝達財報點火台股衝高！一度站上46000點 大立光、南亞科領軍飆漲停
-    https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E9%BB%9E%E7%81%AB%E5%8F%B0%E8%82%A1%E8%A1%9D%E9%AB%98%EF%BC%81%E4%B8%80%E5%BA%A6%E7%AB%99%E4%B8%8A46000%E9%BB%9E-%E5%A4%A7%E7%AB%8B%E5%85%89%E3%80%81%E5%8D%97%E4%BA%9E%E7%A7%91%E9%A0%98%E8%BB%8D%E9%A3%86%E6%BC%B2%E5%81%9C-093548983.html
-
-【美元貶值】1 則  🟡單篇
-  ▸ 外資狂買490億「最愛這2類」 網見賣超嘆：二哥怎天天上榜
-    https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%8B%82%E8%B2%B7490%E5%84%84-%E6%9C%80%E6%84%9B%E9%80%992%E9%A1%9E-%E7%B6%B2%E8%A6%8B%E8%B3%A3%E8%B6%85%E5%98%86-%E4%BA%8C%E5%93%A5%E6%80%8E%E5%A4%A9%E5%A4%A9%E4%B8%8A%E6%A6%9C-091600211.html
+  ▸ Europe’s gas stores are running low — and prices could top 1
+    https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html
 
 ▲ 買進信號
 ────────────────────────────────
@@ -91,12 +75,12 @@
  2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
- 6. 2327.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
- 7. 3037.TW      -4.3  電子零組件｜通膨上升、景氣轉弱
- 8. 2330.TW      -3.9  半導體｜AI熱潮、升息
- 9. 2454.TW      -3.9  半導體｜AI熱潮、升息
-10. 2303.TW      -3.9  半導體｜AI熱潮、升息
+ 5. 2515.TW      -3.0  建材營造｜升息
+ 6. 5534.TW      -3.0  建材營造｜升息
+ 7. 2504.TW      -3.0  建材營造｜升息
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2317.TW      -2.3  電子零組件｜通膨上升、關稅/貿易戰
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
