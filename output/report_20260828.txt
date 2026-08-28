@@ -1,106 +1,86 @@
 📊 事件驅動選股日報 2026-08-28
 ════════════════════════════════
-掃描 130 則新聞  |  偵測 8 個事件
+掃描 135 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-【今日盤勢與焦點速報】
-
-【重點提要】：
-1.  AI熱潮持續引領市場關注，基礎設施投資與企業應用擴展為焦點。
-2.  全球貿易摩擦加劇，多國對中國政策趨於強硬，關稅議題再度浮上檯面。
-3.  地緣政治衝突如中東與俄烏戰事仍在持續，市場對此類事件的反應趨於常態化。
-4.  主要央行官員重申對抗通膨的決心，升息預期對資金成本與抵押貸款利率產生影響。
-5.  多國政府推出特定產業補助計畫，範圍涵蓋災後重建、醫療保險及資安升級。
-
-【具體總結】：
-今日市場受AI熱潮持續鼓舞，相關產業及基礎建設投資旺盛，為盤勢主要動能。然而，全球貿易戰與關稅風險升溫，加上地緣政治不確定性及部分央行升息論調，為整體市場帶來潛在壓力。資金可能持續流向AI等成長型產業，同時須關注貿易政策與利率走向對全球供應鏈及企業獲利能力的衝擊。
+無法產生總結。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ Bullish enters AI infrastructure financing via $100M stablec
-    https://seekingalpha.com/news/4637818-bullish-enters-ai-infrastructure-financing-via-100m-stablecoin-based-debt-to-usdai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Truckers are finally making real money again, and AI is a bi
-    https://www.marketwatch.com/story/truckers-are-finally-making-real-money-again-and-ai-is-a-big-reason-why-a48fec5a?mod=mw_rss_topstories
-  ▸ Is Anthropic worth $2 trillion? Here’s how the company is tr
-    https://www.marketwatch.com/story/is-anthropic-worth-2-trillion-heres-how-the-company-is-trading-in-a-new-tokenized-market-390bc152?mod=mw_rss_topstories
+【AI熱潮】13 則  🟢高信心
+  ▸ Nvidia trades almost independently of semiconductor sector
+    https://seekingalpha.com/news/4637870-nvidia-trades-almost-independently-of-semiconductor-sector?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Andreessen Horowitz raising $1.1B for AI hardware-infrastruc
+    https://seekingalpha.com/news/4637873-andreessen-horowitz-raising-1_1b-for-ai-hardware-infrastructure-fund-vc-firm-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Earnings call transcript: S.F. Holding H1 2026 profit rises 
+    https://www.investing.com/news/transcripts/earnings-call-transcript-sf-holding-h1-2026-profit-rises-as-ai-push-deepens-93CH-4881325
 
-【關稅/貿易戰】6 則  🟢高信心
-  ▸ German industry presses Merz for tougher China policy
-    https://www.investing.com/news/economic-indicators/german-industry-presses-merz-for-tougher-china-policy-4880493
-  ▸ Iran calls for global pushback against U.S. sanctions, says 
-    https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html
-  ▸ Trump ratchets up rhetoric against Beijing as U.S.-China off
-    https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html
-
-【戰爭升溫】4 則  🟢高信心
-  ▸ On the six-month anniversary of the Iran war, divisions appe
-    https://www.marketwatch.com/story/on-the-six-month-anniversary-of-the-iran-war-divisions-appear-on-wall-street-over-the-trajectory-for-oil-prices-c27c07aa?mod=mw_rss_topstories
-  ▸ Russian forces intensify attacks in Donetsk as Ukraine lauds
-    https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html
-  ▸ Six months into the Iran war: Markets become accustomed to s
-    https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html
-
-【政策補助】3 則  🟢高信心
-  ▸ Nepal flood rebuild could cost $5 billion, lifting engineeri
-    https://www.investing.com/news/stock-market-news/nepal-flood-rebuild-could-cost-5-billion-lifting-engineering-firms-93CH-4881025
-  ▸ Labor Department to propose expansion of association health 
-    https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html
-  ▸ 產品資安升級行動加碼！資安院漏洞獵捕活動補助業者5萬元
-    https://tw.stock.yahoo.com/news/%E7%94%A2%E5%93%81%E8%B3%87%E5%AE%89%E5%8D%87%E7%B4%9A%E8%A1%8C%E5%8B%95%E5%8A%A0%E7%A2%BC-%E8%B3%87%E5%AE%89%E9%99%A2%E6%BC%8F%E6%B4%9E%E7%8D%B5%E6%8D%95%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E6%A5%AD%E8%80%855%E8%90%AC%E5%85%83-102744092.html
-
-【升息】3 則  🟢高信心
-  ▸ Best CD rates today, Friday, August 28, 2026: Up to 4.30% AP
-    https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-28-2026-up-to-430-apy-return-available-100000073.html
-  ▸ Mortgage rates are higher than expected but it can still be 
-    https://www.cnbc.com/select/mortgage-rates-are-higher-than-expected-but-you-should-buy-now/
-  ▸ Fed's Hammack says 'now is the time to act' on raising inter
-    https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html
-
-【通膨上升】3 則  🟢高信心
-  ▸ 地緣政治及印尼政策影響　華新調漲9月部分盤元價格
-    https://money.udn.com/money/story/5612/9720504
-  ▸ 銅價逼近歷史高點 美國關稅政策導致大量銅滯留國內
-    https://tw.stock.yahoo.com/news/%E9%8A%85%E5%83%B9%E9%80%BC%E8%BF%91%E6%AD%B7%E5%8F%B2%E9%AB%98%E9%BB%9E-%E7%BE%8E%E5%9C%8B%E9%97%9C%E7%A8%85%E6%94%BF%E7%AD%96%E5%B0%8E%E8%87%B4%E5%A4%A7%E9%87%8F%E9%8A%85%E6%BB%AF%E7%95%99%E5%9C%8B%E5%85%A7-110219732.html
-  ▸ 成本與CBAM雙重壓力籠罩 華新9月調漲316產品每公噸5000元
-    https://tw.stock.yahoo.com/news/%E6%88%90%E6%9C%AC%E8%88%87cbam%E9%9B%99%E9%87%8D%E5%A3%93%E5%8A%9B%E7%B1%A0%E7%BD%A9-%E8%8F%AF%E6%96%B09%E6%9C%88%E8%AA%BF%E6%BC%B2316%E7%94%A2%E5%93%81%E6%AF%8F%E5%85%AC%E5%99%B85000%E5%85%83-103020870.html
-
-【景氣轉弱】2 則  🟢高信心
-  ▸ Chagee sees sluggish growth amid economic headwinds and 'int
-    https://seekingalpha.com/news/4637821-chagee-sees-sluggish-growth-amid-economic-headwinds-and-intense-industry-competition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【景氣轉弱】4 則  🟢高信心
+  ▸ European shares bounce ahead of Warsh; macro worries seal 3r
+    https://www.investing.com/news/stock-market-news/european-shares-bounce-ahead-of-warsh-macro-worries-seal-3rd-week-of-losses-4880599
+  ▸ How a plan to fix a $326 billion hole on bank balance sheets
+    https://www.marketwatch.com/story/how-bank-of-america-and-three-other-lenders-could-win-big-from-scott-bessents-and-kevin-warshs-bond-market-mechanations-4e56b581?mod=mw_rss_topstories
   ▸ 房市低迷壓抑鋼筋需求　豐興：價格觸底觀察9月旺季
     https://money.udn.com/money/story/5612/9720529
 
+【戰爭升溫】3 則  🟢高信心
+  ▸ Iran calls for global pushback against U.S. sanctions, says 
+    https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html
+  ▸ U.S. Navy blockade slashes Iran oil exports as Trump adminis
+    https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html
+  ▸ Russian forces intensify attacks in Donetsk as Ukraine lauds
+    https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html
+
 【航運運價上升】1 則  🟡單篇
-  ▸ SCFI 運價指數連5漲、周漲幅2.93% 美東線站上萬美元關卡
-    https://money.udn.com/money/story/5612/9720390
+  ▸ Earnings call transcript: Hafnia posts strong Q2 2026 profit
+    https://www.investing.com/news/transcripts/earnings-call-transcript-hafnia-posts-strong-q2-2026-profit-as-tanker-rates-stay-high-93CH-4881329
+
+【升息】1 則  🟡單篇
+  ▸ Fed's Hammack says 'now is the time to act' on raising inter
+    https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Micron’s Chinese rival just reported its first earnings as a
+    https://www.marketwatch.com/story/microns-chinese-rival-just-reported-its-first-earnings-as-a-public-company-and-sales-are-booming-182c6a42?mod=mw_rss_topstories
+
+【油價上升】1 則  🟡單篇
+  ▸ U.S. Navy blockade slashes Iran oil exports as Trump adminis
+    https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html
+
+【政策補助】1 則  🟡單篇
+  ▸ Labor Department to propose expansion of association health 
+    https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 日本救日元殺紅眼！一個月狂砸近千億美元創紀錄
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%95%91%E6%97%A5%E5%85%83%E6%AE%BA%E7%B4%85%E7%9C%BC-%E5%80%8B%E6%9C%88%E7%8B%82%E7%A0%B8%E8%BF%91%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E5%89%B5%E7%B4%80%E9%8C%84-115201877.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +5.5  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +5.5  油電燃氣｜戰爭升溫、通膨上升
- 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
- 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
- 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
- 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
- 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 1. 6505.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +5.1  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2330.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
- 2. 2454.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
- 3. 2303.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
- 4. 2344.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
- 5. 3711.TW      -3.2  半導體｜AI熱潮、關稅/貿易戰
- 6. 2317.TW      -3.2  電子零組件｜關稅/貿易戰、通膨上升
- 7. 2327.TW      -3.2  電子零組件｜關稅/貿易戰、通膨上升
- 8. 3037.TW      -3.2  電子零組件｜關稅/貿易戰、通膨上升
- 9. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
-10. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2317.TW      -3.8  電子零組件｜景氣轉弱、航運運價上升
+ 2. 2327.TW      -3.8  電子零組件｜景氣轉弱、航運運價上升
+ 3. 3037.TW      -3.8  電子零組件｜景氣轉弱、航運運價上升
+ 4. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫、航運運價上升
+ 5. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫、航運運價上升
+ 6. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫、航運運價上升
+ 7. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫、航運運價上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
