@@ -1,0 +1,94 @@
+📊 事件驅動選股日報 2026-09-01
+════════════════════════════════
+掃描 136 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】15 則  🟢高信心
+  ▸ Anthropic reportedly agrees to $35B AI computing deal with N
+    https://seekingalpha.com/news/4638550-anthropic-reportedly-agrees-to-35b-ai-computing-deal-with-nvidia-backed-lambda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Cerebras teams up with Compute Nordic for 165 MW AI data cen
+    https://seekingalpha.com/news/4638548-cerebras-teams-up-with-compute-nordic-for-165-mw-ai-data-center-in-finland?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Sony chip unit to team with Saudi Aramco on plant maintenanc
+    https://seekingalpha.com/news/4638545-sony-chip-unit-to-team-with-saudi-aramco-on-plant-maintenance-ai-nikkei?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【升息】7 則  🟢高信心
+  ▸ With Warsh running the Fed, should bond investors be worried
+    https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories
+  ▸ Japan 10-yr bond yields cross 3% for first time in 30 years
+    https://www.investing.com/news/economy-news/japan-10yr-bond-yields-cross-3-for-first-time-in-30-years-4883487
+  ▸ Mortgage and refinance interest rates today, Monday, August 
+    https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html
+
+【戰爭升溫】7 則  🟢高信心
+  ▸ Oil prices rise as latest fighting revives Mideast supply di
+    https://www.investing.com/news/commodities-news/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks-4883418
+  ▸ Gold prices today, Monday, August 31, 2026: Gold sinks follo
+    https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-31-2026-gold-sinks-following-us-strikes-on-iran-123744944.html
+  ▸ 中東戰火推升油價，ECB管委Rehn示警歐元區通膨壓力
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9-ecb%E7%AE%A1%E5%A7%94rehn%E7%A4%BA%E8%AD%A6%E6%AD%90%E5%85%83%E5%8D%80%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-051409500.html
+
+【油價上升】5 則  🟢高信心
+  ▸ This maneuver is boosting oil shipments through the Strait o
+    https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories
+  ▸ Oil prices rise as latest fighting revives Mideast supply di
+    https://www.investing.com/news/commodities-news/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks-4883418
+  ▸ 中東戰火推升油價，ECB管委Rehn示警歐元區通膨壓力
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9-ecb%E7%AE%A1%E5%A7%94rehn%E7%A4%BA%E8%AD%A6%E6%AD%90%E5%85%83%E5%8D%80%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-051409500.html
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ Firearms retailer files Chapter 11 bankruptcy as gun sales d
+    https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html
+  ▸ 161-year-old kids clothing giant closes 29 more stores
+    https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html
+  ▸ 車用、TV顯示出貨遇逆風，錼創科技-KY創預期2027年有望觸底反彈
+    https://tw.stock.yahoo.com/news/%E8%BB%8A%E7%94%A8-tv%E9%A1%AF%E7%A4%BA%E5%87%BA%E8%B2%A8%E9%81%87%E9%80%86%E9%A2%A8-%E9%8C%BC%E5%89%B5%E7%A7%91%E6%8A%80-ky%E5%89%B5%E9%A0%90%E6%9C%9F2027%E5%B9%B4%E6%9C%89%E6%9C%9B%E8%A7%B8%E5%BA%95%E5%8F%8D%E5%BD%88-041215291.html
+
+【政策補助】2 則  🟢高信心
+  ▸ South Korea proposes record $597 billion 2027 budget to supe
+    https://www.investing.com/news/economy-news/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-4883431
+  ▸ 超強國旅補助來了！最高3200元入袋 國人最愛「這玩法」
+    https://tw.stock.yahoo.com/news/%E8%B6%85%E5%BC%B7%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E4%BE%86%E4%BA%86-%E6%9C%80%E9%AB%983200%E5%85%83%E5%85%A5%E8%A2%8B-%E5%9C%8B%E4%BA%BA%E6%9C%80%E6%84%9B-%E9%80%99%E7%8E%A9%E6%B3%95-041400428.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Shein shares slide in Hong Kong debut on worries about trade
+    https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337
+  ▸ Indian PM Modi implores Putin to end Ukraine war amid U.S. t
+    https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ 中東戰火推升油價，ECB管委Rehn示警歐元區通膨壓力
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E6%8E%A8%E5%8D%87%E6%B2%B9%E5%83%B9-ecb%E7%AE%A1%E5%A7%94rehn%E7%A4%BA%E8%AD%A6%E6%AD%90%E5%85%83%E5%8D%80%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-051409500.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2330.TW      -3.2  半導體｜AI熱潮、升息
+ 6. 2454.TW      -3.2  半導體｜AI熱潮、升息
+ 7. 2303.TW      -3.2  半導體｜AI熱潮、升息
+ 8. 2344.TW      -3.2  半導體｜AI熱潮、升息
+ 9. 3711.TW      -3.2  半導體｜AI熱潮、升息
+10. 2515.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
