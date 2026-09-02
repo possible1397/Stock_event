@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-09-02
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 9 個事件
+掃描 127 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,70 +8,50 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】14 則  🟢高信心
-  ▸ Peter Thiel-backed Cognition AI nears $1B round at $47B valu
-    https://seekingalpha.com/news/4639268-peter-thiel-backed-cognition-ai-nears-1b-round-at-47b-valuation-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Palo Alto CEO warns $1T in cybersecurity Infrastructure unpr
-    https://seekingalpha.com/news/4639263-palo-alto-ceo-warns-1t-in-cybersecurity-infrastructure-unprepared-for-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Dell signals FY2027 revenue of $192B and EPS of $25.50 as AI
-    https://seekingalpha.com/news/4639260-dell-signals-fy2027-revenue-of-192b-and-eps-of-25_50-as-ai-backlog-reaches-95b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【AI熱潮】12 則  🟢高信心
+  ▸ Taiwan companies eye another $20B in U.S. investments amid A
+    https://seekingalpha.com/news/4639271-taiwan-companies-eye-another-20b-in-us-investments-amid-ai-boom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Iron Mountain partners with Saudi bank for AI document proce
+    https://www.investing.com/news/company-news/iron-mountain-partners-with-saudi-bank-for-ai-document-processing-93CH-4885329
+  ▸ AI capital expenditure forecasted to exceed the cost of buil
+    https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories
 
-【戰爭升溫】5 則  🟢高信心
-  ▸ Global oil prices surge to a 6-week high after the U.S. stri
-    https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories
-  ▸ US military says it completed latest wave of strikes on Iran
-    https://www.investing.com/news/commodities-news/us-military-says-it-completed-latest-wave-of-strikes-on-iran-4885259
-  ▸ Trump says U.S. is not forcing Iran to negotiate after fresh
-    https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html
-
-【景氣轉弱】4 則  🟢高信心
-  ▸ Denny’s rival dining chain files for Chapter 11 bankruptcy
-    https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html
-  ▸ Dow drops below a key chart level, warning of more trouble a
-    https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories
-  ▸ Stock futures are little changed after Wall Street posts thi
-    https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html
-
-【通膨上升】4 則  🟢高信心
-  ▸ 10-year yield hits highest since January 2025 as higher oil 
-    https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html
-  ▸ Global bond yields soar to multi-decade highs as Middle East
-    https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html
-  ▸ Euro zone inflation is back above 3%. Higher interest rates 
-    https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html
-
-【油價上升】3 則  🟢高信心
-  ▸ Global oil prices surge to a 6-week high after the U.S. stri
-    https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories
-  ▸ 10-year yield hits highest since January 2025 as higher oil 
-    https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html
-  ▸ 新興市場硬通貨債券抗震盪，油價、美債殖利率走高仍維持低利差
-    https://tw.stock.yahoo.com/news/%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4%E7%A1%AC%E9%80%9A%E8%B2%A8%E5%82%B5%E5%88%B8%E6%8A%97%E9%9C%87%E7%9B%AA-%E6%B2%B9%E5%83%B9-%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%B5%B0%E9%AB%98%E4%BB%8D%E7%B6%AD%E6%8C%81%E4%BD%8E%E5%88%A9%E5%B7%AE-041858008.html
-
-【關稅/貿易戰】2 則  🟢高信心
-  ▸ Exclusive-Honda tells suppliers to cut costs in $9 billion p
-    https://www.investing.com/news/stock-market-news/exclusivehonda-tells-suppliers-to-cut-costs-in-9-billion-push-to-fend-off-china-documents-show-4885295
-  ▸ China dissented from G20 statement opposing 'cheap exports' 
-    https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html
+【戰爭升溫】2 則  🟢高信心
+  ▸ Bitcoin drops to $77.6k as U.S.-Iran fighting, rate jitters 
+    https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342
+  ▸ Oil prices extend gains as US and Iran trade fresh strikes
+    https://www.investing.com/news/commodities-news/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes-4885234
 
 【升息】2 則  🟢高信心
-  ▸ Fed Governor Barr says he'll support rate hike if inflation 
-    https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html
+  ▸ Bitcoin drops to $77.6k as U.S.-Iran fighting, rate jitters 
+    https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342
   ▸ Euro zone inflation is back above 3%. Higher interest rates 
     https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html
 
-【美元升值】1 則  🟡單篇
-  ▸ Asian currencies weaken as dollar gains, kiwi tumbles on RBN
-    https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-gains-kiwi-tumbles-on-rbnz-outlook-4885309
+【油價上升】2 則  🟢高信心
+  ▸ Oil prices extend gains as US and Iran trade fresh strikes
+    https://www.investing.com/news/commodities-news/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes-4885234
+  ▸ 10-year yield hits highest since January 2025 as higher oil 
+    https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html
 
-【記憶體漲價】1 則  🟡單篇
-  ▸ Apple enters John Ternus era as AI challenges and memory cru
-    https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html
+【通膨上升】2 則  🟢高信心
+  ▸ 10-year yield hits highest since January 2025 as higher oil 
+    https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html
+  ▸ Euro zone inflation is back above 3%. Higher interest rates 
+    https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Earnings call transcript: WAM Capital cuts FY 2027 dividend 
+    https://www.investing.com/news/transcripts/earnings-call-transcript-wam-capital-cuts-fy-2027-dividend-after-105-portfolio-drop-93CH-4885339
+
+【政策補助】1 則  🟡單篇
+  ▸ 送禮也能挺地方創生　國發會推中秋產品型錄
+    https://money.udn.com/money/story/5612/9729574
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
  3. 2880.TW      +4.0  金融｜戰爭升溫、升息
  4. 2881.TW      +4.0  金融｜戰爭升溫、升息
  5. 2882.TW      +4.0  金融｜戰爭升溫、升息
@@ -87,9 +67,9 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
- 6. 2327.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
- 7. 3037.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 5. 2317.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
  8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
  9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 10. 2515.TW      -3.0  建材營造｜升息
