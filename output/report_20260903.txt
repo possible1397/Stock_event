@@ -1,0 +1,108 @@
+📊 事件驅動選股日報 2026-09-03
+════════════════════════════════
+掃描 124 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+*   **AI熱潮不減**：巨額資金持續投入AI應用與基礎設施，特別是資料中心、自動駕駛及相關半導體領域，帶動產業鏈調整與發展。
+*   **景氣逆風顯現**：全球私人信貸市場壓力浮現，部分產業如軟體業面臨貸款價值減記，台灣房市景氣指標亦偏弱，顯示部分經濟領域正經歷趨緩。
+*   **全球高利率趨勢**：市場對日本央行升息預期增強，凸顯全球可能邁入更高利率的時代，將影響資金成本與國際匯率走向。
+*   **政策應對經濟壓力**：政府討論重啟境外資金專法以引導資金流向，並透過建照展延等措施為特定產業（如營建業）提供紓困。
+*   **通膨潛在壓力**：部分關鍵材料因供需緊張導致產能不敷需求，可能持續推升生產成本，預示企業與消費者仍需面對價格上漲壓力。
+
+【具體總結】：
+今日市場焦點分歧，AI產業在巨額投資與應用推動下持續獲得資金青睞，相關供應鏈表現活躍。然而，全球與台灣部分產業景氣放緩、私人信貸市場壓力浮現，加上關鍵材料成本上升與全球高利率環境的延續，為整體經濟帶來不確定性。日本央行的升息動向成為匯市焦點。資金面可能呈現結構性調整，從受景氣影響的傳統產業流向具成長潛力的創新科技領域，同時審慎評估總體經濟風險。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】25 則  🟢高信心
+  ▸ ByteDance secures $29.6 billion loan as AI spending accelera
+    https://www.investing.com/news/stock-market-news/bytedance-secures-296-billion-loan-as-ai-spending-accelerates-bloomberg-4886971
+  ▸ Uber and Wayve debut London’s first autonomous taxi fleet
+    https://seekingalpha.com/news/4639813-uber-and-wayve-debut-londons-first-autonomous-taxi-fleet?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 大華銀「輝達ETF」009815換股！三進三出 刪Uber增亞德諾半導體
+    https://tw.stock.yahoo.com/news/%E5%A4%A7%E8%8F%AF%E9%8A%80%E3%80%8C%E8%BC%9D%E9%81%94etf%E3%80%8D009815%E6%8F%9B%E8%82%A1%EF%BC%81%E4%B8%89%E9%80%B2%E4%B8%89%E5%87%BA-%E5%88%AAuber%E5%A2%9E%E4%BA%9E%E5%BE%B7%E8%AB%BE%E5%8D%8A%E5%B0%8E%E9%AB%94-044501042.html
+
+【景氣轉弱】7 則  🟢高信心
+  ▸ 美私人信貸市場壓力浮現 軟體業貸款價值遭大幅減記
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%A7%81%E4%BA%BA%E4%BF%A1%E8%B2%B8%E5%B8%82%E5%A0%B4%E5%A3%93%E5%8A%9B%E6%B5%AE%E7%8F%BE-%E8%BB%9F%E9%AB%94%E6%A5%AD%E8%B2%B8%E6%AC%BE%E5%83%B9%E5%80%BC%E9%81%AD%E5%A4%A7%E5%B9%85%E6%B8%9B%E8%A8%98-043853206.html
+  ▸ 民俗月與暴雨衝擊　8月住展風向球續亮黃藍燈
+    https://tw.stock.yahoo.com/news/%E6%B0%91%E4%BF%97%E6%9C%88%E8%88%87%E6%9A%B4%E9%9B%A8%E8%A1%9D%E6%93%8A-8%E6%9C%88%E4%BD%8F%E5%B1%95%E9%A2%A8%E5%90%91%E7%90%83%E7%BA%8C%E4%BA%AE%E9%BB%83%E8%97%8D%E7%87%88-042205506.html
+  ▸ 國巨「1200→500」不是最慘！專家揭真正恐怖數據：股民水深火熱
+    https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8-1200-500-%E4%B8%8D%E6%98%AF%E6%9C%80%E6%85%98-%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9C%9F%E6%AD%A3%E6%81%90%E6%80%96%E6%95%B8%E6%93%9A-041840747.html
+
+【升息】6 則  🟢高信心
+  ▸ BBVA分析，日銀或多次升息，人民幣有望取代日圓成融資貨幣
+    https://tw.stock.yahoo.com/news/bbva%E5%88%86%E6%9E%90-%E6%97%A5%E9%8A%80%E6%88%96%E5%A4%9A%E6%AC%A1%E5%8D%87%E6%81%AF-%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%9C%89%E6%9C%9B%E5%8F%96%E4%BB%A3%E6%97%A5%E5%9C%93%E6%88%90%E8%9E%8D%E8%B3%87%E8%B2%A8%E5%B9%A3-040953825.html
+  ▸ 交易員押注日銀升息逾25基點，美元兌日圓跌破158
+    https://tw.stock.yahoo.com/news/%E4%BA%A4%E6%98%93%E5%93%A1%E6%8A%BC%E6%B3%A8%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E9%80%BE25%E5%9F%BA%E9%BB%9E-%E7%BE%8E%E5%85%83%E5%85%8C%E6%97%A5%E5%9C%93%E8%B7%8C%E7%A0%B4158-034726084.html
+  ▸ The world appears to be entering a higher-rate era. Here’s w
+    https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 金總建議重啟境外資金專法　財部憂3因素盼審慎評估
+    https://tw.stock.yahoo.com/news/%E9%87%91%E7%B8%BD%E5%BB%BA%E8%AD%B0%E9%87%8D%E5%95%9F%E5%A2%83%E5%A4%96%E8%B3%87%E9%87%91%E5%B0%88%E6%B3%95-%E8%B2%A1%E9%83%A8%E6%86%823%E5%9B%A0%E7%B4%A0%E7%9B%BC%E5%AF%A9%E6%85%8E%E8%A9%95%E4%BC%B0-042002985.html
+  ▸ 新北紓困新措施！建照自動展延2年 營建業壓力解危即時雨
+    https://money.udn.com/money/story/5612/9731342
+
+【通膨上升】2 則  🟢高信心
+  ▸ 關鍵材料產能不敷需求，崇越接單一路旺到2028年
+    https://tw.stock.yahoo.com/news/%E9%97%9C%E9%8D%B5%E6%9D%90%E6%96%99%E7%94%A2%E8%83%BD%E4%B8%8D%E6%95%B7%E9%9C%80%E6%B1%82-%E5%B4%87%E8%B6%8A%E6%8E%A5%E5%96%AE-%E8%B7%AF%E6%97%BA%E5%88%B02028%E5%B9%B4-035615298.html
+  ▸ 台股大漲企業老闆出手了！尾牙桌價漲25% 千桌大場瘋搶
+    https://money.udn.com/money/story/5612/9731271
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ Iran attacks Kuwait as Trump says renewed Mideast hostilitie
+    https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html
+  ▸ 美股台指期夜盤漲　法人：台股觀察美伊局勢外資動向
+    https://money.udn.com/money/story/5612/9731196
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ USTR's Greer huddles with House Republicans amid Trump trade
+    https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html
+  ▸ 科技業：轉向思考 Made with Taiwan 與各國市場共同合作製造
+    https://money.udn.com/money/story/5612/9730900
+
+【美元貶值】1 則  🟡單篇
+  ▸ 交易員押注日銀升息逾25基點，美元兌日圓跌破158
+    https://tw.stock.yahoo.com/news/%E4%BA%A4%E6%98%93%E5%93%A1%E6%8A%BC%E6%B3%A8%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E9%80%BE25%E5%9F%BA%E9%BB%9E-%E7%BE%8E%E5%85%83%E5%85%8C%E6%97%A5%E5%9C%93%E8%B7%8C%E7%A0%B4158-034726084.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ Shipping stocks at a crossroads amid their best rally in dec
+    https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html
+
+【油價上升】1 則  🟡單篇
+  ▸ 美股台指期夜盤漲　法人：台股觀察美伊局勢外資動向
+    https://money.udn.com/money/story/5612/9731196
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -4.4  半導體｜AI熱潮、景氣轉弱
+ 2. 2454.TW      -4.4  半導體｜AI熱潮、景氣轉弱
+ 3. 2303.TW      -4.4  半導體｜AI熱潮、景氣轉弱
+ 4. 2344.TW      -4.4  半導體｜AI熱潮、景氣轉弱
+ 5. 3711.TW      -4.4  半導體｜AI熱潮、景氣轉弱
+ 6. 2317.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
+ 7. 2327.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
+ 8. 3037.TW      -3.2  電子零組件｜景氣轉弱、通膨上升
+ 9. 2515.TW      -3.0  建材營造｜升息
+10. 5534.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
