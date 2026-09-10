@@ -1,0 +1,109 @@
+📊 事件驅動選股日報 2026-09-10
+════════════════════════════════
+掃描 134 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **【重點提要】**
+    *   **AI熱潮不退**：AI應用持續擴展至金融支付等領域，科技巨頭積極投資AI新創，AI伺服器與ASIC需求強勁，帶動相關產業鏈成長動能。
+    *   **地緣政治緊張**：中東地區衝突升溫，引發原油供應擔憂，國際油價突破每桶100美元關卡，避險情緒可能推升貴金屬與加密貨幣波動。
+    *   **通膨壓力再起**：油價飆漲與部分產業紅利被視為潛在的再通膨驅動因素，市場對央行貨幣政策可能維持鷹派立場的擔憂加劇。
+    *   **美國政策補助**：美國期中選舉前夕，有政治人物提出大規模財政補助方案，可能對市場預期與未來消費支出產生影響。
+
+2.  **【具體總結】**
+    今日市場焦點圍繞在AI產業的強勁動能與地緣政治緊張所帶來的雙重影響。AI相關技術與硬體需求持續推升科技類股表現，引導市場資金流向成長型資產。然而，中東衝突升溫導致油價飆漲，加劇了全球通膨壓力，並可能促使各國央行維持緊縮政策，對整體經濟展望和部分成長股構成潛在壓力。美國潛在的財政刺激政策雖可能提振部分消費，但也需觀察其對通膨與利率的長期影響，資金可能在成長性與防禦性資產間尋求平衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】18 則  🟢高信心
+  ▸ Visa, Mastercard, Ant International ally on AI payment verif
+    https://seekingalpha.com/news/4641430-visa-mastercard-ant-international-ally-on-ai-payment-verification?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Alibaba reportedly slated to lead $300M round in AI startup 
+    https://seekingalpha.com/news/4641423-alibaba-reportedly-slated-to-lead-300m-round-in-ai-startup-unipat-at-25b-valuation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ ASIC與通用伺服器黃金交叉，緯穎成長引擎全開，美廠產能佔比明年衝20%
+    https://tw.stock.yahoo.com/news/asic%E8%88%87%E9%80%9A%E7%94%A8%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%BB%83%E9%87%91%E4%BA%A4%E5%8F%89-%E7%B7%AF%E7%A9%8E%E6%88%90%E9%95%B7%E5%BC%95%E6%93%8E%E5%85%A8%E9%96%8B-%E7%BE%8E%E5%BB%A0%E7%94%A2%E8%83%BD%E4%BD%94%E6%AF%94%E6%98%8E%E5%B9%B4%E8%A1%9D20-041149553.html
+
+【戰爭升溫】6 則  🟢高信心
+  ▸ Silver price today, Wednesday, September 9, 2026:  Silver pr
+    https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html
+  ▸ Bitcoin and ethereum prices today, Wednesday, September 9, 2
+    https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html
+  ▸ Brent holds above $100 as tanker attacks deepen supply fear
+    https://www.investing.com/news/commodities-news/brent-holds-above-100-as-tanker-attacks-deepen-supply-fear-4894851
+
+【政策補助】5 則  🟢高信心
+  ▸ Trump offers $5,000 to every U.S. adult ahead of midterms
+    https://seekingalpha.com/news/4641419-trump-offers-5000-to-every-us-adult-ahead-of-midterms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 川普祭5000美元大紅包　幫共和黨拚期中選舉
+    https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E7%A5%AD5000%E7%BE%8E%E5%85%83%E5%A4%A7%E7%B4%85%E5%8C%85-%E5%B9%AB%E5%85%B1%E5%92%8C%E9%BB%A8%E6%8B%9A%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89-035905684.html
+  ▸ 川普開期中選舉支票 共和黨勝選每成年人發5000美元
+    https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E9%96%8B%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E6%94%AF%E7%A5%A8-%E5%85%B1%E5%92%8C%E9%BB%A8%E5%8B%9D%E9%81%B8%E6%AF%8F%E6%88%90%E5%B9%B4%E4%BA%BA%E7%99%BC5000%E7%BE%8E%E5%85%83-035501869.html
+
+【油價上升】5 則  🟢高信心
+  ▸ CPI公布前夕 納斯達克100指數承壓油價與公債殖利率
+    https://tw.stock.yahoo.com/news/cpi%E5%85%AC%E5%B8%83%E5%89%8D%E5%A4%95-%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B100%E6%8C%87%E6%95%B8%E6%89%BF%E5%A3%93%E6%B2%B9%E5%83%B9%E8%88%87%E5%85%AC%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87-044859596.html
+  ▸ Diesel prices hit another record high. If you’re shocked, wa
+    https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories
+  ▸ Brent holds above $100 as tanker attacks deepen supply fear
+    https://www.investing.com/news/commodities-news/brent-holds-above-100-as-tanker-attacks-deepen-supply-fear-4894851
+
+【通膨上升】5 則  🟢高信心
+  ▸ CPI公布前夕 納斯達克100指數承壓油價與公債殖利率
+    https://tw.stock.yahoo.com/news/cpi%E5%85%AC%E5%B8%83%E5%89%8D%E5%A4%95-%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B100%E6%8C%87%E6%95%B8%E6%89%BF%E5%A3%93%E6%B2%B9%E5%83%B9%E8%88%87%E5%85%AC%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87-044859596.html
+  ▸ 台灣AI紅利引爆再通膨？富達示警央行偏鷹：恐「財政踩油門、貨幣踩煞車」
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3ai%E7%B4%85%E5%88%A9%E5%BC%95%E7%88%86%E5%86%8D%E9%80%9A%E8%86%A8%EF%BC%9F%E5%AF%8C%E9%81%94%E7%A4%BA%E8%AD%A6%E5%A4%AE%E8%A1%8C%E5%81%8F%E9%B7%B9%EF%BC%9A%E6%81%90%E3%80%8C%E8%B2%A1%E6%94%BF%E8%B8%A9%E6%B2%B9%E9%96%80%E3%80%81%E8%B2%A8%E5%B9%A3%E8%B8%A9%E7%85%9E%E8%BB%8A%E3%80%8D-040634437.html
+  ▸ Diesel prices hit another record high. If you’re shocked, wa
+    https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ 主權債務擔憂升溫 8月全球黃金ETF吸金180億美元創次高
+    https://tw.stock.yahoo.com/news/%E4%B8%BB%E6%AC%8A%E5%82%B5%E5%8B%99%E6%93%94%E6%86%82%E5%8D%87%E6%BA%AB-8%E6%9C%88%E5%85%A8%E7%90%83%E9%BB%83%E9%87%91etf%E5%90%B8%E9%87%91180%E5%84%84%E7%BE%8E%E5%85%83%E5%89%B5%E6%AC%A1%E9%AB%98-041129452.html
+  ▸ UBS CEO flags investor complacency as geopolitical and econo
+    https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html
+  ▸ 電子傳產弱　台股盤中挫逾600點回測10日線
+    https://money.udn.com/money/story/5612/9745776
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ Trump promises $5,000 checks if Republicans win the midterms
+    https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories
+  ▸ Exclusive-China buys 1 million tons of US soybeans ahead of 
+    https://www.investing.com/news/commodities-news/exclusivechina-buys-1-million-tons-of-us-soybeans-ahead-of-xi-visit-sources-say-4894930
+  ▸ U.S. reveals import ban on slew of Canadian goods as trade w
+    https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html
+
+【升息】2 則  🟢高信心
+  ▸ CPI公布前夕 納斯達克100指數承壓油價與公債殖利率
+    https://tw.stock.yahoo.com/news/cpi%E5%85%AC%E5%B8%83%E5%89%8D%E5%A4%95-%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B100%E6%8C%87%E6%95%B8%E6%89%BF%E5%A3%93%E6%B2%B9%E5%83%B9%E8%88%87%E5%85%AC%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87-044859596.html
+  ▸ 台灣AI紅利引爆再通膨？富達示警央行偏鷹：恐「財政踩油門、貨幣踩煞車」
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3ai%E7%B4%85%E5%88%A9%E5%BC%95%E7%88%86%E5%86%8D%E9%80%9A%E8%86%A8%EF%BC%9F%E5%AF%8C%E9%81%94%E7%A4%BA%E8%AD%A6%E5%A4%AE%E8%A1%8C%E5%81%8F%E9%B7%B9%EF%BC%9A%E6%81%90%E3%80%8C%E8%B2%A1%E6%94%BF%E8%B8%A9%E6%B2%B9%E9%96%80%E3%80%81%E8%B2%A8%E5%B9%A3%E8%B8%A9%E7%85%9E%E8%BB%8A%E3%80%8D-040634437.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2330.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 6. 2454.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 7. 2303.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 8. 2344.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 9. 3711.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+10. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
