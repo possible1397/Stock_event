@@ -1,95 +1,85 @@
 📊 事件驅動選股日報 2026-09-15
 ════════════════════════════════
-掃描 135 則新聞  |  偵測 9 個事件
+掃描 137 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮延燒：** 市場持續關注AI發展，焦點從技術層面擴展至政策規劃、人才培育與倫理規範等面向。
+2.  **全球利率壓力升高：** 美國10年期公債殖利率續創20年新高，市場對聯準會進一步升息的預期及對金融市場的衝擊擔憂加劇。
+3.  **通膨壓力未減：** 原物料成本推升工業產品價格，國內電價調漲議題浮現，物價穩定面臨挑戰。
+4.  **政策與補助：** 政府提出青年政策與AI研習所等規劃，顯示政策引導產業方向，但也反映部分未受補助產業的挑戰。
+5.  **全球景氣降溫：** 英國就業市場數據顯示景氣轉弱跡象，反映國際經濟可能面臨逆風。
+
+【具體總結】：
+綜合今日財經事件，AI熱潮持續為市場注入活力，關注焦點已擴展至政策規劃與倫理規範。然而，美國公債殖利率飆升與通膨壓力攀升，已對全球金融市場構成顯著挑戰與焦慮。原物料成本上漲及國內電價調整議題，增添物價走勢的不確定性。在部分區域景氣呈現降溫跡象之際，市場資金流動或將更趨於謹慎，並密切關注各國央行的利率決策及經濟數據，以評估未來的投資方向。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ AI doomsday fears are arriving at the worst possible time fo
-    https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories
-  ▸ The murky AI milestone that has some of the industry’s leadi
-    https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories
-  ▸ Chip stocks were a safe AI play. Now they’ve turned into the
-    https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories
+【AI熱潮】4 則  🟢高信心
+  ▸ 何欣純走訪北區北屯市場 拋成立青年局與AI研習所等青年政策
+    https://tw.news.yahoo.com/%E4%BD%95%E6%AC%A3%E7%B4%94%E8%B5%B0%E8%A8%AA%E5%8C%97%E5%8D%80%E5%8C%97%E5%B1%AF%E5%B8%82%E5%A0%B4-%E6%8B%8B%E6%88%90%E7%AB%8B%E9%9D%92%E5%B9%B4%E5%B1%80%E8%88%87ai%E7%A0%94%E7%BF%92%E6%89%80%E7%AD%89%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96-062035102.html
+  ▸ 微軟替AI立規矩：再聰明也得聽人類的
+    https://tw.news.yahoo.com/%E5%BE%AE%E8%BB%9F%E6%9B%BFai%E7%AB%8B%E8%A6%8F%E7%9F%A9-%E5%86%8D%E8%81%B0%E6%98%8E%E4%B9%9F%E5%BE%97%E8%81%BD%E4%BA%BA%E9%A1%9E%E7%9A%84-061804369.html
+  ▸ 蔡宗翰：AI不會讓工作消失　但會轉變工作機會
+    https://tw.stock.yahoo.com/news/%E8%94%A1%E5%AE%97%E7%BF%B0-ai%E4%B8%8D%E6%9C%83%E8%AE%93%E5%B7%A5%E4%BD%9C%E6%B6%88%E5%A4%B1-%E4%BD%86%E6%9C%83%E8%BD%89%E8%AE%8A%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%9C%83-060215924.html
 
-【油價上升】8 則  🟢高信心
-  ▸ The oil market is sending an increasingly loud warning about
-    https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories
-  ▸ 10-year Treasury yield hits 5% as oil prices jump and Fed me
-    https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories
-  ▸ Asian markets slip as tech selloff deepens; oil prices remai
-    https://seekingalpha.com/news/4642719-asian-markets-slip-as-tech-selloff-deepens-oil-prices-remain-elevated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-
-【景氣轉弱】7 則  🟢高信心
-  ▸ China retail sales miss expectations, while urban unemployme
-    https://seekingalpha.com/news/4642725-china-retail-sales-miss-expectations-while-urban-unemployment-hits-53?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ BofA flags weak Q3 investment banking fees: one-off warning 
-    https://www.investing.com/news/stock-market-news/bofa-flags-weak-q3-investment-banking-fees-oneoff-warning-or-sectoral-alarm-93CH-4900770
-  ▸ National specialty clothing chain closing all its stores
-    https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html
-
-【升息】6 則  🟢高信心
-  ▸ 10-year Treasury yield hits 5% as oil prices jump and Fed me
-    https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories
-  ▸ Asian stocks steady as AI rebound offsets oil, rate and bond
-    https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765
-  ▸ Stock futures slip as rising oil prices and rates hike expec
-    https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html
-
-【記憶體漲價】2 則  🟢高信心
-  ▸ Why is Kioxia stock rallying today?
-    https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-rallying-today-93CH-4900766
-  ▸ 蘋果接受三星明年首季儲存晶片報價，價格較本季大漲30%至40%
-    https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%8E%A5%E5%8F%97%E4%B8%89%E6%98%9F%E6%98%8E%E5%B9%B4%E9%A6%96%E5%AD%A3%E5%84%B2%E5%AD%98%E6%99%B6%E7%89%87%E5%A0%B1%E5%83%B9-%E5%83%B9%E6%A0%BC%E8%BC%83%E6%9C%AC%E5%AD%A3%E5%A4%A7%E6%BC%B230-%E8%87%B340-035752545.html
+【升息】3 則  🟢高信心
+  ▸ 金融股值得投資嗎？FOMC升息預期狂飆，0055、00998A、00919…熱門含金ETF投資攻略
+    https://tw.stock.yahoo.com/news/%E9%87%91%E8%9E%8D%E8%82%A1%E5%80%BC%E5%BE%97%E6%8A%95%E8%B3%87%E5%97%8E-fomc%E5%8D%87%E6%81%AF%E9%A0%90%E6%9C%9F%E7%8B%82%E9%A3%86-0055-00998a-00919-061326802.html
+  ▸ 拋售猛烈！10年期美債殖利率升破5% 創20年新高
+    https://tw.stock.yahoo.com/news/%E6%8B%8B%E5%94%AE%E7%8C%9B%E7%83%88-10%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E5%8D%87%E7%A0%B45-%E5%89%B520%E5%B9%B4%E6%96%B0%E9%AB%98-061114312.html
+  ▸ 美債殖利率飆升引發高點焦慮，股市真正的灰犀牛是它！拆解升息決策邏輯：得緊盯2大指標
+    https://tw.news.yahoo.com/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E5%8D%87%E5%BC%95%E7%99%BC%E9%AB%98%E9%BB%9E%E7%84%A6%E6%85%AE-%E8%82%A1%E5%B8%82%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%81%B0%E7%8A%80%E7%89%9B%E6%98%AF%E5%AE%83-%E6%8B%86%E8%A7%A3%E5%8D%87%E6%81%AF%E6%B1%BA%E7%AD%96%E9%82%8F%E8%BC%AF-%E5%BE%97%E7%B7%8A%E7%9B%AF2%E5%A4%A7%E6%8C%87%E6%A8%99-060001345.html
 
 【通膨上升】2 則  🟢高信心
-  ▸ Costco rations Kirkland motor oil, raises price to $57.99
-    https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html
-  ▸ 「縮房世代」來臨！買房少10坪、租房只剩套房！房價10年漲4成
-    https://tw.stock.yahoo.com/news/%E3%80%8C%E7%B8%AE%E6%88%BF%E4%B8%96%E4%BB%A3%E3%80%8D%E4%BE%86%E8%87%A8%EF%BC%81%E8%B2%B7%E6%88%BF%E5%B0%9110%E5%9D%AA%E3%80%81%E7%A7%9F%E6%88%BF%E5%8F%AA%E5%89%A9%E5%A5%97%E6%88%BF%EF%BC%81%E6%88%BF%E5%83%B910%E5%B9%B4%E6%BC%B24%E6%88%90-035600999.html
+  ▸ 反映原料成本推升，中鴻熱軋/冷軋各調漲600元、鍍鋅調漲800元
+    https://tw.stock.yahoo.com/news/%E5%8F%8D%E6%98%A0%E5%8E%9F%E6%96%99%E6%88%90%E6%9C%AC%E6%8E%A8%E5%8D%87-%E4%B8%AD%E9%B4%BB%E7%86%B1%E8%BB%8B-%E5%86%B7%E8%BB%8B%E5%90%84%E8%AA%BF%E6%BC%B2600%E5%85%83-%E9%8D%8D%E9%8B%85%E8%AA%BF%E6%BC%B2800%E5%85%83-062728258.html
+  ▸ 傳電價審議會將漲用電大戶　龔明鑫：以穩物價、顧民生為原則
+    https://tw.stock.yahoo.com/news/%E5%82%B3%E9%9B%BB%E5%83%B9%E5%AF%A9%E8%AD%B0%E6%9C%83%E5%B0%87%E6%BC%B2%E7%94%A8%E9%9B%BB%E5%A4%A7%E6%88%B6-%E9%BE%94%E6%98%8E%E9%91%AB-%E4%BB%A5%E7%A9%A9%E7%89%A9%E5%83%B9-%E9%A1%A7%E6%B0%91%E7%94%9F%E7%82%BA%E5%8E%9F%E5%89%87-060321308.html
 
-【戰爭升溫】2 則  🟢高信心
-  ▸ Weapon shortfalls, 'hundreds' of buildings and aircraft dama
-    https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html
-  ▸ Oil extends gains following Houthi strikes on Saudi Arabia
-    https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html
+【政策補助】2 則  🟢高信心
+  ▸ 何欣純走訪北區北屯市場 拋成立青年局與AI研習所等青年政策
+    https://tw.news.yahoo.com/%E4%BD%95%E6%AC%A3%E7%B4%94%E8%B5%B0%E8%A8%AA%E5%8C%97%E5%8D%80%E5%8C%97%E5%B1%AF%E5%B8%82%E5%A0%B4-%E6%8B%8B%E6%88%90%E7%AB%8B%E9%9D%92%E5%B9%B4%E5%B1%80%E8%88%87ai%E7%A0%94%E7%BF%92%E6%89%80%E7%AD%89%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96-062035102.html
+  ▸ 沖繩被當台分店？飯店崩潰喊：國旅補助不了
+    https://tw.news.yahoo.com/%E6%B2%96%E7%B9%A9%E8%A2%AB%E7%95%B6%E5%8F%B0%E5%88%86%E5%BA%97-%E9%A3%AF%E5%BA%97%E5%B4%A9%E6%BD%B0%E5%96%8A-%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E4%B8%8D%E4%BA%86-060210262.html
 
-【美元升值】2 則  🟢高信心
-  ▸ 新台幣午盤重貶1.38角　暫收31.826元
-    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%88%E7%9B%A4%E9%87%8D%E8%B2%B61-38%E8%A7%92-%E6%9A%AB%E6%94%B631-826%E5%85%83-041729696.html
-  ▸ 股匯雙殺！新台幣貶1.48角 分析師：不排除跌至32元關卡
-    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6148%E8%A7%92-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E8%B7%8C%E8%87%B332%E5%85%83%E9%97%9C%E5%8D%A1-035608302.html
+【景氣轉弱】1 則  🟡單篇
+  ▸ 英國8月申領失業救濟金比率增至4.4%，就業市場持續降溫
+    https://tw.stock.yahoo.com/news/%E8%8B%B1%E5%9C%8B8%E6%9C%88%E7%94%B3%E9%A0%98%E5%A4%B1%E6%A5%AD%E6%95%91%E6%BF%9F%E9%87%91%E6%AF%94%E7%8E%87%E5%A2%9E%E8%87%B34-4-%E5%B0%B1%E6%A5%AD%E5%B8%82%E5%A0%B4%E6%8C%81%E7%BA%8C%E9%99%8D%E6%BA%AB-061703580.html
 
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 瑞士無人機為何把產線搬來台灣？新纖看中的「去紅」大商機
-    https://money.udn.com/money/story/5612/9755153
+【油價上升】1 則  🟡單篇
+  ▸ 聯合國糧農組織示警荷姆茲運量受阻，全球糧食產量下半年恐縮減
+    https://tw.stock.yahoo.com/news/%E8%81%AF%E5%90%88%E5%9C%8B%E7%B3%A7%E8%BE%B2%E7%B5%84%E7%B9%94%E7%A4%BA%E8%AD%A6%E8%8D%B7%E5%A7%86%E8%8C%B2%E9%81%8B%E9%87%8F%E5%8F%97%E9%98%BB-%E5%85%A8%E7%90%83%E7%B3%A7%E9%A3%9F%E7%94%A2%E9%87%8F%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%81%90%E7%B8%AE%E6%B8%9B-055946479.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ 聯合國糧農組織示警荷姆茲運量受阻，全球糧食產量下半年恐縮減
+    https://tw.stock.yahoo.com/news/%E8%81%AF%E5%90%88%E5%9C%8B%E7%B3%A7%E8%BE%B2%E7%B5%84%E7%B9%94%E7%A4%BA%E8%AD%A6%E8%8D%B7%E5%A7%86%E8%8C%B2%E9%81%8B%E9%87%8F%E5%8F%97%E9%98%BB-%E5%85%A8%E7%90%83%E7%B3%A7%E9%A3%9F%E7%94%A2%E9%87%8F%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%81%90%E7%B8%AE%E6%B8%9B-055946479.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜油價上升、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜油價上升、通膨上升
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 1. 6505.TW      +6.8  油電燃氣｜通膨上升、油價上升
+ 2. 8917.TW      +6.8  油電燃氣｜通膨上升、油價上升
+ 3. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 7. 2886.TW      +3.4  金融｜升息、戰爭升溫
  8. 2382.TW      +3.0  AI伺服器｜AI熱潮
  9. 2356.TW      +3.0  AI伺服器｜AI熱潮
 10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 5. 2317.TW      -4.8  電子零組件｜景氣轉弱、記憶體漲價
- 6. 2327.TW      -4.8  電子零組件｜景氣轉弱、記憶體漲價
- 7. 3037.TW      -4.8  電子零組件｜景氣轉弱、記憶體漲價
+ 1. 2603.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -4.2  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 6. 2327.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
+ 7. 3037.TW      -3.9  電子零組件｜通膨上升、景氣轉弱
  8. 2515.TW      -3.0  建材營造｜升息
  9. 5534.TW      -3.0  建材營造｜升息
 10. 2504.TW      -3.0  建材營造｜升息
