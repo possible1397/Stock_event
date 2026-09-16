@@ -1,368 +1,385 @@
 📰 財經熱點日報 2026-09-16
 ════════════════════════════════
-共掃描 128 則新聞
+共掃描 127 則新聞
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續但分歧：** AI概念股雖受市場關注，但個股表現差異大，同時AI應用正擴展至智慧家電等實體產業。
+2.  **地緣政治推升油價與通膨：** 地緣政治緊張導致原油價格上揚，全球通膨壓力持續，能源成本成為物價上漲的主要驅動力。
+3.  **全球央行緊縮政策未歇：** 主要央行仍處於或考慮貨幣緊縮週期，導致公債殖利率走高，反映市場對高利率環境的預期。
+4.  **政府政策應對多重挑戰：** 各國政府積極推出政策，以應對AI發展衍生的基礎設施成本、社會福利需求及特定產業的發展。
+
+【具體總結】：
+今日市場呈現多重因子交織影響的局面。在AI創新驅動下，科技板塊仍是資金焦點，但市場對個股的檢視趨於嚴格。宏觀層面上，地緣政治風險推升油價，加劇全球通膨壓力，促使中央銀行維持緊縮政策基調，進而推升債券殖利率。在成長動能與緊縮貨幣環境的拉鋸下，整體盤勢恐維持震盪整理，資金配置上將更側重於基本面穩健且具韌性的產業。
 
 🔥 熱門話題（依新聞則數）
 ────────────────────────────────
- 1. 🟢 AI熱潮  ██████████ 16則
- 2. 🟢 戰爭升溫  █████ 5則
- 3. 🟢 油價上升  ███ 3則
- 4. 🟢 通膨上升  ██ 2則
- 5. 🟢 升息  ██ 2則
- 6. 🟢 美元貶值  ██ 2則
- 7. 🟢 政策補助  ██ 2則
- 8. 🟡 記憶體漲價  █ 1則
+ 1. 🟢 AI熱潮  ██████████ 25則
+ 2. 🟢 油價上升  ██████ 6則
+ 3. 🟢 通膨上升  ██████ 6則
+ 4. 🟢 政策補助  ██████ 6則
+ 5. 🟢 升息  █████ 5則
+ 6. 🟢 戰爭升溫  ███ 3則
+ 7. 🟢 記憶體漲價  ███ 3則
+ 8. 🟡 關稅/貿易戰  █ 1則
 
 📋 精選新聞（附連結）
 ────────────────────────────────
 【AI熱潮】
-  📌 相關股票：Nvidia(NVDA)
-  ▸ Medicare is using AI to approve claims. The result has been 
-    https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories
-  ▸ These 4 stocks could benefit most from a $3.2 trillion semic
-    https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories
+  📌 相關股票：鴻海(2317.TW)
   ▸ AI stocks are rebounding. One analyst says there’s no spendi
     https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories
-
-【戰爭升溫】
-  ▸ How the Iran war is transforming the relationship between st
-    https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories
-  ▸ Iran war has cost on average $246 million per day in its fir
-    https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html
-  ▸ U.S. confirms for first time it has weapons deployed in spac
-    https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html
+  ▸ Oracle’s stock falls for the fifth day in a row — missing ou
+    https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories
+  ▸ LG 深化「懂你的 AI」讓智慧家電走進台灣在地生活
+    https://money.udn.com/money/story/5612/9758373
 
 【油價上升】
+  ▸ How the Iran war is transforming the relationship between st
+    https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories
   ▸ Top Senate Republican floats a diesel export ban as prices s
     https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories
-  ▸ Saudi pipeline closure is a brief interruption that will las
-    https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html
-  ▸ 美油運亞洲成本飆升至天價 地緣政治推升能源供應風險
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%B2%B9%E9%81%8B%E4%BA%9E%E6%B4%B2%E6%88%90%E6%9C%AC%E9%A3%86%E5%8D%87%E8%87%B3%E5%A4%A9%E5%83%B9-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E6%8E%A8%E5%8D%87%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89%E9%A2%A8%E9%9A%AA-044944608.html
+  ▸ UK inflation jumps to 3.1% as energy costs soar
+    https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
 
 【通膨上升】
   ▸ Inflation killed the penny. Now it’s coming for your dollar.
     https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories
-  ▸ Adjusting capital gains for inflation could prove a mess for
-    https://www.cnbc.com/2026/09/15/adjusting-capital-gains-for-inflation-could-prove-a-mess-for-individual-investors.html
-
-【升息】
-  ▸ Why a Federal Reserve rate hike could be a ‘rare win’ for yo
-    https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories
-  ▸ BOJ expected to hike rates by 25 basis points to fresh three
-    https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html
-
-【美元貶值】
-  ▸ Why de-dollarization discussions are more talk, less action
-    https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html
-  ▸ 新台幣午盤升5.8分　暫收31.79元
-    https://money.udn.com/money/story/5612/9757922
+  ▸ UK inflation jumps to 3.1% as energy costs soar
+    https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
+  ▸ 環科看好下半年本業營運　缺料成最大變數
+    https://money.udn.com/money/story/5612/9758352
 
 【政策補助】
   ▸ House to vote on bill to rein in AI data center utility cost
     https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html
-  ▸ 嘉義縣首座社宅福樂安居上梁　規劃全齡居住需求
-    https://tw.stock.yahoo.com/news/%E5%98%89%E7%BE%A9%E7%B8%A3%E9%A6%96%E5%BA%A7%E7%A4%BE%E5%AE%85%E7%A6%8F%E6%A8%82%E5%AE%89%E5%B1%85%E4%B8%8A%E6%A2%81-%E8%A6%8F%E5%8A%83%E5%85%A8%E9%BD%A1%E5%B1%85%E4%BD%8F%E9%9C%80%E6%B1%82-044943652.html
+  ▸ 土地捐做長照「免繳土增稅」！3條件缺一不可　違規最高罰2倍
+    https://tw.stock.yahoo.com/news/%E5%9C%9F%E5%9C%B0%E6%8D%90%E5%81%9A%E9%95%B7%E7%85%A7%E3%80%8C%E5%85%8D%E7%B9%B3%E5%9C%9F%E5%A2%9E%E7%A8%85%E3%80%8D%EF%BC%813%E6%A2%9D%E4%BB%B6%E7%BC%BA%E4%B8%80%E4%B8%8D%E5%8F%AF-%E9%81%95%E8%A6%8F%E6%9C%80%E9%AB%98%E7%BD%B02%E5%80%8D-064617611.html
+  ▸ 中市勞工局推「職引就業」計畫 三大核心策略助街友重返職場
+    https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%8B%9E%E5%B7%A5%E5%B1%80%E6%8E%A8-%E8%81%B7%E5%BC%95%E5%B0%B1%E6%A5%AD-%E8%A8%88%E7%95%AB-%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E7%AD%96%E7%95%A5%E5%8A%A9%E8%A1%97%E5%8F%8B%E9%87%8D%E8%BF%94%E8%81%B7%E5%A0%B4-062500959.html
+
+【升息】
+  ▸ Why a Federal Reserve rate hike could be a ‘rare win’ for yo
+    https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories
+  ▸ Treasury yields hitting 5% may not break markets now — but t
+    https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html
+  ▸ BOJ expected to hike rates by 25 basis points to fresh three
+    https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html
+
+【戰爭升溫】
+  ▸ How the Iran war is transforming the relationship between st
+    https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories
+  ▸ Saudi says Houthis targeted Mecca with a drone, Iran-backed 
+    https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html
+  ▸ Iran war has cost on average $246 million per day in its fir
+    https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html
 
 【記憶體漲價】
-  ▸ Inside South Korea’s university programs offering a direct r
-    https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html
+  📌 相關股票：台積電(2330.TW)
+  ▸ 台股漲337點！ PCB、記憶體回神 台積電收平盤2380元
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2337%E9%BB%9E-pcb-%E8%A8%98%E6%86%B6%E9%AB%94%E5%9B%9E%E7%A5%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E5%B9%B3%E7%9B%A42380%E5%85%83-062500487.html
+  ▸ AI發展引爆記憶體晶片荒 美國加速本土生產面臨長期挑戰
+    https://tw.stock.yahoo.com/news/ai%E7%99%BC%E5%B1%95%E5%BC%95%E7%88%86%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E8%8D%92-%E7%BE%8E%E5%9C%8B%E5%8A%A0%E9%80%9F%E6%9C%AC%E5%9C%9F%E7%94%9F%E7%94%A2%E9%9D%A2%E8%87%A8%E9%95%B7%E6%9C%9F%E6%8C%91%E6%88%B0-060645333.html
+  ▸ 〈台股盤後〉台積電填息、AI散熱與記憶體點火 受制月線漲337點未收復4萬6
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A1%AB%E6%81%AF-ai%E6%95%A3%E7%86%B1%E8%88%87%E8%A8%98%E6%86%B6%E9%AB%94%E9%BB%9E%E7%81%AB-%E5%8F%97%E5%88%B6%E6%9C%88%E7%B7%9A%E6%BC%B2337%E9%BB%9E%E6%9C%AA%E6%94%B6%E5%BE%A94%E8%90%AC6-055330908.html
+
+【關稅/貿易戰】
+  📌 相關股票：Intel(INTC)、SK Hynix(000660.KS)
+  ▸ 與英特爾洽談，SK海力士傳擬赴美生產晶片
+    https://tw.stock.yahoo.com/news/%E8%88%87%E8%8B%B1%E7%89%B9%E7%88%BE%E6%B4%BD%E8%AB%87-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%82%B3%E6%93%AC%E8%B5%B4%E7%BE%8E%E7%94%9F%E7%94%A2%E6%99%B6%E7%89%87-061746491.html
 
 🏭 熱門股票（被新聞提及次數）
 ────────────────────────────────
- 1. Nvidia   (NVDA)  ▪▪▪ 3次
+ 1. 台積電      (2330.TW)  ▪▪▪▪▪▪▪▪ 8次
+     → 台指期結算買盤謹慎　台股漲337點收45848點
+       https://money.udn.com/money/story/5612/9758316
+ 2. Nvidia   (NVDA)  ▪▪▪▪ 4次
      → Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI
        https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
- 2. Samsung  (005930.KS)  ▪▪ 2次
+ 3. Intel    (INTC)  ▪▪▪ 3次
+     → 英特爾持股半導體公司 Altera 秘密遞件赴美 IPO 估募資逾 20 億美元
+       https://tw.stock.yahoo.com/news/%E8%8B%B1%E7%89%B9%E7%88%BE%E6%8C%81%E8%82%A1%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%AC%E5%8F%B8-altera-%E7%A7%98%E5%AF%86%E9%81%9E%E4%BB%B6%E8%B5%B4%E7%BE%8E-ipo-%E4%BC%B0%E5%8B%9F%E8%B3%87%E9%80%BE-062739384.html
+ 4. 鴻海       (2317.TW)  ▪▪ 2次
+     → 鴻海旗下 FIT 榮獲德國紅點設計大獎 展示 FITOP 模組化光收發器
+       https://money.udn.com/money/story/5612/9758345
+ 5. Apple    (AAPL)  ▪▪ 2次
+     → iPhone 18 Pro將開賣　德誼：高階換機潮估增逾1成
+       https://money.udn.com/money/story/5612/9758231
+ 6. Samsung  (005930.KS)  ▪▪ 2次
      → Inside South Korea’s university programs offering a direct r
        https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html
- 3. 聯電       (2303.TW)  ▪▪ 2次
-     → 百工百業挺國旅 群聯砸1億元、加碼一個月獎金
-       https://money.udn.com/money/story/5612/9757822
- 4. 群聯       (8299.TW)  ▪▪ 2次
-     → 百工百業挺國旅 群聯砸1億元、加碼一個月獎金
-       https://money.udn.com/money/story/5612/9757822
- 5. 緯創       (3231.TW)  ▪▪ 2次
-     → 緯創跨國布局衝AI產能　高雄首場大型徵才會9/19登場
-       https://money.udn.com/money/story/5612/9757821
- 6. 台積電      (2330.TW)  ▪▪ 2次
-     → 台積電填息效應　台股盤中漲逾300點攻45800點
-       https://money.udn.com/money/story/5612/9757652
- 7. Google   (GOOGL)  ▪ 1次
+ 7. 聯發科      (2454.TW)  ▪▪ 2次
+     → 聯發科天璣9600 Pro搶攻AI手機！化身日常助手、男友拍照救星…台積電2奈米晶片效能有多強？
+       https://tw.news.yahoo.com/%E8%81%AF%E7%99%BC%E7%A7%91%E5%A4%A9%E7%92%A39600-pro%E6%90%B6%E6%94%BBai%E6%89%8B%E6%A9%9F-%E5%8C%96%E8%BA%AB%E6%97%A5%E5%B8%B8%E5%8A%A9%E6%89%8B-%E7%94%B7%E5%8F%8B%E6%8B%8D%E7%85%A7%E6%95%91%E6%98%9F-%E5%8F%B0%E7%A9%8D%E9%9B%BB2%E5%A5%88%E7%B1%B3%E6%99%B6%E7%89%87%E6%95%88%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%B7-060001535.html
+ 8. 緯創       (3231.TW)  ▪ 1次
+     → AI 伺服器新產能即將落成 緯創舉辦高雄首場大型徵才會
+       https://money.udn.com/money/story/5612/9758302
+ 9. Meta     (META)  ▪ 1次
+     → Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI saf
+       https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html
+10. Google   (GOOGL)  ▪ 1次
      → OpenAI, Google, Anthropic discussing collaboration on AI saf
        https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html
- 8. Amazon   (AMZN)  ▪ 1次
-     → AWS says it can't restore service to Bahrain, UAE facilities
-       https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html
- 9. 微星       (2377.TW)  ▪ 1次
-     → 微星榮獲《Newsweek》評選 「2026 全球最值得信賴企業」
-       https://money.udn.com/money/story/5612/9757845
-10. 鴻海       (2317.TW)  ▪ 1次
-     → 夏普攜手鴻海供應鏈　進軍AI伺服器市場
-       https://tw.stock.yahoo.com/news/%E5%A4%8F%E6%99%AE%E6%94%9C%E6%89%8B%E9%B4%BB%E6%B5%B7%E4%BE%9B%E6%87%89%E9%8F%88-%E9%80%B2%E8%BB%8Dai%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%B8%82%E5%A0%B4-044839330.html
 
 📑 今日全部新聞
 ────────────────────────────────
-  1. [seeking_alpha] Asian markets advance ahead of Fed decision
-      https://seekingalpha.com/news/4643213-asian-markets-advance-ahead-of-fed-decision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  2. [seeking_alpha] OpenAI considers new financing at $1.2T valuation, FT reports
-      https://seekingalpha.com/news/4643214-openai-considers-new-financing-at-12t-valuation-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  3. [seeking_alpha] Japan’s August trade deficit widens sharply on higher imports
-      https://seekingalpha.com/news/4643211-japans-august-trade-deficit-widens-sharply-on-higher-imports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  4. [seeking_alpha] Trump’s planned $2.8B bomb sale to Israel said to be largest in years
-      https://seekingalpha.com/news/4643210-trumps-panned-bomb-sale-to-israel-said-to-be-largest-in-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  5. [seeking_alpha] Wednesday’s Economic Calendar
-      https://seekingalpha.com/news/4643091-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  6. [seeking_alpha] U.S. crude oil tops $105 as Saudi Arabia said to cancel some European cargoes
-      https://seekingalpha.com/news/4643207-us-crude-oil-tops-105-as-saudi-arabia-said-to-cancel-some-european-cargoes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  7. [seeking_alpha] Enbridge reopens Line 5 after August spill; launches open season for proposed Texas pipeline
-      https://seekingalpha.com/news/4643205-enbridge-reopens-line-5-after-august-spill-launches-open-season-for-proposed-texas-pipeline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  1. [seeking_alpha] Apollo provides $585M hybrid financing to Asia's flexible-office provider
+      https://seekingalpha.com/news/4643249-apollo-provides-585m-hybrid-financing-to-asia-flexible-office-provider?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  2. [seeking_alpha] MySize announces $2.5M private placement priced at market
+      https://seekingalpha.com/news/4643220-mysize-announces-2_5m-private-placement-priced-at-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  3. [seeking_alpha] U.S. Global Investors declares $0.0075 dividend
+      https://seekingalpha.com/news/4643246-u-s-global-investors-declares-0_0075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  4. [seeking_alpha] TPG Mortgage Investment Trust declares $0.24 dividend
+      https://seekingalpha.com/news/4643245-tpg-mortgage-investment-trust-declares-0_24-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  5. [seeking_alpha] Freehold Royalties declares CAD 0.09 dividend
+      https://seekingalpha.com/news/4643244-freehold-royalties-declares-cad-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  6. [seeking_alpha] Alvopetro Energy declares $0.12 dividend
+      https://seekingalpha.com/news/4643243-alvopetro-energy-declares-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  7. [seeking_alpha] Heartland Express declares $0.02 dividend
+      https://seekingalpha.com/news/4643242-heartland-express-declares-0_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   8. [yahoo_finance] How a Costco partner's bankruptcy could benefit its biggest rival
       https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html
-  9. [yahoo_finance] Best CD rates today, Tuesday, September 15, 2026: Lock in up to 4.40% APY
-      https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-100000502.html
- 10. [yahoo_finance] Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising
-      https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html
- 11. [yahoo_finance] Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches
-      https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html
- 12. [investing_com] Dollar girded by bets on a US hiking cycle
-      https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809
- 13. [investing_com] Axon prices $1 billion convertible notes offering due 2031
-      https://www.investing.com/news/company-news/axon-prices-1-billion-convertible-notes-offering-due-2031-93CH-4902877
- 14. [investing_com] Why is Mercari stock sliding today?
-      https://www.investing.com/news/stock-market-news/why-is-mercari-stock-sliding-today-93CH-4902876
- 15. [investing_com] Morning Bid: Warsh on collision course with Trump administration
-      https://www.investing.com/news/economy-news/morning-bid-warsh-on-collision-course-with-trump-administration-4902874
- 16. [investing_com] Hong Kong unveils first five-year plan to add jobs, homes, align closer to mainland China
-      https://www.investing.com/news/economy-news/hong-kong-unveils-first-fiveyear-plan-to-add-jobs-homes-align-closer-to-mainland-china-4902872
- 17. [investing_com] China’s slower loan growth is the new normal, central bank governor says
-      https://www.investing.com/news/economy-news/chinas-slower-loan-growth-is-the-new-normal-central-bank-governor-says-4902873
- 18. [investing_com] Poll shows rising trust in global institutions, less comfort with US as global leader
-      https://www.investing.com/news/economy-news/poll-shows-rising-trust-in-global-institutions-less-comfort-with-us-as-global-leader-4902871
- 19. [investing_com] Gift Nifty 50 nears oversold as bear flag looms: Live levels
-      https://www.investing.com/news/stock-market-news/gift-nifty-50-consolidates-bearishly-near-23595-resistance-live-93CH-4900761
- 20. [investing_com] Why is Metaplanet stock sliding today?
-      https://www.investing.com/news/stock-market-news/why-is-metaplanet-stock-sliding-today-93CH-4902869
- 21. [investing_com] Beta Bionics prices $150M public offering at $17.25/share
-      https://www.investing.com/news/company-news/beta-bionics-prices-150m-public-offering-at-1725share-93CH-4902868
- 22. [marketwatch] Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’
+  9. [investing_com] South Korea cannot afford to slow AI development, Deputy PM says
+      https://www.investing.com/news/stock-market-news/south-korea-cannot-afford-to-slow-ai-development-deputy-pm-says-93CH-4902961
+ 10. [investing_com] Babcock affirms full-year guidance on strong defence, nuclear demand
+      https://www.investing.com/news/earnings/babcock-affirms-fullyear-guidance-on-strong-defence-nuclear-demand-4902956
+ 11. [investing_com] Exclusive-A decade after mercury ban, toxic skin bleachers still offered on top retailers’ websites
+      https://www.investing.com/news/stock-market-news/exclusivea-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-retailers-websites-4902880
+ 12. [investing_com] Why is SK Hynix stock rallying today?
+      https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4902952
+ 13. [investing_com] Gold rebounds toward $4,350 ahead of Fed decision as hike bets stay elevated
+      https://www.investing.com/news/commodities-news/gold-slips-ahead-of-fed-decision-as-oil-yields-keep-ratehike-bets-elevated-4902839
+ 14. [investing_com] US, Vietnam firms to sign agreements as To Lam travels to New York, documents show
+      https://www.investing.com/news/stock-market-news/us-vietnam-firms-to-sign-agreements-as-to-lam-travels-to-new-york-documents-show-4902944
+ 15. [investing_com] Quadrise receives update on Valkor oil recovery project in Utah
+      https://www.investing.com/news/company-news/quadrise-receives-update-on-valkor-oil-recovery-project-in-utah-93CH-4902943
+ 16. [investing_com] UK inflation accelerates to 3.1% in August on sharp rise in fuel prices
+      https://www.investing.com/news/economic-indicators/uk-inflation-hits-31-in-august-as-motor-fuel-prices-jump-23-4902910
+ 17. [investing_com] AdvancedAdvT launches £10m share buyback programme
+      https://www.investing.com/news/company-news/advancedadvt-launches-10m-share-buyback-programme-93CH-4902941
+ 18. [investing_com] US court accepts airBaltic Chapter 11 filing, Latvian prime minister says
+      https://www.investing.com/news/stock-market-news/us-court-accepts-airbaltic-chapter-11-filing-latvian-prime-minister-says-4902940
+ 19. [marketwatch] Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’
       https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories
- 23. [marketwatch] ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?
+ 20. [marketwatch] ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?
       https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories
- 24. [marketwatch] ‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?
+ 21. [marketwatch] ‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?
       https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories
- 25. [marketwatch] These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity
+ 22. [marketwatch] These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity
       https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories
- 26. [marketwatch] How the Iran war is transforming the relationship between stocks, bonds and oil
+ 23. [marketwatch] How the Iran war is transforming the relationship between stocks, bonds and oil
       https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories
- 27. [marketwatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
+ 24. [marketwatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
       https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories
- 28. [marketwatch] Inflation killed the penny. Now it’s coming for your dollar.
+ 25. [marketwatch] Inflation killed the penny. Now it’s coming for your dollar.
       https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories
- 29. [marketwatch] Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money
+ 26. [marketwatch] Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money
       https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories
- 30. [marketwatch] Top Senate Republican floats a diesel export ban as prices soar. It might not work.
+ 27. [marketwatch] Top Senate Republican floats a diesel export ban as prices soar. It might not work.
       https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories
- 31. [marketwatch] Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce
+ 28. [marketwatch] Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce
       https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories
- 32. [cnbc_top] Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce
-      https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
- 33. [cnbc_top] Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure
-      https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html
- 34. [cnbc_top] China's AI leaders keep quiet despite U.S. 'publicity' on tech risks
-      https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html
- 35. [cnbc_top] Stock futures edge higher ahead of pivotal Fed rate decision: Live updates
-      https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html
- 36. [cnbc_top] BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey
-      https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html
- 37. [cnbc_top] Iran war has cost on average $246 million per day in its first five months, CBO finds
-      https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html
- 38. [cnbc_top] Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source
-      https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html
- 39. [cnbc_top] Trump says Kennedy Center will stay closed without renovation unless his name is added back
-      https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html
- 40. [cnbc_top] Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome
-      https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html
- 41. [cnbc_top] Adjusting capital gains for inflation could prove a mess for individual investors
-      https://www.cnbc.com/2026/09/15/adjusting-capital-gains-for-inflation-could-prove-a-mess-for-individual-investors.html
- 42. [cnbc_top] Will AI really destroy humanity? Pioneers who created the tech weigh in
-      https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html
- 43. [cnbc_top] U.S. confirms for first time it has weapons deployed in space
-      https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html
- 44. [cnbc_top] Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix
-      https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html
- 45. [cnbc_top] Wednesday's big stock stories: What’s likely to move the market in the next trading session
-      https://www.cnbc.com/2026/09/15/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html
- 46. [cnbc_top] Why de-dollarization discussions are more talk, less action
-      https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html
- 47. [cnbc_top] This AI play has an unshakeable moat, but has flown under the radar
-      https://www.cnbc.com/2026/09/15/this-ai-play-has-an-unshakeable-moat-but-has-flown-under-the-radar.html
- 48. [cnbc_top] House to vote on bill to rein in AI data center utility costs
-      https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html
- 49. [cnbc_top] Indonesia's new finance minister faces an uphill battle on fiscal credibility
+ 29. [cnbc_economy] UK inflation jumps to 3.1% as energy costs soar
+      https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
+ 30. [cnbc_economy] Indonesia's new finance minister faces an uphill battle on fiscal credibility
       https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html
- 50. [cnbc_top] Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
-      https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html
- 51. [cnbc_top] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC
-      https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html
- 52. [cnbc_top] Wells Fargo sees improvement in a key metric — plus, Lilly gets praise beyond GLP-1s
+ 31. [cnbc_economy] Why de-dollarization discussions are more talk, less action
+      https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html
+ 32. [udn_money] 偉詮電推出三相智慧馬達控制晶片　搶辦公自動化商機
+      https://money.udn.com/money/story/5612/9758376
+ 33. [udn_money] LG 深化「懂你的 AI」讓智慧家電走進台灣在地生活
+      https://money.udn.com/money/story/5612/9758373
+ 34. [udn_money] 環科看好下半年本業營運　缺料成最大變數
+      https://money.udn.com/money/story/5612/9758352
+ 35. [udn_money] 鴻海旗下 FIT 榮獲德國紅點設計大獎 展示 FITOP 模組化光收發器
+      https://money.udn.com/money/story/5612/9758345
+ 36. [udn_money] 鴻海旗下 FIT Tech Day 2026 聚焦 AI 時代光通訊
+      https://money.udn.com/money/story/5612/9758335
+ 37. [udn_money] 虎門科技舉辦34屆 CAE 技術大會 聚焦 AI、散熱與無人載具
+      https://money.udn.com/money/story/5612/9758322
+ 38. [udn_money] 台指期結算買盤謹慎　台股漲337點收45848點
+      https://money.udn.com/money/story/5612/9758316
+ 39. [udn_money] AI 伺服器新產能即將落成 緯創舉辦高雄首場大型徵才會
+      https://money.udn.com/money/story/5612/9758302
+ 40. [udn_money] 汎銓再獲Tier-1 AI客戶擴大合作 AI專區增至七處
+      https://money.udn.com/money/story/5612/9758289
+ 41. [udn_money] 影／考量通膨及傳產壓力 林伯豐籲最低工資調幅3%左右較為合理
+      https://money.udn.com/money/story/5612/9758268
+ 42. [udn_money] UBS Taiwan Summit 吸引逾300投資人 國際資金聚焦台灣 AI 生態系
+      https://money.udn.com/money/story/5612/9758266
+ 43. [udn_money] 9月電子期金融期齊漲
+      https://money.udn.com/money/story/5612/9758259
+ 44. [udn_money] 9月台股期指漲167點
+      https://money.udn.com/money/story/5612/9758251
+ 45. [udn_money] iPhone 18 Pro將開賣　德誼：高階換機潮估增逾1成
+      https://money.udn.com/money/story/5612/9758231
+ 46. [udn_money] 威剛 TRUSTA 攻企業地端 AI AI Scaler 部署成本降逾五成
+      https://money.udn.com/money/story/5612/9758222
+ 47. [udn_money] 震旦推智慧平台 搶攻企業數位治理商機
+      https://money.udn.com/money/story/5612/9758212
+ 48. [udn_money] 虎門科技用戶大會聚焦 AI 提升研發及生產效率 掌握新興應用商機
+      https://money.udn.com/money/story/5612/9758210
+ 49. [udn_money] 台股漲337.41點
+      https://money.udn.com/money/story/5612/9758207
+ 50. [udn_money] 遠東Garden City開幕　SOGO：第4季拚30億業績
+      https://money.udn.com/money/story/5612/9758170
+ 51. [udn_money] 最低薪資審議會將登場 三三會林伯豐：基本工資調漲3%比較合理
+      https://money.udn.com/money/story/5612/9758157
+ 52. [cnbc_top] Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure
+      https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html
+ 53. [cnbc_top] Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce
+      https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
+ 54. [cnbc_top] Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim
+      https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html
+ 55. [cnbc_top] Bond yields are spiking, oil is up — but investors aren’t giving up on stocks
+      https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html
+ 56. [cnbc_top] Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate
+      https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html
+ 57. [cnbc_top] OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development
+      https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html
+ 58. [cnbc_top] Treasury yields hitting 5% may not break markets now — but the clock is ticking
+      https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html
+ 59. [cnbc_top] China's AI leaders keep quiet despite U.S. 'publicity' on tech risks
+      https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html
+ 60. [cnbc_top] BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey
+      https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html
+ 61. [cnbc_top] Will AI really destroy humanity? Pioneers who created the tech weigh in
+      https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html
+ 62. [cnbc_top] U.S. confirms for first time it has weapons deployed in space
+      https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html
+ 63. [cnbc_top] Iran war has cost on average $246 million per day in its first five months, CBO finds
+      https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html
+ 64. [cnbc_top] Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source
+      https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html
+ 65. [cnbc_top] Trump says Kennedy Center will stay closed without renovation unless his name is added back
+      https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html
+ 66. [cnbc_top] This AI play has an unshakeable moat, but has flown under the radar
+      https://www.cnbc.com/2026/09/15/this-ai-play-has-an-unshakeable-moat-but-has-flown-under-the-radar.html
+ 67. [cnbc_top] Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome
+      https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html
+ 68. [cnbc_top] Adjusting capital gains for inflation could prove a mess for individual investors
+      https://www.cnbc.com/2026/09/15/adjusting-capital-gains-for-inflation-could-prove-a-mess-for-individual-investors.html
+ 69. [cnbc_top] Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix
+      https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html
+ 70. [cnbc_top] Wednesday's big stock stories: What’s likely to move the market in the next trading session
+      https://www.cnbc.com/2026/09/15/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html
+ 71. [cnbc_top] Wells Fargo sees improvement in a key metric — plus, Lilly gets praise beyond GLP-1s
       https://www.cnbc.com/2026/09/15/wells-fargo-sees-improvement-in-a-key-metric-plus-lilly-gets-praise-beyond-glp-1s.html
- 53. [cnbc_top] Americans' incomes rose and poverty fell in 2025, Census Bureau says
-      https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html
- 54. [cnbc_top] Beaten-up bond market may be nearing 'escape velocity.' Here's what that means
+ 72. [cnbc_top] Beaten-up bond market may be nearing 'escape velocity.' Here's what that means
       https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html
- 55. [cnbc_top] OpenAI, Google, Anthropic discussing collaboration on AI safety issues
+ 73. [cnbc_top] House to vote on bill to rein in AI data center utility costs
+      https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html
+ 74. [cnbc_top] Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
+      https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html
+ 75. [cnbc_top] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC
+      https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html
+ 76. [cnbc_top] Americans' incomes rose and poverty fell in 2025, Census Bureau says
+      https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html
+ 77. [cnbc_top] OpenAI, Google, Anthropic discussing collaboration on AI safety issues
       https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html
- 56. [cnbc_top] Republican Rep. Massie seeks Hegseth's impeachment over Iran
+ 78. [cnbc_top] Republican Rep. Massie seeks Hegseth's impeachment over Iran
       https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html
- 57. [cnbc_top] I tested AI to save money on travel. Here’s what actually worked — and the tools I recommend
-      https://www.cnbc.com/select/how-to-use-ai-to-save-on-travel/
- 58. [cnbc_top] AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes
-      https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html
- 59. [cnbc_top] Trump Account contributions have a Dec. 31 deadline — and employers can complicate the math
-      https://www.cnbc.com/2026/09/15/trump-accounts-employer-benefits.html
- 60. [cnbc_top] Trump admin. says private sector can solve AI threats as critics balk
-      https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html
- 61. [cnbc_top] AI skeptics from Bernie Sanders to Steve Bannon urge action, as Congress, Trump idle
-      https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html
- 62. [udn_money] AI帶動產能供不應求　欣興、金居積極擴產
-      https://money.udn.com/money/story/5612/9757957
- 63. [udn_money] 新台幣午盤升5.8分　暫收31.79元
-      https://money.udn.com/money/story/5612/9757922
- 64. [udn_money] KPMG：今年央行降息空間可能不大　國銀可望維持成長
-      https://money.udn.com/money/story/5612/9757907
- 65. [udn_money] 保險業迎3大制度改變　彭金隆：不只賣保險更管理風險
-      https://money.udn.com/money/story/5612/9757904
- 66. [udn_money] Garden City全區開幕 徐國安：這是遠東集團對未來百貨商場的想像
-      https://money.udn.com/money/story/5612/9757873
- 67. [udn_money] 台北市電腦公會攜手臺灣原創遊戲團隊 前進東京電玩展
-      https://money.udn.com/money/story/5612/9757854
- 68. [udn_money] 微星榮獲《Newsweek》評選 「2026 全球最值得信賴企業」
-      https://money.udn.com/money/story/5612/9757845
- 69. [udn_money] 立凱電新廠落腳台南 目標明年七月出貨
-      https://money.udn.com/money/story/5612/9757824
- 70. [udn_money] 百工百業挺國旅 群聯砸1億元、加碼一個月獎金
-      https://money.udn.com/money/story/5612/9757822
- 71. [udn_money] 緯創跨國布局衝AI產能　高雄首場大型徵才會9/19登場
-      https://money.udn.com/money/story/5612/9757821
- 72. [udn_money] 台康生技竹北二廠正式啟用 攜手美商 GeneFab 搶進基因細胞治療 CDMO
-      https://money.udn.com/money/story/5612/9757816
- 73. [udn_money] 114年員工人均總報酬88.3萬　非經常性薪資比重創高
-      https://money.udn.com/money/story/5612/9757774
- 74. [udn_money] 永佳捷獲利見曙光 祭高薪獎金招募維保、營銷人才
-      https://money.udn.com/money/story/5612/9757771
- 75. [udn_money] AnalogAI 首款邊緣 AI 處理器導入 SST 技術 功耗壓至1瓦以下
-      https://money.udn.com/money/story/5612/9757765
- 76. [udn_money] 床的世界掛牌上櫃　股價漲近5%
-      https://money.udn.com/money/story/5612/9757755
- 77. [udn_money] 徐國安 Garden City 開幕談實體零售未來：要讓顧客有再回來的理由
-      https://money.udn.com/money/story/5612/9757716
- 78. [udn_money] 台灣創新技術博覽會明登場 中企署攜14家新創秀 AI 實力
-      https://money.udn.com/money/story/5612/9757687
- 79. [udn_money] 6分鐘掌握腦神經、10秒完成瑕疵建模 TIE秀台灣創新技術
-      https://money.udn.com/money/story/5612/9757666
- 80. [udn_money] 台積電填息效應　台股盤中漲逾300點攻45800點
-      https://money.udn.com/money/story/5612/9757652
- 81. [udn_money] 遠東 Garden City 正式開幕！黃晴雯喊百億營業額、徐家成員罕見同場
-      https://money.udn.com/money/story/5612/9757635
- 82. [yahoo_tw] 全支付攜手 Trip.com 上線 每週二預訂日韓機票飯店最高現折 1,300 元
-      https://tw.stock.yahoo.com/news/%E5%85%A8%E6%94%AF%E4%BB%98%E6%94%9C%E6%89%8B-trip-com-%E4%B8%8A%E7%B7%9A-%E6%AF%8F%E9%80%B1%E4%BA%8C%E9%A0%90%E8%A8%82%E6%97%A5%E9%9F%93%E6%A9%9F%E7%A5%A8%E9%A3%AF%E5%BA%97%E6%9C%80%E9%AB%98%E7%8F%BE%E6%8A%98-050000297.html
- 83. [yahoo_tw] 東森旗下東森購物前8月EPS7.32元，林口全球營運總部預計12月開幕
-      https://tw.stock.yahoo.com/news/%E6%9D%B1%E6%A3%AE%E6%97%97%E4%B8%8B%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%89%8D8%E6%9C%88eps7-32%E5%85%83-%E6%9E%97%E5%8F%A3%E5%85%A8%E7%90%83%E7%87%9F%E9%81%8B%E7%B8%BD%E9%83%A8%E9%A0%90%E8%A8%8812%E6%9C%88%E9%96%8B%E5%B9%95-045644380.html
- 84. [yahoo_tw] 日本企業AI導入速度超越雲端遷移 逾八成資安防護力不足
-      https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%ADai%E5%B0%8E%E5%85%A5%E9%80%9F%E5%BA%A6%E8%B6%85%E8%B6%8A%E9%9B%B2%E7%AB%AF%E9%81%B7%E7%A7%BB-%E9%80%BE%E5%85%AB%E6%88%90%E8%B3%87%E5%AE%89%E9%98%B2%E8%AD%B7%E5%8A%9B%E4%B8%8D%E8%B6%B3-045537574.html
- 85. [yahoo_tw] 遠東Garden City大巨蛋今開幕！董座黃晴雯曝業績超預期2成 75%都是新客
-      https://tw.stock.yahoo.com/news/%E9%81%A0%E6%9D%B1garden-city%E5%A4%A7%E5%B7%A8%E8%9B%8B%E4%BB%8A%E9%96%8B%E5%B9%95%EF%BC%81%E8%91%A3%E5%BA%A7%E9%BB%83%E6%99%B4%E9%9B%AF%E6%9B%9D%E6%A5%AD%E7%B8%BE%E8%B6%85%E9%A0%90%E6%9C%9F2%E6%88%90-75%E9%83%BD%E6%98%AF%E6%96%B0%E5%AE%A2-045503690.html
- 86. [yahoo_tw] 台康生技竹北微生物廠啟用，攜GeneFab合作、CDMO版圖延伸基因細胞治療
-      https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%BA%B7%E7%94%9F%E6%8A%80%E7%AB%B9%E5%8C%97%E5%BE%AE%E7%94%9F%E7%89%A9%E5%BB%A0%E5%95%9F%E7%94%A8-%E6%94%9Cgenefab%E5%90%88%E4%BD%9C-cdmo%E7%89%88%E5%9C%96%E5%BB%B6%E4%BC%B8%E5%9F%BA%E5%9B%A0%E7%B4%B0%E8%83%9E%E6%B2%BB%E7%99%82-045322529.html
- 87. [yahoo_tw] 對台軍售成籌碼？川習會先談2大議題
-      https://tw.news.yahoo.com/%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E6%88%90%E7%B1%8C%E7%A2%BC-%E5%B7%9D%E7%BF%92%E6%9C%83%E5%85%88%E8%AB%872%E5%A4%A7%E8%AD%B0%E9%A1%8C-045003131.html
- 88. [yahoo_tw] 美油運亞洲成本飆升至天價 地緣政治推升能源供應風險
-      https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%B2%B9%E9%81%8B%E4%BA%9E%E6%B4%B2%E6%88%90%E6%9C%AC%E9%A3%86%E5%8D%87%E8%87%B3%E5%A4%A9%E5%83%B9-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E6%8E%A8%E5%8D%87%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89%E9%A2%A8%E9%9A%AA-044944608.html
- 89. [yahoo_tw] 嘉義縣首座社宅福樂安居上梁　規劃全齡居住需求
-      https://tw.stock.yahoo.com/news/%E5%98%89%E7%BE%A9%E7%B8%A3%E9%A6%96%E5%BA%A7%E7%A4%BE%E5%AE%85%E7%A6%8F%E6%A8%82%E5%AE%89%E5%B1%85%E4%B8%8A%E6%A2%81-%E8%A6%8F%E5%8A%83%E5%85%A8%E9%BD%A1%E5%B1%85%E4%BD%8F%E9%9C%80%E6%B1%82-044943652.html
- 90. [yahoo_tw] WTO籲改革貿易規則　警告貿易碎片化恐重創全球經濟
-      https://tw.stock.yahoo.com/news/wto%E7%B1%B2%E6%94%B9%E9%9D%A9%E8%B2%BF%E6%98%93%E8%A6%8F%E5%89%87-%E8%AD%A6%E5%91%8A%E8%B2%BF%E6%98%93%E7%A2%8E%E7%89%87%E5%8C%96%E6%81%90%E9%87%8D%E5%89%B5%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F-044841109.html
- 91. [yahoo_tw] 夏普攜手鴻海供應鏈　進軍AI伺服器市場
-      https://tw.stock.yahoo.com/news/%E5%A4%8F%E6%99%AE%E6%94%9C%E6%89%8B%E9%B4%BB%E6%B5%B7%E4%BE%9B%E6%87%89%E9%8F%88-%E9%80%B2%E8%BB%8Dai%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%B8%82%E5%A0%B4-044839330.html
- 92. [yahoo_tw] 精確Q4旺爆，今年營收破百億，AI液冷/半導體及機器人明年佔比20-30%
-      https://tw.stock.yahoo.com/news/%E7%B2%BE%E7%A2%BAq4%E6%97%BA%E7%88%86-%E4%BB%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E7%A0%B4%E7%99%BE%E5%84%84-ai%E6%B6%B2%E5%86%B7-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%8F%8A%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%98%8E%E5%B9%B4%E4%BD%94%E6%AF%9420-30-044821269.html
- 93. [yahoo_tw] 高盛資本另類投資募逾百億美元 瞄準動盪市場併購機會
-      https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E8%B3%87%E6%9C%AC%E5%8F%A6%E9%A1%9E%E6%8A%95%E8%B3%87%E5%8B%9F%E9%80%BE%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83-%E7%9E%84%E6%BA%96%E5%8B%95%E7%9B%AA%E5%B8%82%E5%A0%B4%E4%BD%B5%E8%B3%BC%E6%A9%9F%E6%9C%83-044240148.html
- 94. [yahoo_tw] 盛讚MLCC是AI賣鏟人！ 大摩估「6年翻倍」點名村田與國巨
-      https://tw.stock.yahoo.com/news/%E7%9B%9B%E8%AE%9Amlcc%E6%98%AFai%E8%B3%A3%E9%8F%9F%E4%BA%BA-%E5%A4%A7%E6%91%A9%E4%BC%B0-6%E5%B9%B4%E7%BF%BB%E5%80%8D-%E9%BB%9E%E5%90%8D%E6%9D%91%E7%94%B0%E8%88%87%E5%9C%8B%E5%B7%A8-044000541.html
- 95. [yahoo_tw] 聯想估長期淨利率可達5-8%，上半場股價大漲7.05%
-      https://tw.stock.yahoo.com/news/%E8%81%AF%E6%83%B3%E4%BC%B0%E9%95%B7%E6%9C%9F%E6%B7%A8%E5%88%A9%E7%8E%87%E5%8F%AF%E9%81%945-8-%E4%B8%8A%E5%8D%8A%E5%A0%B4%E8%82%A1%E5%83%B9%E5%A4%A7%E6%BC%B27-05-043559133.html
- 96. [yahoo_tw] AI生態系兩年新增3,500億美元營收，75%流向半導體、輝達成最大贏家
-      https://tw.stock.yahoo.com/news/ai%E7%94%9F%E6%85%8B%E7%B3%BB%E5%85%A9%E5%B9%B4%E6%96%B0%E5%A2%9E3-500%E5%84%84%E7%BE%8E%E5%85%83%E7%87%9F%E6%94%B6-75-%E6%B5%81%E5%90%91%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%BC%9D%E9%81%94%E6%88%90%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-043221798.html
- 97. [yahoo_tw] 避荷莫茲海峽風險 INPEX印尼LNG受市場熱捧
-      https://tw.stock.yahoo.com/news/%E9%81%BF%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%A2%A8%E9%9A%AA-inpex%E5%8D%B0%E5%B0%BClng%E5%8F%97%E5%B8%82%E5%A0%B4%E7%86%B1%E6%8D%A7-043139704.html
- 98. [yahoo_tw] 創新博覽會經部6司署秀新招    首邀土商帶來戰術影像偵測
-      https://tw.stock.yahoo.com/news/%E5%89%B5%E6%96%B0%E5%8D%9A%E8%A6%BD%E6%9C%83%E7%B6%93%E9%83%A86%E5%8F%B8%E7%BD%B2%E7%A7%80%E6%96%B0%E6%8B%9B-%E9%A6%96%E9%82%80%E5%9C%9F%E5%95%86%E5%B8%B6%E4%BE%86%E6%88%B0%E8%A1%93%E5%BD%B1%E5%83%8F%E5%81%B5%E6%B8%AC-042950448.html
- 99. [yahoo_tw] 提前拿到外銀門票！滙豐啟動年輕銀行家培育 10月底前報名
-      https://tw.stock.yahoo.com/news/%E6%8F%90%E5%89%8D%E6%8B%BF%E5%88%B0%E5%A4%96%E9%8A%80%E9%96%80%E7%A5%A8-%E6%BB%99%E8%B1%90%E5%95%9F%E5%8B%95%E5%B9%B4%E8%BC%95%E9%8A%80%E8%A1%8C%E5%AE%B6%E5%9F%B9%E8%82%B2-10%E6%9C%88%E5%BA%95%E5%89%8D%E5%A0%B1%E5%90%8D-042933760.html
-100. [yahoo_tw] 台新藥眼科新藥代工廠復工，產能全開消化積壓訂單，Q4營收拚跳升
-      https://tw.stock.yahoo.com/news/%E5%8F%B0%E6%96%B0%E8%97%A5%E7%9C%BC%E7%A7%91%E6%96%B0%E8%97%A5%E4%BB%A3%E5%B7%A5%E5%BB%A0%E5%BE%A9%E5%B7%A5-%E7%94%A2%E8%83%BD%E5%85%A8%E9%96%8B%E6%B6%88%E5%8C%96%E7%A9%8D%E5%A3%93%E8%A8%82%E5%96%AE-q4%E7%87%9F%E6%94%B6%E6%8B%9A%E8%B7%B3%E5%8D%87-042559619.html
-101. [yahoo_tw] 日本傳擬將防衛支出倍增至GDP 3.5%，官方否認，10年債息升30年高
-      https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%82%B3%E6%93%AC%E5%B0%87%E9%98%B2%E8%A1%9B%E6%94%AF%E5%87%BA%E5%80%8D%E5%A2%9E%E8%87%B3gdp-3-5-%E5%AE%98%E6%96%B9%E5%90%A6%E8%AA%8D-10%E5%B9%B4%E5%82%B5%E6%81%AF%E5%8D%8730%E5%B9%B4%E9%AB%98-042413173.html
-102. [yahoo_tw] 她點860元外送「被加90元」！Uber Eats社群遭灌爆 網批：把會員當韭菜
-      https://tw.stock.yahoo.com/news/%E5%A5%B9%E9%BB%9E860%E5%85%83%E5%A4%96%E9%80%81-%E8%A2%AB%E5%8A%A090%E5%85%83-uber-eats%E7%A4%BE%E7%BE%A4%E9%81%AD%E7%81%8C%E7%88%86-%E7%B6%B2%E6%89%B9-042300609.html
-103. [yahoo_tw] 美眾院通過H.R.9340法案，AI數據中心須自行負擔電網成本
-      https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%9C%BE%E9%99%A2%E9%80%9A%E9%81%8Eh-r-9340%E6%B3%95%E6%A1%88-ai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E8%87%AA%E8%A1%8C%E8%B2%A0%E6%93%94%E9%9B%BB%E7%B6%B2%E6%88%90%E6%9C%AC-042053240.html
-104. [yahoo_tw] Invesco Institutional 8月底估計每股淨值小幅下滑
-      https://tw.stock.yahoo.com/news/invesco-institutional-8%E6%9C%88%E5%BA%95%E4%BC%B0%E8%A8%88%E6%AF%8F%E8%82%A1%E6%B7%A8%E5%80%BC%E5%B0%8F%E5%B9%85%E4%B8%8B%E6%BB%91-041711975.html
-105. [yahoo_tw] 三星與台積電重金投資日本 鎖定在地「不顯眼」後端製程技術
-      https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%87%8D%E9%87%91%E6%8A%95%E8%B3%87%E6%97%A5%E6%9C%AC-%E9%8E%96%E5%AE%9A%E5%9C%A8%E5%9C%B0-%E4%B8%8D%E9%A1%AF%E7%9C%BC-%E5%BE%8C%E7%AB%AF%E8%A3%BD%E7%A8%8B%E6%8A%80%E8%A1%93-041544605.html
-106. [yahoo_tw] AI 面試成求職新常態 八成求職者偏好 AI 語音篩選
-      https://tw.stock.yahoo.com/news/ai-%E9%9D%A2%E8%A9%A6%E6%88%90%E6%B1%82%E8%81%B7%E6%96%B0%E5%B8%B8%E6%85%8B-%E5%85%AB%E6%88%90%E6%B1%82%E8%81%B7%E8%80%85%E5%81%8F%E5%A5%BD-ai-%E8%AA%9E%E9%9F%B3%E7%AF%A9%E9%81%B8-041238082.html
-107. [yahoo_tw] 半導體耗材神隊友！ 它靠「一條龍」絕活 8月營收狠甩同期
-      https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%80%97%E6%9D%90%E7%A5%9E%E9%9A%8A%E5%8F%8B-%E5%AE%83%E9%9D%A0-%E6%A2%9D%E9%BE%8D-%E7%B5%95%E6%B4%BB-8%E6%9C%88%E7%87%9F%E6%94%B6%E7%8B%A0%E7%94%A9%E5%90%8C%E6%9C%9F-041200717.html
-108. [yahoo_tw] 高市早苗調整自民黨人事 多名高層續任
-      https://tw.news.yahoo.com/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AA%BF%E6%95%B4%E8%87%AA%E6%B0%91%E9%BB%A8%E4%BA%BA%E4%BA%8B-%E5%A4%9A%E5%90%8D%E9%AB%98%E5%B1%A4%E7%BA%8C%E4%BB%BB-041100400.html
-109. [yahoo_tw] 美國擬推通膨掛鉤資本利得稅 減輕稅負但增申報難度
-      https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%93%AC%E6%8E%A8%E9%80%9A%E8%86%A8%E6%8E%9B%E9%89%A4%E8%B3%87%E6%9C%AC%E5%88%A9%E5%BE%97%E7%A8%85-%E6%B8%9B%E8%BC%95%E7%A8%85%E8%B2%A0%E4%BD%86%E5%A2%9E%E7%94%B3%E5%A0%B1%E9%9B%A3%E5%BA%A6-041007805.html
-110. [yahoo_tw] 恆勁科技順利轉盈，下半年營收、毛利有望三級跳，規劃明年下半IPO上市
-      https://tw.stock.yahoo.com/news/%E6%81%86%E5%8B%81%E7%A7%91%E6%8A%80%E9%A0%86%E5%88%A9%E8%BD%89%E7%9B%88-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6-%E6%AF%9B%E5%88%A9%E6%9C%89%E6%9C%9B%E4%B8%89%E7%B4%9A%E8%B7%B3-%E8%A6%8F%E5%8A%83%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8Aipo%E4%B8%8A%E5%B8%82-040920432.html
-111. [yahoo_tw] 聯準會快攤牌！小摩拆解5大劇本 最糟情境股市剉哩等
-      https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E5%BF%AB%E6%94%A4%E7%89%8C-%E5%B0%8F%E6%91%A9%E6%8B%86%E8%A7%A35%E5%A4%A7%E5%8A%87%E6%9C%AC-%E6%9C%80%E7%B3%9F%E6%83%85%E5%A2%83%E8%82%A1%E5%B8%82%E5%89%89%E5%93%A9%E7%AD%89-040626140.html
-112. [yahoo_tw] 受AI投入拖累 The Information：字節跳動利潤多年來罕見下滑
-      https://tw.stock.yahoo.com/news/%E5%8F%97ai%E6%8A%95%E5%85%A5%E6%8B%96%E7%B4%AF-information-%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%88%A9%E6%BD%A4%E5%A4%9A%E5%B9%B4%E4%BE%86%E7%BD%95%E8%A6%8B%E4%B8%8B%E6%BB%91-040515825.html
-113. [yahoo_tw] 全社會防衛韌性論壇19日登場 印太友盟國安專家齊聚台灣
-      https://tw.news.yahoo.com/%E5%85%A8%E7%A4%BE%E6%9C%83%E9%98%B2%E8%A1%9B%E9%9F%8C%E6%80%A7%E8%AB%96%E5%A3%8719%E6%97%A5%E7%99%BB%E5%A0%B4-%E5%8D%B0%E5%A4%AA%E5%8F%8B%E7%9B%9F%E5%9C%8B%E5%AE%89%E5%B0%88%E5%AE%B6%E9%BD%8A%E8%81%9A%E5%8F%B0%E7%81%A3-040319996.html
-114. [yahoo_tw] 群聯霸氣挺國旅！砸1億員工旅遊購物金再加發1個月獎金　8千人受惠
-      https://tw.stock.yahoo.com/news/%E7%BE%A4%E8%81%AF%E9%9C%B8%E6%B0%A3%E6%8C%BA%E5%9C%8B%E6%97%85-%E7%A0%B81%E5%84%84%E5%93%A1%E5%B7%A5%E6%97%85%E9%81%8A%E8%B3%BC%E7%89%A9%E9%87%91%E5%86%8D%E5%8A%A0%E7%99%BC1%E5%80%8B%E6%9C%88%E7%8D%8E%E9%87%91-8%E5%8D%83%E4%BA%BA%E5%8F%97%E6%83%A0-040300028.html
-115. [yahoo_tw] 恆勁科技站上「AI對的賽道」，大啃歐美日IDM客戶AI伺服器PMIC載板訂單
-      https://tw.stock.yahoo.com/news/%E6%81%86%E5%8B%81%E7%A7%91%E6%8A%80%E7%AB%99%E4%B8%8A-ai%E5%B0%8D%E7%9A%84%E8%B3%BD%E9%81%93-%E5%A4%A7%E5%95%83%E6%AD%90%E7%BE%8E%E6%97%A5idm%E5%AE%A2%E6%88%B6ai%E4%BC%BA%E6%9C%8D%E5%99%A8pmic%E8%BC%89%E6%9D%BF%E8%A8%82%E5%96%AE-040227287.html
-116. [yahoo_tw] 胡志明市擴大城市發展空間並加強地方外交聯繫
-      https://tw.stock.yahoo.com/news/%E8%83%A1%E5%BF%97%E6%98%8E%E5%B8%82%E6%93%B4%E5%A4%A7%E5%9F%8E%E5%B8%82%E7%99%BC%E5%B1%95%E7%A9%BA%E9%96%93%E4%B8%A6%E5%8A%A0%E5%BC%B7%E5%9C%B0%E6%96%B9%E5%A4%96%E4%BA%A4%E8%81%AF%E7%B9%AB-040200463.html
-117. [yahoo_tw] 川習會前放話！中前大使嗆：一勞永逸解決台
-      https://tw.news.yahoo.com/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D%E6%94%BE%E8%A9%B1-%E4%B8%AD%E5%89%8D%E5%A4%A7%E4%BD%BF%E5%97%86-%E5%8B%9E%E6%B0%B8%E9%80%B8%E8%A7%A3%E6%B1%BA%E5%8F%B0-040150893.html
-118. [yahoo_tw] 美官方報告承認美軍「彈藥短缺」！伊朗戰爭燒掉334億美元
-      https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%AE%98%E6%96%B9%E5%A0%B1%E5%91%8A%E6%89%BF%E8%AA%8D%E7%BE%8E%E8%BB%8D-%E5%BD%88%E8%97%A5%E7%9F%AD%E7%BC%BA-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%87%92%E6%8E%89334%E5%84%84%E7%BE%8E%E5%85%83-040007049.html
-119. [yahoo_tw] 英格蘭銀行：穩定幣可望強化美元地位 助漲美債需求
-      https://tw.stock.yahoo.com/news/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%8A%80%E8%A1%8C-%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%8F%AF%E6%9C%9B%E5%BC%B7%E5%8C%96%E7%BE%8E%E5%85%83%E5%9C%B0%E4%BD%8D-%E5%8A%A9%E6%BC%B2%E7%BE%8E%E5%82%B5%E9%9C%80%E6%B1%82-035959902.html
-120. [yahoo_tw] 搶錢、搶人、搶產能，緯創近兩年募逾千億銀彈到手，徵才列車台、美啟航
-      https://tw.stock.yahoo.com/news/%E6%90%B6%E9%8C%A2-%E6%90%B6%E4%BA%BA-%E6%90%B6%E7%94%A2%E8%83%BD-%E7%B7%AF%E5%89%B5%E8%BF%91%E5%85%A9%E5%B9%B4%E5%8B%9F%E9%80%BE%E5%8D%83%E5%84%84%E9%8A%80%E5%BD%88%E5%88%B0%E6%89%8B-%E5%BE%B5%E6%89%8D%E5%88%97%E8%BB%8A%E5%8F%B0-035950463.html
-121. [yahoo_tw] 天賜材料計畫Q4在港上市，籌資約5億至7億美元
-      https://tw.stock.yahoo.com/news/%E5%A4%A9%E8%B3%9C%E6%9D%90%E6%96%99%E8%A8%88%E7%95%ABq4%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82-%E7%B1%8C%E8%B3%87%E7%B4%845%E5%84%84%E8%87%B37%E5%84%84%E7%BE%8E%E5%85%83-035759490.html
-122. [yahoo_tw] 房市已降溫 9月不宜再升息｜阿明：此刻最重要讓房市軟著陸
-      https://tw.stock.yahoo.com/news/%E6%88%BF%E5%B8%82%E5%B7%B2%E9%99%8D%E6%BA%AB-9%E6%9C%88%E4%B8%8D%E5%AE%9C%E5%86%8D%E5%8D%87%E6%81%AF%EF%BD%9C%E9%98%BF%E6%98%8E%EF%BC%9A%E6%AD%A4%E5%88%BB%E6%9C%80%E9%87%8D%E8%A6%81%E8%AE%93%E6%88%BF%E5%B8%82%E8%BB%9F%E8%91%97%E9%99%B8-035500283.html
-123. [yahoo_tw] 沙國油運受威脅 王儲尋求埃及支持
-      https://tw.news.yahoo.com/%E6%B2%99%E5%9C%8B%E6%B2%B9%E9%81%8B%E5%8F%97%E5%A8%81%E8%84%85-%E7%8E%8B%E5%84%B2%E5%B0%8B%E6%B1%82%E5%9F%83%E5%8F%8A%E6%94%AF%E6%8C%81-035045787.html
-124. [yahoo_tw] 中韓記憶體代差縮小：NAND只剩1年、DRAM約2年 HBM仍卡關
-      https://tw.stock.yahoo.com/news/%E4%B8%AD%E9%9F%93%E8%A8%98%E6%86%B6%E9%AB%94%E4%BB%A3%E5%B7%AE%E7%B8%AE%E5%B0%8F-nand%E5%8F%AA%E5%89%A91%E5%B9%B4-dram%E7%B4%842%E5%B9%B4-hbm%E4%BB%8D%E5%8D%A1%E9%97%9C-035003802.html
-125. [yahoo_tw] 買房選幾樓最好？ 專家揭「關鍵眉角」最熱門樓層曝光
-      https://tw.stock.yahoo.com/news/%E8%B2%B7%E6%88%BF%E9%81%B8%E5%B9%BE%E6%A8%93%E6%9C%80%E5%A5%BD-%E5%B0%88%E5%AE%B6%E6%8F%AD-%E9%97%9C%E9%8D%B5%E7%9C%89%E8%A7%92-%E6%9C%80%E7%86%B1%E9%96%80%E6%A8%93%E5%B1%A4%E6%9B%9D%E5%85%89-034700962.html
-126. [yahoo_tw] 全台7月預售量年增22%、創今年新高，六大都會區唯獨台中衰退
-      https://tw.stock.yahoo.com/news/%E5%85%A8%E5%8F%B07%E6%9C%88%E9%A0%90%E5%94%AE%E9%87%8F%E5%B9%B4%E5%A2%9E22-%E5%89%B5%E4%BB%8A%E5%B9%B4%E6%96%B0%E9%AB%98-%E5%85%AD%E5%A4%A7%E9%83%BD%E6%9C%83%E5%8D%80%E5%94%AF%E7%8D%A8%E5%8F%B0%E4%B8%AD%E8%A1%B0%E9%80%80-034632815.html
-127. [yahoo_tw] 高盛：中國資產具備分散配置價值 A股優於H股
-      https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B-%E4%B8%AD%E5%9C%8B%E8%B3%87%E7%94%A2%E5%85%B7%E5%82%99%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE%E5%83%B9%E5%80%BC-a%E8%82%A1%E5%84%AA%E6%96%BCh%E8%82%A1-034600903.html
-128. [yahoo_tw] 亞太航空燃油價格走高，後市短期難回落
-      https://tw.stock.yahoo.com/news/%E4%BA%9E%E5%A4%AA%E8%88%AA%E7%A9%BA%E7%87%83%E6%B2%B9%E5%83%B9%E6%A0%BC%E8%B5%B0%E9%AB%98-%E5%BE%8C%E5%B8%82%E7%9F%AD%E6%9C%9F%E9%9B%A3%E5%9B%9E%E8%90%BD-034600489.html
+ 79. [yahoo_tw] 三星力挺荷蘭新創 2.31 億美元，助其挑戰輝達 AI 晶片霸主地位
+      https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E5%8A%9B%E6%8C%BA%E8%8D%B7%E8%98%AD%E6%96%B0%E5%89%B5-2-31-%E5%84%84%E7%BE%8E%E5%85%83-%E5%8A%A9%E5%85%B6%E6%8C%91%E6%88%B0%E8%BC%9D%E9%81%94-065720231.html
+ 80. [yahoo_tw] Instinct母公司傳洽談新一輪10億美元融資，估值或達100億美元
+      https://tw.stock.yahoo.com/news/instinct%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%82%B3%E6%B4%BD%E8%AB%87%E6%96%B0-%E8%BC%AA10%E5%84%84%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B3%87-%E4%BC%B0%E5%80%BC%E6%88%96%E9%81%94100%E5%84%84%E7%BE%8E%E5%85%83-064945493.html
+ 81. [yahoo_tw] 郭董力挺、尹衍樑千金現身站台！台康生技竹北新廠啟用　產能激增9倍明年爆發
+      https://tw.stock.yahoo.com/news/%E9%83%AD%E8%91%A3%E5%8A%9B%E6%8C%BA-%E5%B0%B9%E8%A1%8D%E6%A8%91%E5%8D%83%E9%87%91%E7%8F%BE%E8%BA%AB%E7%AB%99%E5%8F%B0-%E5%8F%B0%E5%BA%B7%E7%94%9F%E6%8A%80%E7%AB%B9%E5%8C%97%E6%96%B0%E5%BB%A0%E5%95%9F%E7%94%A8-%E7%94%A2%E8%83%BD%E6%BF%80%E5%A2%9E9%E5%80%8D%E6%98%8E%E5%B9%B4%E7%88%86%E7%99%BC-064800775.html
+ 82. [yahoo_tw] 土地捐做長照「免繳土增稅」！3條件缺一不可　違規最高罰2倍
+      https://tw.stock.yahoo.com/news/%E5%9C%9F%E5%9C%B0%E6%8D%90%E5%81%9A%E9%95%B7%E7%85%A7%E3%80%8C%E5%85%8D%E7%B9%B3%E5%9C%9F%E5%A2%9E%E7%A8%85%E3%80%8D%EF%BC%813%E6%A2%9D%E4%BB%B6%E7%BC%BA%E4%B8%80%E4%B8%8D%E5%8F%AF-%E9%81%95%E8%A6%8F%E6%9C%80%E9%AB%98%E7%BD%B02%E5%80%8D-064617611.html
+ 83. [yahoo_tw] 燃料成本推升，英國8月份CPI年比增幅升至3.1%，符合預期
+      https://tw.stock.yahoo.com/news/%E7%87%83%E6%96%99%E6%88%90%E6%9C%AC%E6%8E%A8%E5%8D%87-%E8%8B%B1%E5%9C%8B8%E6%9C%88%E4%BB%BDcpi%E5%B9%B4%E6%AF%94%E5%A2%9E%E5%B9%85%E5%8D%87%E8%87%B33-1-%E7%AC%A6%E5%90%88%E9%A0%90%E6%9C%9F-064414713.html
+ 84. [yahoo_tw] 遠傳旗下德誼數位看好iPhone 18新機，首波Pro與Pro Max銷售估增10-20%
+      https://tw.stock.yahoo.com/news/%E9%81%A0%E5%82%B3%E6%97%97%E4%B8%8B%E5%BE%B7%E8%AA%BC%E6%95%B8%E4%BD%8D%E7%9C%8B%E5%A5%BDiphone-18%E6%96%B0%E6%A9%9F-%E9%A6%96%E6%B3%A2pro%E8%88%87pro-max%E9%8A%B7%E5%94%AE%E4%BC%B0%E5%A2%9E10-20-064023219.html
+ 85. [yahoo_tw] 洛杉磯NBC新聞直升機墜毀　至少3死1傷
+      https://tw.news.yahoo.com/%E6%B4%9B%E6%9D%89%E7%A3%AFnbc%E6%96%B0%E8%81%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%80-%E8%87%B3%E5%B0%913%E6%AD%BB1%E5%82%B7-063924320.html
+ 86. [yahoo_tw] 環科看好下半年本業營運優於上半年　缺料成最大變數
+      https://tw.stock.yahoo.com/news/%E7%92%B0%E7%A7%91%E7%9C%8B%E5%A5%BD%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9C%AC%E6%A5%AD%E7%87%9F%E9%81%8B%E5%84%AA%E6%96%BC%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E7%BC%BA%E6%96%99%E6%88%90%E6%9C%80%E5%A4%A7%E8%AE%8A%E6%95%B8-063237954.html
+ 87. [yahoo_tw] 重量級新卡！中信聯手萬豪首發聯名卡 限量1888名白金會籍加7萬點
+      https://tw.stock.yahoo.com/news/%E9%87%8D%E9%87%8F%E7%B4%9A%E6%96%B0%E5%8D%A1-%E4%B8%AD%E4%BF%A1%E8%81%AF%E6%89%8B%E8%90%AC%E8%B1%AA%E9%A6%96%E7%99%BC%E8%81%AF%E5%90%8D%E5%8D%A1-%E9%99%90%E9%87%8F1888%E5%90%8D%E7%99%BD%E9%87%91%E6%9C%83%E7%B1%8D%E5%8A%A07%E8%90%AC%E9%BB%9E-063126691.html
+ 88. [yahoo_tw] DEKRA德凱取得 RvA CRA 認證，Module B、Module H 雙路徑同步到位
+      https://tw.stock.yahoo.com/news/dekra%E5%BE%B7%E5%87%B1%E5%8F%96%E5%BE%97-rva-cra-%E8%AA%8D%E8%AD%89-module-063000265.html
+ 89. [yahoo_tw] 法國傳願挺Knot接掌ECB總裁，以此換取首席經濟專家職位
+      https://tw.stock.yahoo.com/news/%E6%B3%95%E5%9C%8B%E5%82%B3%E9%A1%98%E6%8C%BAknot%E6%8E%A5%E6%8E%8Cecb%E7%B8%BD%E8%A3%81-%E4%BB%A5%E6%AD%A4%E6%8F%9B%E5%8F%96%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%B0%88%E5%AE%B6%E8%81%B7%E4%BD%8D-062804063.html
+ 90. [yahoo_tw] 英特爾持股半導體公司 Altera 秘密遞件赴美 IPO 估募資逾 20 億美元
+      https://tw.stock.yahoo.com/news/%E8%8B%B1%E7%89%B9%E7%88%BE%E6%8C%81%E8%82%A1%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%AC%E5%8F%B8-altera-%E7%A7%98%E5%AF%86%E9%81%9E%E4%BB%B6%E8%B5%B4%E7%BE%8E-ipo-%E4%BC%B0%E5%8B%9F%E8%B3%87%E9%80%BE-062739384.html
+ 91. [yahoo_tw] 【公告】代重要子公司裕民航運(新加坡)私人有限公司公告發放現金股利事宜
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%BB%A3%E9%87%8D%E8%A6%81%E5%AD%90%E5%85%AC%E5%8F%B8%E8%A3%95%E6%B0%91%E8%88%AA%E9%81%8B-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%A7%81%E4%BA%BA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E7%99%BC%E6%94%BE%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9%E4%BA%8B%E5%AE%9C-062535659.html
+ 92. [yahoo_tw] 【公告】台苯受邀參加華南永昌證券舉辦之法人說明會
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8F%B0%E8%8B%AF%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E8%8F%AF%E5%8D%97%E6%B0%B8%E6%98%8C%E8%AD%89%E5%88%B8%E8%88%89%E8%BE%A6%E4%B9%8B%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-062533945.html
+ 93. [yahoo_tw] 【公告】及成115年8月份自結合併財務報表之流動比率、速動比率及負債比率
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8F%8A%E6%88%90115%E5%B9%B48%E6%9C%88%E4%BB%BD%E8%87%AA%E7%B5%90%E5%90%88%E4%BD%B5%E8%B2%A1%E5%8B%99%E5%A0%B1%E8%A1%A8%E4%B9%8B%E6%B5%81%E5%8B%95%E6%AF%94%E7%8E%87-%E9%80%9F%E5%8B%95%E6%AF%94%E7%8E%87%E5%8F%8A%E8%B2%A0%E5%82%B5%E6%AF%94%E7%8E%87-062531442.html
+ 94. [yahoo_tw] 【公告】及成未來三個月預計之現金收支狀況，及上一月份之銀行融資額度使用情形
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8F%8A%E6%88%90%E6%9C%AA%E4%BE%86%E4%B8%89%E5%80%8B%E6%9C%88%E9%A0%90%E8%A8%88%E4%B9%8B%E7%8F%BE%E9%87%91%E6%94%B6%E6%94%AF%E7%8B%80%E6%B3%81-%E5%8F%8A%E4%B8%8A-%E6%9C%88%E4%BB%BD%E4%B9%8B%E9%8A%80%E8%A1%8C%E8%9E%8D%E8%B3%87%E9%A1%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%83%85%E5%BD%A2-062529311.html
+ 95. [yahoo_tw] 【公告】弘憶股召開法人說明會相關資訊
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%BC%98%E6%86%B6%E8%82%A1%E5%8F%AC%E9%96%8B%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A-062527822.html
+ 96. [yahoo_tw] 【公告】國巨*受邀參加由Bank of America舉辦之"2026 Asia Pacific Conference"
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%9C%8B%E5%B7%A8-%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E7%94%B1bank-america%E8%88%89%E8%BE%A6%E4%B9%8B-2026-062525092.html
+ 97. [yahoo_tw] 【公告】國巨*受邀參加由中信里昂證券舉辦之"33rd Investors'' Forum 2026"
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%9C%8B%E5%B7%A8-%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E7%94%B1%E4%B8%AD%E4%BF%A1%E9%87%8C%E6%98%82%E8%AD%89%E5%88%B8%E8%88%89%E8%BE%A6%E4%B9%8B-33rd-investors-062523757.html
+ 98. [yahoo_tw] 【公告】大略-KY贖回可轉換公司債後，115年09月-115年11月現金收支狀況及相關資金調度情形
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%A4%A7%E7%95%A5-ky%E8%B4%96%E5%9B%9E%E5%8F%AF%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E5%BE%8C-115%E5%B9%B409%E6%9C%88-115%E5%B9%B411%E6%9C%88%E7%8F%BE%E9%87%91%E6%94%B6%E6%94%AF%E7%8B%80%E6%B3%81%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%B3%87%E9%87%91%E8%AA%BF%E5%BA%A6%E6%83%85%E5%BD%A2-062521683.html
+ 99. [yahoo_tw] 【公告】精誠受邀參加元大證券舉辦之法人說明會
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%B2%BE%E8%AA%A0%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E5%85%83%E5%A4%A7%E8%AD%89%E5%88%B8%E8%88%89%E8%BE%A6%E4%B9%8B%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-062518748.html
+100. [yahoo_tw] 【台股盤後】台指期結算買盤謹慎　台股漲337點收45848點
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E6%8C%87%E6%9C%9F%E7%B5%90%E7%AE%97%E8%B2%B7%E7%9B%A4%E8%AC%B9%E6%85%8E-%E5%8F%B0%E8%82%A1%E6%BC%B2337%E9%BB%9E%E6%94%B645848%E9%BB%9E-062516823.html
+101. [yahoo_tw] 中市勞工局推「職引就業」計畫 三大核心策略助街友重返職場
+      https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E5%8B%9E%E5%B7%A5%E5%B1%80%E6%8E%A8-%E8%81%B7%E5%BC%95%E5%B0%B1%E6%A5%AD-%E8%A8%88%E7%95%AB-%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E7%AD%96%E7%95%A5%E5%8A%A9%E8%A1%97%E5%8F%8B%E9%87%8D%E8%BF%94%E8%81%B7%E5%A0%B4-062500959.html
+102. [yahoo_tw] 台股漲337點！ PCB、記憶體回神 台積電收平盤2380元
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2337%E9%BB%9E-pcb-%E8%A8%98%E6%86%B6%E9%AB%94%E5%9B%9E%E7%A5%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E5%B9%B3%E7%9B%A42380%E5%85%83-062500487.html
+103. [yahoo_tw] 美國國稅局推新稅務減免 小費工作者最高可抵2.5萬美元
+      https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E7%A8%85%E5%B1%80%E6%8E%A8%E6%96%B0%E7%A8%85%E5%8B%99%E6%B8%9B%E5%85%8D-%E5%B0%8F%E8%B2%BB%E5%B7%A5%E4%BD%9C%E8%80%85%E6%9C%80%E9%AB%98%E5%8F%AF%E6%8A%B52-5%E8%90%AC%E7%BE%8E%E5%85%83-062326485.html
+104. [yahoo_tw] 香港金管局將推7天離岸人民幣流動資金投標機制，拓展銀行短期資金
+      https://tw.stock.yahoo.com/news/%E9%A6%99%E6%B8%AF%E9%87%91%E7%AE%A1%E5%B1%80%E5%B0%87%E6%8E%A87%E5%A4%A9%E9%9B%A2%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%B5%81%E5%8B%95%E8%B3%87%E9%87%91%E6%8A%95%E6%A8%99%E6%A9%9F%E5%88%B6-%E6%8B%93%E5%B1%95%E9%8A%80%E8%A1%8C%E7%9F%AD%E6%9C%9F%E8%B3%87%E9%87%91-062307086.html
+105. [yahoo_tw] 機齡比乘客還老！伊朗客機空中解體驚魂
+      https://tw.news.yahoo.com/%E6%A9%9F%E9%BD%A1%E6%AF%94%E4%B9%98%E5%AE%A2%E9%82%84%E8%80%81-%E4%BC%8A%E6%9C%97%E5%AE%A2%E6%A9%9F%E7%A9%BA%E4%B8%AD%E8%A7%A3%E9%AB%94%E9%A9%9A%E9%AD%82-062236521.html
+106. [yahoo_tw] 與英特爾洽談，SK海力士傳擬赴美生產晶片
+      https://tw.stock.yahoo.com/news/%E8%88%87%E8%8B%B1%E7%89%B9%E7%88%BE%E6%B4%BD%E8%AB%87-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%82%B3%E6%93%AC%E8%B5%B4%E7%BE%8E%E7%94%9F%E7%94%A2%E6%99%B6%E7%89%87-061746491.html
+107. [yahoo_tw] 港府推鼓勵生育措施，住房、稅務及現金獎勵並行
+      https://tw.stock.yahoo.com/news/%E6%B8%AF%E5%BA%9C%E6%8E%A8%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E6%8E%AA%E6%96%BD-%E4%BD%8F%E6%88%BF-%E7%A8%85%E5%8B%99%E5%8F%8A%E7%8F%BE%E9%87%91%E7%8D%8E%E5%8B%B5%E4%B8%A6%E8%A1%8C-061402147.html
+108. [yahoo_tw] 陳立武指CPU供應依舊緊張　目前僅能滿足客戶50%訂單
+      https://tw.stock.yahoo.com/news/%E9%99%B3%E7%AB%8B%E6%AD%A6%E6%8C%87cpu%E4%BE%9B%E6%87%89%E4%BE%9D%E8%88%8A%E7%B7%8A%E5%BC%B5-%E7%9B%AE%E5%89%8D%E5%83%85%E8%83%BD%E6%BB%BF%E8%B6%B3%E5%AE%A2%E6%88%B650-%E8%A8%82%E5%96%AE-061400021.html
+109. [yahoo_tw] 500年前預言AI滅世？法預言家詩句掀熱議
+      https://tw.news.yahoo.com/500%E5%B9%B4%E5%89%8D%E9%A0%90%E8%A8%80ai%E6%BB%85%E4%B8%96-%E6%B3%95%E9%A0%90%E8%A8%80%E5%AE%B6%E8%A9%A9%E5%8F%A5%E6%8E%80%E7%86%B1%E8%AD%B0-061156170.html
+110. [yahoo_tw] 美國指控中國企業藉幣安洗錢伊朗石油資金 逾15億美元非法所得曝光
+      https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E8%97%89%E5%B9%A3%E5%AE%89%E6%B4%97%E9%8C%A2%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E8%B3%87%E9%87%91-%E9%80%BE15%E5%84%84%E7%BE%8E%E5%85%83%E9%9D%9E%E6%B3%95%E6%89%80%E5%BE%97%E6%9B%9D%E5%85%89-061115008.html
+111. [yahoo_tw] 監管法案停滯與升息陰影雙重夾擊 比特幣價格跌破76000美元
+      https://tw.stock.yahoo.com/news/%E7%9B%A3%E7%AE%A1%E6%B3%95%E6%A1%88%E5%81%9C%E6%BB%AF%E8%88%87%E5%8D%87%E6%81%AF%E9%99%B0%E5%BD%B1%E9%9B%99%E9%87%8D%E5%A4%BE%E6%93%8A-%E6%AF%94%E7%89%B9%E5%B9%A3%E5%83%B9%E6%A0%BC%E8%B7%8C%E7%A0%B476000%E7%BE%8E%E5%85%83-061007886.html
+112. [yahoo_tw] 喊「慢一點」卻跑更快！Anthropic鎖定澳2.16 GW算力、10月在星設據點  OpenAI看上加拿大
+      https://tw.stock.yahoo.com/news/%E5%96%8A-%E6%85%A2-%E9%BB%9E-%E5%8D%BB%E8%B7%91%E6%9B%B4%E5%BF%AB-anthropic%E9%8E%96%E5%AE%9A%E6%BE%B32-061005369.html
+113. [yahoo_tw] 虎門CAE技術大會聚焦AI、散熱與無人載具，掌握新興應用商機
+      https://tw.stock.yahoo.com/news/%E8%99%8E%E9%96%80cae%E6%8A%80%E8%A1%93%E5%A4%A7%E6%9C%83%E8%81%9A%E7%84%A6ai-%E6%95%A3%E7%86%B1%E8%88%87%E7%84%A1%E4%BA%BA%E8%BC%89%E5%85%B7-%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%88%88%E6%87%89%E7%94%A8%E5%95%86%E6%A9%9F-060808252.html
+114. [yahoo_tw] AI發展引爆記憶體晶片荒 美國加速本土生產面臨長期挑戰
+      https://tw.stock.yahoo.com/news/ai%E7%99%BC%E5%B1%95%E5%BC%95%E7%88%86%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E8%8D%92-%E7%BE%8E%E5%9C%8B%E5%8A%A0%E9%80%9F%E6%9C%AC%E5%9C%9F%E7%94%9F%E7%94%A2%E9%9D%A2%E8%87%A8%E9%95%B7%E6%9C%9F%E6%8C%91%E6%88%B0-060645333.html
+115. [yahoo_tw] 巴黎萊雅取代LVMH登法國股王 9年來首見非奢侈品稱霸
+      https://tw.stock.yahoo.com/news/%E5%B7%B4%E9%BB%8E%E8%90%8A%E9%9B%85%E5%8F%96%E4%BB%A3lvmh%E7%99%BB%E6%B3%95%E5%9C%8B%E8%82%A1%E7%8E%8B-9%E5%B9%B4%E4%BE%86%E9%A6%96%E8%A6%8B%E9%9D%9E%E5%A5%A2%E4%BE%88%E5%93%81%E7%A8%B1%E9%9C%B8-060002946.html
+116. [yahoo_tw] 「美女是要被追求的，追求我的人很多」賈永婕台北101董座任期倒數…要不要續任：看當時的心情
+      https://tw.news.yahoo.com/%E7%BE%8E%E5%A5%B3%E6%98%AF%E8%A6%81%E8%A2%AB%E8%BF%BD%E6%B1%82%E7%9A%84-%E8%BF%BD%E6%B1%82%E6%88%91%E7%9A%84%E4%BA%BA%E5%BE%88%E5%A4%9A-%E8%B3%88%E6%B0%B8%E5%A9%95%E5%8F%B0%E5%8C%97101%E8%91%A3%E5%BA%A7%E4%BB%BB%E6%9C%9F%E5%80%92%E6%95%B8-%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BA%8C%E4%BB%BB-%E7%9C%8B%E7%95%B6%E6%99%82%E7%9A%84%E5%BF%83%E6%83%85-060001048.html
+117. [yahoo_tw] 聯發科天璣9600 Pro搶攻AI手機！化身日常助手、男友拍照救星…台積電2奈米晶片效能有多強？
+      https://tw.news.yahoo.com/%E8%81%AF%E7%99%BC%E7%A7%91%E5%A4%A9%E7%92%A39600-pro%E6%90%B6%E6%94%BBai%E6%89%8B%E6%A9%9F-%E5%8C%96%E8%BA%AB%E6%97%A5%E5%B8%B8%E5%8A%A9%E6%89%8B-%E7%94%B7%E5%8F%8B%E6%8B%8D%E7%85%A7%E6%95%91%E6%98%9F-%E5%8F%B0%E7%A9%8D%E9%9B%BB2%E5%A5%88%E7%B1%B3%E6%99%B6%E7%89%87%E6%95%88%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%B7-060001535.html
+118. [yahoo_tw] 老農津貼調升、國民年金調增、軍公教加給何時給？立院三讀都滿月了，還沒送府院！390萬人福利加碼全卡住
+      https://tw.news.yahoo.com/%E8%80%81%E8%BE%B2%E6%B4%A5%E8%B2%BC%E8%AA%BF%E5%8D%87-%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91%E8%AA%BF%E5%A2%9E-%E8%BB%8D%E5%85%AC%E6%95%99%E5%8A%A0%E7%B5%A6%E4%BD%95%E6%99%82%E7%B5%A6-%E7%AB%8B%E9%99%A2%E4%B8%89%E8%AE%80%E9%83%BD%E6%BB%BF%E6%9C%88%E4%BA%86-%E9%82%84%E6%B2%92%E9%80%81%E5%BA%9C%E9%99%A2-060001266.html
+119. [yahoo_tw] 〈台股盤後〉台積電填息、AI散熱與記憶體點火 受制月線漲337點未收復4萬6
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A1%AB%E6%81%AF-ai%E6%95%A3%E7%86%B1%E8%88%87%E8%A8%98%E6%86%B6%E9%AB%94%E9%BB%9E%E7%81%AB-%E5%8F%97%E5%88%B6%E6%9C%88%E7%B7%9A%E6%BC%B2337%E9%BB%9E%E6%9C%AA%E6%94%B6%E5%BE%A94%E8%90%AC6-055330908.html
+120. [yahoo_tw] Miller保險拓展亞洲版圖 落地馬來西亞納閩設分公司
+      https://tw.stock.yahoo.com/news/miller%E4%BF%9D%E9%9A%AA%E6%8B%93%E5%B1%95%E4%BA%9E%E6%B4%B2%E7%89%88%E5%9C%96-%E8%90%BD%E5%9C%B0%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E7%B4%8D%E9%96%A9%E8%A8%AD%E5%88%86%E5%85%AC%E5%8F%B8-055207424.html
+121. [yahoo_tw] 【台北股市】漲337.41點
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2337-41%E9%BB%9E-055107520.html
+122. [yahoo_tw] 【公告】沛亨董事會決議訂定115年股東常會通過私募案之發行
+      https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%B2%9B%E4%BA%A8%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E8%A8%82%E5%AE%9A115%E5%B9%B4%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E9%80%9A%E9%81%8E%E7%A7%81%E5%8B%9F%E6%A1%88%E4%B9%8B%E7%99%BC%E8%A1%8C-054805776.html
+123. [yahoo_tw] 【櫃買盤後】漲10.48點
+      https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E6%BC%B210-48%E9%BB%9E-054803450.html
+124. [yahoo_tw] 台股終場漲337點收45848點　台積電收2380元
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E6%BC%B2337%E9%BB%9E%E6%94%B645848%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62380%E5%85%83-054601155.html
+125. [yahoo_tw] 指數於季線之上震盪，靜待聯準會利率政策決議
+      https://tw.stock.yahoo.com/news/%E6%8C%87%E6%95%B8%E6%96%BC%E5%AD%A3%E7%B7%9A%E4%B9%8B%E4%B8%8A%E9%9C%87%E7%9B%AA-%E9%9D%9C%E5%BE%85%E8%81%AF%E6%BA%96%E6%9C%83%E5%88%A9%E7%8E%87%E6%94%BF%E7%AD%96%E6%B1%BA%E8%AD%B0-054516450.html
+126. [yahoo_tw] 盤中4萬6得而復失！台股終場上漲337點　台積電收2380元平盤價
+      https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD4%E8%90%AC6%E5%BE%97%E8%80%8C%E5%BE%A9%E5%A4%B1-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E4%B8%8A%E6%BC%B2337%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62380%E5%85%83%E5%B9%B3%E7%9B%A4%E5%83%B9-054447217.html
+127. [yahoo_tw] 台指期結算 台股收盤上漲337點 台積電尾盤殺出大量
+      https://tw.stock.yahoo.com/news/%E5%8F%B0%E6%8C%87%E6%9C%9F%E7%B5%90%E7%AE%97-%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E4%B8%8A%E6%BC%B2337%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E6%AE%BA%E5%87%BA%E5%A4%A7%E9%87%8F-054345048.html
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
