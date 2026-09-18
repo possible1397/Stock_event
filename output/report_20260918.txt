@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-09-18
 ════════════════════════════════
-掃描 133 則新聞  |  偵測 10 個事件
+掃描 127 則新聞  |  偵測 5 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,97 +8,59 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【升息】14 則  🟢高信心
-  ▸ Yen slumps after BOJ hikes rates as expected
-    https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595
-  ▸ Morning Bid: BOJ struggling to keep pace with hiking partner
-    https://www.investing.com/news/economy-news/morning-bid-boj-struggling-to-keep-pace-with-hiking-partners-4906670
-  ▸ The 10-year Treasury is having its worst run in over 100 yea
-    https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories
+【AI熱潮】4 則  🟢高信心
+  ▸ OpenAI taps SpaceX’s Brian McCarthy to lead worldwide sales 
+    https://seekingalpha.com/news/4644159-openai-taps-spacexs-brian-mccarthy-to-lead-worldwide-sales---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Chinese AI models fetch fraction of OpenAI, Anthropic revenu
+    https://seekingalpha.com/news/4644180-chinese-ai-models-fetch-fraction-of-openai-anthropic-revenue-despite-lower-costs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Barclays initiates Tower Semiconductor stock at Overweight o
+    https://www.investing.com/news/analyst-ratings/barclays-initiates-tower-semiconductor-stock-at-overweight-on-ai-demand-93CH-4906721
 
-【AI熱潮】14 則  🟢高信心
-  ▸ Micron, Intel and other chip stocks are furthering their str
-    https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories
-  ▸ Anthropic shares 3 metrics to help AI companies monitor pace
-    https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html
-  ▸ OpenAI and Anthropic are making 10 times more revenue than a
-    https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
+【升息】2 則  🟢高信心
+  ▸ Asian markets rally on lower yields and easing crude; BOJ li
+    https://seekingalpha.com/news/4644154-asian-markets-rally-on-lower-yields-and-easing-crude-boj-lifts-benchmark-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Bank of England defies Fed’s rate-hike lead, leaving rates u
+    https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html
 
-【戰爭升溫】7 則  🟢高信心
-  ▸ Wall Street is betting Trump backs down on Iran — but what i
-    https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories
-  ▸ UN mission finds evidence signaling U.S. war crimes in Iran;
-    https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html
-  ▸ Oil prices fall as Saudi supply hopes outweigh fresh Houthi 
-    https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html
-
-【通膨上升】4 則  🟢高信心
+【通膨上升】2 則  🟢高信心
   ▸ UK inflation jumps to 3.1% as energy costs soar
     https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
-  ▸ Bank of Japan raises interest rates to 31-year high, flags c
-    https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html
-  ▸ How record diesel prices will rip through the U.S. economy. 
-    https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html
+  ▸ 醫院工讀、夜市端盤…大二生狂打工月入3萬，狠存1萬拼遊學！外食費吃不消，最低工資能拉高給小確幸？
+    https://tw.news.yahoo.com/%E9%86%AB%E9%99%A2%E5%B7%A5%E8%AE%80-%E5%A4%9C%E5%B8%82%E7%AB%AF%E7%9B%A4-%E5%A4%A7%E4%BA%8C%E7%94%9F%E7%8B%82%E6%89%93%E5%B7%A5%E6%9C%88%E5%85%A53%E8%90%AC-%E7%8B%A0%E5%AD%981%E8%90%AC%E6%8B%BC%E9%81%8A%E5%AD%B8-%E5%A4%96%E9%A3%9F%E8%B2%BB%E5%90%83%E4%B8%8D%E6%B6%88-060002049.html
 
-【關稅/貿易戰】3 則  🟢高信心
-  ▸ Hyundai Motor CEO warns of Chinese vehicle surge in the US w
-    https://www.investing.com/news/stock-market-news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-4906664
-  ▸ Trump gains a tariff weapon against China and India. Will he
-    https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html
-  ▸ 'Hostile act': Trump threatens EU with tariffs over Canada a
-    https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html
-
-【美元升值】2 則  🟢高信心
-  ▸ Why is the Japanese yen sliding today?
-    https://www.investing.com/news/stock-market-news/why-is-the-japanese-yen-sliding-today-93CH-4906660
-  ▸ Yen slumps after BOJ hikes rates as expected
-    https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595
-
-【油價上升】2 則  🟢高信心
+【油價上升】1 則  🟡單篇
   ▸ UK inflation jumps to 3.1% as energy costs soar
     https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
-  ▸ How record diesel prices will rip through the U.S. economy. 
-    https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html
 
-【政策補助】2 則  🟢高信心
-  ▸ As Republicans tout Trump's 'big beautiful bill,' here's who
-    https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html
-  ▸ 地價稅自用住宅優惠稅率　財部：22日前申請今年適用
-    https://money.udn.com/money/story/5612/9762484
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ Why is SK Hynix stock surging today?
-    https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4906667
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ GM touts new V-8 engines in revived ‘truck wars’ with Ford, 
-    https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html
+【政策補助】1 則  🟡單篇
+  ▸ 歐洲電動車市佔突破三成創新高 政策與成本優勢助推
+    https://tw.stock.yahoo.com/news/%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%B8%82%E4%BD%94%E7%AA%81%E7%A0%B4%E4%B8%89%E6%88%90%E5%89%B5%E6%96%B0%E9%AB%98-%E6%94%BF%E7%AD%96%E8%88%87%E6%88%90%E6%9C%AC%E5%84%AA%E5%8B%A2%E5%8A%A9%E6%8E%A8-055004606.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +4.7  油電燃氣｜通膨上升、油價上升
+ 2. 8917.TW      +4.7  油電燃氣｜通膨上升、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2880.TW      +2.0  金融｜升息
+ 9. 2881.TW      +2.0  金融｜升息
+10. 2882.TW      +2.0  金融｜升息
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2317.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
- 6. 2327.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
- 7. 3037.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
- 8. 2515.TW      -3.0  建材營造｜升息
- 9. 5534.TW      -3.0  建材營造｜升息
-10. 2504.TW      -3.0  建材營造｜升息
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2317.TW      -2.5  電子零組件｜通膨上升
+ 5. 2327.TW      -2.5  電子零組件｜通膨上升
+ 6. 3037.TW      -2.5  電子零組件｜通膨上升
+ 7. 2603.TW      -2.1  交通運輸及航運｜油價上升
+ 8. 2609.TW      -2.1  交通運輸及航運｜油價上升
+ 9. 2615.TW      -2.1  交通運輸及航運｜油價上升
+10. 2618.TW      -2.1  交通運輸及航運｜油價上升
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
