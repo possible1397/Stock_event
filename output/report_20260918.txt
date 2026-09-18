@@ -1,0 +1,104 @@
+📊 事件驅動選股日報 2026-09-18
+════════════════════════════════
+掃描 133 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【升息】14 則  🟢高信心
+  ▸ Yen slumps after BOJ hikes rates as expected
+    https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595
+  ▸ Morning Bid: BOJ struggling to keep pace with hiking partner
+    https://www.investing.com/news/economy-news/morning-bid-boj-struggling-to-keep-pace-with-hiking-partners-4906670
+  ▸ The 10-year Treasury is having its worst run in over 100 yea
+    https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories
+
+【AI熱潮】14 則  🟢高信心
+  ▸ Micron, Intel and other chip stocks are furthering their str
+    https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories
+  ▸ Anthropic shares 3 metrics to help AI companies monitor pace
+    https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html
+  ▸ OpenAI and Anthropic are making 10 times more revenue than a
+    https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
+
+【戰爭升溫】7 則  🟢高信心
+  ▸ Wall Street is betting Trump backs down on Iran — but what i
+    https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories
+  ▸ UN mission finds evidence signaling U.S. war crimes in Iran;
+    https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html
+  ▸ Oil prices fall as Saudi supply hopes outweigh fresh Houthi 
+    https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ UK inflation jumps to 3.1% as energy costs soar
+    https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
+  ▸ Bank of Japan raises interest rates to 31-year high, flags c
+    https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html
+  ▸ How record diesel prices will rip through the U.S. economy. 
+    https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html
+
+【關稅/貿易戰】3 則  🟢高信心
+  ▸ Hyundai Motor CEO warns of Chinese vehicle surge in the US w
+    https://www.investing.com/news/stock-market-news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-4906664
+  ▸ Trump gains a tariff weapon against China and India. Will he
+    https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html
+  ▸ 'Hostile act': Trump threatens EU with tariffs over Canada a
+    https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html
+
+【美元升值】2 則  🟢高信心
+  ▸ Why is the Japanese yen sliding today?
+    https://www.investing.com/news/stock-market-news/why-is-the-japanese-yen-sliding-today-93CH-4906660
+  ▸ Yen slumps after BOJ hikes rates as expected
+    https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595
+
+【油價上升】2 則  🟢高信心
+  ▸ UK inflation jumps to 3.1% as energy costs soar
+    https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html
+  ▸ How record diesel prices will rip through the U.S. economy. 
+    https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html
+
+【政策補助】2 則  🟢高信心
+  ▸ As Republicans tout Trump's 'big beautiful bill,' here's who
+    https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html
+  ▸ 地價稅自用住宅優惠稅率　財部：22日前申請今年適用
+    https://money.udn.com/money/story/5612/9762484
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Why is SK Hynix stock surging today?
+    https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4906667
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ GM touts new V-8 engines in revived ‘truck wars’ with Ford, 
+    https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 6. 2327.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 7. 3037.TW      -3.1  電子零組件｜通膨上升、關稅/貿易戰
+ 8. 2515.TW      -3.0  建材營造｜升息
+ 9. 5534.TW      -3.0  建材營造｜升息
+10. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
