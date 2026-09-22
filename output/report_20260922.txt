@@ -1,0 +1,90 @@
+📊 事件驅動選股日報 2026-09-22
+════════════════════════════════
+掃描 126 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】19 則  🟢高信心
+  ▸ Meta’s stock is enjoying its best month in 13 years thanks t
+    https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories
+  ▸ Amazon and Shopify make starkly different moves in the brewi
+    https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories
+  ▸ Alibaba steps up AI push with V900 chip, 20 GW data center t
+    https://seekingalpha.com/news/4645223-alibaba-steps-up-ai-push-with-v900-chip-20-gw-data-center-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Global diesel shortage from Iran, Ukraine wars to last into 
+    https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
+  ▸ U.S. strikes Greenland deal for 'permanent control over secu
+    https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html
+  ▸ Oil rises amid worries of growing Iran-U.S. tensions after B
+    https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
+
+【政策補助】4 則  🟢高信心
+  ▸ Eli Lilly CEO says 700,000 new seniors have started GLP-1s a
+    https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html
+  ▸ 欣達環工獲評新竹客雅再生水BTO案最優申請人 預估投資金額約84.5億元
+    https://money.udn.com/money/story/5612/9770060
+  ▸ 投資84.5億建再生水系統 欣達環工獲評新竹客雅再生水BTO案最優申請人
+    https://money.udn.com/money/story/5612/9769997
+
+【油價上升】2 則  🟢高信心
+  ▸ Global diesel shortage from Iran, Ukraine wars to last into 
+    https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
+  ▸ Oil rises amid worries of growing Iran-U.S. tensions after B
+    https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Here's who we know is going to the Trump-Xi dinner so far
+    https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
+  ▸ CNBC's The China Connection newsletter: Five things to watch
+    https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ As the S&P 500 nears a new record high, there are signs of w
+    https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories
+
+【美元貶值】1 則  🟡單篇
+  ▸ Chinese yuan hits 3-1/2 year high on strong PBOC fixing
+    https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861
+
+【通膨上升】1 則  🟡單篇
+  ▸ Australia’s central bank says inflation risks may be materia
+    https://www.investing.com/news/economy-news/australias-central-bank-says-inflation-risks-may-be-materialising-4909857
+
+【升息】1 則  🟡單篇
+  ▸ Here's where UBS says to invest with global yields elevated
+    https://www.cnbc.com/2026/09/22/heres-where-ubs-says-to-invest-with-global-yields-elevated.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 4. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2330.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+ 6. 2454.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+ 7. 2303.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+ 8. 2344.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+ 9. 3711.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+10. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
