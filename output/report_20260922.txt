@@ -1,69 +1,90 @@
 📊 事件驅動選股日報 2026-09-22
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 9 個事件
+掃描 127 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續引領科技股動能**：大型科技公司如Meta、亞馬遜及騰訊等持續投入AI技術開發與應用，預期將維持產業成長與市場關注。
+2.  **地緣政治與能源供應挑戰**：烏俄及中東地區衝突加劇，引發全球柴油短缺疑慮，並推升能源價格與相關供應鏈的緊張情勢。
+3.  **通膨壓力與政策應對**：原物料價格上漲，搭配最低工資調漲的呼聲，以及歐洲央行對能源衝擊可能拉長通膨的警告，顯示通膨壓力持續存在。
+4.  **各國政策與貿易關係影響**：健康照護相關政策補助持續推動，同時美中貿易關係雖尋求穩定，但AI與關稅等關鍵技術議題仍是市場關注焦點。
+
+【具體總結】：
+今日市場在AI熱潮的推動下，科技股持續展現強勁動能。然而，地緣政治衝突升溫導致的能源供應不確定性，結合全球通膨壓力及原物料價格上漲，可能對部分產業的營運成本構成挑戰。同時，各國政府的政策補助（如健康幣）與美中貿易關係的進展，將對特定產業提供支撐或帶來變數，影響市場資金的流向與投資人的風險偏好。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
+【AI熱潮】21 則  🟢高信心
   ▸ Meta’s stock is enjoying its best month in 13 years thanks t
     https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories
   ▸ Amazon and Shopify make starkly different moves in the brewi
     https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories
-  ▸ Alibaba steps up AI push with V900 chip, 20 GW data center t
-    https://seekingalpha.com/news/4645223-alibaba-steps-up-ai-push-with-v900-chip-20-gw-data-center-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Tencent unveils AI image model to narrow gap with ByteDance,
+    https://seekingalpha.com/news/4645218-tencent-unveils-ai-image-model-to-narrow-gap-with-bytedance-alibaba-shares-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【戰爭升溫】5 則  🟢高信心
-  ▸ Global diesel shortage from Iran, Ukraine wars to last into 
-    https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
-  ▸ U.S. strikes Greenland deal for 'permanent control over secu
-    https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html
-  ▸ Oil rises amid worries of growing Iran-U.S. tensions after B
-    https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
-
-【政策補助】4 則  🟢高信心
+【政策補助】7 則  🟢高信心
   ▸ Eli Lilly CEO says 700,000 new seniors have started GLP-1s a
     https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html
-  ▸ 欣達環工獲評新竹客雅再生水BTO案最優申請人 預估投資金額約84.5億元
-    https://money.udn.com/money/story/5612/9770060
-  ▸ 投資84.5億建再生水系統 欣達環工獲評新竹客雅再生水BTO案最優申請人
-    https://money.udn.com/money/story/5612/9769997
+  ▸ 7-ELEVEN、全家響應「健康幣」政策！預計12月起開放兌換健康食飲商品
+    https://money.udn.com/money/story/5612/9770667
+  ▸ 參與衛福部健康幣政策 永悅健康推數位健康服務與健行筆記
+    https://money.udn.com/money/story/5612/9770644
 
-【油價上升】2 則  🟢高信心
+【戰爭升溫】6 則  🟢高信心
+  ▸ Global diesel shortage from Iran, Ukraine wars to last into 
+    https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
+  ▸ U.S. to expand Greenland military footprint with two new sit
+    https://seekingalpha.com/news/4645234-us-to-expand-greenland-military-footprint-with-two-new-sites---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ All Iranian airlines to be 'shut down' from Wednesday, Besse
+    https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html
+
+【關稅/貿易戰】4 則  🟢高信心
+  ▸ Trump, Xi seek trade stability and deals, but AI, tariffs an
+    https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html
+  ▸ CNBC's The China Connection newsletter: Five things to watch
+    https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html
+  ▸ 川習會在即　美貿易代表：中國正推進採購波音飛機承諾
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%9C%A8%E5%8D%B3-%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E6%8E%A8%E9%80%B2%E6%8E%A1%E8%B3%BC%E6%B3%A2%E9%9F%B3%E9%A3%9B%E6%A9%9F%E6%89%BF%E8%AB%BE-064632767.html
+
+【通膨上升】4 則  🟢高信心
+  ▸ PS、ABS 價揚 台化、國喬、台達化營運進補
+    https://money.udn.com/money/story/5612/9770372
+  ▸ 最低工資審議前火藥味濃 全產總喊漲7.77%至3萬1792元
+    https://tw.news.yahoo.com/%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E5%AF%A9%E8%AD%B0%E5%89%8D%E7%81%AB%E8%97%A5%E5%91%B3%E6%BF%83-%E5%85%A8%E7%94%A2%E7%B8%BD%E5%96%8A%E6%BC%B27-77-%E8%87%B33%E8%90%AC1792%E5%85%83-063549574.html
+  ▸ ECB首席經濟學家Lane警告，新一輪能源衝擊恐拉長通膨持續時間
+    https://tw.stock.yahoo.com/news/ecb%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6lane%E8%AD%A6%E5%91%8A-%E6%96%B0-%E8%BC%AA%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A%E6%81%90%E6%8B%89%E9%95%B7%E9%80%9A%E8%86%A8%E6%8C%81%E7%BA%8C%E6%99%82%E9%96%93-055107468.html
+
+【油價上升】3 則  🟢高信心
   ▸ Global diesel shortage from Iran, Ukraine wars to last into 
     https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html
   ▸ Oil rises amid worries of growing Iran-U.S. tensions after B
     https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
+  ▸ ECB首席經濟學家Lane警告，新一輪能源衝擊恐拉長通膨持續時間
+    https://tw.stock.yahoo.com/news/ecb%E9%A6%96%E5%B8%AD%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6lane%E8%AD%A6%E5%91%8A-%E6%96%B0-%E8%BC%AA%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A%E6%81%90%E6%8B%89%E9%95%B7%E9%80%9A%E8%86%A8%E6%8C%81%E7%BA%8C%E6%99%82%E9%96%93-055107468.html
 
-【關稅/貿易戰】2 則  🟢高信心
-  ▸ Here's who we know is going to the Trump-Xi dinner so far
-    https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html
-  ▸ CNBC's The China Connection newsletter: Five things to watch
-    https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ As the S&P 500 nears a new record high, there are signs of w
-    https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories
-
-【美元貶值】1 則  🟡單篇
-  ▸ Chinese yuan hits 3-1/2 year high on strong PBOC fixing
-    https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861
-
-【通膨上升】1 則  🟡單篇
-  ▸ Australia’s central bank says inflation risks may be materia
-    https://www.investing.com/news/economy-news/australias-central-bank-says-inflation-risks-may-be-materialising-4909857
+【景氣轉弱】3 則  🟢高信心
+  ▸ CarMax eliminates 145 corporate jobs amid market pressure
+    https://seekingalpha.com/news/4645235-carmax-eliminates-145-corporate-jobs-amid-market-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 上半年七都預售交易冷颼颼　大園年減75%、8區腰斬
+    https://money.udn.com/money/story/5612/9770300
+  ▸ 中國內需低迷、對歐順差創高　歐商會：難以為繼
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%85%A7%E9%9C%80%E4%BD%8E%E8%BF%B7-%E5%B0%8D%E6%AD%90%E9%A0%86%E5%B7%AE%E5%89%B5%E9%AB%98-%E6%AD%90%E5%95%86%E6%9C%83-%E9%9B%A3%E4%BB%A5%E7%82%BA%E7%B9%BC-064422506.html
 
 【升息】1 則  🟡單篇
   ▸ Here's where UBS says to invest with global yields elevated
     https://www.cnbc.com/2026/09/22/heres-where-ubs-says-to-invest-with-global-yields-elevated.html
 
+【美元貶值】1 則  🟡單篇
+  ▸ 外資流入韓股推動，美元/韓元承壓，對沖基金布局看跌期權
+    https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E6%B5%81%E5%85%A5%E9%9F%93%E8%82%A1%E6%8E%A8%E5%8B%95-%E7%BE%8E%E5%85%83-%E9%9F%93%E5%85%83%E6%89%BF%E5%A3%93-%E5%B0%8D%E6%B2%96%E5%9F%BA%E9%87%91%E5%B8%83%E5%B1%80%E7%9C%8B%E8%B7%8C%E6%9C%9F%E6%AC%8A-062053996.html
+
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +7.8  油電燃氣｜戰爭升溫、油價上升
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、通膨上升
  3. 2880.TW      +3.4  金融｜戰爭升溫、升息
  4. 2881.TW      +3.4  金融｜戰爭升溫、升息
  5. 2882.TW      +3.4  金融｜戰爭升溫、升息
@@ -79,11 +100,11 @@
  2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
  4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2330.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
- 6. 2454.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
- 7. 2303.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
- 8. 2344.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
- 9. 3711.TW      -3.1  半導體｜AI熱潮、關稅/貿易戰
+ 5. 2330.TW      -3.5  半導體｜AI熱潮、關稅/貿易戰
+ 6. 2454.TW      -3.5  半導體｜AI熱潮、關稅/貿易戰
+ 7. 2303.TW      -3.5  半導體｜AI熱潮、關稅/貿易戰
+ 8. 2344.TW      -3.5  半導體｜AI熱潮、關稅/貿易戰
+ 9. 3711.TW      -3.5  半導體｜AI熱潮、關稅/貿易戰
 10. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
