@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-09-24
 ════════════════════════════════
-掃描 131 則新聞  |  偵測 7 個事件
+掃描 128 則新聞  |  偵測 2 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,75 +8,38 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】7 則  🟢高信心
-  ▸ Micron’s stock has become a ‘battleground’ as the AI narrati
-    https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories
-  ▸ OpenAI and Anthropic’s CEOs just delivered this message to t
-    https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories
-  ▸ Australia says OpenAI agent hacked government website, check
-    https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110
+【AI熱潮】3 則  🟢高信心
+  ▸ Google DeepMind nears launch of Gemini 4 AI model: report
+    https://seekingalpha.com/news/4646406-google-deepmind-nears-launch-of-gemini-4-ai-model-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 最低基本工資審議會 勞喊漲破3.1萬、資籲成立AI福利主權基金
+    https://tw.stock.yahoo.com/news/%E6%9C%80%E4%BD%8E%E5%9F%BA%E6%9C%AC%E5%B7%A5%E8%B3%87%E5%AF%A9%E8%AD%B0%E6%9C%83-%E5%8B%9E%E5%96%8A%E6%BC%B2%E7%A0%B43-1%E8%90%AC-%E8%B3%87%E7%B1%B2%E6%88%90%E7%AB%8Bai%E7%A6%8F%E5%88%A9%E4%B8%BB%E6%AC%8A%E5%9F%BA%E9%87%91-055151561.html
+  ▸ 劍指華為昇騰！阿里發表真武V900 效能翻3倍、號稱中國最強晶片
+    https://tw.stock.yahoo.com/news/%E5%8A%8D%E6%8C%87%E8%8F%AF%E7%82%BA%E6%98%87%E9%A8%B0-%E9%98%BF%E9%87%8C%E7%99%BC%E8%A1%A8%E7%9C%9F%E6%AD%A6v900-%E6%95%88%E8%83%BD%E7%BF%BB3%E5%80%8D-%E8%99%9F%E7%A8%B1%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%BC%B7%E6%99%B6%E7%89%87-054912602.html
 
-【升息】5 則  🟢高信心
-  ▸ Australia unemployment rate hits 5-yr high, but RBA hike bet
-    https://www.investing.com/news/economic-indicators/australia-jobs-beat-forecasts-in-aug-but-unemployment-hits-5yr-high-4914356
-  ▸ Australia housing runs out of rescuers as RBA is set to hike
-    https://www.investing.com/news/economy-news/australia-housing-runs-out-of-rescuers-as-rba-is-set-to-hike-rates-4914399
-  ▸ 美債殖利率衝破5.1%！阮慕驊揭「真正危險」：3資產恐先受傷
-    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%A1%9D%E7%A0%B45-1-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD-%E7%9C%9F%E6%AD%A3%E5%8D%B1%E9%9A%AA-3%E8%B3%87%E7%94%A2%E6%81%90%E5%85%88%E5%8F%97%E5%82%B7-040500335.html
-
-【關稅/貿易戰】3 則  🟢高信心
-  ▸ 蘇姿丰將出席川習國宴　盼科技生態系統維持穩定
-    https://tw.stock.yahoo.com/news/%E8%98%87%E5%A7%BF%E4%B8%B0%E5%B0%87%E5%87%BA%E5%B8%AD%E5%B7%9D%E7%BF%92%E5%9C%8B%E5%AE%B4-%E7%9B%BC%E7%A7%91%E6%8A%80%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E7%B6%AD%E6%8C%81%E7%A9%A9%E5%AE%9A-044423889.html
-  ▸ 習川會登場 卓揆高度關注 政府與美方保持密切聯繫
-    https://tw.stock.yahoo.com/news/%E7%BF%92%E5%B7%9D%E6%9C%83%E7%99%BB%E5%A0%B4-%E5%8D%93%E6%8F%86%E9%AB%98%E5%BA%A6%E9%97%9C%E6%B3%A8-%E6%94%BF%E5%BA%9C%E8%88%87%E7%BE%8E%E6%96%B9%E4%BF%9D%E6%8C%81%E5%AF%86%E5%88%87%E8%81%AF%E7%B9%AB-044419548.html
-  ▸ 川習會今登場 卓榮泰：關注國際情勢 全力因應
-    https://tw.news.yahoo.com/%E5%B7%9D%E7%BF%92%E6%9C%83%E4%BB%8A%E7%99%BB%E5%A0%B4-%E5%8D%93%E6%A6%AE%E6%B3%B0-%E9%97%9C%E6%B3%A8%E5%9C%8B%E9%9A%9B%E6%83%85%E5%8B%A2-%E5%85%A8%E5%8A%9B%E5%9B%A0%E6%87%89-043713471.html
-
-【政策補助】3 則  🟢高信心
-  ▸ 青安3.0第一張成績單！只撥貸175戶 平均背債930萬元 「系列新高」
-    https://tw.stock.yahoo.com/news/%E9%9D%92%E5%AE%8930%E7%AC%AC%E4%B8%80%E5%BC%B5%E6%88%90%E7%B8%BE%E5%96%AE%EF%BC%81%E5%8F%AA%E6%92%A5%E8%B2%B8175%E6%88%B6-%E5%B9%B3%E5%9D%87%E8%83%8C%E5%82%B5930%E8%90%AC%E5%85%83-%E3%80%8C%E7%B3%BB%E5%88%97%E6%96%B0%E9%AB%98%E3%80%8D-043046370.html
-  ▸ 煙草業迎監管轉向！川普政府擬放寬審查 加速電子煙審批 尼古丁袋也受惠
-    https://tw.stock.yahoo.com/news/%E7%85%99%E8%8D%89%E6%A5%AD%E8%BF%8E%E7%9B%A3%E7%AE%A1%E8%BD%89%E5%90%91-%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%93%AC%E6%94%BE%E5%AF%AC%E5%AF%A9%E6%9F%A5-%E5%8A%A0%E9%80%9F%E9%9B%BB%E5%AD%90%E7%85%99%E5%AF%A9%E6%89%B9-%E5%B0%BC%E5%8F%A4%E4%B8%81%E8%A2%8B%E4%B9%9F%E5%8F%97%E6%83%A0-035003238.html
-  ▸ 臺南購物節登錄破10億元 連假逛商圈、市場夜市再抽加菜金
-    https://money.udn.com/money/story/5612/9775187
-
-【記憶體漲價】1 則  🟡單篇
-  ▸ Micron’s stock has become a ‘battleground’ as the AI narrati
-    https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories
-
-【通膨上升】1 則  🟡單篇
-  ▸ Inflation could cost Republicans the Senate — this chart sho
-    https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories
-
-【景氣轉弱】1 則  🟡單篇
-  ▸ Australia unemployment rate hits 5-yr high, but RBA hike bet
-    https://www.investing.com/news/economic-indicators/australia-jobs-beat-forecasts-in-aug-but-unemployment-hits-5yr-high-4914356
+【通膨上升】2 則  🟢高信心
+  ▸ 下游加工企業節前積極備貨，中國現貨銅溢價創2021年高點
+    https://tw.stock.yahoo.com/news/%E4%B8%8B%E6%B8%B8%E5%8A%A0%E5%B7%A5%E4%BC%81%E6%A5%AD%E7%AF%80%E5%89%8D%E7%A9%8D%E6%A5%B5%E5%82%99%E8%B2%A8-%E4%B8%AD%E5%9C%8B%E7%8F%BE%E8%B2%A8%E9%8A%85%E6%BA%A2%E5%83%B9%E5%89%B52021%E5%B9%B4%E9%AB%98%E9%BB%9E-060456345.html
+  ▸ 最低基本工資審議會 勞喊漲破3.1萬、資籲成立AI福利主權基金
+    https://tw.stock.yahoo.com/news/%E6%9C%80%E4%BD%8E%E5%9F%BA%E6%9C%AC%E5%B7%A5%E8%B3%87%E5%AF%A9%E8%AD%B0%E6%9C%83-%E5%8B%9E%E5%96%8A%E6%BC%B2%E7%A0%B43-1%E8%90%AC-%E8%B3%87%E7%B1%B2%E6%88%90%E7%AB%8Bai%E7%A6%8F%E5%88%A9%E4%B8%BB%E6%AC%8A%E5%9F%BA%E9%87%91-055151561.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 6. 3576.TWO     +2.5  綠能｜政策補助
- 7. 6443.TW      +2.5  綠能｜政策補助
- 8. 3691.TW      +2.5  綠能｜政策補助
- 9. 2880.TW      +2.0  金融｜升息
-10. 2881.TW      +2.0  金融｜升息
+ 1. 2330.TW      +3.0  半導體｜AI熱潮
+ 2. 2454.TW      +3.0  半導體｜AI熱潮
+ 3. 2303.TW      +3.0  半導體｜AI熱潮
+ 4. 2344.TW      +3.0  半導體｜AI熱潮
+ 5. 3711.TW      +3.0  半導體｜AI熱潮
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2515.TW      -3.0  建材營造｜升息
- 2. 5534.TW      -3.0  建材營造｜升息
- 3. 2504.TW      -3.0  建材營造｜升息
- 4. 2330.TW      -2.9  半導體｜AI熱潮、升息
- 5. 2454.TW      -2.9  半導體｜AI熱潮、升息
- 6. 2303.TW      -2.9  半導體｜AI熱潮、升息
- 7. 3711.TW      -2.9  半導體｜AI熱潮、升息
- 8. 2317.TW      -2.4  電子零組件｜關稅/貿易戰、記憶體漲價
- 9. 2327.TW      -2.4  電子零組件｜關稅/貿易戰、記憶體漲價
-10. 3037.TW      -2.4  電子零組件｜關稅/貿易戰、記憶體漲價
+ 1. 2317.TW      -2.5  電子零組件｜通膨上升
+ 2. 2327.TW      -2.5  電子零組件｜通膨上升
+ 3. 3037.TW      -2.5  電子零組件｜通膨上升
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
