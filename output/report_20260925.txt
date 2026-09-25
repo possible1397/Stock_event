@@ -1,0 +1,104 @@
+📊 事件驅動選股日報 2026-09-25
+════════════════════════════════
+掃描 130 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【升息】13 則  🟢高信心
+  ▸ 8% mortgage rates are ‘not an impossibility’ as the 30-year 
+    https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories
+  ▸ Japanese bank stocks rise tracking yield surge, rate hike be
+    https://www.investing.com/news/stock-market-news/japanese-bank-stocks-rise-tracking-yield-surge-rate-hike-bets-4916599
+  ▸ Surging Treasury yields pose a brand new problem for Kevin W
+    https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html
+
+【AI熱潮】8 則  🟢高信心
+  ▸ Here’s how to position your portfolio for the next AI wave, 
+    https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories
+  ▸ China's Xi urges U.S. to cooperate on AI
+    https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html
+  ▸ Meta gets to consumer AI device market before OpenAI, but Zu
+    https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html
+
+【景氣轉弱】7 則  🟢高信心
+  ▸ Global debt tops $365 trillion as economists sound alarm ove
+    https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html
+  ▸ Stock futures are little changed as Dow heads for fourth str
+    https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html
+  ▸ This stock’s defensive appeal faces a valuation test. Here's
+    https://www.cnbc.com/2026/09/24/this-stocks-defensive-appeal-faces-a-valuation-test-heres-where-else-investors-can-look.html
+
+【戰爭升溫】4 則  🟢高信心
+  ▸ Senate narrowly votes down resolution calling for end to Ira
+    https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html
+  ▸ Here's why South Korea wants more control over future region
+    https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html
+  ▸ 伊朗總統：是否結束戰爭由美國決定 「我們不希望繼續」
+    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%98%AF%E5%90%A6%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E7%94%B1%E7%BE%8E%E5%9C%8B%E6%B1%BA%E5%AE%9A-%E6%88%91%E5%80%91%E4%B8%8D%E5%B8%8C%E6%9C%9B%E7%B9%BC%E7%BA%8C-040014906.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ Analysis: Higher Treasury yields deliver a reality check on 
+    https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html
+  ▸ Philadelphia Fed's Anna Paulson says 'modest' rate moves lik
+    https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html
+  ▸ 連11漲! 最低工資調整至3萬900元.時薪205元 調幅4.745%
+    https://tw.stock.yahoo.com/news/%E9%80%A311%E6%BC%B2-%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E8%AA%BF%E6%95%B4%E8%87%B33%E8%90%AC900%E5%85%83-%E6%99%82%E8%96%AA205%E5%85%83-%E8%AA%BF%E5%B9%854-745-042933037.html
+
+【記憶體漲價】2 則  🟢高信心
+  ▸ 3 things Micron investors need to watch as the stakes get hi
+    https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories
+  ▸ 美光還能再漲50%？瑞銀看好記憶體需求續強
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E9%82%84%E8%83%BD%E5%86%8D%E6%BC%B250-%E7%91%9E%E9%8A%80%E7%9C%8B%E5%A5%BD%E8%A8%98%E6%86%B6%E9%AB%94%E9%9C%80%E6%B1%82%E7%BA%8C%E5%BC%B7-041003423.html
+
+【政策補助】2 則  🟢高信心
+  ▸ FAFSA opens early: Why families should apply for college aid
+    https://www.cnbc.com/2026/09/24/fafsa-opens-early-college-aid.html
+  ▸ 預售屋冷到「凍僵」！十大重災區全衰退逾4成 青安3.0首月撥貸僅175戶 建商、買方互看到明年｜房地產週報
+    https://tw.stock.yahoo.com/news/%E9%A0%90%E5%94%AE%E5%B1%8B%E5%86%B7%E5%88%B0%E3%80%8C%E5%87%8D%E5%83%B5%E3%80%8D%EF%BC%81%E5%8D%81%E5%A4%A7%E9%87%8D%E7%81%BD%E5%8D%80%E5%85%A8%E8%A1%B0%E9%80%80%E9%80%BE4%E6%88%90-%E9%9D%92%E5%AE%8930%E9%A6%96%E6%9C%88%E6%92%A5%E8%B2%B8%E5%83%85175%E6%88%B6-%E5%BB%BA%E5%95%86%E3%80%81%E8%B2%B7%E6%96%B9%E4%BA%92%E7%9C%8B%E5%88%B0%E6%98%8E%E5%B9%B4%EF%BD%9C%E6%88%BF%E5%9C%B0%E7%94%A2%E9%80%B1%E5%A0%B1-033700521.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ 美國貿易戰衝擊 安大略省預警持續赤字支出
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E6%88%B0%E8%A1%9D%E6%93%8A-%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E9%A0%90%E8%AD%A6%E6%8C%81%E7%BA%8C%E8%B5%A4%E5%AD%97%E6%94%AF%E5%87%BA-045348845.html
+  ▸ 中亞地區美中經濟角力難分高下 分析師預計競合模式將長期共存
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BA%9E%E5%9C%B0%E5%8D%80%E7%BE%8E%E4%B8%AD%E7%B6%93%E6%BF%9F%E8%A7%92%E5%8A%9B%E9%9B%A3%E5%88%86%E9%AB%98%E4%B8%8B-%E5%88%86%E6%9E%90%E5%B8%AB%E9%A0%90%E8%A8%88%E7%AB%B6%E5%90%88%E6%A8%A1%E5%BC%8F%E5%B0%87%E9%95%B7%E6%9C%9F%E5%85%B1%E5%AD%98-043704247.html
+
+【油價下降】1 則  🟡單篇
+  ▸ Oil falls amid optimism over potential diplomatic solution t
+    https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 日財相：川普會晤高市早苗 關切日圓貶值
+    https://tw.news.yahoo.com/%E6%97%A5%E8%B2%A1%E7%9B%B8-%E5%B7%9D%E6%99%AE%E6%9C%83%E6%99%A4%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E9%97%9C%E5%88%87%E6%97%A5%E5%9C%93%E8%B2%B6%E5%80%BC-041201578.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 2. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 3. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 6505.TW      +3.8  油電燃氣｜戰爭升溫、通膨上升
+ 7. 8917.TW      +3.8  油電燃氣｜戰爭升溫、通膨上升
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
+ 4. 2515.TW      -3.0  建材營造｜升息
+ 5. 5534.TW      -3.0  建材營造｜升息
+ 6. 2504.TW      -3.0  建材營造｜升息
+ 7. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 8. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 2330.TW      -2.1  半導體｜升息、AI熱潮
+10. 2454.TW      -2.1  半導體｜升息、AI熱潮
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
