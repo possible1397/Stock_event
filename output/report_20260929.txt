@@ -1,0 +1,80 @@
+📊 事件驅動選股日報 2026-09-29
+════════════════════════════════
+掃描 125 則新聞  |  偵測 7 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】19 則  🟢高信心
+  ▸ Anthropic’s potential $2 trillion IPO comes with the followi
+    https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories
+  ▸ AMD makes a big bet on the next era of AI with World Labs ac
+    https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories
+  ▸ SpaceX’s next big growth engine isn’t rockets — it’s this pl
+    https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories
+
+【升息】7 則  🟢高信心
+  ▸ Rising bond yields put the brakes on stocks
+    https://www.investing.com/news/economy-news/stocks-wobble-as-bonds-slump-to-monthly-loss-4921500
+  ▸ Battered bond market braces for a new era of interest rates
+    https://www.investing.com/news/economy-news/battered-bond-market-braces-for-a-new-era-of-interest-rates-4921569
+  ▸ RBA delivers fourth rate hike of 2026 to 4.60% as inflation 
+    https://seekingalpha.com/news/4647847-rba-delivers-fourth-rate-hike-of-2026-to-460-as-inflation-pressures-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【政策補助】4 則  🟢高信心
+  ▸ Chinese property stocks rise as Beijing outlines more suppor
+    https://www.investing.com/news/stock-market-news/chinese-property-stocks-rise-as-beijing-outlines-more-supportive-measures-4921591
+  ▸ China factories seen rebounding in September as Beijing sign
+    https://www.investing.com/news/economic-indicators/china-factories-seen-rebounding-in-september-as-beijing-signals-more-aid-reuters-poll-4921583
+  ▸ India readies $25 billion for Deep Tech investment as U.S. a
+    https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Toyota global sales drop for 7th straight month amid China s
+    https://seekingalpha.com/news/4647844-toyota-global-sales-drop-for-7th-straight-month-amid-china-slump-output-falls-59?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Colombia turns to IMF as fiscal pressure mounts - report
+    https://seekingalpha.com/news/4647836-colombia-turns-to-imf-as-fiscal-pressure-mounts---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【通膨上升】1 則  🟡單篇
+  ▸ RBA delivers fourth rate hike of 2026 to 4.60% as inflation 
+    https://seekingalpha.com/news/4647847-rba-delivers-fourth-rate-hike-of-2026-to-460-as-inflation-pressures-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ U.S., Iran hold separate mediator talks as Mideast oil expor
+    https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 美國好市多拿58.5億關稅退款 宣布商品大降價 台灣將跟進？官方回應了
+    https://money.udn.com/money/story/5612/9783267
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +3.9  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +3.9  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 7. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2330.TW      -2.7  半導體｜AI熱潮、升息
+ 5. 2454.TW      -2.7  半導體｜AI熱潮、升息
+ 6. 2303.TW      -2.7  半導體｜AI熱潮、升息
+ 7. 2344.TW      -2.7  半導體｜AI熱潮、升息
+ 8. 3711.TW      -2.7  半導體｜AI熱潮、升息
+ 9. 2317.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
+10. 2327.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
