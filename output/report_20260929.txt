@@ -1,6 +1,6 @@
 📊 事件驅動選股日報 2026-09-29
 ════════════════════════════════
-掃描 125 則新聞  |  偵測 7 個事件
+掃描 126 則新聞  |  偵測 6 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
@@ -8,73 +8,58 @@
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】19 則  🟢高信心
-  ▸ Anthropic’s potential $2 trillion IPO comes with the followi
-    https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories
-  ▸ AMD makes a big bet on the next era of AI with World Labs ac
-    https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories
-  ▸ SpaceX’s next big growth engine isn’t rockets — it’s this pl
-    https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories
+【AI熱潮】6 則  🟢高信心
+  ▸ 新漢獲邀進軍美國台灣形象展，深化北美AI機器人產業鏈結，Q4動能升溫
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E6%BC%A2%E7%8D%B2%E9%82%80%E9%80%B2%E8%BB%8D%E7%BE%8E%E5%9C%8B%E5%8F%B0%E7%81%A3%E5%BD%A2%E8%B1%A1%E5%B1%95-%E6%B7%B1%E5%8C%96%E5%8C%97%E7%BE%8Eai%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%94%A2%E6%A5%AD%E9%8F%88%E7%B5%90-q4%E5%8B%95%E8%83%BD%E5%8D%87%E6%BA%AB-073050035.html
+  ▸ 「小台積電0052」 20年漲破2400％！還能買嗎？ 經理人：吃滿AI紅利
+    https://tw.stock.yahoo.com/news/%E3%80%8C%E5%B0%8F%E5%8F%B0%E7%A9%8D%E9%9B%BB0052%E3%80%8D-20%E5%B9%B4%E6%BC%B2%E7%A0%B42400%EF%BC%85%EF%BC%81%E9%82%84%E8%83%BD%E8%B2%B7%E5%97%8E%EF%BC%9F-%E7%B6%93%E7%90%86%E4%BA%BA%EF%BC%9A%E5%90%83%E6%BB%BFai%E7%B4%85%E5%88%A9-071937615.html
+  ▸ 教宗公開點名黃仁勳　強調AI疑慮非假新聞
+    https://tw.news.yahoo.com/%E6%95%99%E5%AE%97%E5%85%AC%E9%96%8B%E9%BB%9E%E5%90%8D%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%BC%B7%E8%AA%BFai%E7%96%91%E6%85%AE%E9%9D%9E%E5%81%87%E6%96%B0%E8%81%9E-071537893.html
 
-【升息】7 則  🟢高信心
-  ▸ Rising bond yields put the brakes on stocks
-    https://www.investing.com/news/economy-news/stocks-wobble-as-bonds-slump-to-monthly-loss-4921500
-  ▸ Battered bond market braces for a new era of interest rates
-    https://www.investing.com/news/economy-news/battered-bond-market-braces-for-a-new-era-of-interest-rates-4921569
-  ▸ RBA delivers fourth rate hike of 2026 to 4.60% as inflation 
-    https://seekingalpha.com/news/4647847-rba-delivers-fourth-rate-hike-of-2026-to-460-as-inflation-pressures-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【升息】2 則  🟢高信心
+  ▸ 美國10年期公債殖利率衝破5.25% 市場預測年終可能維持高點
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%85%AC%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%A1%9D%E7%A0%B45-25-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%B8%AC%E5%B9%B4%E7%B5%82%E5%8F%AF%E8%83%BD%E7%B6%AD%E6%8C%81%E9%AB%98%E9%BB%9E-072202219.html
+  ▸ 債券拋售、除息效應夾擊　日股收跌
+    https://tw.stock.yahoo.com/news/%E5%82%B5%E5%88%B8%E6%8B%8B%E5%94%AE-%E9%99%A4%E6%81%AF%E6%95%88%E6%87%89%E5%A4%BE%E6%93%8A-%E6%97%A5%E8%82%A1%E6%94%B6%E8%B7%8C-071446246.html
 
-【政策補助】4 則  🟢高信心
-  ▸ Chinese property stocks rise as Beijing outlines more suppor
-    https://www.investing.com/news/stock-market-news/chinese-property-stocks-rise-as-beijing-outlines-more-supportive-measures-4921591
-  ▸ China factories seen rebounding in September as Beijing sign
-    https://www.investing.com/news/economic-indicators/china-factories-seen-rebounding-in-september-as-beijing-signals-more-aid-reuters-poll-4921583
-  ▸ India readies $25 billion for Deep Tech investment as U.S. a
-    https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html
+【景氣轉弱】1 則  🟡單篇
+  ▸ 【Follow法人】外資再砍632億元 連2天提款台股961億元 分析師：賣壓恐延續
+    https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E5%86%8D%E7%A0%8D632%E5%84%84%E5%85%83-%E9%80%A32%E5%A4%A9%E6%8F%90%E6%AC%BE%E5%8F%B0%E8%82%A1961%E5%84%84%E5%85%83-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E8%B3%A3%E5%A3%93%E6%81%90%E5%BB%B6%E7%BA%8C-070525492.html
 
-【景氣轉弱】2 則  🟢高信心
-  ▸ Toyota global sales drop for 7th straight month amid China s
-    https://seekingalpha.com/news/4647844-toyota-global-sales-drop-for-7th-straight-month-amid-china-slump-output-falls-59?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Colombia turns to IMF as fiscal pressure mounts - report
-    https://seekingalpha.com/news/4647836-colombia-turns-to-imf-as-fiscal-pressure-mounts---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【政策補助】1 則  🟡單篇
+  ▸ 普發一萬元客服它做的！資服新兵程曦資訊預計11月前掛牌上櫃
+    https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%83%E5%AE%A2%E6%9C%8D%E5%AE%83%E5%81%9A%E7%9A%84%EF%BC%81%E8%B3%87%E6%9C%8D%E6%96%B0%E5%85%B5%E7%A8%8B%E6%9B%A6%E8%B3%87%E8%A8%8A%E9%A0%90%E8%A8%8811%E6%9C%88%E5%89%8D%E6%8E%9B%E7%89%8C%E4%B8%8A%E6%AB%83-070236929.html
 
-【通膨上升】1 則  🟡單篇
-  ▸ RBA delivers fourth rate hike of 2026 to 4.60% as inflation 
-    https://seekingalpha.com/news/4647847-rba-delivers-fourth-rate-hike-of-2026-to-460-as-inflation-pressures-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【美元升值】1 則  🟡單篇
+  ▸ 伊朗里亞爾兌美元貶破244萬關卡 美財長貝森特警告恐達300萬
+    https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E9%87%8C%E4%BA%9E%E7%88%BE%E5%85%8C%E7%BE%8E%E5%85%83%E8%B2%B6%E7%A0%B4244%E8%90%AC%E9%97%9C%E5%8D%A1-%E7%BE%8E%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A%E6%81%90%E9%81%94300%E8%90%AC-064428943.html
 
-【戰爭升溫】1 則  🟡單篇
-  ▸ U.S., Iran hold separate mediator talks as Mideast oil expor
-    https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html
-
-【關稅/貿易戰】1 則  🟡單篇
-  ▸ 美國好市多拿58.5億關稅退款 宣布商品大降價 台灣將跟進？官方回應了
-    https://money.udn.com/money/story/5612/9783267
+【油價上升】1 則  🟡單篇
+  ▸ 〈台股盤後〉節後補跌392點  油價、美債殖利率雙擊痛失4萬8及5日線
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E7%AF%80%E5%BE%8C%E8%A3%9C%E8%B7%8C392%E9%BB%9E-%E6%B2%B9%E5%83%B9-%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%9B%99%E6%93%8A%E7%97%9B%E5%A4%B14%E8%90%AC8%E5%8F%8A5%E6%97%A5%E7%B7%9A-064125188.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +3.9  油電燃氣｜通膨上升、戰爭升溫
- 2. 8917.TW      +3.9  油電燃氣｜通膨上升、戰爭升溫
- 3. 2880.TW      +3.4  金融｜升息、戰爭升溫
- 4. 2881.TW      +3.4  金融｜升息、戰爭升溫
- 5. 2882.TW      +3.4  金融｜升息、戰爭升溫
- 6. 2884.TW      +3.4  金融｜升息、戰爭升溫
- 7. 2886.TW      +3.4  金融｜升息、戰爭升溫
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 6505.TW      +2.1  油電燃氣｜油價上升
+ 7. 8917.TW      +2.1  油電燃氣｜油價上升
+ 8. 2880.TW      +2.0  金融｜升息
+ 9. 2881.TW      +2.0  金融｜升息
+10. 2882.TW      +2.0  金融｜升息
 
 ▼ 賣出信號
 ────────────────────────────────
  1. 2515.TW      -3.0  建材營造｜升息
  2. 5534.TW      -3.0  建材營造｜升息
  3. 2504.TW      -3.0  建材營造｜升息
- 4. 2330.TW      -2.7  半導體｜AI熱潮、升息
- 5. 2454.TW      -2.7  半導體｜AI熱潮、升息
- 6. 2303.TW      -2.7  半導體｜AI熱潮、升息
- 7. 2344.TW      -2.7  半導體｜AI熱潮、升息
- 8. 3711.TW      -2.7  半導體｜AI熱潮、升息
- 9. 2317.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
-10. 2327.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
+ 4. 2603.TW      -2.1  交通運輸及航運｜油價上升
+ 5. 2609.TW      -2.1  交通運輸及航運｜油價上升
+ 6. 2615.TW      -2.1  交通運輸及航運｜油價上升
+ 7. 2618.TW      -2.1  交通運輸及航運｜油價上升
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
