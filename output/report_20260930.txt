@@ -1,0 +1,92 @@
+📊 事件驅動選股日報 2026-09-30
+════════════════════════════════
+掃描 124 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】10 則  🟢高信心
+  ▸ 2027年高階 AI 加速器突破2,500萬顆 ASIC 出貨首超 GPU
+    https://money.udn.com/money/story/5612/9785715
+  ▸ 新竹就業中心徵才 10月1日台積電、美光等大廠於竹科釋出2,871個職缺
+    https://money.udn.com/money/story/5612/9785653
+  ▸ 金像電牽手亞馬遜 法人估今年 EPS 40.2元、明年跳增至71.2元
+    https://money.udn.com/money/story/5612/9785617
+
+【升息】4 則  🟢高信心
+  ▸ Hollywood’s big debt deal hits a wall of higher yields as Pa
+    https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories
+  ▸ Asian equity markets mixed on rising yields and regional eco
+    https://seekingalpha.com/news/4648325-asian-equity-markets-mixed-on-rising-yields-and-regional-economic-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Stock futures inch higher as traders weather latest rise in 
+    https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Target’s price cuts are a sign of strength, some analysts sa
+    https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories
+  ▸ Japan's industrial output drops 1.7% M/M in August; retail s
+    https://seekingalpha.com/news/4648329-japan-industrial-output-drops-17-mm-in-august-retail-sales-rise-27-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ IPO postponements are accelerating in third quarter, even be
+    https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Ford CEO: It’s not too late for U.S. to fend off Chinese EV 
+    https://seekingalpha.com/news/4648331-ford-ceo-its-not-too-late-for-us-to-fend-off-chinese-ev-rivals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Beijing warns of retaliation if Europe imposes curbs on Chin
+    https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Singapore electricity tariff to fall 10.4% on lower energy c
+    https://www.investing.com/news/stock-market-news/singapore-electricity-tariff-to-fall-104-on-lower-energy-costs-93CH-4924084
+  ▸ Trump weighs diesel export ban to contain U.S. fuel prices, 
+    https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082
+
+【政策補助】2 則  🟢高信心
+  ▸ Trump weighs diesel export ban to contain U.S. fuel prices, 
+    https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082
+  ▸ 力拚北北基桃月票 LINE Pay Money乘車碼加碼回饋到年底
+    https://tw.stock.yahoo.com/news/%E5%8A%9B%E6%8B%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E6%9C%88%E7%A5%A8-line-pay-money%E4%B9%98%E8%BB%8A%E7%A2%BC%E5%8A%A0%E7%A2%BC%E5%9B%9E%E9%A5%8B%E5%88%B0%E5%B9%B4%E5%BA%95-051718967.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ Australia's August inflation rises to 4.0%, slightly below e
+    https://seekingalpha.com/news/4648327-australia-august-inflation-rises-to-40-slightly-below-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ Most traders are looking at Micron into earnings. But don't 
+    https://www.cnbc.com/2026/09/29/most-traders-are-looking-at-micron-into-earnings-but-dont-count-out-nike.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ 為升「雷盾」台中智慧製造展亮相，搶攻逾430億元無人機反制系統商機
+    https://tw.stock.yahoo.com/news/%E7%82%BA%E5%8D%87-%E9%9B%B7%E7%9B%BE-%E5%8F%B0%E4%B8%AD%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E5%B1%95%E4%BA%AE%E7%9B%B8-%E6%90%B6%E6%94%BB%E9%80%BE430%E5%84%84%E5%85%83%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8F%8D%E5%88%B6%E7%B3%BB%E7%B5%B1%E5%95%86%E6%A9%9F-051510524.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 2. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 3. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2330.TW      -3.2  半導體｜AI熱潮、升息
+ 2. 2454.TW      -3.2  半導體｜AI熱潮、升息
+ 3. 2303.TW      -3.2  半導體｜AI熱潮、升息
+ 4. 3711.TW      -3.2  半導體｜AI熱潮、升息
+ 5. 2515.TW      -3.0  建材營造｜升息
+ 6. 5534.TW      -3.0  建材營造｜升息
+ 7. 2504.TW      -3.0  建材營造｜升息
+ 8. 2317.TW      -3.0  電子零組件｜景氣轉弱、關稅/貿易戰
+ 9. 2327.TW      -3.0  電子零組件｜景氣轉弱、關稅/貿易戰
+10. 3037.TW      -3.0  電子零組件｜景氣轉弱、關稅/貿易戰
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
