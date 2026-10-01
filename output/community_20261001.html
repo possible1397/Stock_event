@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>財經熱點日報 2026-10-01</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,"Microsoft JhengHei","Noto Sans TC",sans-serif;
+      background:#f0f2f5;color:#2c3e50;padding:16px}
+.wrap{max-width:880px;margin:0 auto}
+h1{font-size:1.4rem;border-left:5px solid #3498db;padding-left:12px;margin-bottom:4px}
+.meta{color:#999;font-size:.82rem;margin-bottom:18px;padding-left:17px}
+h2{font-size:1rem;margin:24px 0 10px;color:#34495e;
+    display:flex;align-items:center;gap:8px}
+/* stat bar */
+.stat-bar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.stat{background:#fff;border-radius:10px;padding:12px 20px;
+       box-shadow:0 1px 4px rgba(0,0,0,.08);flex:1;min-width:90px;text-align:center}
+.stat strong{display:block;font-size:1.8rem;color:#3498db;line-height:1.1}
+/* chart */
+.chart-box{background:#fff;border-radius:10px;padding:16px;
+            box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:20px}
+.ai-summary-box{background:#eaf2f8;border-left:5px solid #2980b9;
+                 border-radius:8px;padding:16px 20px;margin-bottom:20px;
+                 font-size:.95rem;line-height:1.6}
+.ai-summary-box h2{margin-top:0;margin-bottom:12px}
+/* event cards */
+.ev-card{background:#fff;border-radius:10px;padding:14px 16px;
+          margin-bottom:10px;box-shadow:0 1px 4px rgba(0,0,0,.07)}
+.ev-header{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.ev-name{font-weight:700;font-size:1rem}
+.ev-count{color:#666;font-size:.85rem}
+.badge{padding:2px 8px;border-radius:4px;font-size:.72rem;font-weight:600}
+.badge.high{background:#d5f5e3;color:#1e8449}
+.badge.mid{background:#fdebd0;color:#d35400}
+.news-list{list-style:none;display:flex;flex-direction:column;gap:5px;padding-left:4px}
+.news-list li{font-size:.87rem;line-height:1.45}
+.news-list a{color:#2980b9;text-decoration:none}
+.news-list a:hover{text-decoration:underline}
+.no-link{color:#aaa;font-style:italic}
+.ev-stocks{font-size:.82rem;color:#555;margin-bottom:8px;display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.stock-tag{background:#eaf4fb;border:1px solid #aed6f1;border-radius:12px;
+           padding:2px 10px;font-size:.8rem;color:#1a5276;white-space:nowrap}
+.stock-ticker{color:#7fb3d3;font-size:.72rem;margin-left:4px}
+/* mention table */
+table{width:100%;border-collapse:collapse;background:#fff;
+       border-radius:10px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+th{background:#2c3e50;color:#fff;padding:9px 12px;font-size:.82rem;text-align:left}
+td{padding:9px 12px;border-bottom:1px solid #f0f0f0;font-size:.85rem;vertical-align:middle}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:#fafbfc}
+.center{text-align:center}
+.rank{font-weight:700;color:#7f8c8d;font-size:1.1rem}
+.count{font-weight:700;color:#2980b9;font-size:1.1rem}
+.ticker{color:#aaa;font-size:.75rem}
+.bar-wrap{width:130px;height:14px;background:#ecf0f1;border-radius:7px;overflow:hidden}
+.bar-fill{height:100%;background:linear-gradient(90deg,#3498db,#2ecc71);border-radius:7px}
+.sample-news{font-size:.8rem;max-width:260px}
+.sample-news a{color:#2980b9;text-decoration:none}
+.sample-news a:hover{text-decoration:underline}
+footer{margin-top:30px;font-size:.75rem;color:#bbb;text-align:center;padding:8px}
+.src-badge{font-size:.75rem;color:#888;white-space:nowrap}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>📰 財經熱點日報</h1>
+<p class="meta">2026-10-01 &nbsp;·&nbsp; 掃描 127 則新聞自動產生</p>
+
+<div class="stat-bar">
+  <div class="stat"><strong>127</strong>則新聞</div>
+  <div class="stat"><strong>9</strong>個熱門話題</div>
+  <div class="stat"><strong>15</strong>檔股票被提及</div>
+</div>
+
+<div class="ai-summary-box"><h2>💡 AI 今日盤勢與焦點速報</h2><p>無法產生總結。</p></div>
+
+<!-- 話題熱度圖 -->
+<h2>🔥 話題熱度（新聞則數）</h2>
+<div class="chart-box" style="height:432px">
+  <canvas id="chartEvents"></canvas>
+</div>
+
+<!-- 話題 + 新聞列表 -->
+<h2>📋 各話題精選新聞（點標題看原文）</h2>
+
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">AI熱潮</span>
+            <span class="ev-count">9 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          <div class="ev-stocks">📌 相關股票：<span class="stock-tag">Google<span class="stock-ticker">GOOGL</span></span> <span class="stock-tag">Meta<span class="stock-ticker">META</span></span></div>
+          <ul class="news-list"><li><a href="https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories" target="_blank" rel="noopener">Google shows it’s not out of the AI race just yet</a></li><li><a href="https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories" target="_blank" rel="noopener">How the ‘AI put’ has become the only thing that matters for </a></li><li><a href="https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html" target="_blank" rel="noopener">Google rolls out Gemini 4 Argon, its most advanced AI model</a></li><li><a href="https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html" target="_blank" rel="noopener">Meta stock enjoys best month since 2022 on AI momentum</a></li><li><a href="https://money.udn.com/money/story/5612/9788126" target="_blank" rel="noopener">AI 電池模組躍居算力中心關鍵配備 這些台廠後市可期</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">升息</span>
+            <span class="ev-count">5 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://www.investing.com/news/commodities-news/gold-little-changed-after-6-september-slide-as-softer-us-pce-cuts-fed-hike-bets-4926166" target="_blank" rel="noopener">Gold rises after September slide as softer PCE trims Fed hik</a></li><li><a href="https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories" target="_blank" rel="noopener">A brutal September for bonds points to an even darker Octobe</a></li><li><a href="https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories" target="_blank" rel="noopener">U.S. bond yields post biggest jump in a generation as global</a></li><li><a href="https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html" target="_blank" rel="noopener">Fed's Kashkari says inflation is 'still too high' even after</a></li><li><a href="https://tw.stock.yahoo.com/news/ts-lombard%E4%BC%B0-%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E6%9C%AA%E4%BE%86%E5%B0%87%E5%8D%87%E8%87%B38-060636148.html" target="_blank" rel="noopener">TS Lombard估，美國10年期國債殖利率未來將升至8%</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">景氣轉弱</span>
+            <span class="ev-count">4 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://seekingalpha.com/news/4648815-netflix-co-ceo-sarandos-says-growth-slower-than-desired-touts-live-content?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Netflix Co-CEO Sarandos says growth slower than desired, tou</a></li><li><a href="https://seekingalpha.com/news/4648824-asian-markets-trade-mixed-amid-rebound-in-oil-prices-australian-trade-and-pmi-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Asian markets trade mixed amid rebound in oil prices; Austra</a></li><li><a href="https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories" target="_blank" rel="noopener">The 15 worst-performing S&P 500 stocks during a dismal Septe</a></li><li><a href="https://tw.stock.yahoo.com/news/%E9%AB%98%E9%A1%8D%E6%8A%95%E6%B3%A8%E5%AE%A2%E7%BA%8C%E6%B8%9B-%E6%BE%B3%E9%96%809%E6%9C%88%E5%8D%9A%E5%BD%A9%E6%94%B6%E5%85%A5%E5%B9%B4%E6%B8%9B1-2-%E4%B8%8D%E5%A6%82%E9%A0%90%E6%9C%9F-%E9%80%A3%E5%9B%9B%E9%BB%91-060126194.html" target="_blank" rel="noopener">高額投注客續減，澳門9月博彩收入年減1.2%不如預期，連四黑</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">記憶體漲價</span>
+            <span class="ev-count">3 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176" target="_blank" rel="noopener">Tech stocks boosted by Micron but Treasury rout hangs over m</a></li><li><a href="https://money.udn.com/money/story/5612/9788213" target="_blank" rel="noopener">台灣美光：2027、2028年記憶體供應市況比今年更吃緊</a></li><li><a href="https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E6%87%89%E5%90%83%E7%B7%8A%E8%88%87%E6%88%90%E6%9C%AC%E9%A3%86%E5%8D%87-%E8%8F%AF%E7%82%BA%E8%A8%88%E7%95%AB%E8%AA%BF%E9%AB%98%E6%97%97%E8%89%A6%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E5%94%AE%E5%83%B9-060614821.html" target="_blank" rel="noopener">因應記憶體供應吃緊與成本飆升，華為計畫調高旗艦智慧型手機售價</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">政策補助</span>
+            <span class="ev-count">3 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories" target="_blank" rel="noopener">Trump touts economic wins in battleground states — like a $5</a></li><li><a href="https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html" target="_blank" rel="noopener">Inside India newsletter: Foreign insurers get the red-carpet</a></li><li><a href="https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html" target="_blank" rel="noopener">Treasury launches student loan support center as new data sh</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">油價上升</span>
+            <span class="ev-count">2 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://seekingalpha.com/news/4648824-asian-markets-trade-mixed-amid-rebound-in-oil-prices-australian-trade-and-pmi-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Asian markets trade mixed amid rebound in oil prices; Austra</a></li><li><a href="https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html" target="_blank" rel="noopener">Trump 'thinking about' diesel export ban, but says it could </a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">通膨上升</span>
+            <span class="ev-count">2 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories" target="_blank" rel="noopener">Cars have become unaffordable for many Americans. Here’s wha</a></li><li><a href="https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html" target="_blank" rel="noopener">Fed's Kashkari says inflation is 'still too high' even after</a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">戰爭升溫</span>
+            <span class="ev-count">2 則</span>
+            <span class="badge high">高信心</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html" target="_blank" rel="noopener">UK Prime Minister Burnham says Iran 'played a part' in Briti</a></li><li><a href="https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html" target="_blank" rel="noopener">Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon </a></li></ul>
+        </div>
+        <div class="ev-card">
+          <div class="ev-header">
+            <span class="ev-name">關稅/貿易戰</span>
+            <span class="ev-count">1 則</span>
+            <span class="badge mid">單篇</span>
+          </div>
+          
+          <ul class="news-list"><li><a href="https://seekingalpha.com/news/4648821-jamieson-greer-pushes-g20-to-counter-excess-capacity-flags-chinas-non-market-policies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Jamieson Greer pushes G20 to counter excess capacity, flags </a></li></ul>
+        </div>
+
+<!-- 股票提及圖 -->
+<h2>📊 熱門股票提及排行</h2>
+<div class="chart-box" style="height:600px">
+  <canvas id="chartMentions"></canvas>
+</div>
+
+<!-- 股票提及表格 -->
+<h2>🏭 詳細排行</h2>
+<table>
+  <tr>
+    <th style="width:40px">#</th>
+    <th>股票</th>
+    <th style="width:60px;text-align:center">提及</th>
+    <th style="width:140px">熱度</th>
+    <th>相關新聞</th>
+  </tr>
+  
+        <tr>
+          <td class="center rank">1</td>
+          <td><strong>台積電</strong><br><span class="ticker">2330.TW</span></td>
+          <td class="center count">3</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:120px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A148353%E9%BB%9E%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62510%E5%85%83-055447214.html" target="_blank" rel="noopener">台股48353點創收盤新高　台積電收2510元</a><br><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A1%9D%E4%B8%8A48353%E9%BB%9E-%E5%89%B5%E6%94%B6%E7%9B%A4%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62510%E5%85%83-054936163.html" target="_blank" rel="noopener">台股衝上48353點！創收盤歷史新高　台積電收2510元</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">2</td>
+          <td><strong>Google</strong><br><span class="ticker">GOOGL</span></td>
+          <td class="center count">2</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:80px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories" target="_blank" rel="noopener">Google shows it’s not out of the AI race just yet</a><br><a href="https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html" target="_blank" rel="noopener">Google rolls out Gemini 4 Argon, its most advanced AI model</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">3</td>
+          <td><strong>Tesla</strong><br><span class="ticker">TSLA</span></td>
+          <td class="center count">2</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:80px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788254" target="_blank" rel="noopener">進口車大量到港 9月占整體車市55% 強壓國產車</a><br><a href="https://money.udn.com/money/story/5612/9788126" target="_blank" rel="noopener">AI 電池模組躍居算力中心關鍵配備 這些台廠後市可期</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">4</td>
+          <td><strong>南亞</strong><br><span class="ticker">1303.TW</span></td>
+          <td class="center count">2</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:80px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788078" target="_blank" rel="noopener">大世科布局海外市場 打造第二成長曲線</a><br><a href="https://tw.stock.yahoo.com/news/%E6%90%B6%E6%94%BB%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%97%85%E9%81%8A%E5%95%86%E6%A9%9F-%E6%98%9F%E5%AE%87%E8%88%AA%E7%A9%BA%E5%8F%B0%E5%8C%97-%E5%B3%87%E9%87%8C%E5%B3%B6%E8%88%AA%E7%B7%9A%E5%95%9F%E8%88%AA-%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%8B%93%E8%87%B334%E5%9F%8E-060524834.html" target="_blank" rel="noopener">搶攻東南亞旅遊商機，星宇航空台北-峇里島航線啟航，全球版圖拓至34城</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">5</td>
+          <td><strong>Apple</strong><br><span class="ticker">AAPL</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html" target="_blank" rel="noopener">Trump’s AI lunch included every major tech company. Except A</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">6</td>
+          <td><strong>Meta</strong><br><span class="ticker">META</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html" target="_blank" rel="noopener">Meta stock enjoys best month since 2022 on AI momentum</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">7</td>
+          <td><strong>陽明</strong><br><span class="ticker">2609.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788200" target="_blank" rel="noopener">第26屆全國 AOI 論壇 工研院攜產學研聚焦先進半導體、矽光子智慧檢測</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">8</td>
+          <td><strong>Nvidia</strong><br><span class="ticker">NVDA</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788126" target="_blank" rel="noopener">AI 電池模組躍居算力中心關鍵配備 這些台廠後市可期</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">9</td>
+          <td><strong>和碩</strong><br><span class="ticker">4938.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788119" target="_blank" rel="noopener">和碩 AI 伺服器需求強勁 今年營收比重挑戰一成</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">10</td>
+          <td><strong>超微</strong><br><span class="ticker">2492.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788100" target="_blank" rel="noopener">超微攜 Perplexity Ryzen AI Max 處理器支援Portable ComputerPC</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">11</td>
+          <td><strong>AMD</strong><br><span class="ticker">AMD</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788100" target="_blank" rel="noopener">超微攜 Perplexity Ryzen AI Max 處理器支援Portable ComputerPC</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">12</td>
+          <td><strong>廣達</strong><br><span class="ticker">2382.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788084" target="_blank" rel="noopener">甲骨文大訂單再下一城 台股協力廠商皆有望受惠</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">13</td>
+          <td><strong>緯穎</strong><br><span class="ticker">6669.TWO</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788084" target="_blank" rel="noopener">甲骨文大訂單再下一城 台股協力廠商皆有望受惠</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">14</td>
+          <td><strong>緯創</strong><br><span class="ticker">3231.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788084" target="_blank" rel="noopener">甲骨文大訂單再下一城 台股協力廠商皆有望受惠</a></td>
+        </tr>
+        <tr>
+          <td class="center rank">15</td>
+          <td><strong>鴻海</strong><br><span class="ticker">2317.TW</span></td>
+          <td class="center count">1</td>
+          <td>
+            <div class="bar-wrap">
+              <div class="bar-fill" style="width:40px"></div>
+            </div>
+          </td>
+          <td class="sample-news"><a href="https://money.udn.com/money/story/5612/9788084" target="_blank" rel="noopener">甲骨文大訂單再下一城 台股協力廠商皆有望受惠</a></td>
+        </tr>
+</table>
+
+<footer>由事件驅動選股系統自動產生 · 2026-10-01<br>本報告為自動掃描，僅供參考，不構成投資建議</footer>
+</div>
+<div id="all-news-wrap" class="wrap" style="margin-top:0">
+<h2 style="margin-top:8px">📑 今日全部新聞（127 則）</h2>
+<p style="font-size:.8rem;color:#999;margin-bottom:10px">
+  以下為本次掃描的所有新聞標題，點標題可開原文。
+</p>
+
+    <table>
+      <tr>
+        <th style="width:36px">#</th>
+        <th style="width:90px">來源</th>
+        <th>標題（點擊看原文）</th>
+      </tr>
+      
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">1</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/california-six-other-states-sue-trump-administration-over-federal-funds-4926278" target="_blank" rel="noopener">California, six other states sue Trump administration over federal funds</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">2</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/company-news/landsec-acquires-metrocentre-shopping-center-for-516m-93CH-4926308" target="_blank" rel="noopener">Landsec acquires Metrocentre shopping center for £516m</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">3</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/insider-trading-news/royce-smallcap-trust-ceo-clark-buys-20472-in-rvt-stock-93CH-4926306" target="_blank" rel="noopener">Royce Small-Cap Trust CEO Clark buys $20,472 in RVT stock</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">4</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/insider-trading-news/verisign-ceo-bidzos-sells-919975-in-company-stock-93CH-4926305" target="_blank" rel="noopener">Verisign CEO Bidzos sells $919,975 in company stock</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">5</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176" target="_blank" rel="noopener">Tech stocks boosted by Micron but Treasury rout hangs over markets</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">6</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642" target="_blank" rel="noopener">A pilot brawl, then a rapid descent: passengers recount chaos on flydubai flight</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">7</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-071-4926299" target="_blank" rel="noopener">Taiwan stocks higher at close of trade; Taiwan Weighted up 0.71%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">8</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/commodities-news/gold-little-changed-after-6-september-slide-as-softer-us-pce-cuts-fed-hike-bets-4926166" target="_blank" rel="noopener">Gold rises after September slide as softer PCE trims Fed hike bets</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">9</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/economy-news/treasurys-smallerthanexpected-buybacks-fuel-debate-over-aims-4926250" target="_blank" rel="noopener">Treasury’s smaller-than-expected buybacks fuel debate over aims</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">10</td>
+          <td class="src-badge">investing_com</td>
+          <td><a href="https://www.investing.com/news/insider-trading-news/blackstoneaffiliated-entities-sell-111-million-of-bumble-stock-93CH-4926277" target="_blank" rel="noopener">Blackstone-affiliated entities sell $11.1 million of Bumble stock</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">11</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648821-jamieson-greer-pushes-g20-to-counter-excess-capacity-flags-chinas-non-market-policies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Jamieson Greer pushes G20 to counter excess capacity, flags China’s non-market policies</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">12</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648816-oracle-says-no-critical-infrastructure-damaged-at-project-jupiter-site?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Oracle says no critical infrastructure damaged at Project Jupiter site</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">13</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648831-ncl-corporation-prices-upsized-950m-senior-notes-due-2031?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">NCL Corporation prices upsized $950M senior notes due 2031</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">14</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648834-collplant-biotechnologies-gaap-eps-of-087-revenue-of-1143m-reaffirms-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">CollPlant Biotechnologies GAAP EPS of -$0.87, revenue of $11.43M; reaffirms FY 2026 outlook</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">15</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648833-recon-technology-gaap-eps-of--3928-revenue-of-162m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Recon Technology GAAP EPS of -$39.28, revenue of $16.2M</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">16</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648815-netflix-co-ceo-sarandos-says-growth-slower-than-desired-touts-live-content?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Netflix Co-CEO Sarandos says growth slower than desired, touts live content</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">17</td>
+          <td class="src-badge">seeking_alpha</td>
+          <td><a href="https://seekingalpha.com/news/4648824-asian-markets-trade-mixed-amid-rebound-in-oil-prices-australian-trade-and-pmi-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news" target="_blank" rel="noopener">Asian markets trade mixed amid rebound in oil prices; Australian trade and PMI slump</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">18</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories" target="_blank" rel="noopener">Cars have become unaffordable for many Americans. Here’s what the numbers show.</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">19</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">20</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">21</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories" target="_blank" rel="noopener">I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">22</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories" target="_blank" rel="noopener">Google shows it’s not out of the AI race just yet</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">23</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories" target="_blank" rel="noopener">The 15 worst-performing S&P 500 stocks during a dismal September</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">24</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories" target="_blank" rel="noopener">Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">25</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories" target="_blank" rel="noopener">How the ‘AI put’ has become the only thing that matters for stocks</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">26</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories" target="_blank" rel="noopener">A brutal September for bonds points to an even darker October</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">27</td>
+          <td class="src-badge">marketwatch</td>
+          <td><a href="https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories" target="_blank" rel="noopener">U.S. bond yields post biggest jump in a generation as global rout rattles investors</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">28</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html" target="_blank" rel="noopener">Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">29</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html" target="_blank" rel="noopener">Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">30</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html" target="_blank" rel="noopener">UK Prime Minister Burnham says Iran 'played a part' in British air base incident</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">31</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html" target="_blank" rel="noopener">Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">32</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html" target="_blank" rel="noopener">South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">33</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/citi-wealth-adviser-super-rich-wanted-bigger-stock-market-correctio.html" target="_blank" rel="noopener">Portfolio adviser to the super-rich wanted a bigger stock market correction. Here's why</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">34</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html" target="_blank" rel="noopener">AI race heats up as OpenAI flags alleged model-copying campaign</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">35</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html" target="_blank" rel="noopener">Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">36</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html" target="_blank" rel="noopener">In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">37</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html" target="_blank" rel="noopener">Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">38</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html" target="_blank" rel="noopener">Trump’s AI lunch included every major tech company. Except Apple</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">39</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html" target="_blank" rel="noopener">Trump administration starts sending $500 Obamacare refund checks — who stands to benefit</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">40</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/broken-market-75percent-of-sp-500-stocks-had-a-lousy-september-.html" target="_blank" rel="noopener">Broken market: 75% of S&P 500 stocks had a lousy September</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">41</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/thursdays-big-stock-stories-whats-likely-to-move-the-market.html" target="_blank" rel="noopener">Thursday's big stock stories: What’s likely to move the market in the next trading session</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">42</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html" target="_blank" rel="noopener">Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">43</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/this-driverless-trucking-stock-could-be-a-double-or-more-heres-why-im-buying-despite-the-risks.html" target="_blank" rel="noopener">This driverless trucking stock could be a double or more. Here’s why I’m buying despite the risks</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">44</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html" target="_blank" rel="noopener">David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">45</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html" target="_blank" rel="noopener">California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">46</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html" target="_blank" rel="noopener">Google rolls out Gemini 4 Argon, its most advanced AI model</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">47</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html" target="_blank" rel="noopener">Meta stock enjoys best month since 2022 on AI momentum</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">48</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/why-jim-cramer-isnt-buying-more-boeing-despite-its-huge-navy-contract-win-.html" target="_blank" rel="noopener">Why Jim Cramer isn't buying more Boeing despite its huge Navy contract win</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">49</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/select/gen-z-little-treat-economy-financial-tools/" target="_blank" rel="noopener">Gen Z’s 'little treat’ economy is thriving. These financial products help you enjoy responsibly</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">50</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html" target="_blank" rel="noopener">Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">51</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html" target="_blank" rel="noopener">Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">52</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html" target="_blank" rel="noopener">Treasury launches student loan support center as new data show 9.3 million borrowers in default</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">53</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html" target="_blank" rel="noopener">Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">54</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html" target="_blank" rel="noopener">Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">55</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html" target="_blank" rel="noopener">Fed watchdog finds renovation failures, but no grounds for criminal referral</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">56</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html" target="_blank" rel="noopener">Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">57</td>
+          <td class="src-badge">cnbc_top</td>
+          <td><a href="https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html" target="_blank" rel="noopener">Commerce Secretary Howard Lutnick reports more than $250 million in income last year</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">58</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788254" target="_blank" rel="noopener">進口車大量到港 9月占整體車市55% 強壓國產車</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">59</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788249" target="_blank" rel="noopener">台股開高走高　收漲413點</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">60</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788238" target="_blank" rel="noopener">元太攜手日本時裝品牌 巴黎時裝周首發可變色電子紙服裝</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">61</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788213" target="_blank" rel="noopener">台灣美光：2027、2028年記憶體供應市況比今年更吃緊</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">62</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788200" target="_blank" rel="noopener">第26屆全國 AOI 論壇 工研院攜產學研聚焦先進半導體、矽光子智慧檢測</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">63</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788199" target="_blank" rel="noopener">9月車市3.7萬台、年增15% 10月可望持續樂觀氛圍較去年成長</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">64</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788197" target="_blank" rel="noopener">遠東新循環材料拚放量 鞋材明年倍增、電子廢料衝千噸</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">65</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788150" target="_blank" rel="noopener">華碩搶攻智慧停車商機 智行全球首創防災與尋車四合一新科技</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">66</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788126" target="_blank" rel="noopener">AI 電池模組躍居算力中心關鍵配備 這些台廠後市可期</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">67</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788119" target="_blank" rel="noopener">和碩 AI 伺服器需求強勁 今年營收比重挑戰一成</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">68</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788100" target="_blank" rel="noopener">超微攜 Perplexity Ryzen AI Max 處理器支援Portable ComputerPC</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">69</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788089" target="_blank" rel="noopener">永康再生水廠二期工程動土 黃偉哲：提升供水韌性支撐產業發展</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">70</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788084" target="_blank" rel="noopener">甲骨文大訂單再下一城 台股協力廠商皆有望受惠</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">71</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788080" target="_blank" rel="noopener">嘉澤將參加 OCP Global Summit 2026</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">72</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788078" target="_blank" rel="noopener">大世科布局海外市場 打造第二成長曲線</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">73</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788076" target="_blank" rel="noopener">台灣虎航攜手 Dohop 串聯亞太航網打造一站式轉機服務</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">74</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788050" target="_blank" rel="noopener">研華 Customer360 獲數位轉型鼎革獎</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">75</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788034" target="_blank" rel="noopener">星宇拓展印尼航網　每週5班峇里島盼吸引歐美轉機客</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">76</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788024" target="_blank" rel="noopener">PHILIPS行動電源首創365保值換新計畫 GoodCube Air雙認證出國更安心</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">77</td>
+          <td class="src-badge">udn_money</td>
+          <td><a href="https://money.udn.com/money/story/5612/9788027" target="_blank" rel="noopener">奧孟亞突破口服胜肽低吸收門檻 減重新藥 ANY004一期臨床取得正向數據</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">78</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%A8%E7%90%83%E5%B7%A5%E6%A5%AD%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%AA%81%E7%A0%B4500%E8%90%AC%E5%8F%B0-%E9%97%9C%E7%AF%80%E8%A3%A1%E7%9A%84%E5%B0%8E%E9%AB%94%E6%92%90%E5%BE%97%E4%BD%8F%E5%97%8E-060900435.html" target="_blank" rel="noopener">全球工業機器人突破500萬台，關節裡的導體撐得住嗎？</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">79</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%99%9A%E8%82%B2%E6%BD%AE%E8%88%87%E4%B9%B3%E7%99%8C%E5%A5%BD%E7%99%BC%E6%9C%9F%E9%87%8D%E7%96%8A-%E5%93%BA%E4%B9%B3%E6%9C%9F%E7%A1%AC%E5%A1%8A%E9%9B%A3%E6%B6%88%E6%85%8E%E9%98%B2%E4%B8%89%E9%99%B0%E6%80%A7%E4%B9%B3%E7%99%8C-060805853.html" target="_blank" rel="noopener">晚育潮與乳癌好發期重疊 哺乳期硬塊難消慎防三陰性乳癌</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">80</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E5%B9%AB%E5%BF%99%E5%91%8A%E5%88%A5%E5%96%AE%E8%BA%AB-%E6%98%9F%E6%94%BF%E5%BA%9C%E6%8E%A8%E5%85%AC%E5%8B%99%E5%93%A1%E7%B7%9A%E4%B8%8A%E9%85%8D%E5%B0%8D%E6%9C%8D%E5%8B%99-060759698.html" target="_blank" rel="noopener">幫忙告別單身！星政府推公務員線上配對服務</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">81</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/ts-lombard%E4%BC%B0-%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E6%9C%AA%E4%BE%86%E5%B0%87%E5%8D%87%E8%87%B38-060636148.html" target="_blank" rel="noopener">TS Lombard估，美國10年期國債殖利率未來將升至8%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">82</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%9B%A0%E6%87%89%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E6%87%89%E5%90%83%E7%B7%8A%E8%88%87%E6%88%90%E6%9C%AC%E9%A3%86%E5%8D%87-%E8%8F%AF%E7%82%BA%E8%A8%88%E7%95%AB%E8%AA%BF%E9%AB%98%E6%97%97%E8%89%A6%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E5%94%AE%E5%83%B9-060614821.html" target="_blank" rel="noopener">因應記憶體供應吃緊與成本飆升，華為計畫調高旗艦智慧型手機售價</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">83</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%90%B6%E6%94%BB%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%97%85%E9%81%8A%E5%95%86%E6%A9%9F-%E6%98%9F%E5%AE%87%E8%88%AA%E7%A9%BA%E5%8F%B0%E5%8C%97-%E5%B3%87%E9%87%8C%E5%B3%B6%E8%88%AA%E7%B7%9A%E5%95%9F%E8%88%AA-%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%8B%93%E8%87%B334%E5%9F%8E-060524834.html" target="_blank" rel="noopener">搶攻東南亞旅遊商機，星宇航空台北-峇里島航線啟航，全球版圖拓至34城</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">84</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%88%BF%E8%B2%B8%E5%8F%AA%E8%83%BD%E6%89%BE%E9%8A%80%E8%A1%8C%E8%BE%B2%E6%BC%81%E6%9C%83%E3%80%81%E4%BF%A1%E5%90%88%E7%A4%BE%E4%B9%9F%E8%83%BD%E8%BE%A6-%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%85%88%E9%81%8E3%E9%97%9C%E5%86%8D%E6%AF%94%E5%88%A9%E7%8E%87-060506458.html" target="_blank" rel="noopener">房貸只能找銀行?農漁會、信合社也能辦　專家：先過3關再比利率</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">85</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E9%AB%98%E5%8A%9B%E7%99%BC%E8%A1%8C%E5%9C%8B%E5%85%A7%E7%AC%AC%E4%BA%94%E6%AC%A1%E7%84%A1%E6%93%94%E4%BF%9D%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E4%B9%8B%E8%BD%89%E6%8F%9B%E5%83%B9%E6%A0%BC%E5%8F%8A%E6%BA%A2%E5%83%B9%E7%8E%87-060355812.html" target="_blank" rel="noopener">【公告】高力發行國內第五次無擔保轉換公司債之轉換價格及溢價率</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">86</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E9%AB%98%E5%8A%9B%E7%99%BC%E8%A1%8C%E5%9C%8B%E5%85%A7%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%84%A1%E6%93%94%E4%BF%9D%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E4%B9%8B%E8%BD%89%E6%8F%9B%E5%83%B9%E6%A0%BC%E5%8F%8A%E6%BA%A2%E5%83%B9%E7%8E%87-060353552.html" target="_blank" rel="noopener">【公告】高力發行國內第六次無擔保轉換公司債之轉換價格及溢價率</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">87</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%B0%B8%E4%BF%A1%E5%BB%BA-2026%E5%B9%B49%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B66-26%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E105-060351631.html" target="_blank" rel="noopener">【公告】永信建 2026年9月合併營收6.26億元 年增105.38%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">88</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E9%AB%98%E9%A1%8D%E6%8A%95%E6%B3%A8%E5%AE%A2%E7%BA%8C%E6%B8%9B-%E6%BE%B3%E9%96%809%E6%9C%88%E5%8D%9A%E5%BD%A9%E6%94%B6%E5%85%A5%E5%B9%B4%E6%B8%9B1-2-%E4%B8%8D%E5%A6%82%E9%A0%90%E6%9C%9F-%E9%80%A3%E5%9B%9B%E9%BB%91-060126194.html" target="_blank" rel="noopener">高額投注客續減，澳門9月博彩收入年減1.2%不如預期，連四黑</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">89</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%92%9E%E6%93%8A%E6%99%82%E6%B0%A3%E5%9B%8A%E6%9C%AA%E6%AD%A3%E5%B8%B8%E5%B1%95%E9%96%8B-mg-zs%E6%B8%AC%E6%92%9E%E6%85%98%E6%8B%BF0%E6%98%9F-tncap%E9%BB%9E3%E5%A4%A7%E7%BC%BA%E5%A4%B1-%E5%8E%9F%E5%BB%A0%E6%80%A5%E8%87%AA%E4%B8%BB%E5%8F%AC%E5%9B%9E-060002963.html" target="_blank" rel="noopener">撞擊時氣囊未正常展開！MG ZS測撞慘拿0星，TNCAP點3大缺失…原廠急自主召回、免費檢修</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">90</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E9%80%A3%E6%AF%94%E7%88%BE%E8%93%8B%E8%8C%B2%E4%B9%9F%E7%98%8B%E7%8E%A950%E5%B9%B4-%E6%96%B0%E5%A3%BD%E9%A6%96%E8%BE%A6%E5%8C%B9%E5%85%8B%E7%90%83%E8%B3%BD-%E9%98%BF%E5%85%AC%E9%98%BF%E5%AC%A4%E4%B9%9F%E8%83%BD%E6%89%93-%E5%85%AC%E9%96%8B%E8%B3%BD%E7%81%AB%E7%86%B1%E5%A0%B1%E5%90%8D-060002039.html" target="_blank" rel="noopener">連比爾蓋茲也瘋玩50年！新壽首辦匹克球賽，阿公阿嬤也能打，公開賽火熱報名</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">91</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/priority-pass-%E8%A1%A8%E5%BD%B0%E5%A1%91%E9%80%A0%E6%A9%9F%E5%A0%B4%E9%AB%94%E9%A9%97%E6%9C%AA%E4%BE%86%E8%97%8D%E5%9C%96%E7%9A%84%E5%84%AA%E7%A7%80%E5%9C%98%E9%9A%8A%E8%88%87%E6%A5%AD%E7%95%8C%E5%85%88%E9%A9%85-060000953.html" target="_blank" rel="noopener">Priority Pass 表彰塑造機場體驗未來藍圖的優秀團隊與業界先驅</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">92</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A148353%E9%BB%9E%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62510%E5%85%83-055447214.html" target="_blank" rel="noopener">台股48353點創收盤新高　台積電收2510元</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">93</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%A5%89%E6%AB%83%E8%B2%B7%E4%B8%AD%E5%BF%83%E9%80%9A%E7%9F%A5%E9%9B%B7%E7%A7%91%E5%8F%AF%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E9%9B%B7%E7%A7%91%E4%BA%94-%E4%BB%A3%E8%99%9F-62075-%E5%83%B9%E6%A0%BC%E8%AE%8A%E5%8B%95%E9%81%94%E6%87%89%E5%85%AC%E5%B8%83%E6%B3%A8%E6%84%8F%E4%BA%A4%E6%98%93%E8%B3%87%E8%A8%8A%E6%A8%99%E6%BA%96-055345218.html" target="_blank" rel="noopener">【公告】奉櫃買中心通知雷科可轉換公司債雷科五(代號:62075)價格變動達應公布注意交易資訊標準，而公告相關訊息。</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">94</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%8F%AF%E6%B3%B0%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8%E6%89%80%E8%88%89%E8%BE%A6%E4%B9%8B%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-055343480.html" target="_blank" rel="noopener">【公告】華泰受邀參加凱基證券所舉辦之法人說明會</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">95</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%87%B1%E8%A1%9B%E6%B3%95%E4%BA%BA%E8%91%A3%E4%BA%8B%E6%94%B9%E6%B4%BE%E4%BB%A3%E8%A1%A8%E4%BA%BA-055341190.html" target="_blank" rel="noopener">【公告】凱衛法人董事改派代表人</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">96</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E9%81%A0%E6%9D%B1%E6%96%B0%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%A7%E5%95%96%E4%B8%96%E8%B6%B3%E5%95%86%E6%A9%9F-%E7%9C%8B%E5%A5%BD%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A3%9C%E8%B2%A8%E6%95%88%E6%87%89-055339104.html" target="_blank" rel="noopener">遠東新上半年大啖世足商機　看好下半年補貨效應</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">97</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2413-36%E9%BB%9E-055337523.html" target="_blank" rel="noopener">【台北股市】漲413.36點</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">98</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E6%8B%8D%E6%9D%BF%E9%8A%80%E8%A1%8C%E5%A3%93%E5%8A%9B%E6%B8%AC%E8%A9%A6%E6%94%B9%E9%9D%A9-%E8%B3%87%E6%9C%AC%E8%A6%81%E6%B1%82%E7%A9%A9%E5%AE%9A%E6%80%A7%E5%A2%9E%E4%BA%94%E6%88%90-055336929.html" target="_blank" rel="noopener">聯準會拍板銀行壓力測試改革 資本要求穩定性增五成</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">99</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A1%9D%E4%B8%8A48353%E9%BB%9E-%E5%89%B5%E6%94%B6%E7%9B%A4%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62510%E5%85%83-054936163.html" target="_blank" rel="noopener">台股衝上48353點！創收盤歷史新高　台積電收2510元</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">100</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E6%BC%B21-75%E9%BB%9E-054934919.html" target="_blank" rel="noopener">【櫃買盤後】漲1.75點</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">101</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%94%9F%E8%8F%AF%E7%A7%91%E7%A0%94%E7%99%BC%E4%B8%BB%E7%AE%A1%E7%95%B0%E5%8B%95-054832208.html" target="_blank" rel="noopener">【公告】生華科研發主管異動</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">102</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E9%9F%93%E5%A5%B3%E4%BE%86%E5%8F%B0%E5%8F%AB%E8%BB%8A%E9%81%AD%E6%8B%92%E8%BC%89-%E8%A1%8C%E6%9D%8E%E8%A2%AB%E6%80%92%E6%91%94%E6%B1%82%E5%84%9F%E7%84%A1%E9%96%80-054821678.html" target="_blank" rel="noopener">韓女來台叫車遭拒載　行李被怒摔求償無門</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">103</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%A4%A7%E7%94%B2-%E6%89%9B%E4%B8%8D%E4%BD%8F-%E4%BA%86-%E4%B8%89%E5%AD%A3%E7%8C%9B%E6%BC%B2578-%E4%BB%8A%E6%9A%B4%E8%B7%8C%E4%BA%AE%E7%87%88%E8%B7%8C%E5%81%9C-054543651.html" target="_blank" rel="noopener">大甲「扛不住」了！三季猛漲578%⋯今暴跌亮燈跌停</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">104</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E6%98%8E%E5%B9%B4%E8%AA%BF%E8%87%B33%E8%90%AC900%E5%85%83-%E4%BC%B0261%E8%90%AC%E5%8B%9E%E5%B7%A5%E5%8F%97%E6%83%A0-054501066.html" target="_blank" rel="noopener">最低工資明年調至3萬900元　估261萬勞工受惠</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">105</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E8%87%BA%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%AD%8C%E5%8A%87%E9%99%A2%E8%BF%8E%E5%8D%81%E9%80%B1%E5%B9%B4-%E8%81%9A%E7%84%A6%E5%9C%A8%E5%9C%B0%E8%88%87%E5%8E%9F%E5%89%B5%E9%82%81%E5%90%91%E4%B8%8B%E5%80%8B%E5%8D%81%E5%B9%B4-054501075.html" target="_blank" rel="noopener">臺中國家歌劇院迎十週年 聚焦在地與原創邁向下個十年</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">106</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89-%E7%B4%AF%E8%A8%88%E6%8A%95%E8%B3%871-6%E5%85%86%E5%85%83-%E5%9C%A8%E5%8F%B0%E6%93%B4%E5%BB%A0%E6%AD%A5%E4%BC%90%E4%B8%8D%E5%81%9C%E6%AD%A2-054030492.html" target="_blank" rel="noopener">台灣美光：累計投資1.6兆元　在台擴廠步伐不停止</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">107</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2413%E9%BB%9E%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-%E5%9C%8B%E5%B7%A8%E7%AD%8913%E6%AA%94%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E6%BC%B2%E5%81%9C-%E9%80%99%E5%8E%9F%E5%9B%A0%E8%B3%87%E9%87%91%E7%98%8B%E6%90%B6-054019929.html" target="_blank" rel="noopener">台股漲413點創收盤新高！國巨等13檔被動元件漲停 這原因資金瘋搶</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">108</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%95%B7%E9%81%AD%E5%89%AF%E6%A9%9F%E5%B8%AB%E5%88%BA%E5%82%B7-%E6%8B%9A%E6%AD%BB%E6%95%91%E5%85%A8%E6%A9%9F-053544401.html" target="_blank" rel="noopener">杜拜航空機長遭副機師刺傷　拚死救全機</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">109</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%AE%8F%E8%8A%AF%E7%A7%91%E6%8A%80-2026%E5%B9%B49%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6622-1%E8%90%AC%E5%85%83-%E5%B9%B4%E5%A2%9E119-053319021.html" target="_blank" rel="noopener">【公告】宏芯科技 2026年9月合併營收622.1萬元 年增119.05%</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">110</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%BF%80%E6%B5%81%E6%A8%99%E7%AB%BF-%E5%90%B3%E8%9E%8D%E6%94%BF%E7%94%B7%E5%AD%90%E5%96%AE%E4%BA%BAc%E8%89%87%E6%91%98%E9%8A%80-053302070.html" target="_blank" rel="noopener">名古屋亞運／激流標竿 吳融政男子單人C艇摘銀</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">111</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%BC%8F%E5%A4%A7%E8%B3%A3%E5%A0%B4%E7%8D%A8%E5%AE%B6%E4%B8%8A%E5%B8%82-brita-%E6%B0%B8%E7%BA%8C%E7%B4%94%E6%B7%A8%E6%BF%BE%E6%B0%B4%E5%A3%BA-%E5%AF%A6%E8%B8%90%E7%92%B0%E5%A2%83%E6%B0%B8%E7%BA%8C%E5%BE%9E%E6%AF%8F%E5%A4%A9-%E6%9D%AF%E5%A5%BD%E6%B0%B4%E9%96%8B%E5%A7%8B-053008610.html" target="_blank" rel="noopener">美式大賣場獨家上市！BRITA 永續純淨濾水壺，實踐環境永續從每天一杯好水開始</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">112</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E8%8E%AB%E5%BE%B7%E7%B4%8D%E8%82%A1%E5%83%B9%E9%87%8D%E6%8C%AB-%E8%8A%B1%E6%97%97%E7%A8%B1%E4%BB%8A%E5%B9%B4%E6%9A%B4%E6%BC%B2500-%E5%BE%8C%E6%98%AF%E6%99%82%E5%80%99%E8%B3%A3%E5%87%BA-053005410.html" target="_blank" rel="noopener">莫德納股價重挫 花旗稱今年暴漲500%後是時候賣出</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">113</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E6%98%8E%E5%B9%B4%E5%8D%87%E8%87%B33-09%E8%90%AC%E5%85%83-%E5%8D%93%E6%8F%86-%E5%BE%8C%E7%BA%8C%E7%A0%94%E8%AD%B0%E9%85%8D%E5%A5%97%E6%8E%AA%E6%96%BD%E6%8C%BA%E5%8B%9E%E5%B7%A5%E7%94%A2%E6%A5%AD-052828408.html" target="_blank" rel="noopener">最低工資明年升至3.09萬元 卓揆：後續研議配套措施挺勞工產業</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">114</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%AA%BF%E6%9F%A5ai%E5%AE%89%E5%85%A8%E4%BD%9C%E7%82%BA-%E5%82%B3%E9%8E%96%E5%AE%9Aanthropic%E8%88%87openai-052517766.html" target="_blank" rel="noopener">美調查AI安全作為　傳鎖定Anthropic與OpenAI</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">115</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%9B%AE%E6%A8%99%E5%83%B9%E8%A1%9D%E7%A0%B43%E5%8D%83-%E5%A4%A7%E5%92%8C%E7%9C%8B%E5%A5%BD%E5%8F%B0%E9%81%94%E9%9B%BB-%E7%90%86%E7%94%B1%E5%85%A8%E8%AA%AA%E4%BA%86-052200602.html" target="_blank" rel="noopener">目標價衝破3千！大和看好台達電 理由全說了</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">116</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E6%94%BF%E9%99%A2%E8%A8%88%E5%8A%83%E6%98%8E%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E6%99%AE%E7%99%BC1%E8%90%AC-%E7%B1%B2%E7%AB%8B%E9%99%A2%E5%84%98%E9%80%9F%E5%AF%A9%E9%A0%90%E7%AE%97-052025173.html" target="_blank" rel="noopener">政院計劃明年農曆年前普發1萬 籲立院儘速審預算</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">117</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%95%B8%E7%99%BC%E9%83%A8%E6%AC%A1%E9%95%B7%E4%BE%AF%E5%AE%9C%E7%A7%80%E8%81%AF%E5%A4%A7%E5%91%A8%E9%82%8A%E6%9C%83%E8%AD%B0%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B-%E7%B1%B2%E7%90%86%E5%BF%B5%E7%9B%B8%E8%BF%91%E5%A4%A5%E4%BC%B4%E5%85%B1%E5%A1%91-ai%E5%90%91%E5%96%84-051533367.html" target="_blank" rel="noopener">數發部次長侯宜秀聯大周邊會議專題演講 籲理念相近夥伴共塑「AI向善」</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">118</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.news.yahoo.com/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%8F%AA%E5%B7%AE2%E5%88%86%E9%97%96%E9%87%91%E7%89%8C%E6%88%B0-%E8%A8%B1%E8%82%B2%E4%BF%AE-%E4%BD%95%E6%89%BF%E7%9D%BF%E7%B6%B2%E7%90%83%E7%94%B7%E9%9B%99%E6%91%98%E9%8A%85-051326814.html" target="_blank" rel="noopener">名古屋亞運／只差2分闖金牌戰 許育修、何承睿網球男雙摘銅</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">119</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%B0%B8%E7%BA%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%AA%BF%E6%9F%A5%E9%AB%98%E9%9B%84%E5%8B%87%E5%A5%AA%E5%9B%9B%E5%A4%A7%E7%8D%8E-%E9%99%B3%E5%85%B6%E9%82%81%E9%80%A3%E7%BA%8C3%E5%B9%B4%E7%8D%B2%E6%9C%80%E4%BD%B3%E9%A6%96%E9%95%B7%E4%BF%A1%E4%BB%BB%E7%8D%8E-051307667.html" target="_blank" rel="noopener">永續城市大調查高雄勇奪四大獎 陳其邁連續3年獲最佳首長信任獎</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">120</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%87%E4%BC%8A%E6%9C%97%E7%A3%8B%E5%95%86-%E7%A2%BA%E4%BF%9D10%E6%9C%88%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%A3%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%8E%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD-051245212.html" target="_blank" rel="noopener">巴基斯坦與伊朗磋商，確保10月液化天然氣安全通過荷姆茲海峽</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">121</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%911%E8%90%AC%E5%85%83%E6%99%82%E9%96%93%E9%BB%9E%E4%BE%86%E4%BA%86-%E8%A1%8C%E6%94%BF%E9%99%A2%E6%93%AC-%E9%80%99%E6%99%82-%E7%99%BC%E6%94%BE-051207594.html" target="_blank" rel="noopener">普發現金1萬元時間點來了！行政院擬「這時」發放</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">122</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E5%8A%A0%E7%A2%BC%E5%8F%B0%E7%81%A3-%E7%BE%8E%E5%85%89%E5%8F%B0%E7%81%A3%E5%9B%9B%E5%A4%A7%E5%9F%BA%E5%9C%B0%E5%90%8C%E6%AD%A5%E6%93%B4%E7%94%A2-%E5%8F%B0%E4%B8%ADhbm%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E4%BA%8C%E5%BB%A0%E6%9C%AC%E6%9C%88%E5%95%9F%E7%94%A8-051107616.html" target="_blank" rel="noopener">〈美光加碼台灣〉美光台灣四大基地同步擴產 台中HBM先進封裝二廠本月啟用</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">123</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E5%8D%87-%E5%82%B5%E5%B8%82%E8%80%81%E5%B0%876%E5%B9%B4%E4%BE%86%E9%A6%96%E5%BA%A6%E7%BF%BB%E5%A4%9A-%E9%80%99%E6%98%AF%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87-051005405.html" target="_blank" rel="noopener">美債殖利率飆升 債市老將6年來首度翻多：這是價值投資</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">124</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC1%E8%90%AC%E8%A6%81%E4%BE%86%E4%BA%86-%E6%94%BF%E9%99%A2%E9%A6%96%E5%BA%A6%E9%AC%86%E5%8F%A3-%E5%8A%9B%E6%8B%9A-%E9%80%99%E6%99%82%E9%96%93-%E5%89%8D-050900803.html" target="_blank" rel="noopener">普發1萬要來了！政院首度鬆口：力拚「這時間」前</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">125</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%95%B4%E5%90%88ai%E8%88%87%E7%94%9F%E9%86%AB%E6%8E%A5%E8%BB%8C%E5%9C%8B%E9%9A%9B-%E8%B3%B4%E6%B8%85%E5%BE%B7-%E7%9B%BC%E5%8F%B0%E7%81%A3%E5%9C%A8%E5%85%A8%E7%90%83%E7%94%9F%E9%86%AB%E7%99%BC%E5%B1%95%E8%B5%B0%E5%BE%97%E6%9B%B4%E9%81%A0-050610126.html" target="_blank" rel="noopener">整合AI與生醫接軌國際 賴清德：盼台灣在全球生醫發展走得更遠</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">126</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%91%A8%E5%B9%B4%E6%85%B6%E4%BB%8A%E9%96%8B%E8%B7%91-%E5%90%B3%E6%9D%B1%E6%98%87%E7%B1%B2%E6%B6%88%E8%B2%BB-%E8%B3%BA%E9%8C%A2%E4%B9%9F%E8%A6%81%E8%A8%98%E5%BE%97%E8%8A%B1%E9%8C%A2-050414734.html" target="_blank" rel="noopener">新光三越周年慶今開跑！吳東昇籲消費：賺錢也要記得花錢</a></td>
+        </tr>
+        <tr>
+          <td class="center" style="color:#bbb;width:36px">127</td>
+          <td class="src-badge">yahoo_tw</td>
+          <td><a href="https://tw.stock.yahoo.com/news/%E6%BD%98%E6%9C%B5%E6%8B%891-5%E5%84%84%E7%BE%8E%E5%85%83%E8%B6%8A%E5%8D%97%E6%96%B0%E5%BB%A0%E5%95%9F%E7%94%A8-%E7%94%A2%E8%83%BD%E5%A2%9E50-%E5%88%86%E6%95%A3%E6%B3%B0%E5%9C%8B%E7%94%9F%E7%94%A2%E5%B8%83%E5%B1%80-050104124.html" target="_blank" rel="noopener">潘朵拉1.5億美元越南新廠啟用，產能增50%，分散泰國生產布局</a></td>
+        </tr>
+    </table>
+<div style="height:24px"></div>
+</div>
+
+<script>
+// 話題熱度圖
+new Chart(document.getElementById('chartEvents'), {
+  type: 'bar',
+  data: {
+    labels: ["關稅/貿易戰", "戰爭升溫", "通膨上升", "油價上升", "政策補助", "記憶體漲價", "景氣轉弱", "升息", "AI熱潮"],
+    datasets: [{
+      label: '新聞則數',
+      data: [1, 2, 2, 2, 3, 3, 4, 5, 9],
+      backgroundColor: ["rgba(149,165,166,0.7)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)", "rgba(52,152,219,0.85)"],
+      borderRadius: 5,
+    }]
+  },
+  options: {
+    indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { beginAtZero: true, ticks: { stepSize: 1 } },
+      y: { ticks: { font: { size: 13 } } }
+    }
+  }
+});
+
+// 股票提及圖
+new Chart(document.getElementById('chartMentions'), {
+  type: 'bar',
+  data: {
+    labels: ["鴻海(2317.TW)", "緯創(3231.TW)", "緯穎(6669.TWO)", "廣達(2382.TW)", "AMD(AMD)", "超微(2492.TW)", "和碩(4938.TW)", "Nvidia(NVDA)", "陽明(2609.TW)", "Meta(META)", "Apple(AAPL)", "南亞(1303.TW)", "Tesla(TSLA)", "Google(GOOGL)", "台積電(2330.TW)"],
+    datasets: [{
+      label: '提及次數',
+      data: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3],
+      backgroundColor: 'rgba(52,152,219,0.75)',
+      borderRadius: 5,
+    }]
+  },
+  options: {
+    indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { beginAtZero: true, ticks: { stepSize: 1 } },
+      y: { ticks: { font: { size: 12 } } }
+    }
+  }
+});
+</script>
+</body>
+</html>
