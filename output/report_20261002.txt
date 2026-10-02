@@ -1,88 +1,104 @@
 📊 事件驅動選股日報 2026-10-02
 ════════════════════════════════
-掃描 125 則新聞  |  偵測 7 個事件
+掃描 125 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI投資熱潮不減**：AI相關產業投資持續升溫，數據中心與晶片需求推動供應鏈成長，但市場對獲利前景保持審慎。
+2.  **景氣轉弱擔憂浮現**：全球經濟放緩跡象增多，歐洲股市面臨下行壓力，部分企業開始縮減職位，債券殖利率自高點回落，反映市場對經濟前景的謹慎態度。
+3.  **通膨與能源壓力持續**：油價上漲與歐洲潛在的冬季能源危機，疊加最低工資調升等因素，加劇通膨壓力，可能推升企業營運成本並影響消費購買力。
+
+【具體總結】：
+AI熱潮持續為科技板塊注入動能，吸引資金聚焦於相關基礎建設與晶片領域。然而，宏觀經濟面臨挑戰，景氣轉弱的擔憂與能源成本上升帶來的通膨壓力並存，導致債券殖利率自高點回落。高利率環境對企業成本與消費力道的影響也將持續。整體而言，市場資金可能在AI等特定成長題材與防禦性資產之間進行權衡，盤勢可能呈現區間震盪與板塊分化。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】9 則  🟢高信心
+【AI熱潮】12 則  🟢高信心
+  ▸ Evercore ISI upgrades Legrand stock rating on datacenter gro
+    https://www.investing.com/news/analyst-ratings/evercore-isi-upgrades-legrand-stock-rating-on-datacenter-growth-93CH-4929006
   ▸ Broadcom gathers $60B financing package to fund AI chips for
     https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Palantir, Armada team up on sovereign AI infrastructure
-    https://seekingalpha.com/news/4649718-palantir-armada-team-up-on-sovereign-ai-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ SoftBank shares slide after completing final tranche of Open
-    https://www.investing.com/news/stock-market-news/softbank-shares-slide-after-completing-final-tranche-of-openai-investment-4928896
+  ▸ Google unveils latest AI model, but Wall Street wants a brea
+    https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html
 
-【景氣轉弱】4 則  🟢高信心
-  ▸ This could be the worst year ever for Nike’s stock, with sal
-    https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories
+【景氣轉弱】6 則  🟢高信心
   ▸ Bond yields suddenly retreat from recent highs as buyers ste
     https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories
-  ▸ Nike shares drop as retailer posts disappointing sales, anno
-    https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html
+  ▸ BofA eyes 10% fall in European stocks, but upgrades defense 
+    https://seekingalpha.com/news/4649729-bofa-eyes-10-fall-in-european-stocks-but-upgrades-defense-names-dassault-and-saab?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Comcast's NBCUniversal reportedly slashes streaming tech job
+    https://seekingalpha.com/news/4649725-comcasts-nbcuniversal-reportedly-slashes-streaming-tech-jobs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【油價上升】3 則  🟢高信心
-  ▸ Asian equities mostly lower amid bond volatility, oil pressu
-    https://seekingalpha.com/news/4649715-asian-equities-mostly-lower-amid-bond-volatility-oil-pressures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+【油價上升】4 則  🟢高信心
+  ▸ ECB’s Rehn says soaring yields may curb inflation impact of 
+    https://www.investing.com/news/economy-news/ecbs-rehn-says-soaring-yields-may-curb-inflation-impact-of-expensive-energy-4929015
   ▸ Here’s how much more groceries, clothing and household appli
     https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories
   ▸ Europe’s winter energy crunch may already be underway. Two U
     https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html
 
 【升息】3 則  🟢高信心
-  ▸ Global bond rout deepens, pushes US Treasury yields to 24-ye
-    https://www.investing.com/news/economy-news/bonds-teeter-after-us-treasuries-worst-quarter-since-1994-4926346
-  ▸ Gold steadies as stronger dollar, higher yields weigh; U.S. 
-    https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890
+  ▸ ECB’s Rehn says soaring yields may curb inflation impact of 
+    https://www.investing.com/news/economy-news/ecbs-rehn-says-soaring-yields-may-curb-inflation-impact-of-expensive-energy-4929015
+  ▸ FTSE 100 today: Stocks rebound modestly after gilt rout; U.S
+    https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rebound-modestly-after-gilt-rout-us-jobs-data-in-focus-4929008
   ▸ The hidden silver lining of high interest rates: safer, chea
     https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories
+
+【通膨上升】3 則  🟢高信心
+  ▸ ECB’s Rehn says soaring yields may curb inflation impact of 
+    https://www.investing.com/news/economy-news/ecbs-rehn-says-soaring-yields-may-curb-inflation-impact-of-expensive-energy-4929015
+  ▸ Here’s how much more groceries, clothing and household appli
+    https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories
+  ▸ 最低工資明年調升 勞動部估雇主年增327億負擔
+    https://tw.news.yahoo.com/%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E6%98%8E%E5%B9%B4%E8%AA%BF%E5%8D%87-%E5%8B%9E%E5%8B%95%E9%83%A8%E4%BC%B0%E9%9B%87%E4%B8%BB%E5%B9%B4%E5%A2%9E327%E5%84%84%E8%B2%A0%E6%93%94-071249492.html
 
 【關稅/貿易戰】3 則  🟢高信心
   ▸ U.S. trade representative Greer says deal with India not 'im
     https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html
-  ▸ A Brexit reversal is on the table 10 years on from the vote 
-    https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html
+  ▸ Brazil votes in high-stakes election as U.S.-China rivalry a
+    https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html
   ▸ Treasury sanctions operation targets Iran's auto, rail indus
     https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html
 
-【通膨上升】2 則  🟢高信心
-  ▸ Here’s how much more groceries, clothing and household appli
-    https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories
-  ▸ Europe’s winter energy crunch may already be underway. Two U
-    https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html
+【戰爭升溫】2 則  🟢高信心
+  ▸ BofA eyes 10% fall in European stocks, but upgrades defense 
+    https://seekingalpha.com/news/4649729-bofa-eyes-10-fall-in-european-stocks-but-upgrades-defense-names-dassault-and-saab?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ U.S. to send third carrier group to Mideast as Trump warns o
+    https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html
 
-【美元升值】1 則  🟡單篇
-  ▸ Gold steadies as stronger dollar, higher yields weigh; U.S. 
-    https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890
+【記憶體漲價】1 則  🟡單篇
+  ▸ 【公告】晶豪科 2026年9月合併營收74.61億元 年增470.23%
+    https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91-2026%E5%B9%B49%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B674-61%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E470-072214723.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +5.5  油電燃氣｜油價上升、通膨上升
- 2. 8917.TW      +5.5  油電燃氣｜油價上升、通膨上升
- 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 8. 2880.TW      +2.0  金融｜升息
- 9. 2881.TW      +2.0  金融｜升息
-10. 2882.TW      +2.0  金融｜升息
+ 1. 6505.TW      +8.6  油電燃氣｜油價上升、通膨上升
+ 2. 8917.TW      +8.6  油電燃氣｜油價上升、通膨上升
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -3.0  交通運輸及航運｜油價上升
- 2. 2609.TW      -3.0  交通運輸及航運｜油價上升
- 3. 2615.TW      -3.0  交通運輸及航運｜油價上升
- 4. 2618.TW      -3.0  交通運輸及航運｜油價上升
- 5. 2515.TW      -3.0  建材營造｜升息
- 6. 5534.TW      -3.0  建材營造｜升息
- 7. 2504.TW      -3.0  建材營造｜升息
- 8. 2317.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
- 9. 2327.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
-10. 3037.TW      -2.5  電子零組件｜景氣轉弱、關稅/貿易戰
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2317.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
+ 8. 2330.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      -3.2  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      -3.2  半導體｜AI熱潮、景氣轉弱
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
