@@ -1,0 +1,108 @@
+📊 事件驅動選股日報 2026-10-05
+════════════════════════════════
+掃描 120 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**
+1.  **AI產業熱度不減**：AI領域持續有大型軟體交易、新服務推出及監管層面的關注，顯示其為技術與資本焦點。
+2.  **全球經濟數據顯露疲態**：南非經濟收縮、德國機械訂單下滑，反映全球主要經濟體面臨需求疲弱，景氣轉弱跡象浮現。
+3.  **升息預期及高殖利率壓力**：市場關注聯準會會議紀要，美債殖利率維持高位，對股市構成壓力並影響投資者情緒。
+4.  **美元走強與亞幣貶值**：美元指數上升導致亞洲貨幣普遍走弱，歐元也因政治不確定性及美元強勢而創下新低。
+5.  **地緣政治與貿易摩擦持續**：前美國總統川普的能源交易言論以及日本企業撤離中國，凸顯地緣政治與貿易關係仍是潛在變數。
+
+**【具體總結】**
+今日盤勢反映多重因素交織影響。AI相關產業雖持續受到資金關注，展現其韌性與發展潛力，但全球經濟數據的疲弱、高利率環境以及美元的強勢，對整體市場構成壓力。投資人正權衡科技創新帶來的機會與宏觀經濟逆風，資金可能在成長型科技股與防禦性資產間流動，同時密切關注央行政策動向和地緣政治風險，導致盤勢波動加劇。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】10 則  🟢高信心
+  ▸ This $23 billion software deal was struck at a decade-low va
+    https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories
+  ▸ Ex-Anthropic researcher Coxon to testify alongside AI giants
+    https://seekingalpha.com/news/4650075-ex-anthropic-researcher-coxon-to-testify-alongside-ai-giants-at-nyc-hearing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 趨勢科技 TrendAI 推出自主漏洞探索服務 幫助企業更快處理威脅
+    https://money.udn.com/money/story/5612/9795853
+
+【景氣轉弱】8 則  🟢高信心
+  ▸ South Africa’s economy contracts in September amid weak dema
+    https://www.investing.com/news/economic-indicators/south-africas-economy-contracts-in-september-amid-weak-demand-93CH-4931161
+  ▸ German machinery orders fall 5% in August as domestic, forei
+    https://www.investing.com/news/economy-news/german-machinery-orders-fall-5-in-august-as-domestic-foreign-demand-weaken-93CH-4931158
+  ▸ Asian equities mixed as Wall Street rally offsets regional e
+    https://seekingalpha.com/news/4650059-asian-equities-mixed-as-wall-street-rally-offsets-regional-economic-cooling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【升息】3 則  🟢高信心
+  ▸ Fed minutes coming this week could give markets important cl
+    https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories
+  ▸ Surging Treasury yields don’t signal a U.S. 'fiscal apocalyp
+    https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html
+  ▸ Stock futures are flat as investors grapple with higher yiel
+    https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html
+
+【美元升值】2 則  🟢高信心
+  ▸ Asian currencies weaken as dollar gains, euro hits 17-month 
+    https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001
+  ▸ Euro hits 17-month low as political uncertainty in Spain and
+    https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ Trump tells South Korea to sign on to Alaska LNG deal or 'I'
+    https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html
+  ▸ ‘Unwelcome and unsafe’: Why Japanese companies are retreatin
+    https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html
+
+【油價上升】2 則  🟢高信心
+  ▸ All U.S. bombers leave UK air base on concerns of suspected 
+    https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+  ▸ 油輪日運費飆逾120萬美元，物流瓶頸支撐布蘭特百美元油價
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E8%BC%AA%E6%97%A5%E9%81%8B%E8%B2%BB%E9%A3%86%E9%80%BE120%E8%90%AC%E7%BE%8E%E5%85%83-%E7%89%A9%E6%B5%81%E7%93%B6%E9%A0%B8%E6%94%AF%E6%92%90%E5%B8%83%E8%98%AD%E7%89%B9%E7%99%BE%E7%BE%8E%E5%85%83%E6%B2%B9%E5%83%B9-074001440.html
+
+【航運運價上升】2 則  🟢高信心
+  ▸ 淡季不淡，慧洋-KY 9月營益率44%，每股稅前盈餘1.99元
+    https://tw.stock.yahoo.com/news/%E6%B7%A1%E5%AD%A3%E4%B8%8D%E6%B7%A1-%E6%85%A7%E6%B4%8B-ky-9%E6%9C%88%E7%87%9F%E7%9B%8A%E7%8E%8744-%E6%AF%8F%E8%82%A1%E7%A8%85%E5%89%8D%E7%9B%88%E9%A4%981-074427787.html
+  ▸ 油輪日運費飆逾120萬美元，物流瓶頸支撐布蘭特百美元油價
+    https://tw.stock.yahoo.com/news/%E6%B2%B9%E8%BC%AA%E6%97%A5%E9%81%8B%E8%B2%BB%E9%A3%86%E9%80%BE120%E8%90%AC%E7%BE%8E%E5%85%83-%E7%89%A9%E6%B5%81%E7%93%B6%E9%A0%B8%E6%94%AF%E6%92%90%E5%B8%83%E8%98%AD%E7%89%B9%E7%99%BE%E7%BE%8E%E5%85%83%E6%B2%B9%E5%83%B9-074001440.html
+
+【政策補助】1 則  🟡單篇
+  ▸ Trump reiterates pledge to send $5,000 checks, and hands out
+    https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ All U.S. bombers leave UK air base on concerns of suspected 
+    https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 南亞科9月營收續推升至450億元 連三個月創新高
+    https://money.udn.com/money/story/5612/9795855
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +5.1  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +5.1  油電燃氣｜油價上升、戰爭升溫
+ 3. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 7. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2317.TW      -2.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 5. 2327.TW      -2.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 6. 3037.TW      -2.2  電子零組件｜景氣轉弱、關稅/貿易戰
+ 7. 2603.TW      -2.1  交通運輸及航運｜油價上升、航運運價上升
+ 8. 2609.TW      -2.1  交通運輸及航運｜油價上升、航運運價上升
+ 9. 2615.TW      -2.1  交通運輸及航運｜油價上升、航運運價上升
+10. 2618.TW      -2.1  交通運輸及航運｜油價上升、航運運價上升
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
