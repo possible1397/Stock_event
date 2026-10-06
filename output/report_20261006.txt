@@ -1,0 +1,110 @@
+📊 事件驅動選股日報 2026-10-06
+════════════════════════════════
+掃描 124 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+*   **AI熱潮持續發酵：** AI技術進展與Nvidia等領頭羊動態受市場關注，然世界銀行亦警示AI集中化風險。
+*   **部分經濟訊號轉弱：** 美國房市需求趨緩，電動車交付量下滑顯現消費動能放緩，但部分工業與原物料產業展望仍相對樂觀。
+*   **通膨壓力結構性存在：** 可可、鋼鐵等大宗商品價格攀升，服務業如航空票價亦面臨成本上漲壓力。
+*   **地緣政治風險升高：** 烏俄戰爭影響國際黃金貿易，台海局勢與半導體供應鏈的穩定性成為全球關注焦點。
+*   **升息環境與市場韌性：** 歐央行官員重申高殖利率對抑制通膨的影響，而股市在高利率環境下仍展現出一定韌性。
+
+【具體總結】：
+今日盤勢受AI熱潮持續推動，相關板塊表現強勁，然全球經濟逆風訊息漸增，部分產業如電動車和房市顯露疲態。同時，特定大宗商品與服務業仍面臨結構性通膨壓力。地緣政治風險，特別是台海局勢對半導體供應鏈的潛在衝擊，以及烏俄戰爭對貿易流的影響，增添市場不確定性。儘管高利率環境，整體市場仍展現一定韌性，資金可能在成長與防禦性題材間平衡，呈現多空交織格局。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】12 則  🟢高信心
+  ▸ The case for Nvidia’s stock to march even higher after clinc
+    https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories
+  ▸ This new AI model could help America close a technological g
+    https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories
+  ▸ World Bank warns of AI concentration risks as it lifts East 
+    https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html
+
+【景氣轉弱】5 則  🟢高信心
+  ▸ Schwab sees stronger prospects for industrials, and material
+    https://seekingalpha.com/news/4650418-schwab-sees-stronger-prospects-for-industrials-materials-as-consumer-confidence-falters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ ‘People in the U.S. need to wake up’: As a mortgage loan off
+    https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories
+  ▸ Lucid's Q3 deliveries fall 6.7% as EV maker cuts production 
+    https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ Cocoa prices are climbing again. Here’s why this time is dif
+    https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html
+  ▸ Why airfares could rise even more, but airline profits won't
+    https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html
+  ▸ 中鋼漲盤帶動 熱軋底材流通行情上看2萬元 鋼鐵股正面表態
+    https://money.udn.com/money/story/5612/9798155
+
+【戰爭升溫】3 則  🟢高信心
+  ▸ Russian gold floods Hong Kong as Western sanctions redraw bu
+    https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html
+  ▸ 'We had a threat': Trump explains U.S. moving long-range bom
+    https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html
+  ▸ 談台海衝突應變　蘇姿丰：台灣對半導體供應鏈至關重要
+    https://money.udn.com/money/story/5612/9798001
+
+【升息】2 則  🟢高信心
+  ▸ ECB’s Rehn: High yields to dampen energy price pass-through
+    https://www.investing.com/news/economy-news/ecbs-rehn-high-yields-to-dampen-energy-price-passthrough-4933591
+  ▸ Stocks are hitting records despite surging yields. Cramer ex
+    https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html
+
+【政策補助】2 則  🟢高信心
+  ▸ Trump is promising $90 Medicare rebate checks ahead of the m
+    https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories
+  ▸ Trump allows cheaper, dyed diesel on highways to blunt histo
+    https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html
+
+【油價上升】2 則  🟢高信心
+  ▸ Trump allows cheaper, dyed diesel on highways to blunt histo
+    https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html
+  ▸ Why airfares could rise even more, but airline profits won't
+    https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Little room for ‘giving and taking’: India’s finance ministe
+    https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html
+
+【美元貶值】1 則  🟡單篇
+  ▸ 新台幣升0.7分　收31.781元
+    https://money.udn.com/money/story/5612/9798257
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 記憶體好旺！威剛第三季營收逾530億元，單季再創歷史新高
+    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%A5%BD%E6%97%BA-%E5%A8%81%E5%89%9B%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%87%9F%E6%94%B6%E9%80%BE530%E5%84%84%E5%85%83-%E5%96%AE%E5%AD%A3%E5%86%8D%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-080933237.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +8.6  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 7. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -4.3  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -4.3  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -4.3  電子零組件｜景氣轉弱、通膨上升
+ 8. 2330.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      -3.9  半導體｜AI熱潮、景氣轉弱
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
