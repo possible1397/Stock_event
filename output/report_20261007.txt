@@ -1,0 +1,69 @@
+📊 事件驅動選股日報 2026-10-07
+════════════════════════════════
+掃描 129 則新聞  |  偵測 4 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+**【重點提要】**：
+1.  **AI產業持續受關注**：全球AI發展熱潮不減，伴隨潛在集中度風險的討論，同時也有企業如南亞與LS ELECTRIC合作搶攻AI與能源轉型商機。
+2.  **國際油價承壓上漲**：中東地緣政治緊張，特別是紅海地區的潛在攻擊和荷姆茲海峽的運輸風險，推升了國際油價。
+3.  **地緣衝突加劇憂慮**：中東地區衝突升溫，對關鍵航運路線如荷姆茲海峽的潛在影響，加劇市場對全球供應鏈穩定性的擔憂。
+4.  **部分景氣指標浮現疲態**：有報導指出特定奢侈品市場出現需求放緩跡象，可能反映出部分區域經濟活動的謹慎態度。
+
+**【具體總結】**：
+今日市場焦點集中於AI產業的持續擴張與潛在風險，預期資金將持續關注相關技術與基礎設施領域。同時，中東地緣政治緊張推升油價，對全球供應鏈及通膨預期帶來不確定性。部分奢侈品市場景氣轉弱的跡象，則可能暗示經濟復甦力道仍不均。整體而言，市場情緒可能在AI熱潮的樂觀與地緣衝突及部分經濟放緩的擔憂之間權衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】13 則  🟢高信心
+  ▸ World Bank warns of AI concentration risks as it lifts East 
+    https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html
+  ▸ AI影片浪潮　YouTube陳容歆：吸引觀眾關鍵在好故事
+    https://money.udn.com/money/story/5612/9800608
+  ▸ 南亞攜手韓國 LS ELECTRIC 成立「南亞樂星」 搶攻 AI 與能源轉型商機
+    https://money.udn.com/money/story/5612/9800597
+
+【油價上升】3 則  🟢高信心
+  ▸ Oil rises as concerns over Houthi attacks on Saudi Arabia ec
+    https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html
+  ▸ Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s 
+    https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html
+  ▸ Rebounding oil exports through Strait of Hormuz are vulnerab
+    https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html
+
+【戰爭升溫】2 則  🟢高信心
+  ▸ Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s 
+    https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html
+  ▸ Rebounding oil exports through Strait of Hormuz are vulnerab
+    https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html
+
+【景氣轉弱】1 則  🟡單篇
+  ▸ Luxury developers flocked to the 'Hamptons of Hungary' — but
+    https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +6.0  油電燃氣｜油價上升、戰爭升溫
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2330.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      +2.1  半導體｜AI熱潮、景氣轉弱
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
