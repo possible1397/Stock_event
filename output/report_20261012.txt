@@ -1,66 +1,97 @@
 📊 事件驅動選股日報 2026-10-12
 ════════════════════════════════
-掃描 111 則新聞  |  偵測 6 個事件
+掃描 114 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+1.  【重點提要】：
+    *   AI熱潮持續延燒，推動算力、先進封裝與SiC等高階應用需求，預計算力短缺將延續至2029年。
+    *   記憶體DRAM報價持續上漲，產業供應短缺狀況未解，預期將帶動相關廠商獲利表現。
+    *   各國政府及國際組織陸續祭出經濟支持與產業補貼政策，旨在穩定經濟並緩解供應鏈瓶頸，如半導體關鍵氣體。
+    *   在全球利率維持高檔的背景下，國際油價出現回落，有助於舒緩通膨壓力，並為市場帶來部分正面情緒。
+
+2.  【具體總結】：
+    今日盤勢聚焦於AI題材的持續熱度，相關硬體與先進技術需求暢旺，以及記憶體DRAM價格因供不應求而走揚，共同為科技板塊帶來動能。在全球政策支持措施陸續出籠，試圖穩定經濟並解決特定產業瓶頸之際，高利率環境仍是市場關注的變數。然而，國際油價的回落提供了一絲喘息空間，有助於緩解通膨擔憂。整體而言，市場資金持續關注具備成長潛力與基本面改善的產業，同時審慎評估總體經濟變數。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】5 則  🟢高信心
-  ▸ AI may change the price of your Big Mac and groceries — what
-    https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html
-  ▸ 機器人商機怎麼搶？KPMG 點出台廠四大突破口
-    https://money.udn.com/money/story/5612/9809353
-  ▸ 全球 CPO 商機逐步升溫 關鍵測試供應鏈持續受惠產業趨勢
-    https://money.udn.com/money/story/5612/9808882
+【AI熱潮】10 則  🟢高信心
+  ▸ TikTok CEO sees major scientific breakthroughs from AI withi
+    https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html
+  ▸ 盛新擴大 SiC 布局 攻 AI、先進封裝與高功率應用市場
+    https://money.udn.com/money/story/5612/9809691
+  ▸ 陳立武：算力短缺將延續至2029年 AI 帶來的影響超越網際網路
+    https://money.udn.com/money/story/5612/9809687
 
-【政策補助】2 則  🟢高信心
-  ▸ 塭仔圳925戶社宅動工！近捷運、醫院還有親水公園　預計2031年完工
-    https://tw.stock.yahoo.com/news/%E5%A1%AD%E4%BB%94%E5%9C%B3925%E6%88%B6%E7%A4%BE%E5%AE%85%E5%8B%95%E5%B7%A5%EF%BC%81%E8%BF%91%E6%8D%B7%E9%81%8B%E3%80%81%E9%86%AB%E9%99%A2%E9%82%84%E6%9C%89%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92-%E9%A0%90%E8%A8%882031%E5%B9%B4%E5%AE%8C%E5%B7%A5-061053748.html
-  ▸ 賴清德國慶演說／山巔之城須固若金湯：投資國防是為嚇阻戰爭！5千元成長津貼、軍公教調薪…3面向全文一次看
-    https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9C%8B%E6%85%B6%E6%BC%94%E8%AA%AA-%E5%B1%B1%E5%B7%94%E4%B9%8B%E5%9F%8E%E9%A0%88%E5%9B%BA%E8%8B%A5%E9%87%91%E6%B9%AF-%E6%8A%95%E8%B3%87%E5%9C%8B%E9%98%B2%E6%98%AF%E7%82%BA%E5%9A%87%E9%98%BB%E6%88%B0%E7%88%AD-5%E5%8D%83%E5%85%83%E6%88%90%E9%95%B7%E6%B4%A5%E8%B2%BC-%E8%BB%8D%E5%85%AC%E6%95%99%E8%AA%BF%E8%96%AA-060002819.html
+【記憶體漲價】6 則  🟢高信心
+  ▸ Nanya Q3 2026 slides: margins soar to 85.7% on DRAM pricing 
+    https://www.investing.com/news/company-news/nanya-q3-2026-slides-margins-soar-to-857-on-dram-pricing-surge-93CH-4943428
+  ▸ Earnings call transcript: Nanya Technology Q3 2026 profit su
+    https://www.investing.com/news/transcripts/earnings-call-transcript-nanya-technology-q3-2026-profit-surges-on-dram-pricing-93CH-4943419
+  ▸ 南亞科：DRAM仍非常缺貨　第4季價格和毛利率看升
+    https://money.udn.com/money/story/5612/9809688
 
-【戰爭升溫】2 則  🟢高信心
-  ▸ 賴清德國慶演說／山巔之城須固若金湯：投資國防是為嚇阻戰爭！5千元成長津貼、軍公教調薪…3面向全文一次看
-    https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9C%8B%E6%85%B6%E6%BC%94%E8%AA%AA-%E5%B1%B1%E5%B7%94%E4%B9%8B%E5%9F%8E%E9%A0%88%E5%9B%BA%E8%8B%A5%E9%87%91%E6%B9%AF-%E6%8A%95%E8%B3%87%E5%9C%8B%E9%98%B2%E6%98%AF%E7%82%BA%E5%9A%87%E9%98%BB%E6%88%B0%E7%88%AD-5%E5%8D%83%E5%85%83%E6%88%90%E9%95%B7%E6%B4%A5%E8%B2%BC-%E8%BB%8D%E5%85%AC%E6%95%99%E8%AA%BF%E8%96%AA-060002819.html
-  ▸ 鈀金今年來跌30%「風險卻被忽略」 關鍵工廠就在無人機打擊範圍
-    https://tw.stock.yahoo.com/news/%E9%88%80%E9%87%91%E4%BB%8A%E5%B9%B4%E4%BE%86%E8%B7%8C30-%E9%A2%A8%E9%9A%AA%E5%8D%BB%E8%A2%AB%E5%BF%BD%E7%95%A5-%E9%97%9C%E9%8D%B5%E5%B7%A5%E5%BB%A0%E5%B0%B1%E5%9C%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%89%93%E6%93%8A%E7%AF%84%E5%9C%8D-052637100.html
+【政策補助】3 則  🟢高信心
+  ▸ World Bank jobs council urges 'crisis-era' support measures 
+    https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html
+  ▸ 2026台中購物節10/24登場 暖身抽獎活動14日率先開跑
+    https://tw.news.yahoo.com/2026%E5%8F%B0%E4%B8%AD%E8%B3%BC%E7%89%A9%E7%AF%8010-24%E7%99%BB%E5%A0%B4-%E6%9A%96%E8%BA%AB%E6%8A%BD%E7%8D%8E%E6%B4%BB%E5%8B%9514%E6%97%A5%E7%8E%87%E5%85%88%E9%96%8B%E8%B7%91-080753236.html
+  ▸ 韓國政府介入協調工業氮氣供需，緩解半導體榮景引爆氣體短缺危機
+    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E4%BB%8B%E5%85%A5%E5%8D%94%E8%AA%BF%E5%B7%A5%E6%A5%AD%E6%B0%AE%E6%B0%A3%E4%BE%9B%E9%9C%80-%E7%B7%A9%E8%A7%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A6%AE%E6%99%AF%E5%BC%95%E7%88%86%E6%B0%A3%E9%AB%94%E7%9F%AD%E7%BC%BA%E5%8D%B1%E6%A9%9F-075759460.html
+
+【升息】2 則  🟢高信心
+  ▸ The bull market is turning 4 years old — but yields could cr
+    https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories
+  ▸ Bank earnings to shed the first light on how higher yields a
+    https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories
+
+【油價下降】2 則  🟢高信心
+  ▸ Europe markets gain as softer oil and yields offset geopolit
+    https://seekingalpha.com/news/4651975-europe-markets-gain-as-softer-oil-and-yields-offset-geopolitical-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Oil falls after Trump declares 'energy ceasefire' between Ru
+    https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ Trump fails to reverse slide in popularity as voters sour on
+    https://seekingalpha.com/news/4651974-trump-fails-to-reverse-slide-in-popularity-as-voters-sour-on-economy-ft-poll-shows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ World Bank jobs council urges 'crisis-era' support measures 
+    https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html
 
 【關稅/貿易戰】1 則  🟡單篇
-  ▸ 中歐密集磋商汽車貿易，中方稱配額不得歧視、歐盟傳擬限35萬輛
-    https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%AD%90%E5%AF%86%E9%9B%86%E7%A3%8B%E5%95%86%E6%B1%BD%E8%BB%8A%E8%B2%BF%E6%98%93-%E4%B8%AD%E6%96%B9%E7%A8%B1%E9%85%8D%E9%A1%8D%E4%B8%8D%E5%BE%97%E6%AD%A7%E8%A6%96-%E6%AD%90%E7%9B%9F%E5%82%B3%E6%93%AC%E9%99%9035%E8%90%AC%E8%BC%9B-060846094.html
+  ▸ 越南特定冷軋等鋼品反傾銷案　經部初步認定產業受損
+    https://money.udn.com/money/story/5612/9809578
 
-【通膨上升】1 則  🟡單篇
-  ▸ 房租緩漲，居住成本卻飆20個月新高…專家：這4費用漲贏租金，油價大漲也反應到物價
-    https://tw.news.yahoo.com/%E6%88%BF%E7%A7%9F%E7%B7%A9%E6%BC%B2-%E5%B1%85%E4%BD%8F%E6%88%90%E6%9C%AC%E5%8D%BB%E9%A3%8620%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E5%B0%88%E5%AE%B6-%E9%80%994%E8%B2%BB%E7%94%A8%E6%BC%B2%E8%B4%8F%E7%A7%9F%E9%87%91-%E6%B2%B9%E5%83%B9%E5%A4%A7%E6%BC%B2%E4%B9%9F%E5%8F%8D%E6%87%89%E5%88%B0%E7%89%A9%E5%83%B9-060002625.html
-
-【油價上升】1 則  🟡單篇
-  ▸ 房租緩漲，居住成本卻飆20個月新高…專家：這4費用漲贏租金，油價大漲也反應到物價
-    https://tw.news.yahoo.com/%E6%88%BF%E7%A7%9F%E7%B7%A9%E6%BC%B2-%E5%B1%85%E4%BD%8F%E6%88%90%E6%9C%AC%E5%8D%BB%E9%A3%8620%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E5%B0%88%E5%AE%B6-%E9%80%994%E8%B2%BB%E7%94%A8%E6%BC%B2%E8%B4%8F%E7%A7%9F%E9%87%91-%E6%B2%B9%E5%83%B9%E5%A4%A7%E6%BC%B2%E4%B9%9F%E5%8F%8D%E6%87%89%E5%88%B0%E7%89%A9%E5%83%B9-060002625.html
+【戰爭升溫】1 則  🟡單篇
+  ▸ 地緣風險干擾復甦，卡達LNG出口恢復或需至2028年
+    https://tw.stock.yahoo.com/news/%E5%9C%B0%E7%B7%A3%E9%A2%A8%E9%9A%AA%E5%B9%B2%E6%93%BE%E5%BE%A9%E7%94%A6-%E5%8D%A1%E9%81%94lng%E5%87%BA%E5%8F%A3%E6%81%A2%E5%BE%A9%E6%88%96%E9%9C%80%E8%87%B32028%E5%B9%B4-080000535.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +6.9  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +6.9  油電燃氣｜戰爭升溫、通膨上升
- 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 8. 3576.TWO     +2.5  綠能｜政策補助
- 9. 6443.TW      +2.5  綠能｜政策補助
-10. 3691.TW      +2.5  綠能｜政策補助
+ 1. 2880.TW      +3.4  金融｜升息、戰爭升溫
+ 2. 2881.TW      +3.4  金融｜升息、戰爭升溫
+ 3. 2882.TW      +3.4  金融｜升息、戰爭升溫
+ 4. 2884.TW      +3.4  金融｜升息、戰爭升溫
+ 5. 2886.TW      +3.4  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 2. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 3. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 4. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
- 6. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2330.TW      -2.7  半導體｜AI熱潮、升息
+ 5. 2454.TW      -2.7  半導體｜AI熱潮、升息
+ 6. 2303.TW      -2.7  半導體｜AI熱潮、升息
+ 7. 3711.TW      -2.7  半導體｜AI熱潮、升息
+ 8. 2317.TW      -2.3  電子零組件｜記憶體漲價、景氣轉弱
+ 9. 2327.TW      -2.3  電子零組件｜記憶體漲價、景氣轉弱
+10. 3037.TW      -2.3  電子零組件｜記憶體漲價、景氣轉弱
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
