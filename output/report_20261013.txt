@@ -1,0 +1,116 @@
+📊 事件驅動選股日報 2026-10-13
+════════════════════════════════
+掃描 128 則新聞  |  偵測 10 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+1.  **【重點提要】**
+    *   **AI熱潮降溫與競爭加劇：** 領先AI晶片企業的市場份額面臨挑戰，部分AI概念股出現獲利了結賣壓，市場對其估值與前景持觀望態度。
+    *   **全球景氣動能放緩：** 多項數據顯示全球及台灣經濟成長動能減弱，部分產業呈現K型復甦，房市交易亦見降溫跡象。
+    *   **地緣政治風險升溫：** 中東地區衝突加劇，為全球供應鏈與能源市場帶來不確定性，儘管IMF認為AI發展有望部分抵銷負面衝擊。
+    *   **新台幣貶值壓力加劇：** 外資持續賣超台股，資金外流導致新台幣兌美元匯率大幅貶值，創下近期新低。
+    *   **政府政策支撐經濟：** 各地政府推出基礎建設、產業轉型與普惠性財政補助，期望穩定經濟、提振內需並促進特定產業發展。
+
+2.  **【具體總結】**
+    受AI概念股獲利了結賣壓拖累，加上外資持續流出，導致台股承壓並引發新台幣大幅貶值。全球及台灣景氣放緩的跡象日益明顯，同時中東地緣政治緊張情勢升溫，為市場增添不確定性。儘管政府積極透過各項政策試圖穩定經濟並推動基礎建設，但短期內，市場資金將在AI題材熱度降溫、景氣轉弱與匯率壓力等多重因素交互影響下，呈現謹慎觀望態勢。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】21 則  🟢高信心
+  ▸ Nvidia’s China AI chip market share falls to 34% as Huawei g
+    https://seekingalpha.com/news/4652328-nvidias-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ commen
+    https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories
+  ▸ Nvidia and AMD shares fall as new AI announcements fail to r
+    https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories
+
+【景氣轉弱】8 則  🟢高信心
+  ▸ The global economy is starting to look K-shaped. Here are th
+    https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories
+  ▸ 台股價漲量縮！9月證交稅534億元 連3個月降溫
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%83%B9%E6%BC%B2%E9%87%8F%E7%B8%AE%EF%BC%819%E6%9C%88%E8%AD%89%E4%BA%A4%E7%A8%85534%E5%84%84%E5%85%83-%E9%80%A33%E5%80%8B%E6%9C%88%E9%99%8D%E6%BA%AB-083638390.html
+  ▸ 雙北低樓交易當道！七都購屋人「越買越低」 桃園走向兩極化
+    https://tw.stock.yahoo.com/news/%E9%9B%99%E5%8C%97%E4%BD%8E%E6%A8%93%E4%BA%A4%E6%98%93%E7%95%B6%E9%81%93-%E4%B8%83%E9%83%BD%E8%B3%BC%E5%B1%8B%E4%BA%BA-%E8%B6%8A%E8%B2%B7%E8%B6%8A%E4%BD%8E-%E6%A1%83%E5%9C%92%E8%B5%B0%E5%90%91%E5%85%A9%E6%A5%B5%E5%8C%96-080500759.html
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Saudi warning system stayed silent before deadly airport att
+    https://www.investing.com/news/commodities-news/saudi-warning-system-stayed-silent-before-deadly-airport-attacks-4945258
+  ▸ 外交部譴責胡塞破壞民用設施 籲立即停止攻擊
+    https://tw.news.yahoo.com/%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AD%B4%E8%B2%AC%E8%83%A1%E5%A1%9E%E7%A0%B4%E5%A3%9E%E6%B0%91%E7%94%A8%E8%A8%AD%E6%96%BD-%E7%B1%B2%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E6%94%BB%E6%93%8A-081239043.html
+  ▸ IMF sees milder global slowdown as AI boom offsets war hit —
+    https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html
+
+【美元升值】4 則  🟢高信心
+  ▸ 股匯雙殺！新台幣貶逾3角後收斂、仍創2個月最低 分析師最新看法出爐
+    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6%E9%80%BE3%E8%A7%92%E5%BE%8C%E6%94%B6%E6%96%82%E3%80%81%E4%BB%8D%E5%89%B52%E5%80%8B%E6%9C%88%E6%9C%80%E4%BD%8E-%E5%88%86%E6%9E%90%E5%B8%AB%E6%9C%80%E6%96%B0%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-082623384.html
+  ▸ AI賣壓拖累！外資週二狂砍台股1653億，台幣爆量重貶1.9角、貶破32
+    https://tw.stock.yahoo.com/news/ai%E8%B3%A3%E5%A3%93%E6%8B%96%E7%B4%AF-%E5%A4%96%E8%B3%87%E9%80%B1%E4%BA%8C%E7%8B%82%E7%A0%8D%E5%8F%B0%E8%82%A11653%E5%84%84-%E5%8F%B0%E5%B9%A3%E7%88%86%E9%87%8F%E9%87%8D%E8%B2%B61-9%E8%A7%92-%E8%B2%B6%E7%A0%B432-081813691.html
+  ▸ 新台幣爆量重貶1.9角　收32.085元
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E7%88%86%E9%87%8F%E9%87%8D%E8%B2%B61-9%E8%A7%92-%E6%94%B632-085%E5%85%83-080906906.html
+
+【政策補助】3 則  🟢高信心
+  ▸ 基隆捷運696.89億經費過關！八堵可望直達南港、大稻埕　拚2033完工
+    https://tw.stock.yahoo.com/news/%E5%9F%BA%E9%9A%86%E6%8D%B7%E9%81%8B69689%E5%84%84%E7%B6%93%E8%B2%BB%E9%81%8E%E9%97%9C%EF%BC%81%E5%85%AB%E5%A0%B5%E5%8F%AF%E6%9C%9B%E7%9B%B4%E9%81%94%E5%8D%97%E6%B8%AF%E3%80%81%E5%A4%A7%E7%A8%BB%E5%9F%95-%E6%8B%9A2033%E5%AE%8C%E5%B7%A5-083818082.html
+  ▸ 財政部公布施政重點　普發現金1萬元共享AI紅利
+    https://tw.stock.yahoo.com/news/%E8%B2%A1%E6%94%BF%E9%83%A8%E5%85%AC%E5%B8%83%E6%96%BD%E6%94%BF%E9%87%8D%E9%BB%9E-%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%911%E8%90%AC%E5%85%83%E5%85%B1%E4%BA%ABai%E7%B4%85%E5%88%A9-081112004.html
+  ▸ 航運業數位與綠色轉型卡關！航港局11／6辦說明會 串聯跨部會資源解困
+    https://tw.stock.yahoo.com/news/%E8%88%AA%E9%81%8B%E6%A5%AD%E6%95%B8%E4%BD%8D%E8%88%87%E7%B6%A0%E8%89%B2%E8%BD%89%E5%9E%8B%E5%8D%A1%E9%97%9C-%E8%88%AA%E6%B8%AF%E5%B1%8011-6%E8%BE%A6%E8%AA%AA%E6%98%8E%E6%9C%83-%E4%B8%B2%E8%81%AF%E8%B7%A8%E9%83%A8%E6%9C%83%E8%B3%87%E6%BA%90%E8%A7%A3%E5%9B%B0-081034912.html
+
+【升息】3 則  🟢高信心
+  ▸ 利率升高抑制投資需求，AirTrunk傳延遲15億美元REIT上市交易
+    https://tw.stock.yahoo.com/news/%E5%88%A9%E7%8E%87%E5%8D%87%E9%AB%98%E6%8A%91%E5%88%B6%E6%8A%95%E8%B3%87%E9%9C%80%E6%B1%82-airtrunk%E5%82%B3%E5%BB%B6%E9%81%B215%E5%84%84%E7%BE%8E%E5%85%83reit%E4%B8%8A%E5%B8%82%E4%BA%A4%E6%98%93-074548969.html
+  ▸ IMF warns bond yields could see a 'disorderly' spike as debt
+    https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html
+  ▸ Higher rates could be needed to avoid 'inflationary mindset'
+    https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html
+
+【通膨上升】3 則  🟢高信心
+  ▸ IMF warns bond yields could see a 'disorderly' spike as debt
+    https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html
+  ▸ India’s retail inflation jumps to 5.54% in September, above 
+    https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html
+  ▸ Higher rates could be needed to avoid 'inflationary mindset'
+    https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Oil prices fall as traders assess Russian diesel supply pros
+    https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html
+  ▸ U.S. Treasury yields fall as energy prices pull back
+    https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 台廠遭美調查 許舒博力挺：台灣技術更好「幹嘛偷？」
+    https://tw.news.yahoo.com/%E5%8F%B0%E5%BB%A0%E9%81%AD%E7%BE%8E%E8%AA%BF%E6%9F%A5-%E8%A8%B1%E8%88%92%E5%8D%9A%E5%8A%9B%E6%8C%BA-%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E6%9B%B4%E5%A5%BD-%E5%B9%B9%E5%98%9B%E5%81%B7-080454406.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 上週五大亮眼ETF區塊曝光 巴西小型股、油輪、AI概念領漲
+    https://tw.stock.yahoo.com/news/%E4%B8%8A%E9%80%B1%E4%BA%94%E5%A4%A7%E4%BA%AE%E7%9C%BCetf%E5%8D%80%E5%A1%8A%E6%9B%9D%E5%85%89-%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%9E%8B%E8%82%A1-%E6%B2%B9%E8%BC%AA-ai%E6%A6%82%E5%BF%B5%E9%A0%98%E6%BC%B2-074344385.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2880.TW      +4.0  金融｜戰爭升溫、升息
+ 2. 2881.TW      +4.0  金融｜戰爭升溫、升息
+ 3. 2882.TW      +4.0  金融｜戰爭升溫、升息
+ 4. 2884.TW      +4.0  金融｜戰爭升溫、升息
+ 5. 2886.TW      +4.0  金融｜戰爭升溫、升息
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
+ 2. 2327.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
+ 3. 3037.TW      -3.8  電子零組件｜景氣轉弱、通膨上升
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+ 6. 2515.TW      -3.0  建材營造｜升息
+ 7. 5534.TW      -3.0  建材營造｜升息
+ 8. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
