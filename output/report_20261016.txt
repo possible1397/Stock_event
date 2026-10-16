@@ -1,0 +1,109 @@
+📊 事件驅動選股日報 2026-10-16
+════════════════════════════════
+掃描 132 則新聞  |  偵測 9 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】
+1.  **AI熱潮與挑戰：** AI發展趨勢確立，但焦點轉向其龐大電力需求及基礎設施投資挑戰，部分AI供應鏈企業面臨信用壓力，暗示產業發展路徑非單純順遂。
+2.  **全球景氣轉弱與高利率預期：** 全球經濟成長動能放緩，新興市場股市普遍承壓，通膨數據顯示聯準會（Fed）可能維持高利率政策更久，影響市場風險偏好。
+3.  **地緣政治風險升溫：** 中東地區緊張局勢加劇，推升國際油價及全球航運成本，為供應鏈穩定性帶來不確定性，並增加通膨潛在壓力。
+4.  **美元走強與非美貨幣承壓：** 受全球避險情緒升溫及高利率預期影響，美元指數維持強勢，包括新台幣在內的多數非美貨幣面臨貶值壓力，資金流向趨於保守。
+
+【具體總結】
+AI熱潮雖為市場提供成長動能，但其基礎設施的巨大需求與部分供應鏈的信用疑慮，顯示其發展路徑將充滿顛簸。同時，全球經濟放緩壓力、通膨黏性導致的「高利率維持更久」預期，以及升溫的地緣政治風險，共同加劇了市場的不確定性。在避險情緒及利差因素下，美元強勢吸納資金，導致非美貨幣普遍走貶。整體而言，市場呈現多空拉鋸，資金可能持續在具明確成長題材的產業與防禦型資產間尋求平衡。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】22 則  🟢高信心
+  ▸ Which stocks will benefit from AI power demand going nuclear
+    https://www.investing.com/news/stock-market-news/which-stocks-will-benefit-from-ai-power-demand-going-nuclear-93CH-4953057
+  ▸ Fed's Warsh says AI path will be 'very bumpy' but ultimately
+    https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html
+  ▸ CoreWeave credit default swaps hit distress levels as invest
+    https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html
+
+【景氣轉弱】7 則  🟢高信心
+  ▸ Indonesia stocks suffer biggest daily slump since 1998 as MS
+    https://www.investing.com/news/stock-market-news/indonesia-stocks-suffer-biggest-daily-slump-since-1998-as-msci-weighs-downgrade-4953068
+  ▸ S&P 500 futures are little changed as index heads for losing
+    https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html
+  ▸ ‘Some people did everything right’: I lost my home in the Gr
+    https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories
+
+【升息】6 則  🟢高信心
+  ▸ Retirees can take these steps to shore up income as yields r
+    https://www.cnbc.com/2026/10/15/retirees-can-take-these-steps-to-shore-up-income-as-yields-rise.html
+  ▸ Economists: Hot PPI shows Fed's work is not done
+    https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html
+  ▸ Analysis: Why a $2 trillion deficit and 5% Treasury yields a
+    https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html
+
+【戰爭升溫】5 則  🟢高信心
+  ▸ Oil heads for weekly gain with Mideast supply risks
+    https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926
+  ▸ One Singapore ship was sunk, but here's why others are still
+    https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html
+  ▸ Russia returns to G20 table in Bangkok on U.S. invitation th
+    https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html
+
+【美元升值】3 則  🟢高信心
+  ▸ India's rupee forecast to weaken toward 100-per-dollar level
+    https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html
+  ▸ 新台幣午盤重貶2角　暫收32.465元
+    https://money.udn.com/money/story/5612/9818805
+  ▸ 股匯不同調　台股反彈新台幣續貶摜破32.5元關卡
+    https://money.udn.com/money/story/5612/9818554
+
+【油價上升】2 則  🟢高信心
+  ▸ Oil heads for weekly gain with Mideast supply risks
+    https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926
+  ▸ Brian Sullivan: Why the 'real' price of oil is likely $30-$4
+    https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html
+
+【通膨上升】2 則  🟢高信心
+  ▸ Economists: Hot PPI shows Fed's work is not done
+    https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html
+  ▸ Wholesale prices jumped 6.3% annually in September, biggest 
+    https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 經長透露將在德州設首座園區 經部：業者出資、政府協助
+    https://tw.news.yahoo.com/%E7%B6%93%E9%95%B7%E9%80%8F%E9%9C%B2%E5%B0%87%E5%9C%A8%E5%BE%B7%E5%B7%9E%E8%A8%AD%E9%A6%96%E5%BA%A7%E5%9C%92%E5%8D%80-%E7%B6%93%E9%83%A8-%E6%A5%AD%E8%80%85%E5%87%BA%E8%B3%87-%E6%94%BF%E5%BA%9C%E5%8D%94%E5%8A%A9-034951564.html
+  ▸ 台灣砸40億美元德州設AI產業園區 助輝達供應鏈赴美設廠
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%A0%B840%E5%84%84%E7%BE%8E%E5%85%83%E5%BE%B7%E5%B7%9E%E8%A8%ADai%E7%94%A2%E6%A5%AD%E5%9C%92%E5%8D%80-%E5%8A%A9%E8%BC%9D%E9%81%94%E4%BE%9B%E6%87%89%E9%8F%88%E8%B5%B4%E7%BE%8E%E8%A8%AD%E5%BB%A0-034019277.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 熬過華為斷鏈　台亞、致伸接力助轉型    和亞跨界突圍  拚第2成長曲線
+    https://tw.stock.yahoo.com/news/%E7%86%AC%E9%81%8E%E8%8F%AF%E7%82%BA%E6%96%B7%E9%8F%88-%E5%8F%B0%E4%BA%9E%E3%80%81%E8%87%B4%E4%BC%B8%E6%8E%A5%E5%8A%9B%E5%8A%A9%E8%BD%89%E5%9E%8B-%E5%92%8C%E4%BA%9E%E8%B7%A8%E7%95%8C%E7%AA%81%E5%9C%8D-%E6%8B%9A%E7%AC%AC2%E6%88%90%E9%95%B7%E6%9B%B2%E7%B7%9A-040131807.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +8.6  油電燃氣｜戰爭升溫、油價上升
+ 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
+10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 2. 2609.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 3. 2615.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 4. 2618.TW      -6.0  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2317.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 6. 2327.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 7. 3037.TW      -3.1  電子零組件｜景氣轉弱、通膨上升
+ 8. 2515.TW      -3.0  建材營造｜升息
+ 9. 5534.TW      -3.0  建材營造｜升息
+10. 2504.TW      -3.0  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
