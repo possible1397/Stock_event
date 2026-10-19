@@ -1,96 +1,92 @@
 📊 事件驅動選股日報 2026-10-19
 ════════════════════════════════
-掃描 115 則新聞  |  偵測 7 個事件
+掃描 117 則新聞  |  偵測 8 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】：
-1.  **美元持續走強引發資金外流壓力：** 美元指數維持高檔，導致新台幣兌美元大幅貶值，外資加速匯出，使台股面臨股匯雙殺局面。
-2.  **全球經濟成長放緩擔憂：** 新興市場股市如印尼等出現顯著跌幅，反映市場對全球經濟景氣轉弱的擔憂。
-3.  **AI題材情緒分歧：** 儘管部分AI相關科技股展現韌性，但市場對AI熱潮的持續性存在「不安情緒」，且新的法律與隱私議題浮現。
-4.  **國內政策補助與財政討論：** 政府推動多項社會福利（如長者健保費補助）及觀光補助，引發國會與行政院之間對於財政負擔及效益的討論。
-5.  **聯準會升息預期有所降溫：** 市場對美國聯準會未來進一步升息的預期略有趨緩，但全球高利率環境的影響仍是焦點。
+**【重點提要】**
+1.  **AI熱潮延燒：** AI技術創新與應用持續受市場關注，吸引資金逢低佈局相關概念股，但法律與倫理議題亦伴隨浮現。
+2.  **全球利率與景氣壓力：** 高利率環境持續，市場資金流動性承壓，景氣下行疑慮促使外資從新興市場撤離。
+3.  **地緣政治風險未減：** 國際關係緊張，俄烏衝突及太空安全等議題持續影響全球局勢與投資人情緒。
+4.  **政策與選舉因素：** 各國政策補助及貿易協議受政治考量影響，其長期效益及對特定產業的衝擊引發討論。
 
-【具體總結】：
-今日盤勢呈現多空交織，強勢美元引發的新台幣重貶及外資流出是市場主要壓力來源，導致台股承壓。全球經濟放緩擔憂升高，使投資人對風險資產趨於謹慎。AI概念股雖仍受矚目，但市場情緒已較為複雜，反映對其過熱後的調整與新挑戰的思考。國內政策補助雖為特定產業或群體帶來支持，但其長期財政影響亦是觀察重點。整體而言，市場在多重不確定性下，資金動向趨於保守，並密切關注總體經濟指標與各國央行政策。
+**【具體總結】**
+今日市場呈現多空交織格局。儘管AI熱潮持續吸引資金逢低佈局，但全球高利率環境及景氣下行疑慮，促使資金從新興市場撤離。地緣政治緊張局勢未歇，加上各國政策因政治因素而異，共同為市場增添不確定性。整體而言，投資人對成長性產業仍具興趣，但資金流向謹慎，並密切關注總體經濟與地緣風險的演變。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【景氣轉弱】11 則  🟢高信心
-  ▸ Indonesian stocks plunge to six-year low as MSCI downgrade f
-    https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html
-  ▸ India’s Finance Minister says easy exits and excess liquidit
-    https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html
-  ▸ Why I am taking the other side of the trade that crushed the
-    https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html
-
-【AI熱潮】10 則  🟢高信心
-  ▸ These tech stocks held up during the early-Oct AI selloff
-    https://www.investing.com/news/stock-market-news/these-tech-stocks-held-up-during-the-earlyoct-ai-selloff-93CH-4956327
-  ▸ Asia stocks edge lower despite stronger China growth as AI j
-    https://www.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4956316
+【AI熱潮】13 則  🟢高信心
+  ▸ GenIP launches soft trial of AI invention evaluation platfor
+    https://www.investing.com/news/company-news/genip-launches-soft-trial-of-ai-invention-evaluation-platform-93CH-4956445
   ▸ Always on, always listening: New AI devices are pushing lega
     https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html
+  ▸ Nasdaq futures gain as investors buy the dip in the AI trade
+    https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html
 
-【美元升值】5 則  🟢高信心
-  ▸ 新台幣午盤重貶1.67角　暫收32.505元
-    https://money.udn.com/money/story/5612/9823730
-  ▸ 股匯雙殺　央行：新台幣表現相對穩定、將視情況調節
-    https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA-%E5%A4%AE%E8%A1%8C-%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%A1%A8%E7%8F%BE%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A-%E5%B0%87%E8%A6%96%E6%83%85%E6%B3%81%E8%AA%BF%E7%AF%80-040935864.html
-  ▸ 外資上週匯出5800億元！ 央行罕見盤中急發3聲明
-    https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E4%B8%8A%E9%80%B1%E5%8C%AF%E5%87%BA5800%E5%84%84%E5%85%83-%E5%A4%AE%E8%A1%8C%E7%BD%95%E8%A6%8B%E7%9B%A4%E4%B8%AD%E6%80%A5%E7%99%BC3%E8%81%B2%E6%98%8E-040000231.html
+【升息】4 則  🟢高信心
+  ▸ Stocks are heading for a high-stakes showdown, as strong ear
+    https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories
+  ▸ LondonMetric says property values flat in six months to Sept
+    https://www.investing.com/news/stock-market-news/londonmetric-says-property-values-flat-in-six-months-to-sept-despite-rate-rise-93CH-4956444
+  ▸ 市場資金緊俏　彭金隆：非銀行資金不足屬分配問題
+    https://money.udn.com/money/story/5612/9823906
 
-【政策補助】5 則  🟢高信心
-  ▸ 立院三讀部分長者免健保費　張惇涵籲三思而後行
-    https://money.udn.com/money/story/5612/9823555
-  ▸ 【國旅回來了？1】15億元國旅補助已用26% 花蓮旅宿業者憂「只能救急」：光復節連假訂房僅3成
-    https://tw.stock.yahoo.com/news/%E3%80%90%E5%9C%8B%E6%97%85%E5%9B%9E%E4%BE%86%E4%BA%86%EF%BC%9F1%E3%80%9115%E5%84%84%E5%85%83%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E5%B7%B2%E7%94%A826-%E8%8A%B1%E8%93%AE%E6%97%85%E5%AE%BF%E6%A5%AD%E8%80%85%E6%86%82%E3%80%8C%E5%8F%AA%E8%83%BD%E6%95%91%E6%80%A5%E3%80%8D%EF%BC%9A%E5%85%89%E5%BE%A9%E7%AF%80%E9%80%A3%E5%81%87%E8%A8%82%E6%88%BF%E5%83%853%E6%88%90-043812357.html
-  ▸ 65歲以上長者享健保補助修法三讀 行政院：國會應三思、望再有討論空間
-    https://tw.stock.yahoo.com/news/65%E6%AD%B2%E4%BB%A5%E4%B8%8A%E9%95%B7%E8%80%85%E4%BA%AB%E5%81%A5%E4%BF%9D%E8%A3%9C%E5%8A%A9%E4%BF%AE%E6%B3%95%E4%B8%89%E8%AE%80-%E8%A1%8C%E6%94%BF%E9%99%A2-%E5%9C%8B%E6%9C%83%E6%87%89%E4%B8%89%E6%80%9D-%E6%9C%9B%E5%86%8D%E6%9C%89%E8%A8%8E%E8%AB%96%E7%A9%BA%E9%96%93-043127081.html
-
-【升息】2 則  🟢高信心
-  ▸ Gold rises as Warsh remarks temper Fed hike bets, futures to
-    https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185
-  ▸ 高市早苗否認造成日圓疲軟、日本利率高漲
-    https://tw.stock.yahoo.com/news/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%A6%E8%AA%8D%E9%80%A0%E6%88%90%E6%97%A5%E5%9C%93%E7%96%B2%E8%BB%9F-%E6%97%A5%E6%9C%AC%E5%88%A9%E7%8E%87%E9%AB%98%E6%BC%B2-034612265.html
+【景氣轉弱】3 則  🟢高信心
+  ▸ There is a silent market rotation inside the S&P 500 that’s 
+    https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories
+  ▸ 【Follow法人】外資再砍767億元！連9日提款台股逾7585億元
+    https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E5%86%8D%E7%A0%8D767%E5%84%84%E5%85%83%EF%BC%81%E9%80%A39%E6%97%A5%E6%8F%90%E6%AC%BE%E5%8F%B0%E8%82%A1%E9%80%BE7585%E5%84%84%E5%85%83-070339089.html
+  ▸ 全球逆風衝擊新興市場 外資十月撤離印度股市逾521億盧比
+    https://tw.stock.yahoo.com/news/%E5%85%A8%E7%90%83%E9%80%86%E9%A2%A8%E8%A1%9D%E6%93%8A%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4-%E5%A4%96%E8%B3%87%E5%8D%81%E6%9C%88%E6%92%A4%E9%9B%A2%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E9%80%BE521%E5%84%84%E7%9B%A7%E6%AF%94-061626465.html
 
 【戰爭升溫】2 則  🟢高信心
   ▸ Putin reportedly suggests summit with Trump and Xi to decide
     https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html
-  ▸ Vance faces tough questions on Iran war, immigration and mor
-    https://www.cnbc.com/2026/10/18/jd-vance-town-hall-interview.html
+  ▸ 俄羅斯衛星逼近美國偵察衛星 專家憂太空安全升溫
+    https://tw.stock.yahoo.com/news/%E4%BF%84%E7%BE%85%E6%96%AF%E8%A1%9B%E6%98%9F%E9%80%BC%E8%BF%91%E7%BE%8E%E5%9C%8B%E5%81%B5%E5%AF%9F%E8%A1%9B%E6%98%9F-%E5%B0%88%E5%AE%B6%E6%86%82%E5%A4%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E5%8D%87%E6%BA%AB-055322694.html
 
-【通膨上升】1 則  🟡單篇
-  ▸ Analysis-Global food inflation is expected to intensify as s
-    https://www.investing.com/news/economic-indicators/analysisglobal-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up-4956295
+【政策補助】2 則  🟢高信心
+  ▸ 川普億元藥廠投資綁中期選舉 承諾共和黨勝選發 5000 美元股息
+    https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%84%84%E5%85%83%E8%97%A5%E5%BB%A0%E6%8A%95%E8%B3%87%E7%B6%81%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%89%BF%E8%AB%BE%E5%85%B1%E5%92%8C%E9%BB%A8%E5%8B%9D%E9%81%B8%E7%99%BC-5000-%E7%BE%8E%E5%85%83%E8%82%A1%E6%81%AF-063426040.html
+  ▸ 美媒：泰國向中國電動車開大門　如今正付出代價
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%AA%92-%E6%B3%B0%E5%9C%8B%E5%90%91%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%96%8B%E5%A4%A7%E9%96%80-%E5%A6%82%E4%BB%8A%E6%AD%A3%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9-062125829.html
+
+【美元升值】2 則  🟢高信心
+  ▸ 美元走強抵銷國際金價跌勢 埃及本地金市週漲120埃及鎊
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%83%E8%B5%B0%E5%BC%B7%E6%8A%B5%E9%8A%B7%E5%9C%8B%E9%9A%9B%E9%87%91%E5%83%B9%E8%B7%8C%E5%8B%A2-%E5%9F%83%E5%8F%8A%E6%9C%AC%E5%9C%B0%E9%87%91%E5%B8%82%E9%80%B1%E6%BC%B2120%E5%9F%83%E5%8F%8A%E9%8E%8A-063225881.html
+  ▸ 新台幣摜破32.5元！央行罕見盤中發布三點說明穩定匯市
+    https://tw.news.yahoo.com/%E6%96%B0%E5%8F%B0%E5%B9%A3%E6%91%9C%E7%A0%B432-5%E5%85%83-%E5%A4%AE%E8%A1%8C%E7%BD%95%E8%A6%8B%E7%9B%A4%E4%B8%AD%E7%99%BC%E5%B8%83%E4%B8%89%E9%BB%9E%E8%AA%AA%E6%98%8E%E7%A9%A9%E5%AE%9A%E5%8C%AF%E5%B8%82-062508357.html
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 傳中國儲能系統大廠2026年陸續退出美國市場，韓國電池股盤中紛傳漲聲
+    https://tw.stock.yahoo.com/news/%E5%82%B3%E4%B8%AD%E5%9C%8B%E5%84%B2%E8%83%BD%E7%B3%BB%E7%B5%B1%E5%A4%A7%E5%BB%A02026%E5%B9%B4%E9%99%B8%E7%BA%8C%E9%80%80%E5%87%BA%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4-%E9%9F%93%E5%9C%8B%E9%9B%BB%E6%B1%A0%E8%82%A1%E7%9B%A4%E4%B8%AD%E7%B4%9B%E5%82%B3%E6%BC%B2%E8%81%B2-062842785.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 【貨櫃三雄新輪迴？2】航海王要回來了？17萬散戶撤退大戶撿 分析師拆解
+    https://tw.stock.yahoo.com/news/%E3%80%90%E8%B2%A8%E6%AB%83%E4%B8%89%E9%9B%84%E6%96%B0%E8%BC%AA%E8%BF%B4%EF%BC%9F2%E3%80%91%E8%88%AA%E6%B5%B7%E7%8E%8B%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86%EF%BC%9F17%E8%90%AC%E6%95%A3%E6%88%B6%E6%92%A4%E9%80%80%E5%A4%A7%E6%88%B6%E6%92%BF-%E5%88%86%E6%9E%90%E5%B8%AB%E6%8B%86%E8%A7%A3-055800645.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +4.8  油電燃氣｜戰爭升溫、通膨上升
- 2. 8917.TW      +4.8  油電燃氣｜戰爭升溫、通膨上升
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 2880.TW      +4.0  金融｜升息、戰爭升溫
+ 2. 2881.TW      +4.0  金融｜升息、戰爭升溫
+ 3. 2882.TW      +4.0  金融｜升息、戰爭升溫
+ 4. 2884.TW      +4.0  金融｜升息、戰爭升溫
+ 5. 2886.TW      +4.0  金融｜升息、戰爭升溫
+ 6. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 8. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 9. 3017.TW      +3.0  AI伺服器｜AI熱潮
+10. 6669.TWO     +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
- 2. 2327.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
- 3. 3037.TW      -3.7  電子零組件｜景氣轉弱、通膨上升
- 4. 2515.TW      -3.0  建材營造｜升息
- 5. 5534.TW      -3.0  建材營造｜升息
- 6. 2504.TW      -3.0  建材營造｜升息
- 7. 2603.TW      -3.0  交通運輸及航運｜戰爭升溫
- 8. 2609.TW      -3.0  交通運輸及航運｜戰爭升溫
- 9. 2615.TW      -3.0  交通運輸及航運｜戰爭升溫
-10. 2618.TW      -3.0  交通運輸及航運｜戰爭升溫
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
