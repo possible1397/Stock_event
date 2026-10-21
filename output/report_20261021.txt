@@ -1,0 +1,68 @@
+📊 事件驅動選股日報 2026-10-21
+════════════════════════════════
+掃描 126 則新聞  |  偵測 5 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】5 則  🟢高信心
+  ▸ Super Micro’s stock soars after surprise update — with Dell 
+    https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories
+  ▸ Why SpaceX’s stock is surging — and lifting the broader AI u
+    https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories
+  ▸ Asian markets recover as earnings optimism offsets AI concer
+    https://seekingalpha.com/news/4654984-asian-markets-recover-as-earnings-optimism-offsets-ai-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ Bull markets tend to peak with a whimper, not a bang — but a
+    https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories
+  ▸ Australian data center operator NextDC's shares plunge 40% a
+    https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html
+  ▸ September data shows housing market in a deep freeze
+    https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html
+
+【升息】2 則  🟢高信心
+  ▸ RBA Nov rate hike bets surge to over 50% after Hauser warnin
+    https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541
+  ▸ Housing is flashing warning signs just as the Fed weighs mor
+    https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ RBA Nov rate hike bets surge to over 50% after Hauser warnin
+    https://www.investing.com/news/economy-news/rba-nov-rate-hike-bets-surge-to-over-50-after-hauser-warning-on-inflation-4961541
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ Trump sued over 50% tariffs on Canada in latest trade challe
+    https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2880.TW      +2.0  金融｜升息
+ 7. 2881.TW      +2.0  金融｜升息
+ 8. 2882.TW      +2.0  金融｜升息
+ 9. 2884.TW      +2.0  金融｜升息
+10. 2886.TW      +2.0  金融｜升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2330.TW      -2.7  半導體｜AI熱潮、景氣轉弱
+ 5. 2454.TW      -2.7  半導體｜AI熱潮、景氣轉弱
+ 6. 2303.TW      -2.7  半導體｜AI熱潮、景氣轉弱
+ 7. 2344.TW      -2.7  半導體｜AI熱潮、景氣轉弱
+ 8. 3711.TW      -2.7  半導體｜AI熱潮、景氣轉弱
+ 9. 2317.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
+10. 2327.TW      -2.4  電子零組件｜景氣轉弱、通膨上升
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
