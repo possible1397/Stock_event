@@ -1,0 +1,78 @@
+📊 事件驅動選股日報 2026-10-23
+════════════════════════════════
+掃描 128 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】6 則  🟢高信心
+  ▸ OpenAI and Poland’s NASK collaborate on AI safety research
+    https://www.investing.com/news/stock-market-news/openai-and-polands-nask-collaborate-on-ai-safety-research-4968092
+  ▸ CoreWeave set off a wave of anxiety — but Wall Street’s dire
+    https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories
+  ▸ TrendForce：預估2027年 Server CPU 出貨年增破40%
+    https://money.udn.com/money/story/5612/9833345
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ Volvo Cars swings to Q3 loss as revenue falls 22.6% Y/Y
+    https://seekingalpha.com/news/4656432-volvo-cars-swings-to-q3-loss-as-revenue-falls-226-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ UK retail sales fall 0.4% in September as consumer confidenc
+    https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096
+  ▸ UK retail sales fall by more than expected in September
+    https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076
+
+【降息】2 則  🟢高信心
+  ▸ Hold, hike and cut? Bank Indonesia says there’s logic to the
+    https://www.investing.com/news/economy-news/hold-hike-and-cut-bank-indonesia-says-theres-logic-to-the-policy-mix-4968091
+  ▸ Treasury yields log biggest drop since the 2023 banking cris
+    https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories
+
+【油價上升】2 則  🟢高信心
+  ▸ Tech selloff slows in Asia, oil hits five-month high
+    https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929
+  ▸ Oil prices approach Iran-war highs as soaring tanker rates t
+    https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ U.S. prepares for prolonged Iran conflict, Trump envoy tells
+    https://www.investing.com/news/economy-news/us-prepares-for-prolonged-iran-conflict-trump-envoy-tells-ft-4968075
+
+【航運運價上升】1 則  🟡單篇
+  ▸ Oil prices approach Iran-war highs as soaring tanker rates t
+    https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories
+
+【關稅/貿易戰】1 則  🟡單篇
+  ▸ 研調：PCB 族群東南亞布局 泰國最多廠馬來西亞封測供應鏈優勢
+    https://money.udn.com/money/story/5612/9833197
+
+【政策補助】1 則  🟡單篇
+  ▸ 東南亞最大SWITCH 2026 國發會帶新創生態系夥伴來了
+    https://tw.stock.yahoo.com/news/%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%9C%80%E5%A4%A7switch-2026-%E5%9C%8B%E7%99%BC%E6%9C%83%E5%B8%B6%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB%E5%A4%A5%E4%BC%B4%E4%BE%86%E4%BA%86-052910121.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +5.1  油電燃氣｜油價上升、戰爭升溫
+ 2. 8917.TW      +5.1  油電燃氣｜油價上升、戰爭升溫
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2330.TW      +2.9  半導體｜AI熱潮、景氣轉弱
+ 9. 2454.TW      +2.9  半導體｜AI熱潮、景氣轉弱
+10. 2303.TW      +2.9  半導體｜AI熱潮、景氣轉弱
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2603.TW      -3.0  交通運輸及航運｜油價上升、戰爭升溫
+ 2. 2609.TW      -3.0  交通運輸及航運｜油價上升、戰爭升溫
+ 3. 2615.TW      -3.0  交通運輸及航運｜油價上升、戰爭升溫
+ 4. 2618.TW      -3.0  交通運輸及航運｜油價上升、戰爭升溫
+ 5. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 6. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
