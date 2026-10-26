@@ -1,57 +1,61 @@
 📊 事件驅動選股日報 2026-10-26
 ════════════════════════════════
-掃描 120 則新聞  |  偵測 7 個事件
+掃描 117 則新聞  |  偵測 7 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】：
-1.  **AI產業投資熱潮不減**：巨額資本持續投入AI基礎設施，從晶片研發、資料中心擴建到智慧動力管理解決方案，需求與投資皆顯著增長。
-2.  **全球經濟景氣趨緩訊號**：部分S&P 500大型企業的營收成長面臨挑戰，市場對未來企業獲利表現及整體經濟前景抱持謹慎態度。
-3.  **記憶體市場復甦與漲價**：記憶體供給吃緊推升產品價格上揚，使得相關供應商營運表現改善，並考慮發放特別股利回饋股東。
-4.  **企業全球佈局與政策影響**：企業因應全球供應鏈重組與地緣政治考量，調整在地化投資策略；各地政府亦積極規劃AI科技產業政策以吸引投資。
+【重點提要】
+1.  **AI熱潮持續：** AI題材持續發燒，帶動相關產業併購、資金投入與企業營收成長。
+2.  **全球景氣放緩：** 對全球經濟放緩的擔憂升溫，歐美企業獲利面臨壓力，台股短期技術支撐受考驗。
+3.  **地緣政治風險加劇：** 中東與東亞地區地緣政治緊張情勢升級，雖刺激國防科技投資，但也引發潛在泡沫化疑慮。
+4.  **記憶體與油價趨勢分歧：** 記憶體產業受惠於漲價趨勢，相關業者獲利可觀；而國際油價則因市場對需求前景的疑慮而下跌。
 
-【具體總結】：
-今日市場呈現多空交雜格局。AI產業在巨額投資驅動下持續火熱，相關晶片、智慧動力管理需求暢旺，並帶動記憶體價格上揚，利好相關供應鏈。然而，部分大型企業獲利成長面臨挑戰，暗示景氣可能趨緩，為市場增添不確定性。此外，全球供應鏈重組及各地區政府對AI政策的推進，也將影響資金的長期配置方向。
+【具體總結】
+今日市場呈現多空交雜局面。AI題材持續強勁，吸引資金關注，為科技股提供支撐。然而，全球經濟成長放緩、企業獲利展望不佳及地緣政治緊張，都對整體盤勢構成壓力。記憶體產業受惠漲價帶來利多，而油價下跌則反映需求憂慮。投資人資金可能在AI等創新領域與防禦型資產間尋求平衡，並謹慎應對不確定性。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】10 則  🟢高信心
-  ▸ SpaceX closes $40 billion debt deal for AI chips, Elon Musk 
-    https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html
-  ▸ SoftBank reportedly plans $50 billion tech investment in asp
-    https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html
-  ▸ 智慧動力管理需求旺 伊頓公司電力設備業績亮眼吸引投資人
-    https://tw.stock.yahoo.com/news/%E6%99%BA%E6%85%A7%E5%8B%95%E5%8A%9B%E7%AE%A1%E7%90%86%E9%9C%80%E6%B1%82%E6%97%BA-%E4%BC%8A%E9%A0%93%E5%85%AC%E5%8F%B8%E9%9B%BB%E5%8A%9B%E8%A8%AD%E5%82%99%E6%A5%AD%E7%B8%BE%E4%BA%AE%E7%9C%BC%E5%90%B8%E5%BC%95%E6%8A%95%E8%B3%87%E4%BA%BA-042436124.html
+【AI熱潮】19 則  🟢高信心
+  ▸ GOAT Industries to acquire Epoxy AI customer contract revenu
+    https://seekingalpha.com/news/4657019-goat-industries-to-acquire-epoxy-ai-customer-contract-revenues-in-c28m-share-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Musk says SpaceX landed a $40 billion debt deal — and foreca
+    https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories
+  ▸ Mastek Q2 FY27 presentation: revenue tops ₹1,000 cr as AI sh
+    https://www.investing.com/news/company-news/mastek-q2-fy27-presentation-revenue-tops-1000-cr-as-ai-shift-accelerates-93CH-4971482
 
-【景氣轉弱】2 則  🟢高信心
+【景氣轉弱】5 則  🟢高信心
   ▸ More than a third of S&P 500 companies are about to report e
     https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories
-  ▸ ‘Ticking time bomb’: The world's pension funds face an agein
-    https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html
+  ▸ Roth/MKM downgrades LKQ stock on Europe woes, CEO transition
+    https://www.investing.com/news/analyst-ratings/rothmkm-downgrades-lkq-stock-on-europe-woes-ceo-transition-93CH-4971480
+  ▸ 台股27日有探底壓力　法人：半年線支撐受考驗
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A127%E6%97%A5%E6%9C%89%E6%8E%A2%E5%BA%95%E5%A3%93%E5%8A%9B-%E6%B3%95%E4%BA%BA-%E5%8D%8A%E5%B9%B4%E7%B7%9A%E6%94%AF%E6%92%90%E5%8F%97%E8%80%83%E9%A9%97-063513196.html
 
-【記憶體漲價】2 則  🟢高信心
+【戰爭升溫】4 則  🟢高信心
+  ▸ 川普下令就能開打！美軍傳96小時內可攻伊朗
+    https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%B1%E8%83%BD%E9%96%8B%E6%89%93-%E7%BE%8E%E8%BB%8D%E5%82%B396%E5%B0%8F%E6%99%82%E5%85%A7%E5%8F%AF%E6%94%BB%E4%BC%8A%E6%9C%97-070018125.html
+  ▸ 北韓自走砲現身邊境　再控韓國捏造地雷事件
+    https://tw.news.yahoo.com/%E5%8C%97%E9%9F%93%E8%87%AA%E8%B5%B0%E7%A0%B2%E7%8F%BE%E8%BA%AB%E9%82%8A%E5%A2%83-%E5%86%8D%E6%8E%A7%E9%9F%93%E5%9C%8B%E6%8D%8F%E9%80%A0%E5%9C%B0%E9%9B%B7%E4%BA%8B%E4%BB%B6-063213567.html
+  ▸ Defense tech investment boom sparks bubble warning as privat
+    https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html
+
+【記憶體漲價】1 則  🟡單篇
   ▸ 賣鎧俠持股獲利可觀　SK海力士擬發3940億特別股利回饋股東
     https://tw.stock.yahoo.com/news/%E8%B3%A3%E9%8E%A7%E4%BF%A0%E6%8C%81%E8%82%A1%E7%8D%B2%E5%88%A9%E5%8F%AF%E8%A7%80-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%93%AC%E7%99%BC3940%E5%84%84%E7%89%B9%E5%88%A5%E8%82%A1%E5%88%A9%E5%9B%9E%E9%A5%8B%E8%82%A1%E6%9D%B1-044356587.html
-  ▸ 記憶體短缺推升次世代主機成本 玩家恐面臨漲價
-    https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E7%9F%AD%E7%BC%BA%E6%8E%A8%E5%8D%87%E6%AC%A1%E4%B8%96%E4%BB%A3%E4%B8%BB%E6%A9%9F%E6%88%90%E6%9C%AC-%E7%8E%A9%E5%AE%B6%E6%81%90%E9%9D%A2%E8%87%A8%E6%BC%B2%E5%83%B9-025958136.html
+
+【油價下降】1 則  🟡單篇
+  ▸ Oil slides over 2% as traders weigh Saudi attack risks, dema
+    https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html
 
 【關稅/貿易戰】1 則  🟡單篇
   ▸ Audi defends plans for a $4 billion Georgia plant amid VW re
     https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html
 
-【政策補助】1 則  🟡單篇
-  ▸ 新北市長選戰／李四川批跟進AI科技廊帶政見 蘇巧慧反駁
-    https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-%E6%9D%8E%E5%9B%9B%E5%B7%9D%E6%89%B9%E8%B7%9F%E9%80%B2ai%E7%A7%91%E6%8A%80%E5%BB%8A%E5%B8%B6%E6%94%BF%E8%A6%8B-%E8%98%87%E5%B7%A7%E6%85%A7%E5%8F%8D%E9%A7%81-042409717.html
-
-【升息】1 則  🟡單篇
-  ▸ 科技巨頭財報與Fed決策登場　美股漲勢面臨考驗
-    https://tw.stock.yahoo.com/news/%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E8%B2%A1%E5%A0%B1%E8%88%87fed%E6%B1%BA%E7%AD%96%E7%99%BB%E5%A0%B4-%E7%BE%8E%E8%82%A1%E6%BC%B2%E5%8B%A2%E9%9D%A2%E8%87%A8%E8%80%83%E9%A9%97-030942405.html
-
-【航運運價上升】1 則  🟡單篇
-  ▸ AI 業搶貨 航空運價急漲一成 長榮航：還有調升空間
-    https://money.udn.com/money/story/5612/9836697
+【通膨上升】1 則  🟡單篇
+  ▸ In pictures: Protests over inequality, rising living costs t
+    https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html
 
 ▲ 買進信號
 ────────────────────────────────
@@ -60,20 +64,19 @@
  3. 2308.TW      +3.0  AI伺服器｜AI熱潮
  4. 3017.TW      +3.0  AI伺服器｜AI熱潮
  5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
- 6. 2408.TW      +2.5  記憶體｜記憶體漲價
- 7. 3260.TW      +2.5  記憶體｜記憶體漲價
- 8. 2603.TW      +2.1  交通運輸及航運｜航運運價上升
- 9. 2609.TW      +2.1  交通運輸及航運｜航運運價上升
-10. 2615.TW      +2.1  交通運輸及航運｜航運運價上升
+ 6. 6505.TW      +3.0  油電燃氣｜戰爭升溫、油價下降
+ 7. 8917.TW      +3.0  油電燃氣｜戰爭升溫、油價下降
+ 8. 2344.TW      +2.1  半導體/記憶體｜AI熱潮、景氣轉弱
+ 9. 2880.TW      +2.0  金融｜戰爭升溫
+10. 2881.TW      +2.0  金融｜戰爭升溫
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -3.0  電子零組件｜景氣轉弱、記憶體漲價
- 2. 2327.TW      -3.0  電子零組件｜景氣轉弱、記憶體漲價
- 3. 3037.TW      -3.0  電子零組件｜景氣轉弱、記憶體漲價
- 4. 2515.TW      -2.1  建材營造｜升息
- 5. 5534.TW      -2.1  建材營造｜升息
- 6. 2504.TW      -2.1  建材營造｜升息
+ 1. 2317.TW      -3.6  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -3.6  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -3.6  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 5. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
