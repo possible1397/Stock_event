@@ -1,0 +1,100 @@
+📊 事件驅動選股日報 2026-10-27
+════════════════════════════════
+掃描 125 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】
+1.  **AI熱潮持續延燒**：人工智慧應用領域持續擴展，字節跳動聊天機器人進入旅遊預訂，提振亞洲科技類股如日經、Kospi表現。
+2.  **全球景氣轉弱訊號**：耐久財信心創逾17年新低，並伴隨對中國經濟前景的擔憂，顯示整體經濟放緩壓力。
+3.  **通膨壓力持續存在**：科技通膨導致筆電等產品預期漲價，新台幣貶值亦帶來進口物價上漲壓力，儘管央行認為尚屬可控。
+4.  **國際油價回落**：中東地緣政治緊張情勢緩解的預期，帶動國際油價走跌。
+5.  **貿易政策分歧**：美加鋼鋁和汽車關稅談判現緩和跡象，但歐盟碳邊境稅則引發印度等國反彈，增添全球貿易不確定性。
+
+【具體總結】
+今日盤勢反映市場多空交錯。AI熱潮仍是資金主要追逐的焦點，持續提振科技類股表現。然而，全球經濟景氣放緩的訊號日益清晰，加上部分科技產品面臨價格上漲的通膨壓力，可能使投資人對非AI相關的消費與產業前景保持謹慎。油價因地緣政治緊張緩解而走跌，有助於舒緩部分通膨疑慮，但貿易壁壘的演變則為全球供應鏈帶來新的挑戰。整體而言，市場呈現成長動能與經濟逆風並存的複雜局面。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】15 則  🟢高信心
+  ▸ TikTok parent ByteDance’s chatbot is now giving travel-booki
+    https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories
+  ▸ With the Anthropic IPO, the devil is in the details
+    https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories
+  ▸ Asian Markets: Nikkei and Kospi lead tech rebound following 
+    https://seekingalpha.com/news/4657657-asian-markets-nikkei-and-kospi-lead-tech-rebound-following-anthropic-ipo-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【景氣轉弱】3 則  🟢高信心
+  ▸ Buying America at a discount: This timberland REIT is on sal
+    https://www.cnbc.com/2026/10/26/rayonier-stock-timberland-reit-nav-discount.html
+  ▸ CNBC's The China Connection newsletter: The 'cliff' beneath 
+    https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html
+  ▸ 房市信心跌、科技通膨來襲　10月耐久財信心創逾17年新低
+    https://money.udn.com/money/story/5612/9839394
+
+【通膨上升】3 則  🟢高信心
+  ▸ 房市信心跌、科技通膨來襲　10月耐久財信心創逾17年新低
+    https://money.udn.com/money/story/5612/9839394
+  ▸ 筆電明年上半年續漲！華碩估入門商用機貴逾10% 買一台至少多花4千元
+    https://tw.stock.yahoo.com/news/%E7%AD%86%E9%9B%BB%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BA%8C%E6%BC%B2%EF%BC%81%E8%8F%AF%E7%A2%A9%E4%BC%B0%E5%85%A5%E9%96%80%E5%95%86%E7%94%A8%E6%A9%9F%E8%B2%B4%E9%80%BE10-%E8%B2%B7%E4%B8%80%E5%8F%B0%E8%87%B3%E5%B0%91%E5%A4%9A%E8%8A%B14%E5%8D%83%E5%85%83-051922467.html
+  ▸ 新台幣貶值掀通膨壓力？央行：進口物價尚屬可控
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6%E5%80%BC%E6%8E%80%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-%E5%A4%AE%E8%A1%8C-%E9%80%B2%E5%8F%A3%E7%89%A9%E5%83%B9%E5%B0%9A%E5%B1%AC%E5%8F%AF%E6%8E%A7-045724544.html
+
+【關稅/貿易戰】2 則  🟢高信心
+  ▸ US, Canada in talks to ease steel and auto tariffs: report
+    https://seekingalpha.com/news/4657653-us-canada-in-talks-to-ease-steel-and-auto-tariffs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ 印度批歐盟碳邊境稅徒增負擔 荷蘭堅持不重談恐添全球貿易變數
+    https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%BA%A6%E6%89%B9%E6%AD%90%E7%9B%9F%E7%A2%B3%E9%82%8A%E5%A2%83%E7%A8%85%E5%BE%92%E5%A2%9E%E8%B2%A0%E6%93%94-%E8%8D%B7%E8%98%AD%E5%A0%85%E6%8C%81%E4%B8%8D%E9%87%8D%E8%AB%87%E6%81%90%E6%B7%BB%E5%85%A8%E7%90%83%E8%B2%BF%E6%98%93%E8%AE%8A%E6%95%B8-050222244.html
+
+【油價下降】2 則  🟢高信心
+  ▸ Oil eases on Middle East diplomacy hopes, Saudi attacks keep
+    https://www.investing.com/news/commodities-news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-4974185
+  ▸ Oil falls as renewed diplomatic efforts to end Mideast confl
+    https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html
+
+【升息】2 則  🟢高信心
+  ▸ Bank of Japan is expected to hold rates this week — but stay
+    https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html
+  ▸ Analysis: Why a $2 trillion deficit and 5% Treasury yields a
+    https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html
+
+【政策補助】2 則  🟢高信心
+  ▸ 中市無人機產業苦無試飛場 市府聯合民代爭取這兩處地點設置
+    https://money.udn.com/money/story/5612/9839602
+  ▸ 從備孕到孩子六歲，新竹市政府陪你一起養
+    https://tw.news.yahoo.com/%E5%BE%9E%E5%82%99%E5%AD%95%E5%88%B0%E5%AD%A9%E5%AD%90%E5%85%AD%E6%AD%B2-%E6%96%B0%E7%AB%B9%E5%B8%82%E6%94%BF%E5%BA%9C%E9%99%AA%E4%BD%A0-%E8%B5%B7%E9%A4%8A-050000113.html
+
+【美元升值】1 則  🟡單篇
+  ▸ 新台幣貶值掀通膨壓力？央行：進口物價尚屬可控
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E8%B2%B6%E5%80%BC%E6%8E%80%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-%E5%A4%AE%E8%A1%8C-%E9%80%B2%E5%8F%A3%E7%89%A9%E5%83%B9%E5%B0%9A%E5%B1%AC%E5%8F%AF%E6%8E%A7-045724544.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2603.TW      +2.5  交通運輸及航運｜油價下降
+ 7. 2609.TW      +2.5  交通運輸及航運｜油價下降
+ 8. 2615.TW      +2.5  交通運輸及航運｜油價下降
+ 9. 2618.TW      +2.5  交通運輸及航運｜油價下降
+10. 3576.TWO     +2.5  綠能｜政策補助
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2515.TW      -3.0  建材營造｜升息
+ 2. 5534.TW      -3.0  建材營造｜升息
+ 3. 2504.TW      -3.0  建材營造｜升息
+ 4. 2317.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 5. 2327.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 6. 3037.TW      -2.5  電子零組件｜景氣轉弱、通膨上升
+ 7. 2330.TW      -2.1  半導體｜AI熱潮、景氣轉弱
+ 8. 2454.TW      -2.1  半導體｜AI熱潮、景氣轉弱
+ 9. 2303.TW      -2.1  半導體｜AI熱潮、景氣轉弱
+10. 2344.TW      -2.1  半導體｜AI熱潮、景氣轉弱
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
