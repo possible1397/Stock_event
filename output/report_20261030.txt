@@ -1,0 +1,65 @@
+📊 事件驅動選股日報 2026-10-30
+════════════════════════════════
+掃描 127 則新聞  |  偵測 4 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】
+1.  **AI投資與擴散：** 微軟發行巨額債券為AI注資，Spotify等非科技巨頭亦規劃AI服務，顯示AI熱潮持續深化並擴展應用領域。
+2.  **供應鏈受惠：** 電子元件廠村田製作所因AI需求上調財測，凸顯AI對硬體供應鏈的實質貢獻。
+3.  **通膨與利率政策：** 日本央行（BoJ）維持利率不變，顯示在通膨目標達成上仍持謹慎態度，但全球通膨壓力仍是市場關注焦點。
+4.  **美元走強與貨幣貶值：** 美元表現強勢，導致包括新台幣在內的亞洲貨幣面臨貶值壓力。
+
+【具體總結】
+今日市場呈現AI題材持續發燒，資金持續湧入相關科技巨頭與受惠供應鏈，為部分企業帶來亮眼營收。然而，全球宏觀經濟的不確定性，尤其在通膨壓力與各國央行政策動向不明朗下，使得市場整體氛圍偏向謹慎。美元走強則對部分亞洲貨幣構成壓力，可能促使資金在追求成長機會與避險需求間進行權衡，導致市場波動加劇。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】4 則  🟢高信心
+  ▸ Microsoft taps debt markets with $25B bond sale to boost AI
+    https://seekingalpha.com/news/4661154-microsoft-taps-debt-markets-with-25b-bond-sale-to-boost-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Spotify targets 2027 launch for AI remix service, FT reports
+    https://www.investing.com/news/stock-market-news/spotify-targets-2027-launch-for-ai-remix-service-ft-reports-4985847
+  ▸ Murata raises full-year outlook as AI demand drives 41% prof
+    https://www.investing.com/news/earnings/murata-raises-fullyear-outlook-as-ai-demand-drives-41-profit-growth-4985819
+
+【通膨上升】2 則  🟢高信心
+  ▸ Asian stocks fall on US tech sell-off; BoJ holds rate at 31-
+    https://seekingalpha.com/news/4661133-asian-stocks-fall-on-us-tech-sell-off-boj-holds-rate-at-31-year-high-australia-ppi-rises-11-qq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ BOJ holds rates as underlying inflation aligns with 2% targe
+    https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html
+
+【升息】1 則  🟡單篇
+  ▸ Asian stocks fall on US tech sell-off; BoJ holds rate at 31-
+    https://seekingalpha.com/news/4661133-asian-stocks-fall-on-us-tech-sell-off-boj-holds-rate-at-31-year-high-australia-ppi-rises-11-qq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【美元升值】1 則  🟡單篇
+  ▸ 新台幣午盤貶1.3角　暫收32.622元
+    https://money.udn.com/money/story/5612/9846757
+
+▲ 買進信號
+────────────────────────────────
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 6505.TW      +2.5  油電燃氣｜通膨上升
+ 7. 8917.TW      +2.5  油電燃氣｜通膨上升
+ 8. 2330.TW      +2.1  半導體｜AI熱潮、升息
+ 9. 2454.TW      +2.1  半導體｜AI熱潮、升息
+10. 2303.TW      +2.1  半導體｜AI熱潮、升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -2.5  電子零組件｜通膨上升
+ 2. 2327.TW      -2.5  電子零組件｜通膨上升
+ 3. 3037.TW      -2.5  電子零組件｜通膨上升
+ 4. 2515.TW      -2.1  建材營造｜升息
+ 5. 5534.TW      -2.1  建材營造｜升息
+ 6. 2504.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
