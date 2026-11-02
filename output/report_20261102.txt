@@ -1,0 +1,89 @@
+📊 事件驅動選股日報 2026-11-02
+════════════════════════════════
+掃描 118 則新聞  |  偵測 8 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI熱潮持續主導市場焦點**，為多頭市場主要動能，但市場開始關注其潛在威脅與產業內部的競爭格局變化。
+2.  **各國政府政策干預頻繁**，從美國的農業補助、韓國的科技投資到台灣的社會福利支出，均涉及可觀的財政影響與政策辯論。
+3.  **亞洲地區景氣信號分歧**，日本製造業PMI下滑顯示景氣轉弱，而中國製造業PMI則表現優於預期。
+4.  **地緣政治風險與高利率環境並存**，伊朗議題仍是國際關注焦點，而高利率環境對資金配置與儲蓄報酬率持續產生影響。
+
+【具體總結】：
+今日盤勢仍受AI題材強勁帶動，為市場注入樂觀氛圍，但投資人同時需關注AI內部競爭及潛在風險。全球各地政府積極推動各項政策與補助，可能對特定產業及民生帶來短期支持，但也引發長期財政負擔的疑慮。在AI以外的經濟領域，亞洲地區的製造業數據呈現喜憂參半的景況。整體而言，市場在AI題材熱度與全球地緣政治、高利率環境等不確定性因素之間尋找平衡點，資金流向可能隨訊息變化而波動。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】16 則  🟢高信心
+  ▸ This is the biggest threat to the AI-powered bull market
+    https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories
+  ▸ South Korea targets 'world's highest performance' sovereign 
+    https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
+  ▸ Why AI is boosting Meta's ad business while hurting Google s
+    https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html
+
+【政策補助】4 則  🟢高信心
+  ▸ Trump rolls out $15B in farm relief package ahead of midterm
+    https://seekingalpha.com/news/4661901-trump-rolls-out-15b-in-farm-relief-package-ahead-of-midterms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ South Korea targets 'world's highest performance' sovereign 
+    https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
+  ▸ 65歲以上健保免費，年燒400億、2075年佔過半人口怎辦？補助弱勢早在做…卓榮泰拋違憲疑慮11/6攤牌
+    https://tw.news.yahoo.com/65%E6%AD%B2%E4%BB%A5%E4%B8%8A%E5%81%A5%E4%BF%9D%E5%85%8D%E8%B2%BB-%E5%B9%B4%E7%87%92400%E5%84%84-2075%E5%B9%B4%E4%BD%94%E9%81%8E%E5%8D%8A%E4%BA%BA%E5%8F%A3%E6%80%8E%E8%BE%A6-%E8%A3%9C%E5%8A%A9%E5%BC%B1%E5%8B%A2%E6%97%A9%E5%9C%A8%E5%81%9A-%E5%8D%93%E6%A6%AE%E6%B3%B0%E6%8B%8B%E9%81%95%E6%86%B2%E7%96%91%E6%85%AE11-060002333.html
+
+【景氣轉弱】2 則  🟢高信心
+  ▸ S&P Global Japan Manufacturing PMI slows to 7-month low of 5
+    https://seekingalpha.com/news/4661908-sp-global-japan-manufacturing-pmi-slows-to-7-month-low-of-533?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ RatingDog China PMI beats forecast at 52.0; official NBS man
+    https://seekingalpha.com/news/4661907-ratingdog-china-pmi-beats-forecast-at-520-official-nbs-manufacturing-drops-to-493?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ Rubio says Trump wants to end Iran war 'peacefully' even as 
+    https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html
+
+【升息】1 則  🟡單篇
+  ▸ The best high-yield savings accounts of November 2026: Earn 
+    https://www.cnbc.com/select/best-high-yield-savings-accounts/
+
+【油價上升】1 則  🟡單篇
+  ▸ 機票又要變貴了！國籍航空燃油附加費11月8日起調漲
+    https://money.udn.com/money/story/5612/9851399
+
+【記憶體漲價】1 則  🟡單篇
+  ▸ 高盛估NAND供應吃緊延續至2027年，維持三星、SK海力士買進評等
+    https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E4%BC%B0nand%E4%BE%9B%E6%87%89%E5%90%83%E7%B7%8A%E5%BB%B6%E7%BA%8C%E8%87%B32027%E5%B9%B4-%E7%B6%AD%E6%8C%81%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B2%B7%E9%80%B2%E8%A9%95%E7%AD%89-061327672.html
+
+【通膨上升】1 則  🟡單篇
+  ▸ 日本物價漲潮下 宜得利客營雙挫 優衣庫逆勢獲利創高
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E7%89%A9%E5%83%B9%E6%BC%B2%E6%BD%AE%E4%B8%8B-%E5%AE%9C%E5%BE%97%E5%88%A9%E5%AE%A2%E7%87%9F%E9%9B%99%E6%8C%AB-%E5%84%AA%E8%A1%A3%E5%BA%AB%E9%80%86%E5%8B%A2%E7%8D%B2%E5%88%A9%E5%89%B5%E9%AB%98-055659272.html
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +6.0  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 8. 2880.TW      +2.8  金融｜戰爭升溫、升息
+ 9. 2881.TW      +2.8  金融｜戰爭升溫、升息
+10. 2882.TW      +2.8  金融｜戰爭升溫、升息
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -4.9  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -4.9  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -4.9  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2603.TW      -4.2  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -4.2  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -4.2  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -4.2  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
