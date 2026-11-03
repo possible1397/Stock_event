@@ -1,117 +1,107 @@
 📊 事件驅動選股日報 2026-11-03
 ════════════════════════════════
-掃描 127 則新聞  |  偵測 10 個事件
+掃描 123 則新聞  |  偵測 9 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
 【今日盤勢與焦點速報】
 
-【重點提要】
-*   **AI概念股面臨修正壓力：** AI熱潮初期漲幅過大，近期那斯達克100指數進入第三次修正，AI概念股普遍承壓，市場重新評估其估值。
-*   **全球景氣疑慮升溫：** 多國股市出現重挫，尤其台股呈現千檔下跌，市場對潛在的經濟衰退及「史詩級熊市」風險擔憂加劇。
-*   **通膨壓力持續與升息潮：** 全球食品價格持續上漲，多國央行（如澳洲）為對抗通膨，將利率升至多年新高，日本央行未來亦不排除溫和升息。
-*   **地緣政治風險加劇供應鏈變革：** 中美科技競爭升溫，輝達等企業被迫調整對中國的銷售與服務策略，加速衛星通訊、伺服器PCB等產業向東南亞生產轉移。
+**【重點提要】**
+1.  **AI領域動能強勁：** AI熱潮持續延燒，多項投資、併購案及資料中心建置持續推進，顯示資金持續聚焦於AI相關技術與基礎設施。
+2.  **記憶體產業轉旺：** 受惠於AI應用需求強勁及供應鏈補庫存動能，記憶體價格預期第四季續漲，相關廠商亦積極擴大資本支出。
+3.  **全球景氣分歧：** 消費電子需求顯現疲軟，大宗商品類股承壓，反映部分產業景氣轉弱；然日本結束通縮，部分地區仍面臨通膨壓力。
+4.  **政策面提供支撐：** 各國政府推出政策補助與穩供措施，包括中國的經濟刺激政策、國內的物價穩定與民生支持，試圖緩解經濟壓力。
 
-【具體總結】
-今日市場氛圍趨於謹慎。受AI概念股修正、全球景氣轉弱擔憂，以及多國央行為抗通膨持續升息的影響，主要股指普遍承壓。地緣政治風險，特別是中美科技貿易緊張，亦促使企業調整供應鏈布局。資金可能趨向保守，部分從前期漲幅較大的科技股撤出，轉向觀望或尋求防禦型資產。市場正密切關注經濟數據、通膨走向與政策動態。
+**【具體總結】**
+今日盤勢反映AI熱潮持續推動科技產業發展，相關投資與併購案頻傳，並帶動記憶體產業受惠於AI應用需求而預期價格續漲。儘管全球景氣在消費電子等領域顯現疲軟，大宗商品承壓，部分國家仍面臨通膨壓力導致貨幣政策緊縮。整體而言，資金持續聚焦AI及記憶體等具成長動能的產業，而各國政府的政策支持則試圖為經濟下行提供緩衝。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】16 則  🟢高信心
-  ▸ Nasdaq-100 tumbles into its third correction this year as AI
-    https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories
+【AI熱潮】15 則  🟢高信心
   ▸ Palantir earnings reveal a major AI turning point
     https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories
-  ▸ Investors gaming out Congress control for spending, AI outlo
-    https://www.investing.com/news/economy-news/analysisinvestors-gaming-out-congress-control-for-spending-ai-outlook-4990603
+  ▸ CrowdStrike to buy two AI security startups for  $495M: WSJ
+    https://seekingalpha.com/news/4663174-crowdstrike-to-buy-two-ai-security-startups-for-495m-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Brookfield, QIA to invest $3.4B in UK data center project wi
+    https://seekingalpha.com/news/4663171-brookfield-qia-to-invest-34b-in-uk-data-center-project-with-drax?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【景氣轉弱】8 則  🟢高信心
-  ▸ 台股重挫1612點千檔下跌　CPO賣壓沉重資服股走強
-    https://money.udn.com/money/story/5612/9854436
-  ▸ 1929大蕭條重演？華爾街曝「4大未爆彈」小心史詩級熊市來襲
-    https://tw.stock.yahoo.com/news/1929%E5%A4%A7%E8%95%AD%E6%A2%9D%E9%87%8D%E6%BC%94-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%9B%9D-4%E5%A4%A7%E6%9C%AA%E7%88%86%E5%BD%88-%E5%B0%8F%E5%BF%83%E5%8F%B2%E8%A9%A9%E7%B4%9A%E7%86%8A%E5%B8%82%E4%BE%86%E8%A5%B2-064615167.html
-  ▸ 【台股盤後】台股重挫1612點千檔下跌　CPO賣壓沉重資服股走強
-    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1612%E9%BB%9E%E5%8D%83%E6%AA%94%E4%B8%8B%E8%B7%8C-cpo%E8%B3%A3%E5%A3%93%E6%B2%89%E9%87%8D%E8%B3%87%E6%9C%8D%E8%82%A1%E8%B5%B0%E5%BC%B7-063402785.html
+【景氣轉弱】6 則  🟢高信心
+  ▸ 華邦電陳沛銘：記憶體價格Q4續漲 消費電子轉弱 AI應用續強
+    https://money.udn.com/money/story/5612/9854753
+  ▸ 大宗商品類股表現欠佳，道瓊歐洲600指數週二開盤下滑，三大股市齊黑
+    https://tw.stock.yahoo.com/news/%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E9%A1%9E%E8%82%A1%E8%A1%A8%E7%8F%BE%E6%AC%A0%E4%BD%B3-%E9%81%93%E7%93%8A%E6%AD%90%E6%B4%B2600%E6%8C%87%E6%95%B8%E9%80%B1%E4%BA%8C%E9%96%8B%E7%9B%A4%E4%B8%8B%E6%BB%91-%E4%B8%89%E5%A4%A7%E8%82%A1%E5%B8%82%E9%BD%8A%E9%BB%91-082931456.html
+  ▸ 血洗1600點「該逃命or撿便宜」？ 專家曝3關鍵：別恐慌交易
+    https://tw.stock.yahoo.com/news/%E8%A1%80%E6%B4%971600%E9%BB%9E-%E8%A9%B2%E9%80%83%E5%91%BDor%E6%92%BF%E4%BE%BF%E5%AE%9C-%E5%B0%88%E5%AE%B6%E6%9B%9D3%E9%97%9C%E9%8D%B5-%E5%88%A5%E6%81%90%E6%85%8C%E4%BA%A4%E6%98%93-081000229.html
 
-【通膨上升】4 則  🟢高信心
-  ▸ Analysis-From grains to chicken and milk, India faces prolon
-    https://www.investing.com/news/economy-news/analysisfrom-grains-to-chicken-and-milk-india-faces-prolonged-food-inflation-4993603
+【記憶體漲價】4 則  🟢高信心
+  ▸ 華邦電陳沛銘：記憶體價格Q4續漲 消費電子轉弱 AI應用續強
+    https://money.udn.com/money/story/5612/9854753
+  ▸ 蘋果發布財報股價殺4%！10重點看為何今年不出iPhone18、Duo及記憶體缺貨影響
+    https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E7%99%BC%E5%B8%83%E8%B2%A1%E5%A0%B1%E8%82%A1%E5%83%B9%E6%AE%BA4-10%E9%87%8D%E9%BB%9E%E7%9C%8B%E7%82%BA%E4%BD%95%E4%BB%8A%E5%B9%B4%E4%B8%8D%E5%87%BAiphone18-duo%E5%8F%8A%E8%A8%98%E6%86%B6%E9%AB%94%E7%BC%BA%E8%B2%A8%E5%BD%B1%E9%9F%BF-032500184.html
+  ▸ 單季EPS飆7.58元毛利率衝破7成 華邦電再砸731億擴建高雄12吋廠
+    https://tw.stock.yahoo.com/news/%E5%96%AE%E5%AD%A3eps%E9%A3%867-58%E5%85%83%E6%AF%9B%E5%88%A9%E7%8E%87%E8%A1%9D%E7%A0%B47%E6%88%90-%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%86%8D%E7%A0%B8731%E5%84%84%E6%93%B4%E5%BB%BA%E9%AB%98%E9%9B%8412%E5%90%8B%E5%BB%A0-081359114.html
+
+【通膨上升】3 則  🟢高信心
   ▸ Australia hikes rates to 18-year high to fight inflation
     https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html
   ▸ I bonds now pay 5.51% — but there are trade-offs. What to kn
     https://www.cnbc.com/2026/11/02/i-bonds-rate.html
+  ▸ 日本結束30年通縮迎黃金時代 地緣政治助力經濟新局
+    https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E7%B5%90%E6%9D%9F30%E5%B9%B4%E9%80%9A%E7%B8%AE%E8%BF%8E%E9%BB%83%E9%87%91%E6%99%82%E4%BB%A3-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E5%8A%A9%E5%8A%9B%E7%B6%93%E6%BF%9F%E6%96%B0%E5%B1%80-082954094.html
 
-【升息】3 則  🟢高信心
-  ▸ Offerpad outlines plan to exit Q2 2027 with positive adjuste
-    https://seekingalpha.com/news/4663153-offerpad-outlines-plan-to-exit-q2-2027-with-positive-adjusted-ebitda-run-rate-amid-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Australia hikes rates to 18-year high to fight inflation
-    https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html
-  ▸ 經濟學者會田卓司預期：日銀利率2029年達2.5% 不反對溫和升息
-    https://tw.stock.yahoo.com/news/%E7%B6%93%E6%BF%9F%E5%AD%B8%E8%80%85%E6%9C%83%E7%94%B0%E5%8D%93%E5%8F%B8%E9%A0%90%E6%9C%9F-%E6%97%A5%E9%8A%80%E5%88%A9%E7%8E%872029%E5%B9%B4%E9%81%942-5-%E4%B8%8D%E5%8F%8D%E5%B0%8D%E6%BA%AB%E5%92%8C%E5%8D%87%E6%81%AF-062915526.html
-
-【關稅/貿易戰】3 則  🟢高信心
-  ▸ Nvidia tells cloud clients to sell at least 51% of services 
-    https://seekingalpha.com/news/4663131-nvidia-tells-cloud-clients-to-sell-at-least-51-of-services-to-non-chinese-firms---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ 研調：衛星通訊與伺服器 PCB 等逐步導入東南亞生產
-    https://money.udn.com/money/story/5612/9854192
-  ▸ 輝達嚴控中國曝險！要求全球雲端客戶過半服務禁賣中國
-    https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E5%9A%B4%E6%8E%A7%E4%B8%AD%E5%9C%8B%E6%9B%9D%E9%9A%AA-%E8%A6%81%E6%B1%82%E5%85%A8%E7%90%83%E9%9B%B2%E7%AB%AF%E5%AE%A2%E6%88%B6%E9%81%8E%E5%8D%8A%E6%9C%8D%E5%8B%99%E7%A6%81%E8%B3%A3%E4%B8%AD%E5%9C%8B-061236188.html
-
-【油價上升】3 則  🟢高信心
-  ▸ IEA示警，天然氣市場供應緊張將持續至2027年
-    https://tw.stock.yahoo.com/news/iea%E7%A4%BA%E8%AD%A6-%E5%A4%A9%E7%84%B6%E6%B0%A3%E5%B8%82%E5%A0%B4%E4%BE%9B%E6%87%89%E7%B7%8A%E5%BC%B5%E5%B0%87%E6%8C%81%E7%BA%8C%E8%87%B32027%E5%B9%B4-064755179.html
-  ▸ 加一次油要多700元？經部曝數據：95無鉛汽油本該漲至45元
-    https://tw.stock.yahoo.com/news/%E5%8A%A0%E4%B8%80%E6%AC%A1%E6%B2%B9%E8%A6%81%E5%A4%9A700%E5%85%83%EF%BC%9F%E7%B6%93%E9%83%A8%E6%9B%9D%E6%95%B8%E6%93%9A%EF%BC%9A95%E7%84%A1%E9%89%9B%E6%B1%BD%E6%B2%B9%E6%9C%AC%E8%A9%B2%E6%BC%B2%E8%87%B345%E5%85%83-062943385.html
-  ▸ 油價飆助攻！沙烏地阿美第三季獲利成長9% ，優於市場預期
-    https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8A%A9%E6%94%BB-%E6%B2%99%E7%83%8F%E5%9C%B0%E9%98%BF%E7%BE%8E%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%8D%B2%E5%88%A9%E6%88%90%E9%95%B79-%E5%84%AA%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F-062113700.html
+【政策補助】3 則  🟢高信心
+  ▸ 經部穩供沙拉油　協調每月增產4400噸、台糖12月再增供
+    https://money.udn.com/money/story/5612/9854793
+  ▸ 台北社宅招租1158戶！月租最低1.29萬　申請期限、資格一次看
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E7%A4%BE%E5%AE%85%E6%8B%9B%E7%A7%9F1158%E6%88%B6%EF%BC%81%E6%9C%88%E7%A7%9F%E6%9C%80%E4%BD%8E129%E8%90%AC-%E7%94%B3%E8%AB%8B%E6%9C%9F%E9%99%90%E3%80%81%E8%B3%87%E6%A0%BC%E4%B8%80%E6%AC%A1%E7%9C%8B-084211568.html
+  ▸ 中國政策利多、港Q3經濟看好，恆指週二走升0.57%，四大類股悉數上揚
+    https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E6%94%BF%E7%AD%96%E5%88%A9%E5%A4%9A-%E6%B8%AFq3%E7%B6%93%E6%BF%9F%E7%9C%8B%E5%A5%BD-%E6%81%86%E6%8C%87%E9%80%B1%E4%BA%8C%E8%B5%B0%E5%8D%870-57-%E5%9B%9B%E5%A4%A7%E9%A1%9E%E8%82%A1%E6%82%89%E6%95%B8%E4%B8%8A%E6%8F%9A-083430240.html
 
 【戰爭升溫】2 則  🟢高信心
-  ▸ War widens in the Black Sea in a test of NATO red lines
-    https://www.investing.com/news/commodities-news/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines-4993604
-  ▸ U.S. reportedly strikes Iran's Qeshm Island as Vance hopes f
+  ▸ Oil futures edge up after U.S. said to strike Iran's Qeshm I
+    https://seekingalpha.com/news/4663165-oil-futures-edge-up-after-us-strike-on-iran-qeshm-island?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotia
     https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html
 
-【政策補助】2 則  🟢高信心
-  ▸ 石油工會：中油虧損是配合政策 籲支持撥補增資
-    https://money.udn.com/money/story/5612/9854129
-  ▸ 韓國總統李在明倡議「全民成長」 預算 820 兆韓元拚解貧富差距
-    https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%80%A1%E8%AD%B0-%E5%85%A8%E6%B0%91%E6%88%90%E9%95%B7-%E9%A0%90%E7%AE%97-820-%E5%85%86%E9%9F%93%E5%85%83%E6%8B%9A%E8%A7%A3%E8%B2%A7%E5%AF%8C%E5%B7%AE%E8%B7%9D-064220425.html
+【美元升值】2 則  🟢高信心
+  ▸ 台股重挫、外資出走，新台幣兌美元週二走貶1.68角，收32.760元
+    https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB-%E5%A4%96%E8%B3%87%E5%87%BA%E8%B5%B0-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%85%8C%E7%BE%8E%E5%85%83%E9%80%B1%E4%BA%8C%E8%B5%B0%E8%B2%B61-68%E8%A7%92-%E6%94%B632-081352677.html
+  ▸ 新台幣重貶1.68角　收32.76元
+    https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E9%87%8D%E8%B2%B61-68%E8%A7%92-%E6%94%B632-76%E5%85%83-080806063.html
 
-【記憶體漲價】2 則  🟢高信心
-  ▸ 買筆電貴三成 宏碁：拚台灣全年消費PC出貨增逾15%
-    https://tw.stock.yahoo.com/news/%E8%B2%B7%E7%AD%86%E9%9B%BB%E8%B2%B4%E4%B8%89%E6%88%90-%E5%AE%8F%E7%A2%81%EF%BC%9A%E6%8B%9A%E5%8F%B0%E7%81%A3%E5%85%A8%E5%B9%B4%E6%B6%88%E8%B2%BBpc%E5%87%BA%E8%B2%A8%E5%A2%9E%E9%80%BE15-063654883.html
-  ▸ 蘋果財報公布時間11/2，AMD超微也開牌，能力挽熊市？華邦電法說周二接棒，記憶體價格續飆？｜今周重磅
-    https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E8%B2%A1%E5%A0%B1%E5%85%AC%E5%B8%83%E6%99%82%E9%96%9311-2-amd%E8%B6%85%E5%BE%AE%E4%B9%9F%E9%96%8B%E7%89%8C-%E8%83%BD%E5%8A%9B%E6%8C%BD%E7%86%8A%E5%B8%82-%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%B3%95%E8%AA%AA%E5%91%A8%E4%BA%8C%E6%8E%A5%E6%A3%92-060002999.html
+【油價上升】1 則  🟡單篇
+  ▸ Oil futures edge up after U.S. said to strike Iran's Qeshm I
+    https://seekingalpha.com/news/4663165-oil-futures-edge-up-after-us-strike-on-iran-qeshm-island?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
 
-【美元升值】1 則  🟡單篇
-  ▸ 外資狂賣？新台幣重貶逾2角「跌破32.8元」 一年半最低
-    https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%8B%82%E8%B3%A3%EF%BC%9F%E6%96%B0%E5%8F%B0%E5%B9%A3%E9%87%8D%E8%B2%B6%E9%80%BE2%E8%A7%92%E3%80%8C%E8%B7%8C%E7%A0%B4328%E5%85%83%E3%80%8D-%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%9C%80%E4%BD%8E-061109044.html
+【升息】1 則  🟡單篇
+  ▸ Australia hikes rates to 18-year high to fight inflation
+    https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html
 
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +8.6  油電燃氣｜通膨上升、油價上升
- 2. 8917.TW      +8.6  油電燃氣｜通膨上升、油價上升
- 3. 2880.TW      +4.0  金融｜升息、戰爭升溫
- 4. 2881.TW      +4.0  金融｜升息、戰爭升溫
- 5. 2882.TW      +4.0  金融｜升息、戰爭升溫
- 6. 2884.TW      +4.0  金融｜升息、戰爭升溫
- 7. 2886.TW      +4.0  金融｜升息、戰爭升溫
- 8. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 9. 2356.TW      +3.0  AI伺服器｜AI熱潮
-10. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 1. 6505.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
+ 2. 8917.TW      +7.7  油電燃氣｜通膨上升、戰爭升溫
+ 3. 2344.TW      +3.9  半導體/記憶體｜AI熱潮、景氣轉弱
+ 4. 2880.TW      +3.4  金融｜戰爭升溫、升息
+ 5. 2881.TW      +3.4  金融｜戰爭升溫、升息
+ 6. 2882.TW      +3.4  金融｜戰爭升溫、升息
+ 7. 2884.TW      +3.4  金融｜戰爭升溫、升息
+ 8. 2886.TW      +3.4  金融｜戰爭升溫、升息
+ 9. 2382.TW      +3.0  AI伺服器｜AI熱潮
+10. 2356.TW      +3.0  AI伺服器｜AI熱潮
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2603.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 2. 2609.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 3. 2615.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 4. 2618.TW      -6.0  交通運輸及航運｜油價上升、戰爭升溫
- 5. 2317.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
- 6. 2327.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
- 7. 3037.TW      -4.2  電子零組件｜景氣轉弱、通膨上升
- 8. 2515.TW      -3.0  建材營造｜升息
- 9. 5534.TW      -3.0  建材營造｜升息
-10. 2504.TW      -3.0  建材營造｜升息
+ 1. 2317.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
+ 2. 2327.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
+ 3. 3037.TW      -6.2  電子零組件｜景氣轉弱、記憶體漲價
+ 4. 2603.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -5.1  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -3.0  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -3.0  休閒娛樂｜戰爭升溫
+10. 2515.TW      -2.1  建材營造｜升息
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
