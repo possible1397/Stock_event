@@ -1,0 +1,66 @@
+📊 事件驅動選股日報 2026-11-04
+════════════════════════════════
+掃描 126 則新聞  |  偵測 6 個事件
+
+💡 AI 今日盤勢與焦點速報
+────────────────────────────────
+無法產生總結。
+
+🔍 今日事件 & 新聞
+────────────────────────────────
+【AI熱潮】16 則  🟢高信心
+  ▸ Here’s why AMD’s stock is rising — and sending a confident m
+    https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories
+  ▸ Super Micro’s stock pops as earnings show booming demand for
+    https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories
+  ▸ AI’s control over the bond market is growing — even rivaling
+    https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories
+
+【景氣轉弱】4 則  🟢高信心
+  ▸ S&P 500 is looking over the edge of a technical cliff — what
+    https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories
+  ▸ Australian services PMI hits 7-month low of 48.5; Ai Group m
+    https://seekingalpha.com/news/4664465-australian-services-pmi-hits-7-month-low-of-485-ai-group-manufacturing-index-plunges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+  ▸ Treasury yields fall as investors crowd into bonds for safet
+    https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html
+
+【戰爭升溫】1 則  🟡單篇
+  ▸ Solar Industries Q2 FY27 slides: defence surge drives 69% re
+    https://www.investing.com/news/company-news/solar-industries-q2-fy27-slides-defence-surge-drives-69-revenue-jump-93CH-4997457
+
+【政策補助】1 則  🟡單篇
+  ▸ Strand bookstore to pay nearly $1.5 million over Covid loan 
+    https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html
+
+【油價上升】1 則  🟡單篇
+  ▸ JetBlue raises bag fees for third time in a year as fuel cos
+    https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html
+
+【航運運價上升】1 則  🟡單篇
+  ▸ 捷迅前3季賺贏去年全年　空運強勁海運有撐
+    https://money.udn.com/money/story/5612/9856836
+
+▲ 買進信號
+────────────────────────────────
+ 1. 6505.TW      +4.2  油電燃氣｜戰爭升溫、油價上升
+ 2. 8917.TW      +4.2  油電燃氣｜戰爭升溫、油價上升
+ 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+
+▼ 賣出信號
+────────────────────────────────
+ 1. 2317.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
+ 2. 2327.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
+ 3. 3037.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
+ 4. 2603.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
+ 5. 2609.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
+ 6. 2615.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
+ 7. 2618.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
+ 8. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
+ 9. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+
+────────────────────────────────
+⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
