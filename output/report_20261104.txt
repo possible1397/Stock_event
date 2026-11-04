@@ -1,14 +1,24 @@
 📊 事件驅動選股日報 2026-11-04
 ════════════════════════════════
-掃描 126 則新聞  |  偵測 6 個事件
+掃描 126 則新聞  |  偵測 5 個事件
 
 💡 AI 今日盤勢與焦點速報
 ────────────────────────────────
-無法產生總結。
+【今日盤勢與焦點速報】
+
+【重點提要】：
+1.  **AI概念股表現強勁**：AI熱潮持續，相關半導體、伺服器等硬體需求暢旺，帶動供應鏈股價上漲，市場對其未來發展抱持樂觀態度。
+2.  **全球景氣轉弱疑慮**：全球經濟放緩跡象顯現，特別是中國市場銷售表現疲軟，部分地區股市面臨技術性修正壓力，且有顯著的外資資金流出。
+3.  **通膨與成本壓力續存**：企業仍普遍面臨成本上升的壓力，導致毛利率受到壓縮，即使營收成長也可能影響獲利表現。
+4.  **航運物流景氣向上**：航運及物流產業受惠於運價回升和市場需求支撐，展現強勁的營收與獲利成長。
+5.  **政策影響特定產業**：政府的稅務優惠或政策性補助，對特定企業的獲利能力有顯著挹注；國內能源費率政策也持續牽動相關產業的財務展望。
+
+【具體總結】：
+今日盤勢呈現AI題材與全球景氣逆風的兩極化格局。AI概念股在強勁需求帶動下持續吸納資金，表現突出。然而，全球經濟放緩、尤其中國市場疲軟的擔憂加劇，導致部分市場面臨修正與資金外流壓力。通膨持續壓縮企業獲利空間，但在逆勢中，航運與物流產業因運價上升而表現亮眼。政策利多對特定企業的獲利有所助益，但宏觀經濟與成本壓力仍是整體市場需審慎評估的關鍵因素。
 
 🔍 今日事件 & 新聞
 ────────────────────────────────
-【AI熱潮】16 則  🟢高信心
+【AI熱潮】20 則  🟢高信心
   ▸ Here’s why AMD’s stock is rising — and sending a confident m
     https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories
   ▸ Super Micro’s stock pops as earnings show booming demand for
@@ -16,51 +26,52 @@
   ▸ AI’s control over the bond market is growing — even rivaling
     https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories
 
-【景氣轉弱】4 則  🟢高信心
+【景氣轉弱】6 則  🟢高信心
   ▸ S&P 500 is looking over the edge of a technical cliff — what
     https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories
-  ▸ Australian services PMI hits 7-month low of 48.5; Ai Group m
-    https://seekingalpha.com/news/4664465-australian-services-pmi-hits-7-month-low-of-485-ai-group-manufacturing-index-plunges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
-  ▸ Treasury yields fall as investors crowd into bonds for safet
-    https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html
+  ▸ BMW Q3 2026 slides: EV sales rise as China sales plunge 25%
+    https://www.investing.com/news/company-news/bmw-q3-2026-slides-ev-sales-rise-as-china-sales-plunge-25-93CH-4997643
+  ▸ 三大法人賣超台股1597億　外資砍1498億歷史第5大
+    https://money.udn.com/money/story/5612/9857113
 
-【戰爭升溫】1 則  🟡單篇
-  ▸ Solar Industries Q2 FY27 slides: defence surge drives 69% re
-    https://www.investing.com/news/company-news/solar-industries-q2-fy27-slides-defence-surge-drives-69-revenue-jump-93CH-4997457
+【政策補助】4 則  🟢高信心
+  ▸ 美國退稅挹注　億豐第3季毛利率衝破6成創新高
+    https://money.udn.com/money/story/5612/9857208
+  ▸ 立院審追加預算　曾文生：若採韓電費率台電累計盈餘逾5千億
+    https://money.udn.com/money/story/5612/9857197
+  ▸ 美國退稅挹注　億豐第3季毛利率首度衝破6成創新高
+    https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%80%80%E7%A8%85%E6%8C%B9%E6%B3%A8-%E5%84%84%E8%B1%90%E7%AC%AC3%E5%AD%A3%E6%AF%9B%E5%88%A9%E7%8E%87%E9%A6%96%E5%BA%A6%E8%A1%9D%E7%A0%B46%E6%88%90%E5%89%B5%E6%96%B0%E9%AB%98-075413744.html
 
-【政策補助】1 則  🟡單篇
-  ▸ Strand bookstore to pay nearly $1.5 million over Covid loan 
-    https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html
-
-【油價上升】1 則  🟡單篇
-  ▸ JetBlue raises bag fees for third time in a year as fuel cos
-    https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html
-
-【航運運價上升】1 則  🟡單篇
+【航運運價上升】2 則  🟢高信心
+  ▸ TORM GAAP EPS of $1.91, revenue of $499M beats by $143.39M; 
+    https://seekingalpha.com/news/4664492-torm-gaap-eps-of-191-revenue-of-499m-beats-by-14339m-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
   ▸ 捷迅前3季賺贏去年全年　空運強勁海運有撐
     https://money.udn.com/money/story/5612/9856836
 
+【通膨上升】2 則  🟢高信心
+  ▸ Bottler Coca-Cola Europacific Partners flags cost pressures,
+    https://www.investing.com/news/stock-market-news/bottler-cocacolaeuropacific-partners-flags-cost-pressures-keeps-outlook-4993745
+  ▸ GSFC Q2 2026 slides: revenue jumps 50% as margins compress
+    https://www.investing.com/news/company-news/gsfc-q2-2026-slides-revenue-jumps-50-as-margins-compress-93CH-4997638
+
 ▲ 買進信號
 ────────────────────────────────
- 1. 6505.TW      +4.2  油電燃氣｜戰爭升溫、油價上升
- 2. 8917.TW      +4.2  油電燃氣｜戰爭升溫、油價上升
- 3. 2382.TW      +3.0  AI伺服器｜AI熱潮
- 4. 2356.TW      +3.0  AI伺服器｜AI熱潮
- 5. 2308.TW      +3.0  AI伺服器｜AI熱潮
- 6. 3017.TW      +3.0  AI伺服器｜AI熱潮
- 7. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 1. 2382.TW      +3.0  AI伺服器｜AI熱潮
+ 2. 2356.TW      +3.0  AI伺服器｜AI熱潮
+ 3. 2308.TW      +3.0  AI伺服器｜AI熱潮
+ 4. 3017.TW      +3.0  AI伺服器｜AI熱潮
+ 5. 6669.TWO     +3.0  AI伺服器｜AI熱潮
+ 6. 2603.TW      +3.0  交通運輸及航運｜航運運價上升
+ 7. 2609.TW      +3.0  交通運輸及航運｜航運運價上升
+ 8. 2615.TW      +3.0  交通運輸及航運｜航運運價上升
+ 9. 2618.TW      +3.0  交通運輸及航運｜航運運價上升
+10. 3576.TWO     +2.5  綠能｜政策補助
 
 ▼ 賣出信號
 ────────────────────────────────
- 1. 2317.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
- 2. 2327.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
- 3. 3037.TW      -2.6  電子零組件｜景氣轉弱、航運運價上升
- 4. 2603.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
- 5. 2609.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
- 6. 2615.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
- 7. 2618.TW      -2.1  交通運輸及航運｜戰爭升溫、油價上升
- 8. 2901.TW      -2.1  休閒娛樂｜戰爭升溫
- 9. 9941.TW      -2.1  休閒娛樂｜戰爭升溫
+ 1. 2317.TW      -5.5  電子零組件｜景氣轉弱、航運運價上升
+ 2. 2327.TW      -5.5  電子零組件｜景氣轉弱、航運運價上升
+ 3. 3037.TW      -5.5  電子零組件｜景氣轉弱、航運運價上升
 
 ────────────────────────────────
 ⚠️ 本報告為自動掃描，僅供參考，不構成投資建議
